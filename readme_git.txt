@@ -13,6 +13,6 @@ http://www.smisioto.eu/elettronica/kicad
 
 Walter Lain - kcswalter@tiscali.it
 
-Note 1: the GIT repository is also accessible at http://www.smisioto.eu/gitweb.cgi
+Note 1: the GIT repository is accessible either with "git clone git://smisioto.eu/kicad_libs.git" or at http://www.smisioto.eu/gitweb.cgi
 Note 2: there is also an SVN repository with the compressed libraries, if you have bandwith problems. You can access it either with 
-        svn --username guest co svn://smisioto.eu/kicad_libs or at http://www.smisioto.eu/kicad_libs/
+        "svn --username guest co svn://smisioto.eu/kicad_libs" or at http://www.smisioto.eu/kicad_libs/
