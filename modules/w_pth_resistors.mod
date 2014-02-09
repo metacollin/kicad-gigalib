@@ -1,0 +1,2887 @@
+PCBNEW-LibModule-V1  sab 22 giu 2013 10:50:08 CEST
+# encoding utf-8
+Units mm
+$INDEX
+R12x5.2
+R12x5.2_vert
+R13.5x6
+R13.5x6_vert
+R15.5x6
+R15.5x6_vert
+R22x8
+R22x8_vert
+R25x8
+R25x8_vert
+RC03
+RC05
+RC07
+r-sil_10
+r-sil_11
+r-sil_12
+r-sil_13
+r-sil_14
+r-sil_4
+r-sil_5
+r-sil_6
+r-sil_7
+r-sil_8
+r-sil_9
+rc03_vert
+rc05_vert
+rc07_vert
+rc_vert_26x14x10
+trimmer_alps-rk09k1130ah1
+trimmer_alps_rk12l12c0-f15-c0
+trimmer_alps_rk12l12c0-f20-c0
+trimmer_alps_rk12l12c0-f25-c0
+trimmer_alps_rk12l12c0-f30-c0
+trimmer_bourns_3005
+trimmer_bourns_3006p
+trimmer_bourns_3006w
+trimmer_bourns_3006y
+trimmer_bourns_3009p
+trimmer_bourns_3009y
+trimmer_bourns_3250w
+trimmer_diplohm_p91
+trimmer_diplohm_p92
+trimmer_diplohm_p94
+trimmer_diplohm_p95
+trimmer_diplohm_p97
+trimmer_ecp_ca9-h2,5
+trimmer_ecp_ca9-v10
+trimmer_piher_pt15xh05
+trimmer_piher_pt15xvx2
+trimmer_piher_pt6xh
+trimmer_piher_pt6xv
+trimmer_vishay_64w
+$EndINDEX
+$MODULE R12x5.2
+Po 0 0 0 15 4E4A3DC6 00000000 ~~
+Li R12x5.2
+Cd Resistor, 12x5.2 mm
+Kw R
+Sc 0
+AR 
+Op 0 A 0
+T0 0.127 -1.016 1.397 1.27 0 0.2032 N V 21 N "R***"
+T1 0 1.016 1.397 1.27 0 0.2032 N I 21 N "R12x5.2"
+DS -6.4008 -2.90068 -6.4008 2.90068 0.254 21
+DS -6.4008 2.90068 6.4008 2.90068 0.254 21
+DS 6.4008 2.90068 6.4008 -2.90068 0.254 21
+DS 6.4008 -2.90068 -6.4008 -2.90068 0.254 21
+DS 6.4516 0 9.20242 0 0.254 21
+DS -6.4516 0 -9.20242 0 0.254 21
+$PAD
+Sh "1" C 2.99974 2.99974 0 0 0
+Dr 1.00076 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 0
+$EndPAD
+$PAD
+Sh "2" C 2.99974 2.99974 0 0 0
+Dr 1.00076 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r12x5.2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE R12x5.2
+$MODULE R12x5.2_vert
+Po 0 0 0 15 4E4A46F0 00000000 ~~
+Li R12x5.2_vert
+Cd Resistor, 12x5.2 mm, vertical
+Kw R
+Sc 0
+AR 
+Op 0 A 0
+T0 0 -4.0005 1.397 1.27 0 0.2032 N V 21 N "R***"
+T1 0 4.39928 1.397 1.27 0 0.2032 N I 21 N "R12x5.2_vert"
+DS 0 0 5.10032 0 0.254 21
+DC 0 0 -3.0988 0 0.254 21
+$PAD
+Sh "1" C 2.99974 2.99974 0 0 0
+Dr 1.00076 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "2" C 2.99974 2.99974 0 0 0
+Dr 1.00076 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r12x5.2vert.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE R12x5.2_vert
+$MODULE R13.5x6
+Po 0 0 0 15 4E4A3E4A 00000000 ~~
+Li R13.5x6
+Cd Resistor, 13.5x6 mm
+Kw R
+Sc 0
+AR 
+Op 0 A 0
+T0 0.127 -1.016 1.397 1.27 0 0.2032 N V 21 N "R***"
+T1 0 1.016 1.397 1.27 0 0.2032 N I 21 N "R13.5x6"
+DS -7.2009 -3.29946 7.2009 -3.29946 0.254 21
+DS 7.2009 -3.29946 7.2009 3.29946 0.254 21
+DS 7.2009 3.29946 -7.2009 3.29946 0.254 21
+DS -7.2009 3.29946 -7.2009 -3.29946 0.254 21
+DS 7.2517 0 10.00252 0 0.254 21
+DS -7.2517 0 -10.00252 0 0.254 21
+$PAD
+Sh "1" C 2.99974 2.99974 0 0 0
+Dr 1.00076 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 0
+$EndPAD
+$PAD
+Sh "2" C 2.99974 2.99974 0 0 0
+Dr 1.00076 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r13.5x6.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE R13.5x6
+$MODULE R13.5x6_vert
+Po 0 0 0 15 4E4A4A13 00000000 ~~
+Li R13.5x6_vert
+Cd Resistor, 13.5x6 mm, vertical
+Kw R
+Sc 0
+AR 
+Op 0 A 0
+T0 0 -4.50088 1.397 1.27 0 0.2032 N V 21 N "R***"
+T1 0 4.89966 1.397 1.27 0 0.2032 N I 21 N "R13.5x6_vert"
+DS 0 0 5.69976 0 0.254 21
+DC 0 0 -3.50012 0 0.254 21
+$PAD
+Sh "1" C 2.99974 2.99974 0 0 0
+Dr 1.00076 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "2" C 2.99974 2.99974 0 0 0
+Dr 1.00076 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.715 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r13.5x6vert.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE R13.5x6_vert
+$MODULE R15.5x6
+Po 0 0 0 15 5156D54B 00000000 ~~
+Li R15.5x6
+Cd Resistor, 15.5x6 mm
+Kw R
+Sc 0
+AR R15.5x6
+Op 0 A 0
+T0 0.127 -1.016 1.397 1.27 0 0.2032 N V 21 N "R***"
+T1 0 1.016 1.397 1.27 0 0.2032 N I 21 N "R15.5x6"
+DS 8.24992 0 11.00074 0 0.254 21
+DS -8.24992 0 -11.00074 0 0.254 21
+DS -8.24992 -3.50012 -8.24992 3.50012 0.254 21
+DS -8.24992 3.50012 8.24992 3.50012 0.254 21
+DS 8.24992 3.50012 8.24992 -3.50012 0.254 21
+DS 8.24992 -3.50012 -8.24992 -3.50012 0.254 21
+$PAD
+Sh "1" C 2.9972 2.9972 0 0 0
+Dr 1.19888 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.0109 0
+$EndPAD
+$PAD
+Sh "2" C 2.9972 2.9972 0 0 0
+Dr 1.19888 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.01344 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r15.5x6.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE R15.5x6
+$MODULE R15.5x6_vert
+Po 0 0 0 15 5156D55A 00000000 ~~
+Li R15.5x6_vert
+Cd Resistor, 15.5x6 mm, vertical
+Kw R
+Sc 0
+AR R15.5x6_vert
+Op 0 A 0
+T0 0 -4.50088 1.397 1.27 0 0.2032 N V 21 N "R***"
+T1 0 4.89966 1.397 1.27 0 0.2032 N I 21 N "R15.5x6_vert"
+DS 0 0 5.69976 0 0.254 21
+DC 0 0 -3.50012 0 0.254 21
+$PAD
+Sh "1" C 2.9972 2.9972 0 0 0
+Dr 1.19888 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "2" C 2.9972 2.9972 0 0 0
+Dr 1.19888 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.715 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r15.5x6vert.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE R15.5x6_vert
+$MODULE R22x8
+Po 0 0 0 15 5156D52C 00000000 ~~
+Li R22x8
+Cd Resistor, 22x8 mm
+Kw R
+Sc 0
+AR R22x8
+Op 0 A 0
+T0 0.127 -1.016 1.397 1.27 0 0.2032 N V 21 N "R***"
+T1 0 1.016 1.397 1.27 0 0.2032 N I 21 N "R22x8"
+DS -11.80084 -4.39928 11.80084 -4.39928 0.254 21
+DS 11.80084 -4.39928 11.80084 4.39928 0.254 21
+DS 11.80084 4.39928 -11.80084 4.39928 0.254 21
+DS -11.80084 4.39928 -11.80084 -4.39928 0.254 21
+DS 11.85164 0 14.60246 0 0.254 21
+DS -11.85164 0 -14.60246 0 0.254 21
+$PAD
+Sh "1" C 2.9972 2.9972 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14.605 0
+$EndPAD
+$PAD
+Sh "2" C 2.9972 2.9972 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14.605 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r22x8.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE R22x8
+$MODULE R22x8_vert
+Po 0 0 0 15 5156D537 00000000 ~~
+Li R22x8_vert
+Cd Resistor, 22x8 mm, vertical
+Kw R
+Sc 0
+AR R22x8_vert
+Op 0 A 0
+T0 0 -5.99948 1.397 1.27 0 0.2032 N V 21 N "R***"
+T1 0 6.20014 1.397 1.27 0 0.2032 N I 21 N "R22x8_vert"
+DS 0 0 8.30072 0 0.254 21
+DC 0 0 -5.00126 0 0.254 21
+$PAD
+Sh "1" C 2.9972 2.9972 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "2" C 2.9972 2.9972 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.255 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r22x8vert.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE R22x8_vert
+$MODULE R25x8
+Po 0 0 0 15 5156D4F1 00000000 ~~
+Li R25x8
+Cd Resistor, 25x8 mm
+Kw R
+Sc 0
+AR R25x8
+Op 0 A 0
+T0 0.127 -1.016 1.397 1.27 0 0.2032 N V 21 N "R***"
+T1 0 1.016 1.397 1.27 0 0.2032 N I 21 N "R25x8"
+DS -13.29944 -4.39928 13.29944 -4.39928 0.254 21
+DS 13.29944 -4.39928 13.29944 4.39928 0.254 21
+DS 13.29944 4.39928 -13.29944 4.39928 0.254 21
+DS -13.29944 4.39928 -13.29944 -4.39928 0.254 21
+DS 13.35024 0 16.10106 0 0.254 21
+DS -13.35278 0 -16.1036 0 0.254 21
+$PAD
+Sh "1" C 2.9972 2.9972 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.875 0
+$EndPAD
+$PAD
+Sh "2" C 2.9972 2.9972 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.875 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r25x8.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE R25x8
+$MODULE R25x8_vert
+Po 0 0 0 15 5156D4FB 00000000 ~~
+Li R25x8_vert
+Cd Resistor, 25x8 mm, vertical
+Kw R
+Sc 0
+AR R25x8_vert
+Op 0 A 0
+T0 0 -5.99948 1.397 1.27 0 0.2032 N V 21 N "R***"
+T1 0 6.20014 1.397 1.27 0 0.2032 N I 21 N "R25x8_vert"
+DS 0 0 8.30072 0 0.254 21
+DC 0 0 -5.00126 0 0.254 21
+$PAD
+Sh "1" C 2.9972 2.9972 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "2" C 2.9972 2.9972 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.255 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r25x8vert.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE R25x8_vert
+$MODULE RC03
+Po 0 0 0 15 4B90E175 00000000 ~~
+Li RC03
+Cd Resistor, RC03
+Kw R
+Sc 0
+AR 
+Op 0 A 0
+T0 0 0 1.397 1.27 0 0.2032 N V 21 N "RC03"
+T1 0 2.032 1.397 1.27 0 0.2032 N I 21 N "R***"
+DS 2.159 0 3.81 0 0.254 21
+DS -2.159 0 -3.81 0 0.254 21
+DS -2.159 -0.889 -2.159 0.889 0.254 21
+DS -2.159 0.889 2.159 0.889 0.254 21
+DS 2.159 0.889 2.159 -0.889 0.254 21
+DS 2.159 -0.889 -2.159 -0.889 0.254 21
+$PAD
+Sh "1" C 1.99898 1.99898 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "2" C 1.99898 1.99898 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/rc03.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE RC03
+$MODULE RC05
+Po 0 0 0 15 4B90E162 00000000 ~~
+Li RC05
+Cd Resistor, RC05
+Kw R
+Sc 0
+AR 
+Op 0 A 0
+T0 0 0 1.397 1.27 0 0.2032 N V 21 N "RC05"
+T1 0 2.032 1.397 1.27 0 0.2032 N I 21 N "R***"
+DS 4.572 1.27 -4.572 1.27 0.254 21
+DS -4.572 1.27 -4.572 -1.27 0.254 21
+DS -4.572 -1.27 4.572 -1.27 0.254 21
+DS 4.572 -1.27 4.572 1.27 0.254 21
+DS -5.08 0 -4.572 0 0.3048 21
+DS 5.08 0 4.572 0 0.3048 21
+$PAD
+Sh "1" C 1.99898 1.99898 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 0
+$EndPAD
+$PAD
+Sh "2" C 1.99898 1.99898 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/rc05.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE RC05
+$MODULE RC07
+Po 0 0 0 15 4B90E153 00000000 ~~
+Li RC07
+Cd Resistor, RC07
+Kw R
+Sc 0
+AR 
+Op 0 A 0
+T0 0.127 -1.016 1.397 1.27 0 0.2032 N V 21 N "RC07"
+T1 0 1.016 1.397 1.27 0 0.2032 N I 21 N "R***"
+DS -5.461 0 -5.461 -2.032 0.254 21
+DS -5.461 -2.032 5.461 -2.032 0.254 21
+DS 5.461 -2.032 5.461 2.032 0.254 21
+DS 5.461 2.032 -5.461 2.032 0.254 21
+DS -5.461 2.032 -5.461 0 0.254 21
+DS 5.461 0 7.62 0 0.254 21
+DS -7.62 0 -5.461 0 0.254 21
+$PAD
+Sh "1" C 1.99898 1.99898 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 0
+$EndPAD
+$PAD
+Sh "2" C 1.99898 1.99898 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/rc07.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE RC07
+$MODULE r-sil_10
+Po 0 0 0 15 5156CCBA 00000000 ~~
+Li r-sil_10
+Cd R-net, sil package, 10pin
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.159 1.016 1.016 0 0.2032 N V 21 N "R-SIL_10"
+T1 0.254 -3.556 1.016 0.889 0 0.2032 N I 21 N "RN***"
+DS -12.7 -1.27 12.7 -1.27 0.3175 21
+DS 12.7 1.27 -12.7 1.27 0.3175 21
+DS -12.7 -1.27 -12.7 1.27 0.3048 21
+DS 12.7 -1.27 12.7 1.27 0.3175 21
+DS -10.16 1.27 -10.16 -1.27 0.3048 21
+$PAD
+Sh "1" R 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 0
+$EndPAD
+$PAD
+Sh "2" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 0
+$EndPAD
+$PAD
+Sh "3" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 0
+$EndPAD
+$PAD
+Sh "4" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "5" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "6" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "7" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$PAD
+Sh "8" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 0
+$EndPAD
+$PAD
+Sh "9" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 0
+$EndPAD
+$PAD
+Sh "10" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r-sil_10.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE r-sil_10
+$MODULE r-sil_11
+Po 0 0 0 15 5156CEF6 00000000 ~~
+Li r-sil_11
+Cd R-net, sil package, 11pin
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.159 1.016 1.016 0 0.2032 N V 21 N "R-SIL_11"
+T1 0.254 -3.556 1.016 0.889 0 0.2032 N I 21 N "RN***"
+DS -13.97 -1.27 -13.97 1.27 0.3048 21
+DS -13.97 -1.27 13.97 -1.27 0.3048 21
+DS 13.97 -1.27 13.97 1.27 0.3048 21
+DS 13.97 1.27 -13.97 1.27 0.3048 21
+DS -11.43 1.27 -11.43 -1.27 0.3048 21
+$PAD
+Sh "1" R 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 0
+$EndPAD
+$PAD
+Sh "2" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 0
+$EndPAD
+$PAD
+Sh "3" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 0
+$EndPAD
+$PAD
+Sh "4" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 0
+$EndPAD
+$PAD
+Sh "5" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$PAD
+Sh "6" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "7" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "8" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$PAD
+Sh "9" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 0
+$EndPAD
+$PAD
+Sh "10" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 0
+$EndPAD
+$PAD
+Sh "11" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r-sil_11.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE r-sil_11
+$MODULE r-sil_12
+Po 0 0 0 15 5156CD57 00000000 ~~
+Li r-sil_12
+Cd R-net, sil package, 12pin
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.159 1.016 1.016 0 0.2032 N V 21 N "R-SIL_12"
+T1 0.254 -3.556 1.016 0.889 0 0.2032 N I 21 N "RN***"
+DS -15.24 -1.27 15.24 -1.27 0.3175 21
+DS 15.24 1.27 -15.24 1.27 0.3175 21
+DS -12.7 -1.27 -12.7 1.27 0.3048 21
+DS 15.24 -1.27 15.24 1.27 0.3175 21
+DS -15.24 1.27 -15.24 -1.27 0.3048 21
+$PAD
+Sh "1" R 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 0
+$EndPAD
+$PAD
+Sh "2" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 0
+$EndPAD
+$PAD
+Sh "3" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 0
+$EndPAD
+$PAD
+Sh "4" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 0
+$EndPAD
+$PAD
+Sh "5" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "6" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "7" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "8" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$PAD
+Sh "9" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 0
+$EndPAD
+$PAD
+Sh "10" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 0
+$EndPAD
+$PAD
+Sh "11" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 0
+$EndPAD
+$PAD
+Sh "12" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r-sil_12.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE r-sil_12
+$MODULE r-sil_13
+Po 0 0 0 15 5156D4AF 00000000 ~~
+Li r-sil_13
+Cd R-net, sil package, 13pin
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.159 1.016 1.016 0 0.2032 N V 21 N "R-SIL_13"
+T1 0.254 -3.556 1.016 0.889 0 0.2032 N I 21 N "RN***"
+DS -13.97 -1.27 -13.97 1.27 0.3048 21
+DS -16.51 -1.27 16.51 -1.27 0.3048 21
+DS 16.51 -1.27 16.51 1.27 0.3048 21
+DS 16.51 1.27 -16.51 1.27 0.3048 21
+DS -16.51 1.27 -16.51 -1.27 0.3048 21
+$PAD
+Sh "1" R 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.24 0
+$EndPAD
+$PAD
+Sh "2" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 0
+$EndPAD
+$PAD
+Sh "3" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 0
+$EndPAD
+$PAD
+Sh "4" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 0
+$EndPAD
+$PAD
+Sh "5" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 0
+$EndPAD
+$PAD
+Sh "6" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$PAD
+Sh "7" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "8" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "9" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$PAD
+Sh "10" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 0
+$EndPAD
+$PAD
+Sh "11" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 0
+$EndPAD
+$PAD
+Sh "12" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 0
+$EndPAD
+$PAD
+Sh "13" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r-sil_13.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE r-sil_13
+$MODULE r-sil_14
+Po 0 0 0 15 5156CDE4 00000000 ~~
+Li r-sil_14
+Cd R-net, sil package, 14pin
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.159 1.016 1.016 0 0.2032 N V 21 N "R-SIL_14"
+T1 0.254 -3.556 1.016 0.889 0 0.2032 N I 21 N "RN***"
+DS -17.78 -1.27 17.78 -1.27 0.3175 21
+DS 17.78 1.27 -17.78 1.27 0.3175 21
+DS -17.78 -1.27 -17.78 1.27 0.3048 21
+DS 17.78 -1.27 17.78 1.27 0.3175 21
+DS -15.24 1.27 -15.24 -1.27 0.3048 21
+$PAD
+Sh "1" R 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 0
+$EndPAD
+$PAD
+Sh "2" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 0
+$EndPAD
+$PAD
+Sh "3" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 0
+$EndPAD
+$PAD
+Sh "4" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 0
+$EndPAD
+$PAD
+Sh "5" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 0
+$EndPAD
+$PAD
+Sh "6" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "7" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "8" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "9" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$PAD
+Sh "10" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 0
+$EndPAD
+$PAD
+Sh "11" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 0
+$EndPAD
+$PAD
+Sh "12" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 0
+$EndPAD
+$PAD
+Sh "13" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 0
+$EndPAD
+$PAD
+Sh "14" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r-sil_14.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE r-sil_14
+$MODULE r-sil_4
+Po 0 0 0 15 5156C5C9 00000000 ~~
+Li r-sil_4
+Cd R-net, sil package, 4pin
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.159 1.016 1.016 0 0.2032 N V 21 N "R-SIL_4"
+T1 0.254 -3.556 1.016 0.889 0 0.2032 N I 21 N "RN***"
+DS -5.08 -1.27 5.08 -1.27 0.3175 21
+DS 5.08 1.27 -5.08 1.27 0.3175 21
+DS -2.54 -1.27 -2.54 1.27 0.3048 21
+DS 5.08 -1.27 5.08 1.27 0.3175 21
+DS -5.08 1.27 -5.08 -1.27 0.3048 21
+$PAD
+Sh "1" R 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "2" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "3" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "4" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r-sil_4.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE r-sil_4
+$MODULE r-sil_5
+Po 0 0 0 15 4B90E192 00000000 ~~
+Li r-sil_5
+Cd R-net, sil package, 5pin
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.159 1.016 1.016 0 0.2032 N V 21 N "R-SIL_5"
+T1 0.254 -3.556 1.016 0.889 0 0.2032 N I 21 N "RN***"
+DS -6.35 -1.27 6.35 -1.27 0.3175 21
+DS 6.35 1.27 -6.35 1.27 0.3175 21
+DS -3.81 -1.27 -3.81 1.27 0.3048 21
+DS 6.35 -1.27 6.35 1.27 0.3175 21
+DS -6.35 1.27 -6.35 -1.27 0.3048 21
+$PAD
+Sh "1" R 1.524 2.19964 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 0
+$EndPAD
+$PAD
+Sh "2" O 1.524 2.19964 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$PAD
+Sh "3" O 1.524 2.19964 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "4" O 1.524 2.19964 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "5" O 1.524 2.19964 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r-sil_5.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE r-sil_5
+$MODULE r-sil_6
+Po 0 0 0 15 5156C8FF 00000000 ~~
+Li r-sil_6
+Cd R-net, sil package, 6pin
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.159 1.016 1.016 0 0.2032 N V 21 N "R-SIL_6"
+T1 0.254 -3.556 1.016 0.889 0 0.2032 N I 21 N "RN***"
+DS -7.62 -1.27 7.62 -1.27 0.3175 21
+DS 7.62 1.27 -7.62 1.27 0.3175 21
+DS -5.08 -1.27 -5.08 1.27 0.3048 21
+DS 7.62 -1.27 7.62 1.27 0.3175 21
+DS -7.62 1.27 -7.62 -1.27 0.3048 21
+$PAD
+Sh "1" R 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 0
+$EndPAD
+$PAD
+Sh "2" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "3" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "4" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "5" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$PAD
+Sh "6" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r-sil_6.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE r-sil_6
+$MODULE r-sil_7
+Po 0 0 0 15 5156C885 00000000 ~~
+Li r-sil_7
+Cd R-net, sil package, 7pin
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.159 1.016 1.016 0 0.2032 N V 21 N "R-SIL_7"
+T1 0.254 -3.556 1.016 0.889 0 0.2032 N I 21 N "RN***"
+DS -8.89 -1.27 8.89 -1.27 0.3175 21
+DS 8.89 1.27 -8.89 1.27 0.3175 21
+DS -6.35 -1.27 -6.35 1.27 0.3048 21
+DS 8.89 -1.27 8.89 1.27 0.3175 21
+DS -8.89 1.27 -8.89 -1.27 0.3048 21
+$PAD
+Sh "1" R 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 0
+$EndPAD
+$PAD
+Sh "2" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 0
+$EndPAD
+$PAD
+Sh "3" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$PAD
+Sh "4" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "5" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "6" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$PAD
+Sh "7" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r-sil_7.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE r-sil_7
+$MODULE r-sil_8
+Po 0 0 0 15 5156C9DC 00000000 ~~
+Li r-sil_8
+Cd R-net, sil package, 8pin
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.159 1.016 1.016 0 0.2032 N V 21 N "R-SIL_8"
+T1 0.254 -3.556 1.016 0.889 0 0.2032 N I 21 N "RN***"
+DS -10.16 -1.27 10.16 -1.27 0.3175 21
+DS 10.16 1.27 -10.16 1.27 0.3175 21
+DS -7.62 -1.27 -7.62 1.27 0.3048 21
+DS 10.16 -1.27 10.16 1.27 0.3175 21
+DS -10.16 1.27 -10.16 -1.27 0.3048 21
+$PAD
+Sh "1" R 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 0
+$EndPAD
+$PAD
+Sh "2" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 0
+$EndPAD
+$PAD
+Sh "3" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "4" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "5" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "6" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$PAD
+Sh "7" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 0
+$EndPAD
+$PAD
+Sh "8" O 1.524 2.1971 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r-sil_8.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE r-sil_8
+$MODULE r-sil_9
+Po 0 0 0 15 4B90E183 00000000 ~~
+Li r-sil_9
+Cd R-net, sil package, 9pin
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.159 1.016 1.016 0 0.2032 N V 21 N "R-SIL_9"
+T1 0.254 -3.556 1.016 0.889 0 0.2032 N I 21 N "RN***"
+DS -8.89 -1.27 -8.89 1.27 0.3048 21
+DS -11.43 -1.27 11.43 -1.27 0.3048 21
+DS 11.43 -1.27 11.43 1.27 0.3048 21
+DS 11.43 1.27 -11.43 1.27 0.3048 21
+DS -11.43 1.27 -11.43 -1.27 0.3048 21
+$PAD
+Sh "1" R 1.524 2.19964 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 0
+$EndPAD
+$PAD
+Sh "2" O 1.524 2.19964 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 0
+$EndPAD
+$PAD
+Sh "3" O 1.524 2.19964 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 0
+$EndPAD
+$PAD
+Sh "4" O 1.524 2.19964 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$PAD
+Sh "5" O 1.524 2.19964 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "6" O 1.524 2.19964 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "7" O 1.524 2.19964 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$PAD
+Sh "8" O 1.524 2.19964 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 0
+$EndPAD
+$PAD
+Sh "9" O 1.524 2.19964 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/r-sil_9.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE r-sil_9
+$MODULE rc03_vert
+Po 0 0 0 15 4B90E169 00000000 ~~
+Li rc03_vert
+Cd Resistor, RC03 vertical
+Sc 0
+AR 
+Op 0 0 0
+T0 0 2.54 1.524 1.524 0 0.3048 N V 21 N "RC03_vert"
+T1 0 -2.54 1.524 1.524 0 0.3048 N V 21 N "R***"
+DC -1.27 0 -2.159 0 0.3048 21
+DS -1.27 0 1.27 0 0.254 21
+$PAD
+Sh "1" C 1.99898 1.99898 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "2" C 1.99898 1.99898 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/rc03vert.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE rc03_vert
+$MODULE rc05_vert
+Po 0 0 0 15 4B90E15B 00000000 ~~
+Li rc05_vert
+Cd Resistor, RC05 vertical
+Sc 0
+AR 
+Op 0 0 0
+T0 0 2.54 1.524 1.524 0 0.3048 N V 21 N "RC05_vert"
+T1 0 -2.54 1.524 1.524 0 0.3048 N V 21 N "R***"
+DS -1.27 0 1.27 0 0.254 21
+DC -1.27 0 0 0 0.254 21
+$PAD
+Sh "1" C 1.99898 1.99898 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "2" C 1.99898 1.99898 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/rc05vert.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE rc05_vert
+$MODULE rc07_vert
+Po 0 0 0 15 4B90E14B 00000000 ~~
+Li rc07_vert
+Cd Resistor, RC07 vertical
+Sc 0
+AR 
+Op 0 0 0
+T0 0 3.556 1.524 1.524 0 0.3048 N V 21 N "RC07_vert"
+T1 0 -3.556 1.524 1.524 0 0.3048 N V 21 N "R***"
+DS 1.905 0 -1.905 0 0.3048 21
+DC -1.905 0 -3.937 0.127 0.3048 21
+$PAD
+Sh "1" C 1.99898 1.99898 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.905 0
+$EndPAD
+$PAD
+Sh "2" C 1.99898 1.99898 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.905 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/rc07vert.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE rc07_vert
+$MODULE rc_vert_26x14x10
+Po 0 0 0 15 4B90E141 00000000 ~~
+Li rc_vert_26x14x10
+Cd ceramic power resistor, vertical, 26,5mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -7.62 1.524 1.524 0 0.3048 N V 21 N "rc_vert_26x14x10"
+T1 0 7.62 1.524 1.524 0 0.3048 N V 21 N "R***"
+DS 6.096 -5.08 6.096 5.08 0.254 21
+DS -6.096 -5.08 -6.096 5.08 0.254 21
+DS 7.112 -5.08 -7.112 -5.08 0.254 21
+DS -7.112 -5.08 -7.112 5.08 0.254 21
+DS -7.112 5.08 7.112 5.08 0.254 21
+DS 7.112 5.08 7.112 -5.08 0.254 21
+$PAD
+Sh "1" C 2.99974 2.99974 0 0 0
+Dr 1.00076 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "2" C 2.99974 2.99974 0 0 0
+Dr 1.00076 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/rc_vert_26x14x10.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE rc_vert_26x14x10
+$MODULE trimmer_alps-rk09k1130ah1
+Po 0 0 0 15 51BC6011 00000000 ~~
+Li trimmer_alps-rk09k1130ah1
+Cd 9mm trimmer, Alps RK09K1130AH1
+Kw trimmer
+Sc 0
+AR 
+Op 0 A 0
+T0 0 9.99998 1.50114 1.50114 0 0.20066 N V 21 N "trimmer_alps-rk09k1130ah1"
+T1 0 -7.80034 1.50114 1.50114 0 0.20066 N V 21 N "E***"
+DS 4.9 -5.5 4.9 6.5 0.381 21
+DS -4.9 6.5 -4.9 -5.5 0.381 21
+DS -4.9 6.5 4.9 6.5 0.381 21
+DS -4.9 -5.5 4.9 -5.5 0.381 21
+DC 3.8 4.4 4.2 4.4 0.381 21
+DC -3.8 4.4 -4.2 4.4 0.381 21
+DC 3.8 -4.4 3.4 -4.4 0.381 21
+DC -3.8 -4.4 -4.2 -4.4 0.381 21
+DS -2.60096 -1.50114 2.60096 -1.50114 0.381 21
+DC 0 0 -2.99974 0 0.381 21
+DC 0 0 -3.40106 0 0.381 21
+$PAD
+Sh "1" O 1.5 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.5 7
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 7
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.5 7
+$EndPAD
+$PAD
+Sh "" C 3.5 3.5 0 0 0
+Dr 2.2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4.8 0
+$EndPAD
+$PAD
+Sh "" C 3.5 3.5 0 0 0
+Dr 2.2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4.8 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_alps-rk09k1130ah1.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_alps-rk09k1130ah1
+$MODULE trimmer_alps_rk12l12c0-f15-c0
+Po 0 0 0 15 51C56359 00000000 ~~
+Li trimmer_alps_rk12l12c0-f15-c0
+Cd 12mm dual trimmer, Alps RK12L12C0-F15-C0
+Kw trimmer
+Sc 0
+AR 
+Op 0 A 0
+T0 0 13.3 1.50114 1.50114 0 0.20066 N V 21 N "trimmer_alps_rk12l12c0-f15-c0"
+T1 0 -7.80034 1.50114 1.50114 0 0.20066 N V 21 N "E***"
+DS 6.5 9.5 6.5 6 0.381 21
+DS 6.5 6 6 6 0.381 21
+DS -6 6 -6.5 6 0.381 21
+DS -6.5 6 -6.5 9.5 0.381 21
+DS 6 -6 6 6 0.381 21
+DS -6 -6 -6 6 0.381 21
+DS -6.5 9.5 6.5 9.5 0.381 21
+DS -6 -6 6 -6 0.381 21
+DS -2.60096 -1.50114 2.60096 -1.50114 0.381 21
+DC 0 0 -2.99974 0 0.381 21
+DC 0 0 -3.40106 0 0.381 21
+$PAD
+Sh "1" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 11
+$EndPAD
+$PAD
+Sh "2" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 11
+$EndPAD
+$PAD
+Sh "3" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 11
+$EndPAD
+$PAD
+Sh "" C 3.5 3.5 0 0 0
+Dr 2.2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.9 0
+$EndPAD
+$PAD
+Sh "" C 3.5 3.5 0 0 0
+Dr 2.2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.9 0
+$EndPAD
+$PAD
+Sh "5" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 11
+$EndPAD
+$PAD
+Sh "6" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 11
+$EndPAD
+$PAD
+Sh "4" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 11
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_alps-rk12l12c0-f15-c0.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_alps_rk12l12c0-f15-c0
+$MODULE trimmer_alps_rk12l12c0-f20-c0
+Po 0 0 0 15 51C56359 00000000 ~~
+Li trimmer_alps_rk12l12c0-f20-c0
+Cd 12mm dual trimmer, Alps RK12L12C0-F20-C0
+Kw trimmer
+Sc 0
+AR 
+Op 0 A 0
+T0 0 13.3 1.50114 1.50114 0 0.20066 N V 21 N "trimmer_alps_rk12l12c0-f20-c0"
+T1 0 -7.80034 1.50114 1.50114 0 0.20066 N V 21 N "E***"
+DS 6.5 9.5 6.5 6 0.381 21
+DS 6.5 6 6 6 0.381 21
+DS -6 6 -6.5 6 0.381 21
+DS -6.5 6 -6.5 9.5 0.381 21
+DS 6 -6 6 6 0.381 21
+DS -6 -6 -6 6 0.381 21
+DS -6.5 9.5 6.5 9.5 0.381 21
+DS -6 -6 6 -6 0.381 21
+DS -2.60096 -1.50114 2.60096 -1.50114 0.381 21
+DC 0 0 -2.99974 0 0.381 21
+DC 0 0 -3.40106 0 0.381 21
+$PAD
+Sh "1" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 11
+$EndPAD
+$PAD
+Sh "2" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 11
+$EndPAD
+$PAD
+Sh "3" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 11
+$EndPAD
+$PAD
+Sh "" C 3.5 3.5 0 0 0
+Dr 2.2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.9 0
+$EndPAD
+$PAD
+Sh "" C 3.5 3.5 0 0 0
+Dr 2.2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.9 0
+$EndPAD
+$PAD
+Sh "5" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 11
+$EndPAD
+$PAD
+Sh "6" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 11
+$EndPAD
+$PAD
+Sh "4" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 11
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_alps-rk12l12c0-f20-c0.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_alps_rk12l12c0-f20-c0
+$MODULE trimmer_alps_rk12l12c0-f25-c0
+Po 0 0 0 15 51C564FB 00000000 ~~
+Li trimmer_alps_rk12l12c0-f25-c0
+Cd 12mm dual trimmer, Alps RK12L12C0-F25-C0
+Kw trimmer
+Sc 0
+AR 
+Op 0 A 0
+T0 0 13.3 1.50114 1.50114 0 0.20066 N V 21 N "trimmer_alps_rk12l12c0-f25-c0"
+T1 0 -7.80034 1.50114 1.50114 0 0.20066 N V 21 N "E***"
+DS 6.5 9.5 6.5 6 0.381 21
+DS 6.5 6 6 6 0.381 21
+DS -6 6 -6.5 6 0.381 21
+DS -6.5 6 -6.5 9.5 0.381 21
+DS 6 -6 6 6 0.381 21
+DS -6 -6 -6 6 0.381 21
+DS -6.5 9.5 6.5 9.5 0.381 21
+DS -6 -6 6 -6 0.381 21
+DS -2.60096 -1.50114 2.60096 -1.50114 0.381 21
+DC 0 0 -2.99974 0 0.381 21
+DC 0 0 -3.40106 0 0.381 21
+$PAD
+Sh "1" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 11
+$EndPAD
+$PAD
+Sh "2" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 11
+$EndPAD
+$PAD
+Sh "3" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 11
+$EndPAD
+$PAD
+Sh "" C 3.5 3.5 0 0 0
+Dr 2.2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.9 0
+$EndPAD
+$PAD
+Sh "" C 3.5 3.5 0 0 0
+Dr 2.2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.9 0
+$EndPAD
+$PAD
+Sh "5" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 11
+$EndPAD
+$PAD
+Sh "6" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 11
+$EndPAD
+$PAD
+Sh "4" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 11
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_alps-rk12l12c0-f25-c0.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_alps_rk12l12c0-f25-c0
+$MODULE trimmer_alps_rk12l12c0-f30-c0
+Po 0 0 0 15 51C56514 00000000 ~~
+Li trimmer_alps_rk12l12c0-f30-c0
+Cd 12mm dual trimmer, Alps RK12L12C0-F30-C0
+Kw trimmer
+Sc 0
+AR 
+Op 0 A 0
+T0 0 13.3 1.50114 1.50114 0 0.20066 N V 21 N "trimmer_alps_rk12l12c0-f30-c0"
+T1 0 -7.80034 1.50114 1.50114 0 0.20066 N V 21 N "E***"
+DS 6.5 9.5 6.5 6 0.381 21
+DS 6.5 6 6 6 0.381 21
+DS -6 6 -6.5 6 0.381 21
+DS -6.5 6 -6.5 9.5 0.381 21
+DS 6 -6 6 6 0.381 21
+DS -6 -6 -6 6 0.381 21
+DS -6.5 9.5 6.5 9.5 0.381 21
+DS -6 -6 6 -6 0.381 21
+DS -2.60096 -1.50114 2.60096 -1.50114 0.381 21
+DC 0 0 -2.99974 0 0.381 21
+DC 0 0 -3.40106 0 0.381 21
+$PAD
+Sh "1" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 11
+$EndPAD
+$PAD
+Sh "2" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 11
+$EndPAD
+$PAD
+Sh "3" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 11
+$EndPAD
+$PAD
+Sh "" C 3.5 3.5 0 0 0
+Dr 2.2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.9 0
+$EndPAD
+$PAD
+Sh "" C 3.5 3.5 0 0 0
+Dr 2.2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.9 0
+$EndPAD
+$PAD
+Sh "5" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 11
+$EndPAD
+$PAD
+Sh "6" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 11
+$EndPAD
+$PAD
+Sh "4" O 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 11
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_alps-rk12l12c0-f30-c0.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_alps_rk12l12c0-f30-c0
+$MODULE trimmer_bourns_3005
+Po 0 0 0 15 4E9E059B 00000000 ~~
+Li trimmer_bourns_3005
+Cd trimmer, multiturn, bourns 3005
+Kw trimmer
+Sc 0
+AR 
+Op 0 0 0
+T0 0 12.7 1.524 1.524 0 0.3048 N V 21 N "trimmer_bourns_3005"
+T1 0 -10.795 1.524 1.524 0 0.3048 N V 21 N "TR***"
+DS -0.508 11.049 -1.27 11.049 0.381 21
+DS -0.508 11.049 -0.508 10.287 0.381 21
+DS -0.508 10.287 0.508 10.287 0.381 21
+DS 0.508 10.287 0.508 11.049 0.381 21
+DS 0.508 11.049 1.27 11.049 0.381 21
+DS -1.27 9.525 -1.27 11.049 0.381 21
+DS 1.27 11.049 1.27 9.525 0.381 21
+DS -2.032 9.525 2.032 9.525 0.381 21
+DS 2.032 9.525 2.032 -9.525 0.381 21
+DS 2.032 -9.525 -2.032 -9.525 0.381 21
+DS -2.032 -9.525 -2.032 9.525 0.381 21
+$PAD
+Sh "1" O 1.99898 1.99898 0 0 0
+Dr 0.89916 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 -6.477
+$EndPAD
+$PAD
+Sh "2" O 1.99898 1.99898 0 0 0
+Dr 0.89916 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 1.143
+$EndPAD
+$PAD
+Sh "3" O 1.99898 1.99898 0 0 0
+Dr 0.89916 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 6.223
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_bourns_3005.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_bourns_3005
+$MODULE trimmer_bourns_3006p
+Po 0 0 0 15 4E9F1C3B 00000000 ~~
+Li trimmer_bourns_3006p
+Cd trimmer, multiturn, bourns 3006p
+Kw trimmer
+Sc 0
+AR trimmer_bourns_3005
+Op 0 0 0
+T0 0 12.7 1.524 1.524 0 0.3048 N V 21 N "trimmer_bourns_3006p"
+T1 0 -10.795 1.524 1.524 0 0.3048 N V 21 N "TR***"
+DS 2.413 -9.525 -2.413 -9.525 0.381 21
+DS 2.413 9.525 -2.413 9.525 0.381 21
+DS -2.413 9.525 -2.413 -9.525 0.381 21
+DS 2.413 -9.525 2.413 9.525 0.381 21
+DS -0.508 11.049 -1.27 11.049 0.381 21
+DS -0.508 11.049 -0.508 10.287 0.381 21
+DS -0.508 10.287 0.508 10.287 0.381 21
+DS 0.508 10.287 0.508 11.049 0.381 21
+DS 0.508 11.049 1.27 11.049 0.381 21
+DS -1.27 9.525 -1.27 11.049 0.381 21
+DS 1.27 11.049 1.27 9.525 0.381 21
+$PAD
+Sh "1" O 1.99898 1.99898 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 -6.477
+$EndPAD
+$PAD
+Sh "2" O 1.99898 1.99898 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 1.143
+$EndPAD
+$PAD
+Sh "3" O 1.99898 1.99898 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 6.223
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_bourns_3006p.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_bourns_3006p
+$MODULE trimmer_bourns_3006w
+Po 0 0 0 15 4E9F1C60 00000000 ~~
+Li trimmer_bourns_3006w
+Cd trimmer, multiturn, bourns 3006w
+Kw trimmer
+Sc 0
+AR trimmer_bourns_3005
+Op 0 0 0
+T0 0 12.7 1.524 1.524 0 0.3048 N V 21 N "trimmer_bourns_3006w"
+T1 0 -10.795 1.524 1.524 0 0.3048 N V 21 N "TR***"
+DS 2.413 -9.525 -2.413 -9.525 0.381 21
+DS 2.413 9.525 -2.413 9.525 0.381 21
+DS -2.413 9.525 -2.413 -9.525 0.381 21
+DS 2.413 -9.525 2.413 9.525 0.381 21
+DS -0.508 11.049 -1.27 11.049 0.381 21
+DS -0.508 11.049 -0.508 10.287 0.381 21
+DS -0.508 10.287 0.508 10.287 0.381 21
+DS 0.508 10.287 0.508 11.049 0.381 21
+DS 0.508 11.049 1.27 11.049 0.381 21
+DS -1.27 9.525 -1.27 11.049 0.381 21
+DS 1.27 11.049 1.27 9.525 0.381 21
+$PAD
+Sh "1" O 1.99898 1.99898 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -6.477
+$EndPAD
+$PAD
+Sh "2" O 1.99898 1.99898 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 1.143
+$EndPAD
+$PAD
+Sh "3" O 1.99898 1.99898 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 6.223
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_bourns_3006w.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_bourns_3006w
+$MODULE trimmer_bourns_3006y
+Po 0 0 0 15 4E9F1D0F 00000000 ~~
+Li trimmer_bourns_3006y
+Cd trimmer, multiturn, bourns 3006y
+Kw trimmer
+Sc 0
+AR trimmer_bourns_3005
+Op 0 0 0
+T0 0 12.7 1.524 1.524 0 0.3048 N V 21 N "trimmer_bourns_3006y"
+T1 0 -10.795 1.524 1.524 0 0.3048 N V 21 N "TR***"
+DS 2.413 -9.525 -2.413 -9.525 0.381 21
+DS 2.413 9.525 -2.413 9.525 0.381 21
+DS -2.413 9.525 -2.413 -9.525 0.381 21
+DS 2.413 -9.525 2.413 9.525 0.381 21
+DS -0.508 11.049 -1.27 11.049 0.381 21
+DS -0.508 11.049 -0.508 10.287 0.381 21
+DS -0.508 10.287 0.508 10.287 0.381 21
+DS 0.508 10.287 0.508 11.049 0.381 21
+DS 0.508 11.049 1.27 11.049 0.381 21
+DS -1.27 9.525 -1.27 11.049 0.381 21
+DS 1.27 11.049 1.27 9.525 0.381 21
+$PAD
+Sh "1" O 1.99898 1.99898 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 -8.89
+$EndPAD
+$PAD
+Sh "2" O 1.99898 1.99898 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 1.27
+$EndPAD
+$PAD
+Sh "3" O 1.99898 1.99898 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 8.89
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_bourns_3006y.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_bourns_3006y
+$MODULE trimmer_bourns_3009p
+Po 0 0 0 15 4E9F1C3B 00000000 ~~
+Li trimmer_bourns_3009p
+Cd trimmer, multiturn, bourns 3009p
+Kw trimmer
+Sc 0
+AR trimmer_bourns_3005
+Op 0 0 0
+T0 0 12.7 1.524 1.524 0 0.3048 N V 21 N "trimmer_bourns_3009p"
+T1 0 -10.795 1.524 1.524 0 0.3048 N V 21 N "TR***"
+DS 2.413 -9.525 -2.413 -9.525 0.381 21
+DS 2.413 9.525 -2.413 9.525 0.381 21
+DS -2.413 9.525 -2.413 -9.525 0.381 21
+DS 2.413 -9.525 2.413 9.525 0.381 21
+DS -0.508 11.049 -1.27 11.049 0.381 21
+DS -0.508 11.049 -0.508 10.287 0.381 21
+DS -0.508 10.287 0.508 10.287 0.381 21
+DS 0.508 10.287 0.508 11.049 0.381 21
+DS 0.508 11.049 1.27 11.049 0.381 21
+DS -1.27 9.525 -1.27 11.049 0.381 21
+DS 1.27 11.049 1.27 9.525 0.381 21
+$PAD
+Sh "1" O 1.99898 1.99898 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 -6.477
+$EndPAD
+$PAD
+Sh "2" O 1.99898 1.99898 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 1.143
+$EndPAD
+$PAD
+Sh "3" O 1.99898 1.99898 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 6.223
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_bourns_3009p.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_bourns_3009p
+$MODULE trimmer_bourns_3009y
+Po 0 0 0 15 4E9F1D0F 00000000 ~~
+Li trimmer_bourns_3009y
+Cd trimmer, multiturn, bourns 3009y
+Kw trimmer
+Sc 0
+AR trimmer_bourns_3005
+Op 0 0 0
+T0 0 12.7 1.524 1.524 0 0.3048 N V 21 N "trimmer_bourns_3009y"
+T1 0 -10.795 1.524 1.524 0 0.3048 N V 21 N "TR***"
+DS 2.413 -9.525 -2.413 -9.525 0.381 21
+DS 2.413 9.525 -2.413 9.525 0.381 21
+DS -2.413 9.525 -2.413 -9.525 0.381 21
+DS 2.413 -9.525 2.413 9.525 0.381 21
+DS -0.508 11.049 -1.27 11.049 0.381 21
+DS -0.508 11.049 -0.508 10.287 0.381 21
+DS -0.508 10.287 0.508 10.287 0.381 21
+DS 0.508 10.287 0.508 11.049 0.381 21
+DS 0.508 11.049 1.27 11.049 0.381 21
+DS -1.27 9.525 -1.27 11.049 0.381 21
+DS 1.27 11.049 1.27 9.525 0.381 21
+$PAD
+Sh "1" O 1.99898 1.99898 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 -8.89
+$EndPAD
+$PAD
+Sh "2" O 1.99898 1.99898 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 1.27
+$EndPAD
+$PAD
+Sh "3" O 1.99898 1.99898 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 8.89
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_bourns_3009y.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_bourns_3009y
+$MODULE trimmer_bourns_3250w
+Po 0 0 0 15 4EA8862C 00000000 ~~
+Li trimmer_bourns_3250w
+Cd trimmer, multiturn, Bourns 3250W
+Kw trimmer
+Sc 0
+AR 
+Op 0 0 0
+T0 0 8.6995 1.524 1.524 0 0.3048 N V 21 N "trimmer_bourns_3250w"
+T1 0 -7.69874 1.524 1.524 0 0.3048 N V 21 N "TR***"
+DS -2.79908 6.4008 2.79908 6.4008 0.39878 21
+DS 2.79908 6.4008 2.79908 -6.4008 0.39878 21
+DS 2.79908 -6.4008 -2.79908 -6.4008 0.39878 21
+DS -2.79908 -6.4008 -2.79908 6.4008 0.39878 21
+DS -2.00152 4.94538 0.03048 4.94538 0.381 21
+DC -0.98298 4.94538 0.03302 4.94538 0.381 21
+$PAD
+Sh "3" O 1.99898 1.50114 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -2.54
+$EndPAD
+$PAD
+Sh "2" O 1.99898 1.50114 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "1" O 1.99898 1.50114 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 2.54
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_bourns_3250w.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_bourns_3250w
+$MODULE trimmer_diplohm_p91
+Po 0 0 0 15 4EAED8F4 00000000 ~~
+Li trimmer_diplohm_p91
+Cd trimmer, multiturn cermet, Diplohmatic P91
+Kw trimmer
+Sc 0
+AR 
+Op 0 0 0
+T0 0 6.604 1.524 1.524 0 0.3048 N V 21 N "trimmer_diplohm_p91"
+T1 0 -6.604 1.524 1.524 0 0.3048 N V 21 N "TR***"
+DS 2.54 -5.08 2.54 5.08 0.381 21
+DS 2.54 5.08 -2.54 5.08 0.381 21
+DS -2.54 5.08 -2.54 -5.08 0.381 21
+DS -1.99898 -3.556 0.03302 -3.556 0.381 21
+DC -0.98552 -3.55346 0.03048 -3.55346 0.381 21
+DS 2.54 -5.08 -2.54 -5.08 0.381 21
+$PAD
+Sh "1" O 1.89992 1.50114 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.24968 -2.49936
+$EndPAD
+$PAD
+Sh "2" O 1.89992 1.50114 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.24968 0
+$EndPAD
+$PAD
+Sh "3" O 1.89992 1.50114 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.24968 2.49936
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_diplohm_p91.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_diplohm_p91
+$MODULE trimmer_diplohm_p92
+Po 0 0 0 15 4EAED9CA 00000000 ~~
+Li trimmer_diplohm_p92
+Cd trimmer, multiturn cermet, Diplohmatic P92
+Kw trimmer
+Sc 0
+AR 
+Op 0 0 0
+T0 0 6.604 1.524 1.524 0 0.3048 N V 21 N "trimmer_diplohm_p92"
+T1 0 -6.604 1.524 1.524 0 0.3048 N V 21 N "TR***"
+DS -5.00126 -5.00126 5.00126 -5.00126 0.35052 21
+DS 5.00126 -5.00126 5.00126 5.00126 0.35052 21
+DS 5.00126 5.00126 -5.00126 5.00126 0.35052 21
+DS -5.00126 5.00126 -5.00126 -5.00126 0.35052 21
+DS -5.00126 -4.39928 -6.4008 -4.39928 0.35052 21
+DS -6.4008 -4.39928 -6.4008 -1.89992 0.35052 21
+DS -6.4008 -1.89992 -5.10032 -1.89992 0.35052 21
+$PAD
+Sh "1" O 1.89992 1.50114 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -2.49936
+$EndPAD
+$PAD
+Sh "2" O 1.89992 1.50114 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.49936 0
+$EndPAD
+$PAD
+Sh "3" O 1.89992 1.50114 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 2.49936
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_diplohm_p92.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_diplohm_p92
+$MODULE trimmer_diplohm_p94
+Po 0 0 0 15 4EAED711 00000000 ~~
+Li trimmer_diplohm_p94
+Cd trimmer, multiturn cermet, Diplohmatic P94
+Kw trimmer
+Sc 0
+AR 
+Op 0 0 0
+T0 0 6.604 1.524 1.524 0 0.3048 N V 21 N "trimmer_diplohm_p94"
+T1 0 -6.604 1.524 1.524 0 0.3048 N V 21 N "TR***"
+DS 2.54 -5.08 2.54 5.08 0.381 21
+DS 2.54 5.08 -2.54 5.08 0.381 21
+DS -2.54 5.08 -2.54 -5.08 0.381 21
+DS 0 3.5433 2.032 3.5433 0.381 21
+DC 1.016 3.54584 2.032 3.54584 0.381 21
+DS 2.54 -5.08 -2.54 -5.08 0.381 21
+$PAD
+Sh "3" O 1.89992 1.50114 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -2.49936
+$EndPAD
+$PAD
+Sh "2" O 1.89992 1.50114 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "1" O 1.89992 1.50114 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 2.49936
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_diplohm_p94.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_diplohm_p94
+$MODULE trimmer_diplohm_p95
+Po 0 0 0 15 4EAED826 00000000 ~~
+Li trimmer_diplohm_p95
+Cd trimmer, multiturn cermet, Diplohmatic P95
+Kw trimmer
+Sc 0
+AR 
+Op 0 0 0
+T0 0 8.10006 1.524 1.524 0 0.3048 N V 21 N "trimmer_diplohm_p95"
+T1 0 -6.2992 1.524 1.524 0 0.3048 N V 21 N "TR***"
+DS -0.50038 5.10032 -0.50038 6.59892 0.35052 21
+DS -0.49784 6.59892 1.89992 6.59892 0.35052 21
+DS 1.89992 6.59892 1.89992 5.10032 0.35052 21
+DS 2.54 -5.08 2.54 5.08 0.35052 21
+DS 2.54 5.08 -2.54 5.08 0.35052 21
+DS -2.54 5.08 -2.54 -5.08 0.35052 21
+DS 2.54 -5.08 -2.54 -5.08 0.35052 21
+$PAD
+Sh "1" O 1.89992 1.50114 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.24968 -2.49936
+$EndPAD
+$PAD
+Sh "2" O 1.89992 1.50114 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.24968 0
+$EndPAD
+$PAD
+Sh "3" O 1.89992 1.50114 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.24968 2.49936
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_diplohm_p95.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_diplohm_p95
+$MODULE trimmer_diplohm_p97
+Po 0 0 0 15 4EAED7A8 00000000 ~~
+Li trimmer_diplohm_p97
+Cd trimmer, multiturn cermet, Diplohmatic P97
+Kw trimmer
+Sc 0
+AR 
+Op 0 0 0
+T0 0 8.10006 1.524 1.524 0 0.3048 N V 21 N "trimmer_diplohm_p97"
+T1 0 -6.2992 1.524 1.524 0 0.3048 N V 21 N "TR***"
+DS -0.50038 5.10032 -0.50038 6.59892 0.35052 21
+DS -0.49784 6.59892 1.89992 6.59892 0.35052 21
+DS 1.89992 6.59892 1.89992 5.10032 0.35052 21
+DS 2.54 -5.08 2.54 5.08 0.35052 21
+DS 2.54 5.08 -2.54 5.08 0.35052 21
+DS -2.54 5.08 -2.54 -5.08 0.35052 21
+DS 2.54 -5.08 -2.54 -5.08 0.35052 21
+$PAD
+Sh "1" O 1.89992 1.50114 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -2.49936
+$EndPAD
+$PAD
+Sh "2" O 1.89992 1.50114 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "3" O 1.89992 1.50114 0 0 0
+Dr 0.70104 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 2.49936
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_diplohm_p97.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_diplohm_p97
+$MODULE trimmer_ecp_ca9-h2,5
+Po 0 0 0 15 4F075EB7 00000000 ~~
+Li trimmer_ecp_ca9-h2,5
+Cd trimmer, ECP CA9 H2,5
+Kw trimmer
+Sc 0
+AR 
+Op 0 0 0
+T0 0 4.89966 1.524 1.524 0 0.3048 N V 21 N "trimmer_ecp_ca9-h2,5"
+T1 0 -4.699 1.524 1.524 0 0.3048 N V 21 N "TR***"
+DS 1.50114 -2.60096 1.50114 2.60096 0.254 21
+DS -1.50114 -2.60096 -1.50114 2.60096 0.254 21
+DS 5.00126 -2.60096 5.00126 2.60096 0.254 21
+DS 5.00126 2.60096 -5.00126 2.60096 0.254 21
+DS -5.00126 2.60096 -5.00126 -2.60096 0.254 21
+DS -5.00126 -2.60096 5.00126 -2.60096 0.254 21
+$PAD
+Sh "1" C 1.99898 1.99898 0 0 0
+Dr 1.30048 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.49936 -2.49936
+$EndPAD
+$PAD
+Sh "2" C 1.99898 1.99898 0 0 0
+Dr 1.30048 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "3" C 1.99898 1.99898 0 0 0
+Dr 1.30048 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.49936 -2.49936
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_ecp_ca9-h2,5.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_ecp_ca9-h2,5
+$MODULE trimmer_ecp_ca9-v10
+Po 0 0 0 15 4F0764C2 00000000 ~~
+Li trimmer_ecp_ca9-v10
+Cd trimmer, ECP CA9 V10
+Kw trimmer
+Sc 0
+AR 
+Op 0 0 0
+T0 0 6.74878 1.524 1.524 0 0.3048 N V 21 N "trimmer_ecp_ca9-v10"
+T1 0 -6.25094 1.524 1.524 0 0.3048 N V 21 N "TR***"
+DS 0.50038 0.24892 0.50038 1.00076 0.254 21
+DS 0.50038 1.00076 -0.50038 1.00076 0.254 21
+DS -0.50038 1.00076 -0.50038 0.24892 0.254 21
+DS -0.50038 -0.24892 -0.50038 -1.00076 0.254 21
+DS -0.50038 -1.00076 0.50038 -1.00076 0.254 21
+DS 0.50038 -1.00076 0.50038 -0.24892 0.254 21
+DS 0.50038 -0.24892 1.00076 -0.24892 0.254 21
+DS 1.00076 -0.24892 0.50038 0.24892 0.254 21
+DS -0.50038 0.24892 -1.00076 -0.24892 0.254 21
+DS -1.00076 -0.24892 -0.50038 -0.24892 0.254 21
+DC 0 0 -1.50114 0 0.254 21
+DS -5.00126 -5.00126 -5.00126 5.00126 0.254 21
+DS -5.00126 5.00126 5.00126 5.00126 0.254 21
+DS 5.00126 5.00126 5.00126 -5.00126 0.254 21
+DS 5.00126 -5.00126 -5.00126 -5.00126 0.254 21
+$PAD
+Sh "1" C 1.99898 1.99898 0 0 0
+Dr 1.30048 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.49936 -5.00126
+$EndPAD
+$PAD
+Sh "2" C 1.99898 1.99898 0 0 0
+Dr 1.30048 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 5.00126
+$EndPAD
+$PAD
+Sh "3" C 1.99898 1.99898 0 0 0
+Dr 1.30048 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.49936 -5.00126
+$EndPAD
+$PAD
+Sh "" C 4.0005 4.0005 0 0 0
+Dr 4.0005 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_ecp_ca9-v10.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_ecp_ca9-v10
+$MODULE trimmer_piher_pt15xh05
+Po 0 0 0 15 50674D62 00000000 ~~
+Li trimmer_piher_pt15xh05
+Cd trimmer, Piher PT15-xH05
+Kw trimmer
+Sc 0
+AR trimmer_piher_pt6xv
+Op 0 0 0
+T0 0 4.89966 1.524 1.524 0 0.3048 N V 21 N "trimmer_piher_pt15xh05"
+T1 0 -4.20116 1.524 1.524 0 0.3048 N V 21 N "TR***"
+DS 2.49936 2.99974 2.49936 -2.99974 0.254 21
+DS -2.49936 -2.99974 -2.49936 2.99974 0.254 21
+DS -7.50062 -2.99974 7.50062 -2.99974 0.254 21
+DS 7.50062 -2.99974 7.50062 2.99974 0.254 21
+DS 7.50062 2.99974 -7.50062 2.99974 0.254 21
+DS -7.50062 2.99974 -7.50062 -2.99974 0.254 21
+$PAD
+Sh "1" C 2.2987 2.2987 0 0 0
+Dr 1.2954 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4.99872 -2.49936
+$EndPAD
+$PAD
+Sh "2" C 2.2987 2.2987 0 0 0
+Dr 1.29794 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 2.49936
+$EndPAD
+$PAD
+Sh "3" C 2.2987 2.2987 0 0 0
+Dr 1.2954 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4.99872 -2.49936
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_piher_pt15-h05.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_piher_pt15xh05
+$MODULE trimmer_piher_pt15xvx2
+Po 0 0 0 15 50674F0B 00000000 ~~
+Li trimmer_piher_pt15xvx2
+Cd trimmer, Piher PT15-xVx2
+Kw trimmer
+Sc 0
+AR 
+Op 0 0 0
+T0 0 8.8011 1.524 1.524 0 0.3048 N V 21 N "trimmer_piher_pt15xvx2"
+T1 0 -8.49884 1.524 1.524 0 0.3048 N V 21 N "TR***"
+DS 7.50062 0 6.90118 -2.99974 0.254 21
+DS -7.50062 0 -6.90118 -2.99974 0.254 21
+DA 0 0 7.50062 0 900 0.254 21
+DA 0 0 0 7.50062 900 0.254 21
+DS -6.90118 -2.99974 -6.90118 -7.50062 0.254 21
+DS -6.90118 -7.50062 6.90118 -7.50062 0.254 21
+DS 6.90118 -7.50062 6.90118 -2.99974 0.254 21
+DC 0 0 -3.70078 -0.09906 0.254 21
+$PAD
+Sh "1" C 2.2987 2.2987 0 0 0
+Dr 1.29794 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4.99872 -7.49808
+$EndPAD
+$PAD
+Sh "2" C 1.75006 1.75006 0 0 0
+Dr 0.89916 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 4.99872
+$EndPAD
+$PAD
+Sh "3" C 2.2987 2.2987 0 0 0
+Dr 1.29794 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4.99618 -7.49808
+$EndPAD
+$PAD
+Sh "" C 6.9977 6.9977 0 0 0
+Dr 6.9977 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_piher_pt15-v02.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_piher_pt15xvx2
+$MODULE trimmer_piher_pt6xh
+Po 0 0 0 15 4EAE727F 00000000 ~~
+Li trimmer_piher_pt6xh
+Cd trimmer, Piher PT6-xH
+Kw trimmer
+Sc 0
+AR trimmer_piher_pt6xv
+Op 0 0 0
+T0 0 3.79984 1.524 1.524 0 0.3048 N V 21 N "trimmer_piher_pt6xh"
+T1 0 -3.50012 1.524 1.524 0 0.3048 N V 21 N "TR***"
+DS 1.00076 -1.69926 1.00076 1.69926 0.29972 21
+DS -1.00076 -1.69926 -1.00076 1.69926 0.29972 21
+DS -3.2004 1.69926 -3.2004 -1.69926 0.29972 21
+DS -3.2004 -1.69926 3.2004 -1.69926 0.29972 21
+DS 3.2004 -1.69926 3.2004 1.69926 0.29972 21
+DS 3.2004 1.69926 -3.2004 1.69926 0.29972 21
+$PAD
+Sh "1" C 1.75006 1.75006 0 0 0
+Dr 0.89916 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.49936 -1.24968
+$EndPAD
+$PAD
+Sh "2" C 1.75006 1.75006 0 0 0
+Dr 0.89916 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1.24968
+$EndPAD
+$PAD
+Sh "3" C 1.75006 1.75006 0 0 0
+Dr 0.89916 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.49936 -1.24968
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_piher_pt6-xh.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_piher_pt6xh
+$MODULE trimmer_piher_pt6xv
+Po 0 0 0 15 4EADC575 00000000 ~~
+Li trimmer_piher_pt6xv
+Cd trimmer, Piher PT6-xV
+Kw trimmer
+Sc 0
+AR 
+Op 0 0 0
+T0 0 4.89966 1.524 1.524 0 0.3048 N V 21 N "trimmer_piher_pt6xv"
+T1 0 -4.699 1.524 1.524 0 0.3048 N V 21 N "TR***"
+DA 0 0 2.32918 2.21996 900 0.35052 21
+DS 2.79908 -3.2004 2.79908 -1.6002 0.35052 21
+DS -2.79908 -3.2004 -2.79908 -1.6002 0.35052 21
+DA 0 0 -1.6002 2.79908 900 0.35052 21
+DA 0 0 2.79908 -1.6002 900 0.35052 21
+DS 2.79908 -3.2004 -2.79908 -3.2004 0.35052 21
+DS -0.09906 1.19888 -0.09906 -1.09982 0.35052 21
+DS -0.09906 -1.09982 0.09906 -1.09982 0.35052 21
+DS 0.09906 -1.09982 0.09906 1.19888 0.35052 21
+DS 1.19888 -0.09906 -1.09982 -0.09906 0.35052 21
+DS -1.09982 -0.09906 -1.09982 0.09906 0.35052 21
+DS -1.09982 0.09906 1.19888 0.09906 0.35052 21
+DC 0 0 -1.30048 0.09906 0.35052 21
+$PAD
+Sh "1" C 1.75006 1.75006 0 0 0
+Dr 0.89916 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.49936 -2.49936
+$EndPAD
+$PAD
+Sh "2" C 1.75006 1.75006 0 0 0
+Dr 0.89916 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 2.49936
+$EndPAD
+$PAD
+Sh "3" C 1.75006 1.75006 0 0 0
+Dr 0.89916 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.49936 -2.49936
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_piher_pt6-xv.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_piher_pt6xv
+$MODULE trimmer_vishay_64w
+Po 0 0 0 15 4B90E136 00000000 ~~
+Li trimmer_vishay_64w
+Cd trimmer, multiturn cermet, Vishay 64W
+Kw trimmer
+Sc 0
+AR 
+Op 0 0 0
+T0 0 6.604 1.524 1.524 0 0.3048 N V 21 N "trimmer_vishay_64w"
+T1 0 -6.604 1.524 1.524 0 0.3048 N V 21 N "TR***"
+DS 2.54 -5.08 2.54 5.08 0.381 21
+DS 2.54 5.08 -2.54 5.08 0.381 21
+DS -2.54 5.08 -2.54 -5.08 0.381 21
+DS 0 -3.556 2.032 -3.556 0.381 21
+DC 1.016 -3.556 2.032 -3.556 0.381 21
+DS 2.54 -5.08 -2.54 -5.08 0.381 21
+$PAD
+Sh "1" O 1.99898 1.50114 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -2.54
+$EndPAD
+$PAD
+Sh "2" O 1.99898 1.50114 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "3" O 1.99898 1.50114 0 0 0
+Dr 0.8001 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 2.54
+$EndPAD
+$SHAPE3D
+Na "walter/pth_resistors/trimmer_vishay_64w.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE trimmer_vishay_64w
+$EndLIBRARY

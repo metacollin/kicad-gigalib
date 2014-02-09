@@ -1,0 +1,146 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BALUN_2450BM15A0002
+D Balun filter for TI CC253x, CC254x, CC257x, CC853x, CC852x
+$ENDCMP
+#
+$CMP BAT
+D Battery
+K BATTERY
+$ENDCMP
+#
+$CMP BAV199
+D Diode BAV199
+K DEV DIODE BAV199
+$ENDCMP
+#
+$CMP BRIDGE
+D Diode bridge
+K DEV DIODE
+$ENDCMP
+#
+$CMP BUZZER
+D Buzzer
+$ENDCMP
+#
+$CMP C
+D Capacitor non pol
+$ENDCMP
+#
+$CMP CAP_FEEDTHROUGH
+D Capacitor Feedthrough
+$ENDCMP
+#
+$CMP DIODE
+D Diode simple
+K DEV DIODE
+$ENDCMP
+#
+$CMP ENCODER
+D Rotary Encoder
+K Encoder
+$ENDCMP
+#
+$CMP ENCODER_SWITCH
+D Rotary Encoder
+K Encoder
+$ENDCMP
+#
+$CMP FUSE
+D Fuse, generic
+$ENDCMP
+#
+$CMP INDUCTOR
+D Inductor
+$ENDCMP
+#
+$CMP JUMPER
+D Jumper
+$ENDCMP
+#
+$CMP LED
+D Diode LED (emitter)
+K DEV DIODE
+$ENDCMP
+#
+$CMP LED_BICOLOR
+D Diode LED bicolor
+K DEV DIODE
+$ENDCMP
+#
+$CMP POT
+D Trimmer
+K R
+$ENDCMP
+#
+$CMP POT_DUAL
+D Trimmer
+K R
+$ENDCMP
+#
+$CMP R
+D Resistance
+K R DEV
+$ENDCMP
+#
+$CMP R-SIL_10NB
+D Resistor non bussed, SIP10
+K R DEV
+$ENDCMP
+#
+$CMP R-SIL_12NB
+D Resistor non bussed, SIP12
+K R DEV
+$ENDCMP
+#
+$CMP R-SIL_14NB
+D Resistor non bussed, SIP14
+K R DEV
+$ENDCMP
+#
+$CMP R-SIL_4NB
+D Resistor non bussed, SIP4
+K R DEV
+$ENDCMP
+#
+$CMP R-SIL_6NB
+D Resistor non bussed, SIP6
+K R DEV
+$ENDCMP
+#
+$CMP R-SIL_8NB
+D Resistor non bussed, SIP8
+K R DEV
+$ENDCMP
+#
+$CMP SCHOTTKY
+D Diode Schottky
+K DEV SCHOTTKY
+$ENDCMP
+#
+$CMP SW_PUSH
+D Push Button
+K Switch
+$ENDCMP
+#
+$CMP SW_SP3T
+D Switch SP3T
+K Switch
+$ENDCMP
+#
+$CMP SW_SPDT
+D Switch SPDT
+K Switch
+$ENDCMP
+#
+$CMP VARISTOR
+D Varistor
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Varistori/*
+$ENDCMP
+#
+$CMP ZENER
+D Diode zener
+K DIODE ZENER
+$ENDCMP
+#
+#End Doc Library
