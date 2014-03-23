@@ -104,11 +104,6 @@ D Diode Schottky
 K DEV SCHOTTKY
 $ENDCMP
 #
-$CMP SI3440DV
-D Si3440DV N channel 150V MOSFET
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/MOS/N-channel/VSH_SI3440DV.pdf
-$ENDCMP
-#
 $CMP SW_PUSH
 D Push Button
 K Switch
