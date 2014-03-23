@@ -18,7 +18,6 @@ Dates are in YYYYMMDD format
     + dc_jack
     + rj45_wurth-7499211122A
   M lib_w_device
-    + si3440dv
     + trasf_pa1130nl
     + trasf_pa1131nl
     + trasf_pa1132nl
@@ -53,6 +52,8 @@ Dates are in YYYYMMDD format
     + roving_rn-42
     + roving_rn-42-n
     + w5500
+  M lib_w_transistor
+    + si3440dv
   M mod_conn_d-sub
     + db_37f
   M mod_conn_misc
