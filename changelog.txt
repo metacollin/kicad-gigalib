@@ -15,6 +15,7 @@ Dates are in YYYYMMDD format
     + tlv431-pk
     + tmp3x
   M lib_w_connectors
+    + db-37
     + dc_jack
     + rj45_wurth-7499211122A
   M lib_w_device
