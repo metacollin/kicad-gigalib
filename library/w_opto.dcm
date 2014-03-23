@@ -12,11 +12,6 @@ $CMP AC_OPTO
 D AC Input Optocoupler
 $ENDCMP
 #
-$CMP ACDA02
-D dual 7segments display, Kingbright ACDA02
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/LED/KBT_ACDA02.pdf
-$ENDCMP
-#
 $CMP CMD-5571x00
 D Dot matrix display, common cathode, US Electronics CMD-5571x00
 $ENDCMP
@@ -28,20 +23,6 @@ $ENDCMP
 $CMP CPC1117N
 D Normally closed Solid State Relay
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Fotoisolatori/AC/CLA_CPC1117N.pdf
-$ENDCMP
-#
-$CMP CREE_MC-E
-D Cree MC-E - RGBW power led
-K DEV DIODE LED MC-E
-$ENDCMP
-#
-$CMP EDISON_FEDERAL_5050
-D Edison Federal 5050 - RGBW power led
-K DEV DIODE LED FEDERAL
-$ENDCMP
-#
-$CMP HDSP-UXXX
-D 7segments display, common anode
 $ENDCMP
 #
 $CMP KB814
@@ -65,28 +46,9 @@ D PLCC6 LED
 K DEV DIODE LED PLCC6
 $ENDCMP
 #
-$CMP POWER_LED
-D Power LED
-K DEV DIODE LED
-$ENDCMP
-#
 $CMP RGB_LED
 D RGB LED
 K DEV DIODE LED RGB
-$ENDCMP
-#
-$CMP RGB_POWER_LED
-D RGB Power LED
-K DEV DIODE LED RGB
-$ENDCMP
-#
-$CMP SAXX-XXXXXX
-D 7segments display, common anode, Kingbright SA series
-$ENDCMP
-#
-$CMP SEOUL_Z7
-D Seoul Z7 - RGBW power led
-K DEV DIODE LED Z7
 $ENDCMP
 #
 $CMP TKS-363H

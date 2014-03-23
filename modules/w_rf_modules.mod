@@ -1,7 +1,8 @@
-PCBNEW-LibModule-V1  dom 20 ott 2013 11:08:34 CEST
+PCBNEW-LibModule-V1  dom 23 mar 2014 13:01:39 CET
 # encoding utf-8
 Units mm
 $INDEX
+8devices_carambola2
 ITEAD_HC-05
 QM-5767
 RFM12B_PTH
@@ -12,9 +13,409 @@ anaren_a1101rxxa
 anaren_a1101rxxc
 anaren_a2500r24a
 anaren_a8520e24a91
+panasonic_pan131x
+panasonic_pan132x
 roving_rn-131
+roving_rn-42-n
 telit_gl865
+w_rf_modules:roving_rn-42
 $EndINDEX
+$MODULE 8devices_carambola2
+Po 0 0 0 15 532EAEAC 00000000 ~~
+Li 8devices_carambola2
+Cd 8Devices Carambola2 802.11 b/g/n Wireless LAN module
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -16.5 1.5 1.5 0 0.3 N V 21 N "U***"
+T1 0 16.5 1.5 1.5 0 0.3 N V 21 N "8Devices_Carambola2"
+DC 16.5 -10.5 17.4 -10.5 0.127 21
+DC 16.5 -10.5 16.6 -10.5 0.381 21
+DS 15.4 -11.6 17.6 -11.6 0.127 21
+DS 17.6 -11.6 17.6 -9.4 0.127 21
+DS 17.6 -9.4 15.4 -9.4 0.127 21
+DS 15.4 -9.4 15.4 -11.6 0.127 21
+DS -18 13 -18 -13 0.381 21
+DS -18 -13 10 -13 0.381 21
+DS 10 -13 18 -5 0.381 21
+DS 18 -5 18 13 0.381 21
+DS 18 13 -18 13 0.381 21
+DA 19 -13.9 19 -13.4 900 0.381 21
+DS -19 -13.9 18.5 -13.9 0.381 21
+DS 19 -13.4 19 13.9 0.381 21
+DS 19 13.9 -19 13.9 0.381 21
+DS -19 13.9 -19 -13.9 0.381 21
+$PAD
+Sh "11" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 13.9
+$EndPAD
+$PAD
+Sh "12" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5 13.9
+$EndPAD
+$PAD
+Sh "13" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7 13.9
+$EndPAD
+$PAD
+Sh "10" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1 13.9
+$EndPAD
+$PAD
+Sh "9" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1 13.9
+$EndPAD
+$PAD
+Sh "8" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 13.9
+$EndPAD
+$PAD
+Sh "7" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5 13.9
+$EndPAD
+$PAD
+Sh "6" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7 13.9
+$EndPAD
+$PAD
+Sh "5" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9 13.9
+$EndPAD
+$PAD
+Sh "4" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -11 13.9
+$EndPAD
+$PAD
+Sh "3" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -13 13.9
+$EndPAD
+$PAD
+Sh "2" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -15 13.9
+$EndPAD
+$PAD
+Sh "1" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -17 13.9
+$EndPAD
+$PAD
+Sh "14" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9 13.9
+$EndPAD
+$PAD
+Sh "15" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11 13.9
+$EndPAD
+$PAD
+Sh "16" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 13 13.9
+$EndPAD
+$PAD
+Sh "17" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 15 13.9
+$EndPAD
+$PAD
+Sh "18" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 17 13.9
+$EndPAD
+$PAD
+Sh "19" O 2 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 18.95 10
+$EndPAD
+$PAD
+Sh "20" O 2 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 18.95 8
+$EndPAD
+$PAD
+Sh "21" O 2 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 18.95 6
+$EndPAD
+$PAD
+Sh "22" O 2 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 18.95 4
+$EndPAD
+$PAD
+Sh "23" O 2 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 18.95 2
+$EndPAD
+$PAD
+Sh "24" O 2 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 18.95 0
+$EndPAD
+$PAD
+Sh "25" O 2 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 18.95 -6
+$EndPAD
+$PAD
+Sh "26" O 2 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 18.95 -8
+$EndPAD
+$PAD
+Sh "27" O 2 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 18.95 -10
+$EndPAD
+$PAD
+Sh "28" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 17 -13.9
+$EndPAD
+$PAD
+Sh "29" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 15 -13.9
+$EndPAD
+$PAD
+Sh "30" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 13 -13.9
+$EndPAD
+$PAD
+Sh "31" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11 -13.9
+$EndPAD
+$PAD
+Sh "32" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9 -13.9
+$EndPAD
+$PAD
+Sh "33" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7 -13.9
+$EndPAD
+$PAD
+Sh "34" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5 -13.9
+$EndPAD
+$PAD
+Sh "35" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 -13.9
+$EndPAD
+$PAD
+Sh "36" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1 -13.9
+$EndPAD
+$PAD
+Sh "37" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1 -13.9
+$EndPAD
+$PAD
+Sh "38" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 -13.9
+$EndPAD
+$PAD
+Sh "39" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5 -13.9
+$EndPAD
+$PAD
+Sh "40" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7 -13.9
+$EndPAD
+$PAD
+Sh "41" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9 -13.9
+$EndPAD
+$PAD
+Sh "42" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -11 -13.9
+$EndPAD
+$PAD
+Sh "43" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -13 -13.9
+$EndPAD
+$PAD
+Sh "44" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -15 -13.9
+$EndPAD
+$PAD
+Sh "45" O 1.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -17 -13.9
+$EndPAD
+$PAD
+Sh "46" O 2 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -18.95 -10
+$EndPAD
+$PAD
+Sh "47" O 2 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -18.95 -8
+$EndPAD
+$PAD
+Sh "48" O 2 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -18.95 -6
+$EndPAD
+$PAD
+Sh "49" O 2 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -18.95 4
+$EndPAD
+$PAD
+Sh "50" O 2 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -18.95 6
+$EndPAD
+$PAD
+Sh "51" O 2 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -18.95 8
+$EndPAD
+$PAD
+Sh "52" O 2 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -18.95 10
+$EndPAD
+$SHAPE3D
+Na "walter/rf_modules/8devices_carambola2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE 8devices_carambola2
 $MODULE ITEAD_HC-05
 Po 0 0 0 15 514629DE 00000000 ~~
 Li ITEAD_HC-05
@@ -1902,6 +2303,424 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE anaren_a8520e24a91
+$MODULE panasonic_pan131x
+Po 0 0 0 15 532DCFB2 00000000 ~~
+Li panasonic_pan131x
+Cd Panasonic PAN131x Bluetooth module
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -4.2 1 1 0 0.2 N V 21 N "U***"
+T1 0 5.1 1 1 0 0.2 N V 21 N "Panasonic_PAN131x"
+DS -5.3 3.8 -5 4.1 0.254 21
+DS -4.7 4.1 -5.3 3.5 0.254 21
+DS -5.3 3.2 -4.4 4.1 0.254 21
+DS -5.3 2.9 -4.1 4.1 0.254 21
+DS -5.3 4.1 -4.1 4.1 0.254 21
+DS -5.3 4.1 -5.3 2.9 0.254 21
+DC -3.6 2.6 -3.8 2.9 0.254 21
+DS -4.5 -3.25 4.5 -3.25 0.254 21
+DS 4.5 -3.25 4.5 3.25 0.254 21
+DS -4.5 3.25 4.5 3.25 0.254 21
+DS -4.5 -3.25 -4.5 3.25 0.254 21
+$PAD
+Sh "1" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.7 2.7
+$EndPAD
+$PAD
+Sh "2" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.8 1.7
+$EndPAD
+$PAD
+Sh "3" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.9 2.7
+$EndPAD
+$PAD
+Sh "4" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.7
+$EndPAD
+$PAD
+Sh "5" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.9 2.7
+$EndPAD
+$PAD
+Sh "6" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.8 1.7
+$EndPAD
+$PAD
+Sh "7" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.7 2.7
+$EndPAD
+$PAD
+Sh "8" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.95 1.8
+$EndPAD
+$PAD
+Sh "9" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.95 0.9
+$EndPAD
+$PAD
+Sh "10" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.95 0
+$EndPAD
+$PAD
+Sh "11" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.95 -0.9
+$EndPAD
+$PAD
+Sh "12" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.95 -1.8
+$EndPAD
+$PAD
+Sh "13" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.7 -2.7
+$EndPAD
+$PAD
+Sh "14" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.8 -1.7
+$EndPAD
+$PAD
+Sh "15" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.9 -2.7
+$EndPAD
+$PAD
+Sh "16" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.7
+$EndPAD
+$PAD
+Sh "17" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.9 -2.7
+$EndPAD
+$PAD
+Sh "18" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.8 -1.7
+$EndPAD
+$PAD
+Sh "19" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.7 -2.7
+$EndPAD
+$PAD
+Sh "20" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.95 -1.8
+$EndPAD
+$PAD
+Sh "21" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.95 -0.9
+$EndPAD
+$PAD
+Sh "22" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.95 0
+$EndPAD
+$PAD
+Sh "23" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.95 0.9
+$EndPAD
+$PAD
+Sh "24" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.95 1.8
+$EndPAD
+$SHAPE3D
+Na "walter/rf_modules/panasonic_pan131x.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE panasonic_pan131x
+$MODULE panasonic_pan132x
+Po 0 0 0 15 532DC4FA 00000000 ~~
+Li panasonic_pan132x
+Cd Panasonic PAN132x Bluetooth module
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -7.2 1 1 0 0.2 N V 21 N "U***"
+T1 0 4.2 1 1 0 0.2 N V 21 N "Panasonic_PAN132x"
+DS -4.5 -6.25 4.5 -6.25 0.254 21
+DS 4.5 -6.25 4.5 3.25 0.254 21
+DS -4.5 3.25 4.5 3.25 0.254 21
+DS -4.5 -6.25 -4.5 3.25 0.254 21
+$PAD
+Sh "1" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.7 2.7
+$EndPAD
+$PAD
+Sh "2" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.8 1.7
+$EndPAD
+$PAD
+Sh "3" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.9 2.7
+$EndPAD
+$PAD
+Sh "4" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.7
+$EndPAD
+$PAD
+Sh "5" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.9 2.7
+$EndPAD
+$PAD
+Sh "6" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.8 1.7
+$EndPAD
+$PAD
+Sh "7" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.7 2.7
+$EndPAD
+$PAD
+Sh "8" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.95 1.8
+$EndPAD
+$PAD
+Sh "9" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.95 0.9
+$EndPAD
+$PAD
+Sh "10" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.95 0
+$EndPAD
+$PAD
+Sh "11" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.95 -0.9
+$EndPAD
+$PAD
+Sh "12" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.95 -1.8
+$EndPAD
+$PAD
+Sh "13" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.7 -2.7
+$EndPAD
+$PAD
+Sh "14" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.8 -1.7
+$EndPAD
+$PAD
+Sh "15" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.9 -2.7
+$EndPAD
+$PAD
+Sh "16" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.7
+$EndPAD
+$PAD
+Sh "17" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.9 -2.7
+$EndPAD
+$PAD
+Sh "18" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.8 -1.7
+$EndPAD
+$PAD
+Sh "19" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.7 -2.7
+$EndPAD
+$PAD
+Sh "20" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.95 -1.8
+$EndPAD
+$PAD
+Sh "21" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.95 -0.9
+$EndPAD
+$PAD
+Sh "22" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.95 0
+$EndPAD
+$PAD
+Sh "23" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.95 0.9
+$EndPAD
+$PAD
+Sh "24" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.95 1.8
+$EndPAD
+$PAD
+Sh "C" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.95 -5.4
+$EndPAD
+$PAD
+Sh "A" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.95 -3.6
+$EndPAD
+$PAD
+Sh "D" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.95 -5.4
+$EndPAD
+$PAD
+Sh "B" R 0.6 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.95 -3.6
+$EndPAD
+$PAD
+Sh "" R 5 3 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 -4.75
+$EndPAD
+$SHAPE3D
+Na "walter/rf_modules/panasonic_pan132x.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE panasonic_pan132x
 $MODULE roving_rn-131
 Po 0 0 0 15 525941D9 00000000 ~~
 Li roving_rn-131
@@ -2269,6 +3088,304 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE roving_rn-131
+$MODULE roving_rn-42-n
+Po 0 0 0 15 532DF5C9 00000000 ~~
+Li roving_rn-42-n
+Cd Roving Networks RN-42-N Bluetooth module
+Sc 0
+AR 
+Op 0 0 0
+.LocalClearance 0.2
+T0 0 -12.2 1.5 1.5 0 0.3 N V 21 N "U***"
+T1 0 12.2 1.5 1.5 0 0.3 N V 21 N "Roving_RN-42-N"
+DS -6.7 -10 6.7 -10 0.254 21
+DS 6.7 -10 6.7 10 0.254 21
+DS -6.7 10 6.7 10 0.254 21
+DS -6.7 -10 -6.7 10 0.254 21
+DS -6.3 -8.8 6.3 -8.8 0.254 21
+DS 6.3 -8.8 6.3 9.6 0.254 21
+DS -6.3 9.6 6.3 9.6 0.254 21
+DS -6.3 -8.8 -6.3 9.6 0.254 21
+$PAD
+Sh "" R 1.5 1.5 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po -6 8.7
+$EndPAD
+$PAD
+Sh "" R 1.5 1.5 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 6 8.7
+$EndPAD
+$PAD
+Sh "" R 1.5 1.5 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 6 -9.3
+$EndPAD
+$PAD
+Sh "1" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 -6
+$EndPAD
+$PAD
+Sh "2" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 -4.8
+$EndPAD
+$PAD
+Sh "3" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 -3.6
+$EndPAD
+$PAD
+Sh "4" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 -2.4
+$EndPAD
+$PAD
+Sh "5" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 -1.2
+$EndPAD
+$PAD
+Sh "6" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 0
+$EndPAD
+$PAD
+Sh "7" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 1.2
+$EndPAD
+$PAD
+Sh "8" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 2.4
+$EndPAD
+$PAD
+Sh "9" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 3.6
+$EndPAD
+$PAD
+Sh "10" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 4.8
+$EndPAD
+$PAD
+Sh "11" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 6
+$EndPAD
+$PAD
+Sh "12" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 7.2
+$EndPAD
+$PAD
+Sh "13" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 7.2
+$EndPAD
+$PAD
+Sh "14" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 6
+$EndPAD
+$PAD
+Sh "15" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 4.8
+$EndPAD
+$PAD
+Sh "16" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 3.6
+$EndPAD
+$PAD
+Sh "17" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 2.4
+$EndPAD
+$PAD
+Sh "18" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 1.2
+$EndPAD
+$PAD
+Sh "19" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 0
+$EndPAD
+$PAD
+Sh "20" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 -1.2
+$EndPAD
+$PAD
+Sh "21" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 -2.4
+$EndPAD
+$PAD
+Sh "22" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 -3.6
+$EndPAD
+$PAD
+Sh "23" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 -4.8
+$EndPAD
+$PAD
+Sh "24" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 -6
+$EndPAD
+$PAD
+Sh "30" R 0.8 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.1 10
+$EndPAD
+$PAD
+Sh "28" R 0.8 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.1 10
+$EndPAD
+$PAD
+Sh "31" R 0.8 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.8 10
+$EndPAD
+$PAD
+Sh "32" R 0.8 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.6 10
+$EndPAD
+$PAD
+Sh "33" R 0.8 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.6 10
+$EndPAD
+$PAD
+Sh "34" R 0.8 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.8 10
+$EndPAD
+$PAD
+Sh "29" R 0.8 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.1 10
+$EndPAD
+$PAD
+Sh "35" R 0.8 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.1 10
+$EndPAD
+$PAD
+Sh "" R 1.5 1.5 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po -6 -9.3
+$EndPAD
+$PAD
+Sh "25" R 0.8 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.8 -10
+$EndPAD
+$PAD
+Sh "26" R 0.8 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2 -10
+$EndPAD
+$PAD
+Sh "27" R 0.8 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.6 -10
+$EndPAD
+$SHAPE3D
+Na "walter/rf_modules/roving_rn-42-n.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE roving_rn-42-n
 $MODULE telit_gl865
 Po 0 0 0 15 5257042A 00000000 ~~
 Li telit_gl865
@@ -2632,4 +3749,306 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE telit_gl865
+$MODULE w_rf_modules:roving_rn-42
+Po 0 0 0 15 532DF601 00000000 ~~
+Li w_rf_modules:roving_rn-42
+Cd Roving Networks RN-42 Bluetooth module
+Sc 0
+AR 
+Op 0 0 0
+.LocalClearance 0.2
+T0 0 -15 1.5 1.5 0 0.3 N V 21 N "U***"
+T1 0 15 1.5 1.5 0 0.3 N V 21 N "Roving_RN-42"
+DS -2.9 -7.8 -4 -7.8 0.254 21
+DS -1.8 -12 -2.9 -12 0.254 21
+DS -2.9 -12 -2.9 -7.8 0.254 21
+DS -1.8 -12 -1.8 -7.8 0.254 21
+DS -4 -12 -4 -7.8 0.254 21
+DS -4 -12 -6 -12 0.254 21
+DS -0.7 -7.8 -1.8 -7.8 0.254 21
+DS 0.4 -12 -0.7 -12 0.254 21
+DS -0.7 -12 -0.7 -7.8 0.254 21
+DS 0.4 -12 0.4 -7.8 0.254 21
+DS 2.6 -12 2.6 -7.8 0.254 21
+DS 1.5 -12 1.5 -7.8 0.254 21
+DS 2.6 -12 1.5 -12 0.254 21
+DS 1.5 -7.8 0.4 -7.8 0.254 21
+DS 3.7 -7.8 2.6 -7.8 0.254 21
+DS 4.8 -6 4.8 -12 0.254 21
+DS 4.8 -12 3.7 -12 0.254 21
+DS 3.7 -12 3.7 -7.8 0.254 21
+DS -6.7 -12.8 6.7 -12.8 0.254 21
+DS 6.7 -12.8 6.7 12.8 0.254 21
+DS -6.7 12.8 6.7 12.8 0.254 21
+DS -6.7 -12.8 -6.7 12.8 0.254 21
+DS -6.3 -6 6.3 -6 0.254 21
+DS 6.3 -6 6.3 12.4 0.254 21
+DS -6.3 12.4 6.3 12.4 0.254 21
+DS -6.3 -6 -6.3 12.4 0.254 21
+$PAD
+Sh "" R 1.5 1.5 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po -6 11.5
+$EndPAD
+$PAD
+Sh "" R 1.5 1.5 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 6 11.5
+$EndPAD
+$PAD
+Sh "" R 1.5 1.5 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 6 -5.1
+$EndPAD
+$PAD
+Sh "1" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 -3.2
+$EndPAD
+$PAD
+Sh "2" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 -2
+$EndPAD
+$PAD
+Sh "3" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 -0.8
+$EndPAD
+$PAD
+Sh "4" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 0.4
+$EndPAD
+$PAD
+Sh "5" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 1.6
+$EndPAD
+$PAD
+Sh "6" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 2.8
+$EndPAD
+$PAD
+Sh "7" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 4
+$EndPAD
+$PAD
+Sh "8" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 5.2
+$EndPAD
+$PAD
+Sh "9" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 6.4
+$EndPAD
+$PAD
+Sh "10" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 7.6
+$EndPAD
+$PAD
+Sh "11" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 8.8
+$EndPAD
+$PAD
+Sh "12" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.7 10
+$EndPAD
+$PAD
+Sh "13" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 10
+$EndPAD
+$PAD
+Sh "14" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 8.8
+$EndPAD
+$PAD
+Sh "15" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 7.6
+$EndPAD
+$PAD
+Sh "16" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 6.4
+$EndPAD
+$PAD
+Sh "17" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 5.2
+$EndPAD
+$PAD
+Sh "18" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 4
+$EndPAD
+$PAD
+Sh "19" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 2.8
+$EndPAD
+$PAD
+Sh "20" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 1.6
+$EndPAD
+$PAD
+Sh "21" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 0.4
+$EndPAD
+$PAD
+Sh "22" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 -0.8
+$EndPAD
+$PAD
+Sh "23" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 -2
+$EndPAD
+$PAD
+Sh "24" R 1.4 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.7 -3.2
+$EndPAD
+$PAD
+Sh "30" R 0.8 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.1 12.8
+$EndPAD
+$PAD
+Sh "28" R 0.8 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.1 12.8
+$EndPAD
+$PAD
+Sh "31" R 0.8 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.8 12.8
+$EndPAD
+$PAD
+Sh "32" R 0.8 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.6 12.8
+$EndPAD
+$PAD
+Sh "33" R 0.8 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.6 12.8
+$EndPAD
+$PAD
+Sh "34" R 0.8 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.8 12.8
+$EndPAD
+$PAD
+Sh "29" R 0.8 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.1 12.8
+$EndPAD
+$PAD
+Sh "35" R 0.8 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.1 12.8
+$EndPAD
+$PAD
+Sh "" R 1.5 1.5 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po -6 -5.1
+$EndPAD
+$PAD
+Sh "" R 13.4 7 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 -9.3
+$EndPAD
+$SHAPE3D
+Na "walter/rf_modules/roving_rn-42.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE w_rf_modules:roving_rn-42
 $EndLIBRARY

@@ -169,4 +169,14 @@ D 34 bit LED display driver
 F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/ST_M5450_M5451.pdf
 $ENDCMP
 #
+$CMP MAX7219
+D 7-segments, 8 digits LED display driver
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/MAX_MAX7219-7221.pdf
+$ENDCMP
+#
+$CMP MAX7221
+D 7-segments, 8 digits LED display driver
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/MAX_MAX7219-7221.pdf
+$ENDCMP
+#
 #End Doc Library

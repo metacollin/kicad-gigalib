@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  lun 06 gen 2014 15:07:44 CET
+PCBNEW-LibModule-V1  dom 23 mar 2014 14:19:55 CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -6,6 +6,7 @@ $INDEX
 7segdisp_HDSP
 7segdisp_acda02
 7segdisp_sa05
+7segdisp_sa50
 7segdisp_sa52
 dotdisp_cmd557xx00
 lcd_16x2
@@ -23,17 +24,18 @@ led_5mm_clear
 led_5mm_green
 led_5mm_red
 led_5mm_yellow
+w_indicators:lcd_16x2_nmtc-s16205dfyhsay
 $EndINDEX
 $MODULE 7segdisp
-Po 0 0 0 15 4E4D041C 00000000 ~~
+Po 0 0 0 15 532D99D8 00000000 ~~
 Li 7segdisp
 Cd 7 segments display
 Kw display
 Sc 0
-AR 
+AR 7segdisp
 Op 0 0 0
-T0 0 -7.62 1.778 1.143 0 0.28702 N V 21 N "DISP***"
-T1 0 7.874 1.778 1.016 0 0.254 N V 21 N "7segdisp"
+T0 0 -7.5 1 1 0 0.2 N V 21 N "DISP***"
+T1 0 7.5 1 1 0 0.2 N V 21 N "7segdisp"
 DS -3.81 -5.08 -2.54 -6.35 0.3048 21
 DC -2.413 -3.683 -2.159 -3.429 0.3048 21
 DS -2.413 3.302 -1.778 0.508 0.3048 21
@@ -127,15 +129,15 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE 7segdisp
 $MODULE 7segdisp_HDSP
-Po 0 0 0 15 4B90DA96 00000000 ~~
+Po 0 0 0 15 532D99B2 00000000 ~~
 Li 7segdisp_HDSP
 Cd 7 segments display, Avago HDSP
 Kw display
 Sc 0
-AR 
+AR 7segdisp_HDSP
 Op 0 0 0
-T0 0 -7.62 1.778 1.143 0 0.28702 N V 21 N "DISP***"
-T1 0 7.62 1.778 1.016 0 0.254 N V 21 N "7segdisp_HDSP"
+T0 0 -6.5 1 1 0 0.2 N V 21 N "DISP***"
+T1 0 6.5 1 1 0 0.2 N V 21 N "7segdisp_HDSP"
 DS -3.556 -5.5118 3.556 -5.5118 0.254 21
 DS -3.556 5.5118 -3.556 -5.5118 0.254 21
 DS 3.556 5.5118 -3.556 5.5118 0.254 21
@@ -226,14 +228,14 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE 7segdisp_HDSP
 $MODULE 7segdisp_acda02
-Po 0 0 0 15 51003D1E 00000000 ~~
+Po 0 0 0 15 532D99F0 00000000 ~~
 Li 7segdisp_acda02
-Cd .2" SMD dual digid display, Kingbright ACDA02
+Cd .2" SMD dual digit display, Kingbright ACDA02
 Sc 0
 AR 
 Op 0 0 0
-T0 0 -7.39902 0.99822 0.99822 0 0.19812 N V 21 N "DISP***"
-T1 0 7.59968 0.99568 0.99568 0 0.19558 N V 21 N "7segdisp_acda02"
+T0 0 -7.4 1 1 0 0.2 N V 21 N "DISP***"
+T1 0 7.4 1 1 0 0.2 N V 21 N "7segdisp_acda02"
 DS 2.10058 -0.29972 2.49936 -2.19964 0.29972 21
 DS 5.10032 -0.29972 5.4991 -2.19964 0.29972 21
 DS 4.699 2.19964 5.10032 0.29972 0.29972 21
@@ -404,15 +406,15 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE 7segdisp_acda02
 $MODULE 7segdisp_sa05
-Po 0 0 0 15 4B90DAAB 00000000 ~~
+Po 0 0 0 15 532D994E 00000000 ~~
 Li 7segdisp_sa05
 Cd 7 segments display, SA05 series
 Kw display
 Sc 0
-AR 
+AR 7segdisp_sa05
 Op 0 0 0
-T0 0 -10.414 1.778 1.143 0 0.28702 N V 21 N "DISP***"
-T1 0 10.414 1.778 1.016 0 0.254 N V 21 N "7segdisp_sa"
+T0 0 -11 1.5 1.5 0 0.3 N V 21 N "DISP***"
+T1 0 11 1.5 1.5 0 0.3 N V 21 N "7segdisp_sa"
 DS 6.35 -9.525 6.35 9.525 0.32258 21
 DS -6.35 9.525 -6.35 -9.525 0.32258 21
 DS 3.81 0 -3.81 0 1.39954 21
@@ -503,16 +505,174 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE 7segdisp_sa05
-$MODULE 7segdisp_sa52
-Po 0 0 0 15 4B90DAB8 00000000 ~~
-Li 7segdisp_sa52
-Cd 7 segments display, SA52 series
+$MODULE 7segdisp_sa50
+Po 0 0 0 15 532DA2B9 00000000 ~~
+Li 7segdisp_sa50
+Cd 5" 7 segments display, Kingbright SA50 series
 Kw display
 Sc 0
 AR 
 Op 0 0 0
-T0 0 -10.414 1.778 1.143 0 0.28702 N V 21 N "DISP***"
-T1 0 10.414 1.778 1.016 0 0.254 N V 21 N "7segdisp_sa"
+T0 0 -91.5 1.5 1.5 0 0.3 N V 21 N "DISP***"
+T1 0 91.5 1.5 1.5 0 0.3 N V 21 N "7segdisp_sa50"
+DS 44.5 66 44.5 73 2 21
+DS 43 66 43 75 2 21
+DS 41.5 66 41.5 76.5 2 21
+DS 39.5 66 39.5 77.5 2 21
+DC 42 59 42.5 59 2 21
+DC 42 59 43.5 59 2 21
+DC 42 59 45 59 2 21
+DS 32.5 1.5 -31.5 1.5 2 21
+DS -31.5 -1.5 32.5 -1.5 2 21
+DS 34 0 -33 0 2 21
+DS 34 0 32.5 1.5 2 21
+DS 34 0 32.5 -1.5 2 21
+DS -33 0 -31.5 1.5 2 21
+DS -33 0 -31.5 -1.5 2 21
+DS 23.5 64.5 -46.5 64.5 2 21
+DS 23.5 64.5 22 63 2 21
+DS 22 63 -45 63 2 21
+DS -45 63 -46.5 64.5 2 21
+DS -46.5 64.5 -45 66 2 21
+DS -45 66 22 66 2 21
+DS 22 66 23.5 64.5 2 21
+DS 47 -64 -23 -64 2 21
+DS 47 -64 45.5 -65.5 2 21
+DS 45.5 -65.5 -21.5 -65.5 2 21
+DS -21.5 -65.5 -23 -64 2 21
+DS -23 -64 -21.5 -62.5 2 21
+DS -21.5 -62.5 45.5 -62.5 2 21
+DS 45.5 -62.5 47 -64 2 21
+DS -36 -1 -24.5 -62 2 21
+DS -34.5 -2 -23.5 -60 2 21
+DS -36 -1 -34.5 -2 2 21
+DS -24.5 -62 -23.5 -60 2 21
+DS -36 -1 -37 -2.5 2 21
+DS -37 -2.5 -26 -60.5 2 21
+DS -24.5 -62 -26 -60.5 2 21
+DS -48 62 -36.5 1 2 21
+DS -46.5 61 -35.5 3 2 21
+DS -48 62 -46.5 61 2 21
+DS -36.5 1 -35.5 3 2 21
+DS -48 62 -49 60.5 2 21
+DS -49 60.5 -38 2.5 2 21
+DS -36.5 1 -38 2.5 2 21
+DS 37 -1 48.5 -62 2 21
+DS 38.5 -2 49.5 -60 2 21
+DS 37 -1 38.5 -2 2 21
+DS 48.5 -62 49.5 -60 2 21
+DS 37 -1 36 -2.5 2 21
+DS 36 -2.5 47 -60.5 2 21
+DS 48.5 -62 47 -60.5 2 21
+DS 25 62 36.5 1 2 21
+DS 26.5 61 37.5 3 2 21
+DS 25 62 26.5 61 2 21
+DS 36.5 1 37.5 3 2 21
+DS 25 62 24 60.5 2 21
+DS 24 60.5 35 2.5 2 21
+DS 36.5 1 35 2.5 2 21
+DS 37.5 79.5 40.5 78 2 21
+DS 40.5 78 43.5 75 2 21
+DS 37.5 79.5 38.5 76.5 2 21
+DS 38.5 76.5 39 72.5 2 21
+DS 39 72.5 39 69.5 2 21
+DS 39 69.5 37.5 66 2 21
+DS 46.5 66 46.5 69 2 21
+DS 46.5 69 45.5 72 2 21
+DS 45.5 72 43.5 75 2 21
+DS 46.5 66 37.5 66 2 21
+DC 42 59 46.5 59 2 21
+DS 54 -90 54 90 1 21
+DS -54 90 -54 -90 1 21
+DS -54 90 54 90 1 21
+DS 54 -90 -54 -90 1 21
+$PAD
+Sh "1" R 3 2.3 0 0 900
+Dr 1.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 66
+$EndPAD
+$PAD
+Sh "2" O 3 2.3 0 0 900
+Dr 1.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 66
+$EndPAD
+$PAD
+Sh "3" O 3 2.3 0 0 900
+Dr 1.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 66
+$EndPAD
+$PAD
+Sh "4" O 3 2.3 0 0 900
+Dr 1.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 66
+$EndPAD
+$PAD
+Sh "5" O 3 2.3 0 0 900
+Dr 1.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 66
+$EndPAD
+$PAD
+Sh "6" O 3 2.3 0 0 900
+Dr 1.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 -66
+$EndPAD
+$PAD
+Sh "7" O 3 2.3 0 0 900
+Dr 1.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 -66
+$EndPAD
+$PAD
+Sh "8" O 3 2.3 0 0 900
+Dr 1.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -66
+$EndPAD
+$PAD
+Sh "9" O 3 2.3 0 0 900
+Dr 1.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -66
+$EndPAD
+$PAD
+Sh "10" O 3 2.3 0 0 900
+Dr 1.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 -66
+$EndPAD
+$SHAPE3D
+Na "walter/indicators/7segdisp_sa50.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE 7segdisp_sa50
+$MODULE 7segdisp_sa52
+Po 0 0 0 15 532D996A 00000000 ~~
+Li 7segdisp_sa52
+Cd 7 segments display, SA52 series
+Kw display
+Sc 0
+AR 7segdisp_sa52
+Op 0 0 0
+T0 0 -10.5 1.5 1.5 0 0.3 N V 21 N "DISP***"
+T1 0 10.5 1.5 1.5 0 0.3 N V 21 N "7segdisp_sa"
 DS 3.81 0 -3.81 0 1.39954 21
 DS -3.048 -5.842 -4.572 5.842 1.39954 21
 DS -4.572 5.842 3.048 5.842 1.39954 21
@@ -604,15 +764,15 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE 7segdisp_sa52
 $MODULE dotdisp_cmd557xx00
-Po 0 0 0 15 52CAB8A2 00000000 ~~
+Po 0 0 0 15 532D9B0E 00000000 ~~
 Li dotdisp_cmd557xx00
 Cd dot matrix display, CMD-557XX00
 Kw display
 Sc 0
 AR 
 Op 0 0 0
-T0 0 -28.3 1.778 1.143 0 0.28702 N V 21 N "DISP***"
-T1 0 28.3 1.778 1.016 0 0.254 N V 21 N "dotdisp_cmd557xx00"
+T0 0 -28 1.5 1.5 0 0.3 N V 21 N "DISP***"
+T1 0 28 1.5 1.5 0 0.3 N V 21 N "dotdisp_cmd557xx00"
 DS -15.7 26.5 -18.9 23.3 0.3 21
 DS -18.9 23.7 -16.1 26.5 0.3 21
 DS -18.9 26.1 -18.5 26.5 0.3 21
@@ -852,14 +1012,14 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE dotdisp_cmd557xx00
 $MODULE lcd_16x2
-Po 0 0 0 15 52CA79B8 00000000 ~~
+Po 0 0 0 15 532D9924 00000000 ~~
 Li lcd_16x2
 Cd LCD Module, 16x2
 Sc 0
 AR lcd_mtc20400
 Op 0 0 0
-T0 0 5.00126 1.524 1.524 0 0.3048 N V 21 N "lcd_16x2"
-T1 0 -5.00126 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+T0 0 5.00126 1.5 1.5 0 0.3 N V 21 N "lcd_16x2"
+T1 0 -5.00126 1.5 1.5 0 0.3 N V 21 N "VAL**"
 DC -37.7 -15.7 -41.2 -15.7 0.3048 21
 DC 37.7 -15.7 41.2 -15.7 0.3048 21
 DC 37.7 15.7 41.2 15.7 0.3048 21
@@ -1024,14 +1184,14 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE lcd_16x2
 $MODULE lcd_20x4
-Po 0 0 0 15 52CA7AD2 00000000 ~~
+Po 0 0 0 15 532D9915 00000000 ~~
 Li lcd_20x4
 Cd LCD Module, 20x4
 Sc 0
 AR lcd_mtc20400
 Op 0 0 0
-T0 0 5.00126 1.524 1.524 0 0.3048 N V 21 N "lcd_20x4"
-T1 0 -5.00126 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+T0 0 5.00126 1.5 1.5 0 0.3 N V 21 N "lcd_20x4"
+T1 0 -5.00126 1.5 1.5 0 0.3 N V 21 N "VAL**"
 DC -46.49978 -27.50058 -49.9999 -27.50058 0.3048 21
 DC 46.49978 -27.50058 49.9999 -27.50058 0.3048 21
 DC 46.49978 27.50058 49.9999 27.50058 0.3048 21
@@ -1196,14 +1356,14 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE lcd_20x4
 $MODULE lcd_g-128x64
-Po 0 0 0 15 52CA7B1B 00000000 ~~
+Po 0 0 0 15 532D98FC 00000000 ~~
 Li lcd_g-128x64
 Cd LCD Graphic Module, 128x64
 Sc 0
 AR lcd_mtc20400
 Op 0 0 0
-T0 0 5.00126 1.524 1.524 0 0.3048 N V 21 N "lcd_g-128x64"
-T1 0 -5.00126 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+T0 0 5.00126 1.5 1.5 0 0.3 N V 21 N "lcd_g-128x64"
+T1 0 -5.00126 1.5 1.5 0 0.3 N V 21 N "VAL**"
 DS -35.99942 -19.49958 35.99942 -19.49958 0.29972 21
 DS 35.99942 -19.49958 35.99942 19.49958 0.29972 21
 DS 35.99942 19.49958 -35.99942 19.49958 0.29972 21
@@ -1396,15 +1556,15 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE lcd_g-128x64
 $MODULE led_10mm_clear
-Po 0 0 0 15 503A0DF9 00000000 ~~
+Po 0 0 0 15 532D9A4C 00000000 ~~
 Li led_10mm_clear
 Cd 10mm (T-3) clear led
 Kw led
 Sc 0
 AR led_5mm_clear
 Op 0 0 0
-T0 0 7.00024 1.524 1.524 0 0.3048 N V 21 N "led_10mm_clear"
-T1 0 -6.59892 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+T0 0 7 1.5 1.5 0 0.3 N V 21 N "led_10mm_clear"
+T1 0 -7 1.5 1.5 0 0.3 N V 21 N "VAL**"
 DA 0 0 5.00126 -2.28092 900 0.29972 21
 DS -2.30124 5.00888 2.30124 5.00888 0.29972 21
 DA 0 0 -2.30124 5.00126 900 0.29972 21
@@ -1426,22 +1586,22 @@ Ne 0 ""
 Po 0 1.27
 $EndPAD
 $SHAPE3D
-Na "walter/indicators/led_5mm_clear.wrl"
+Na "walter/indicators/led_10mm_clear.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE led_10mm_clear
 $MODULE led_10mm_green
-Po 0 0 0 15 503A0FE8 00000000 ~~
+Po 0 0 0 15 532D9A0D 00000000 ~~
 Li led_10mm_green
 Cd 10mm (T-3) green led
 Kw led
 Sc 0
 AR led_5mm_clear
 Op 0 0 0
-T0 0 6.9977 1.524 1.524 0 0.3048 N V 21 N "led_10mm_green"
-T1 0 -6.59892 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+T0 0 7 1.5 1.5 0 0.3 N V 21 N "led_10mm_green"
+T1 0 -7 1.5 1.5 0 0.3 N V 21 N "VAL**"
 DA 0 0 5.00126 -2.28092 900 0.29972 21
 DS -2.30124 5.00888 2.30124 5.00888 0.29972 21
 DA 0 0 -2.30124 5.00126 900 0.29972 21
@@ -1470,15 +1630,15 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE led_10mm_green
 $MODULE led_10mm_red
-Po 0 0 0 15 503A0FE8 00000000 ~~
+Po 0 0 0 15 532D9A3A 00000000 ~~
 Li led_10mm_red
 Cd 10mm (T-3) red led
 Kw led
 Sc 0
 AR led_5mm_clear
 Op 0 0 0
-T0 0 6.9977 1.524 1.524 0 0.3048 N V 21 N "led_10mm_red"
-T1 0 -6.59892 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+T0 0 7 1.5 1.5 0 0.3 N V 21 N "led_10mm_red"
+T1 0 -7 1.5 1.5 0 0.3 N V 21 N "VAL**"
 DA 0 0 5.00126 -2.28092 900 0.29972 21
 DS -2.30124 5.00888 2.30124 5.00888 0.29972 21
 DA 0 0 -2.30124 5.00126 900 0.29972 21
@@ -1507,15 +1667,15 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE led_10mm_red
 $MODULE led_10mm_yellow
-Po 0 0 0 15 503A0FE8 00000000 ~~
+Po 0 0 0 15 532D9A25 00000000 ~~
 Li led_10mm_yellow
 Cd 10mm (T-3) yellow led
 Kw led
 Sc 0
 AR led_5mm_clear
 Op 0 0 0
-T0 0 6.9977 1.524 1.524 0 0.3048 N V 21 N "led_10mm_yellow"
-T1 0 -6.59892 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+T0 0 7 1.5 1.5 0 0.3 N V 21 N "led_10mm_yellow"
+T1 0 -7 1.5 1.5 0 0.3 N V 21 N "VAL**"
 DA 0 0 5.00126 -2.28092 900 0.29972 21
 DS -2.30124 5.00888 2.30124 5.00888 0.29972 21
 DA 0 0 -2.30124 5.00126 900 0.29972 21
@@ -1544,15 +1704,15 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE led_10mm_yellow
 $MODULE led_3mm_clear
-Po 0 0 0 15 5036A37E 00000000 ~~
+Po 0 0 0 15 532D9ABA 00000000 ~~
 Li led_3mm_clear
-Cd 3mm (T-1) clear led
+Cd 3mm clear led
 Kw led
 Sc 0
 AR led_3mm_clear
 Op 0 0 0
-T0 0 3.81 1.524 1.524 0 0.3048 N V 21 N "led_3mm_clear"
-T1 0 -3.81 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+T0 0 3.5 1 1 0 0.2 N V 21 N "led_3mm_clear"
+T1 0 -3.5 1 1 0 0.2 N V 21 N "VAL**"
 DA 0 0 1.50876 -1.31064 900 0.29972 21
 DA 0 0 -1.33096 1.50114 900 0.29972 21
 DA 0 0 0 -1.99898 900 0.29972 21
@@ -1582,15 +1742,15 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE led_3mm_clear
 $MODULE led_3mm_green
-Po 0 0 0 15 5036A37E 00000000 ~~
+Po 0 0 0 15 532D9AE7 00000000 ~~
 Li led_3mm_green
-Cd 3mm (T-1) green led
+Cd 3mm green led
 Kw led
 Sc 0
-AR led_3mm_clear
+AR led_3mm_green
 Op 0 0 0
-T0 0 3.81 1.524 1.524 0 0.3048 N V 21 N "led_3mm_green"
-T1 0 -3.81 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+T0 0 3.5 1 1 0 0.2 N V 21 N "led_3mm_green"
+T1 0 -3.5 1 1 0 0.2 N V 21 N "VAL**"
 DA 0 0 1.50876 -1.31064 900 0.29972 21
 DA 0 0 -1.33096 1.50114 900 0.29972 21
 DA 0 0 0 -1.99898 900 0.29972 21
@@ -1620,15 +1780,15 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE led_3mm_green
 $MODULE led_3mm_red
-Po 0 0 0 15 5036A37E 00000000 ~~
+Po 0 0 0 15 532D9AC8 00000000 ~~
 Li led_3mm_red
-Cd 3mm (T-1) red led
+Cd 3mm red led
 Kw led
 Sc 0
-AR led_3mm_clear
+AR led_3mm_red
 Op 0 0 0
-T0 0 3.81 1.524 1.524 0 0.3048 N V 21 N "led_3mm_red"
-T1 0 -3.81 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+T0 0 3.5 1 1 0 0.2 N V 21 N "led_3mm_red"
+T1 0 -3.5 1 1 0 0.2 N V 21 N "VAL**"
 DA 0 0 1.50876 -1.31064 900 0.29972 21
 DA 0 0 -1.33096 1.50114 900 0.29972 21
 DA 0 0 0 -1.99898 900 0.29972 21
@@ -1658,15 +1818,15 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE led_3mm_red
 $MODULE led_3mm_yellow
-Po 0 0 0 15 5036A37E 00000000 ~~
+Po 0 0 0 15 532D9AD9 00000000 ~~
 Li led_3mm_yellow
-Cd 3mm (T-1) yellow led
+Cd 3mm yellow led
 Kw led
 Sc 0
-AR led_3mm_clear
+AR led_3mm_yellow
 Op 0 0 0
-T0 0 3.81 1.524 1.524 0 0.3048 N V 21 N "led_3mm_yellow"
-T1 0 -3.81 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+T0 0 3.5 1 1 0 0.2 N V 21 N "led_3mm_yellow"
+T1 0 -3.5 1 1 0 0.2 N V 21 N "VAL**"
 DA 0 0 1.50876 -1.31064 900 0.29972 21
 DA 0 0 -1.33096 1.50114 900 0.29972 21
 DA 0 0 0 -1.99898 900 0.29972 21
@@ -1696,15 +1856,15 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE led_3mm_yellow
 $MODULE led_5mm_clear
-Po 0 0 0 15 5039F53A 00000000 ~~
+Po 0 0 0 15 532D9A66 00000000 ~~
 Li led_5mm_clear
-Cd 5mm (T-1 3/4) clear led
+Cd 5mm clear led
 Kw led
 Sc 0
 AR led_5mm_clear
 Op 0 0 0
-T0 0 3.81 1.524 1.524 0 0.3048 N V 21 N "led_5mm_clear"
-T1 0 -3.81 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+T0 0 4 1 1 0 0.2 N V 21 N "led_5mm_clear"
+T1 0 -4 1 1 0 0.2 N V 21 N "VAL**"
 DS -1.47066 2.49936 1.47066 2.49936 0.29972 21
 DA 0 0 2.4892 -1.49098 900 0.29972 21
 DA 0 0 -1.47066 2.49936 900 0.29972 21
@@ -1733,15 +1893,15 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE led_5mm_clear
 $MODULE led_5mm_green
-Po 0 0 0 15 5039F53A 00000000 ~~
+Po 0 0 0 15 532D9A94 00000000 ~~
 Li led_5mm_green
-Cd 5mm (T-1 3/4) green led
+Cd 5mm green led
 Kw led
 Sc 0
-AR led_5mm_clear
+AR led_5mm_green
 Op 0 0 0
-T0 0 3.81 1.524 1.524 0 0.3048 N V 21 N "led_5mm_green"
-T1 0 -3.81 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+T0 0 4 1 1 0 0.2 N V 21 N "led_5mm_green"
+T1 0 -4 1 1 0 0.2 N V 21 N "VAL**"
 DS -1.47066 2.49936 1.47066 2.49936 0.29972 21
 DA 0 0 2.4892 -1.49098 900 0.29972 21
 DA 0 0 -1.47066 2.49936 900 0.29972 21
@@ -1770,15 +1930,15 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE led_5mm_green
 $MODULE led_5mm_red
-Po 0 0 0 15 5039F5FC 00000000 ~~
+Po 0 0 0 15 532D9A75 00000000 ~~
 Li led_5mm_red
-Cd 5mm (T-1 3/4) red led
+Cd 5mm red led
 Kw led
 Sc 0
-AR led_5mm_clear
+AR led_5mm_red
 Op 0 0 0
-T0 0 3.81 1.524 1.524 0 0.3048 N V 21 N "led_5mm_red"
-T1 0 -3.81 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+T0 0 4 1 1 0 0.2 N V 21 N "led_5mm_red"
+T1 0 -4 1 1 0 0.2 N V 21 N "VAL**"
 DS -1.47066 2.49936 1.47066 2.49936 0.29972 21
 DA 0 0 2.4892 -1.49098 900 0.29972 21
 DA 0 0 -1.47066 2.49936 900 0.29972 21
@@ -1807,15 +1967,15 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE led_5mm_red
 $MODULE led_5mm_yellow
-Po 0 0 0 15 5039F61B 00000000 ~~
+Po 0 0 0 15 532D9A85 00000000 ~~
 Li led_5mm_yellow
-Cd 5mm (T-1 3/4) yellow led
+Cd 5mm yellow led
 Kw led
 Sc 0
-AR led_5mm_clear
+AR led_5mm_yellow
 Op 0 0 0
-T0 0 3.81 1.524 1.524 0 0.3048 N V 21 N "led_5mm_yellow"
-T1 0 -3.81 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+T0 0 4 1 1 0 0.2 N V 21 N "led_5mm_yellow"
+T1 0 -4 1 1 0 0.2 N V 21 N "VAL**"
 DS -1.47066 2.49936 1.47066 2.49936 0.29972 21
 DA 0 0 2.4892 -1.49098 900 0.29972 21
 DA 0 0 -1.47066 2.49936 900 0.29972 21
@@ -1843,4 +2003,176 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE led_5mm_yellow
+$MODULE w_indicators:lcd_16x2_nmtc-s16205dfyhsay
+Po 0 0 0 15 532EDC89 00000000 ~~
+Li w_indicators:lcd_16x2_nmtc-s16205dfyhsay
+Cd LCD Module, 16x2, Microtips NMTC-S16205DFYHSAY
+Sc 0
+AR 
+Op 0 0 0
+T0 0 5.00126 1.524 1.524 0 0.3048 N V 21 N "lcd_16x2_nmtc-s16205dfyhsay"
+T1 0 -5.00126 1.524 1.524 1800 0.3048 N V 21 N "VAL**"
+DC -37.5 -15.5 -41 -15.5 0.3048 21
+DC 37.5 -15.5 41 -15.5 0.3048 21
+DC 37.5 15.5 41 15.5 0.3048 21
+DC -37.5 15.5 -41 15.5 0.3048 21
+DS -34.45 -13 34.45 -13 0.3048 21
+DS 34.45 -13 34.45 13 0.3048 21
+DS 34.45 13 -34.45 13 0.3048 21
+DS -34.45 13 -34.45 -13 0.3048 21
+DS -32.3 -8.2 -32.3 8.2 0.3048 21
+DS -32.3 8.2 32.3 8.2 0.3048 21
+DS 32.3 8.2 32.3 -8.2 0.3048 21
+DS 32.3 -8.2 -32.3 -8.2 0.3048 21
+DS -40 -18 40 -18 1.00076 21
+DS 40 -18 40 18 1.00076 21
+DS 40 18 -40 18 1.00076 21
+DS -40 18 -40 -18 1.00076 21
+$PAD
+Sh "" C 3.5 3.5 0 0 0
+Dr 3.5 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -37.5 -15.5
+$EndPAD
+$PAD
+Sh "" C 3.5 3.5 0 0 0
+Dr 3.5 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 37.5 -15.5
+$EndPAD
+$PAD
+Sh "" C 3.5 3.5 0 0 0
+Dr 3.5 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 37.5 15.5
+$EndPAD
+$PAD
+Sh "" C 3.5 3.5 0 0 0
+Dr 3.5 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -37.5 15.5
+$EndPAD
+$PAD
+Sh "14" O 1.5 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.02 15.5
+$EndPAD
+$PAD
+Sh "13" O 1.5 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.52 15.5
+$EndPAD
+$PAD
+Sh "12" O 1.5 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4.06 15.5
+$EndPAD
+$PAD
+Sh "11" O 1.5 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.6 15.5
+$EndPAD
+$PAD
+Sh "10" O 1.5 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9.14 15.5
+$EndPAD
+$PAD
+Sh "9" O 1.5 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.68 15.5
+$EndPAD
+$PAD
+Sh "8" O 1.5 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14.22 15.5
+$EndPAD
+$PAD
+Sh "7" O 1.5 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.76 15.5
+$EndPAD
+$PAD
+Sh "6" O 1.5 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.3 15.5
+$EndPAD
+$PAD
+Sh "5" O 1.5 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21.84 15.5
+$EndPAD
+$PAD
+Sh "4" O 1.5 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -24.38 15.5
+$EndPAD
+$PAD
+Sh "3" O 1.5 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -26.92 15.5
+$EndPAD
+$PAD
+Sh "2" O 1.5 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -29.46 15.5
+$EndPAD
+$PAD
+Sh "1" O 1.5 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -32 15.5
+$EndPAD
+$PAD
+Sh "15" O 1.5 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.56 15.5
+$EndPAD
+$PAD
+Sh "16" O 1.5 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.1 15.5
+$EndPAD
+$SHAPE3D
+Na "walter/indicators/lcd_16x2_nmtc-s16205dfyhsay.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE w_indicators:lcd_16x2_nmtc-s16205dfyhsay
 $EndLIBRARY

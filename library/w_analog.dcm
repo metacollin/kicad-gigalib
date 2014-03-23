@@ -1,17 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 78XX
-D 78xx 1A Linear Regulator, TO package
-$ENDCMP
-#
-$CMP 78XX-DPAK
-D 78xx 1A Linear Regulator, DPAK package
-$ENDCMP
-#
-$CMP 78XX-SO
-D 78xx 100mA Linear Regulator, SO package
-$ENDCMP
-#
 $CMP AD5320-MSOP
 D 12 bit RRO DAC, MSOP-8
 K DAC AD5320
@@ -30,12 +18,6 @@ $ENDCMP
 $CMP ADP3110A
 D Half-Bridge Mosfet driver
 F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ON_ADP3110A.pdf
-$ENDCMP
-#
-$CMP CS434X
-D 10-pin, 24-Bit, 192 kHz Stereo D/A Converter
-K DAC CS4344 CS4345 CS4346 CS4348
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/AD-DA/CIL_CS434x.pdf
 $ENDCMP
 #
 $CMP CS9236L
@@ -85,26 +67,6 @@ D Current controller for stepping motor
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ST_L6506.pdf
 $ENDCMP
 #
-$CMP LFXX-DPAK
-D LFxx 500mA very low drop Linear Regulator, D-PAK package
-F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/ST_LF00.pdf
-$ENDCMP
-#
-$CMP LFXX-PENTAWATT
-D LFxx 500mA very low drop Linear Regulator, Pentawatt Package
-F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/ST_LF00.pdf
-$ENDCMP
-#
-$CMP LFXX-PPAK
-D LFxx 500mA very low drop Linear Regulator, PPAK Package
-F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/ST_LF00.pdf
-$ENDCMP
-#
-$CMP LFXX-TO220
-D LFxx 500mA very low drop Linear Regulator, TO220 package
-F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/ST_LF00.pdf
-$ENDCMP
-#
 $CMP LM1117-SOT
 D 800mA Low Dropout Linear Regulator, SOT packages
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_LM1117.pdf
@@ -127,7 +89,12 @@ $ENDCMP
 #
 $CMP LM2731
 D 0.6/1.6 MHz Boost Converters With 22V Internal FET Switch in SOT-23
-F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/NSC_LM2731.pdf
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/NSC_LM2731.pdf
+$ENDCMP
+#
+$CMP LM2734
+D Thin SOT 1A Load Step-Down DC-DC Regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/TI_LM2734.pdf
 $ENDCMP
 #
 $CMP LM311
@@ -203,6 +170,11 @@ D 1A Buck-Boost DC/DC converter with programmable input current limit
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/LT_LTC3127.pdf
 $ENDCMP
 #
+$CMP LTC4267-SSOP
+D Power over Ethernet IEEE 802.3af PD interface with integrated switching regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/LTC_LTC4267.pdf
+$ENDCMP
+#
 $CMP MAX1684
 D Low-Noise, 14V Input, 1A, PWM Step-Down Converter
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/MAX_MAX1684-1685.pdf
@@ -221,14 +193,6 @@ $ENDCMP
 $CMP MC34167
 D 5A step up/down/inverting switching regulator
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/ON_MC34167.pdf
-$ENDCMP
-#
-$CMP MCAXXDXXD
-D Dual output DC/DC converters, DIP package
-$ENDCMP
-#
-$CMP MCAXXDXXS
-D Dual output DC/DC converters, SIP package
 $ENDCMP
 #
 $CMP MCP1702_SOT
@@ -257,12 +221,6 @@ $CMP MCP3008
 D 2.7V 8 Channel 10-Bit A/D Converter with SPI Serial Interface
 K ADC MCP3008
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/AD-DA/MCIP_MCP3004-3008.pdf
-$ENDCMP
-#
-$CMP MCP48X2
-D 8/10/12-Bit Dual Voltage Output Digital-to-Analog Converter with Internal VREF and SPI Interface
-K DAC MCP4802 MCP4812 MCP4822
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/AD-DA/MCIP_MCP48x2.pdf
 $ENDCMP
 #
 $CMP MCP601-DIL
@@ -343,7 +301,37 @@ $ENDCMP
 #
 $CMP TL431
 D Programmable shunt regulator
-F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/FCD_TL431.pdf
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/FCD_TL431.pdf
+$ENDCMP
+#
+$CMP TLV431-D
+D Low-Voltage adjustable precision shunt regulator, SOIC-8 package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_TLV431.pdf
+$ENDCMP
+#
+$CMP TLV431-DBV
+D Low-Voltage adjustable precision shunt regulator, SOT23-5 package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_TLV431.pdf
+$ENDCMP
+#
+$CMP TLV431-DBZ
+D Low-Voltage adjustable precision shunt regulator, SOT23 package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_TLV431.pdf
+$ENDCMP
+#
+$CMP TLV431-DCK
+D Low-Voltage adjustable precision shunt regulator, SC70-6 package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_TLV431.pdf
+$ENDCMP
+#
+$CMP TLV431-LP
+D Low-Voltage adjustable precision shunt regulator, TO92 package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_TLV431.pdf
+$ENDCMP
+#
+$CMP TLV431-PK
+D Low-Voltage adjustable precision shunt regulator, SOT89 package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_TLV431.pdf
 $ENDCMP
 #
 $CMP TMP3x
@@ -379,6 +367,7 @@ $ENDCMP
 #
 $CMP ULN2803
 D Darlington Transistor array
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/TI_ULN2803A.pdf
 $ENDCMP
 #
 $CMP VNH5019A-E

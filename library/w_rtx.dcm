@@ -1,28 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP ANAREN_A1101R04C
-D Anaren A1101R04C Wireless transceiver
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/Anaren/A1101R04C_Users_Manual.pdf
-$ENDCMP
-#
-$CMP ANAREN_A1101R08
-D Anaren A1101R08x Wireless transceiver
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/Anaren/A1101R08x_Users_Manual.pdf
-$ENDCMP
-#
-$CMP ANAREN_A1101R09
-D Anaren A1101R09x Wireless transceiver
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/Anaren/A1101R09x_Users_Manual.pdf
-$ENDCMP
-#
-$CMP ANAREN_A110LR09
-D Anaren A110LR09x Wireless transceiver
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/Anaren/A110LR09x_Users_Manual.pdf
-$ENDCMP
-#
-$CMP ANAREN_A2500R24
-D Anaren A2500R24x Wireless transceiver
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/Anaren/A2500R24x_Users_Manual.pdf
+$CMP 8Devices_Carambola2
+D 8Devices Carambola 2 802.11 b/g/n Wireless Network module
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/8DEV_CARAMBOLA2.pdf
 $ENDCMP
 #
 $CMP ANAREN_A8520E24A91
@@ -162,6 +142,16 @@ D Remote 8-bit I/O expander for I2C-bus
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/NXP_PCF8574.pdf
 $ENDCMP
 #
+$CMP Panasonic_PAN131x
+D Panasonic PAN131x Bluetooth module
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/PSNC_PAN13xx.pdf
+$ENDCMP
+#
+$CMP Panasonic_PAN132x
+D Panasonic PAN131x Bluetooth module
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/PSNC_PAN13xx.pdf
+$ENDCMP
+#
 $CMP QM-5767-F00
 D QM-5767-F00 FM digital tuner
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/XXX_QM-5767-F00.pdf
@@ -177,8 +167,14 @@ D RFM22B Universal ISM band FSK transceiver
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/HOPE_RFM22B.pdf
 $ENDCMP
 #
-$CMP ROVING_RN-131
-D Roving Networks RN-131 802.11 b/g Wireless LAN  module
+$CMP Roving_RN-42
+D Roving Bluetooth module
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/ROVING_RN-42.pdf
+$ENDCMP
+#
+$CMP Roving_RN-42-N
+D Roving Bluetooth module
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/ROVING_RN-42.pdf
 $ENDCMP
 #
 $CMP SC16IS740
@@ -206,10 +202,6 @@ D 3.0V to 5.5V RS-232 Transceivers with Auto On-Line Plus
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/EXAR_SP322xE.pdf
 $ENDCMP
 #
-$CMP TELIT_GL865
-D Telit GL865 GSM/GPRS module
-$ENDCMP
-#
 $CMP TXS0102-BGA
 D 2-bit bidirectional Voltage-Level translator for Open-Drain and Push-Pull applications
 F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/TI_TXS0102.pdf
@@ -223,6 +215,11 @@ $ENDCMP
 $CMP TXS0102-QFN
 D 2-bit bidirectional Voltage-Level translator for Open-Drain and Push-Pull applications
 F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/TI_TXS0102.pdf
+$ENDCMP
+#
+$CMP W5500
+D Hardwired TCP/IP embedded ethernet controller
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/WIZ_W5500.pdf
 $ENDCMP
 #
 $CMP XR20M1170-16QFN

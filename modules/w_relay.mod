@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  dom 10 nov 2013 16:25:08 CET
+PCBNEW-LibModule-V1  dom 23 mar 2014 13:02:07 CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -37,6 +37,7 @@ relay_gq-smd-s
 relay_hb
 relay_hjr-3ff_h
 relay_hjr-3ff_z
+relay_js-k
 relay_t9as1x1
 relay_t9as2x1
 relay_t9as5x1
@@ -2982,6 +2983,74 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE relay_hjr-3ff_z
+$MODULE relay_js-k
+Po 0 0 0 15 52FFB429 00000000 ~~
+Li relay_js-k
+Cd relay, JS-K series, SPDT
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -6.5 1.524 1.524 0 0.3048 N V 21 N "RLY***"
+T1 0 6.7 1.524 1.524 0 0.3048 N V 21 N "relay_JS-K"
+DS 12.9 3.8 12.9 0.8 0.254 21
+DS 12.9 0.8 9.9 0.8 0.254 21
+DS 6.5 3.8 6.5 0.8 0.254 21
+DS 6.5 0.8 9.2 0.8 0.254 21
+DS 9.7 -3.8 9.7 -1 0.254 21
+DS 9.7 -1 8.8 1 0.254 21
+DS 14.5 -5.15 -14.5 -5.15 0.254 21
+DS -14.5 -5.15 -14.5 5.15 0.254 21
+DS -14.5 5.15 14.5 5.15 0.254 21
+DS 14.5 5.15 14.5 -5.15 0.254 21
+DS -12.4 3.81 -12.4 0.762 0.3048 21
+DS -12.4 -3.81 -12.4 -0.762 0.3048 21
+DS -13.4 0.762 -11.4 -0.762 0.3048 21
+DS -13.4 -0.762 -11.4 -0.762 0.3048 21
+DS -11.4 -0.762 -11.4 0.762 0.3048 21
+DS -11.4 0.762 -13.4 0.762 0.3048 21
+DS -13.4 0.762 -13.4 -0.762 0.3048 21
+$PAD
+Sh "3" C 2.3 2.3 0 0 0
+Dr 1.3 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.4 3.81
+$EndPAD
+$PAD
+Sh "2" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.5 3.81
+$EndPAD
+$PAD
+Sh "1" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.9 3.81
+$EndPAD
+$PAD
+Sh "5" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9.7 -3.81
+$EndPAD
+$PAD
+Sh "4" C 2.3 2.3 0 0 0
+Dr 1.3 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.4 -3.81
+$EndPAD
+$SHAPE3D
+Na "walter/relay/relay_JS-K.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE relay_js-k
 $MODULE relay_t9as1x1
 Po 0 0 0 15 513123D0 00000000 ~~
 Li relay_t9as1x1

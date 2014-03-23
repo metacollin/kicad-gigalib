@@ -3,16 +3,83 @@ Kicad Libraries Changelog
 + = added  - = removed  M = modified  R = moved to another library  A = moved from another library
 Dates are in YYYYMMDD format
 
-#201402
+#20140323
   M lib_w_analog
+    + ltc4267-ssop
+    + ltc4267-dfn
+    + tlv431-d
+    + tlv431-dbv
+    + tlv431-dbz
+    + tlv431-dck
+    + tlv431-lp
+    + tlv431-pk
     + tmp3x
+  M lib_w_connectors
+    + dc_jack
+    + rj45_wurth-7499211122A
+  M lib_w_device
+    + si3440dv
+    + trasf_pa1130nl
+    + trasf_pa1131nl
+    + trasf_pa1132nl
+    + trasf_pa1133nl
+    + trasf_pa1134nl
+    + trasf_pa1135nl
+    + trasf_pa1179nl
+    + trasf_pa1180nl
+    + trasf_pa1181nl
+    + trasf_pa1182nl
+    + trasf_pa1183nl
+    + trasf_pa1184nl
+    + vbt2045c
+  M lib_w_logic
+    + max7219
+    + max7221
+  M lib_w_microcontrollers
+    + cat811
+    + cat812
+  M lib_w_opto
+    + sa50-xxxxx
   M lib_w_rtx
+    + 8devices_carambola2
     + max3030e
     + max3031e
     + max3032e
     + max3033e
     + max3093e
     + max3094e
+    + panasonic_pan131x
+    + panasonic_pan132x
+    + roving_rn-42
+    + roving_rn-42-n
+    + w5500
+  M mod_conn_d-sub
+    + db_37f
+  M mod_conn_misc
+    + dc_socket_rh
+  + mod_conn_mkds
+  M mod_conn_pc
+    + rj45_wurth-7499211122a
+  M mod_indicators
+    + 7segdisp_sa50
+    + lcd_16x2_nmtc-s16205dfyhsay
+  M mod_relay
+    + relay_js-k
+  M mod_rf_modules
+    + 8devices_carambola2
+    + panasonic_pan131x
+    + panasonic_pan132x
+    + roving_rn-42
+    + roving_rn-42-n
+  M mod_smd_dil
+    + mfp_4
+    + smd_4
+    + tsoc-6
+  M mod_smd_inductors
+    + inductor_smd_6.5x4.8mm
+    + transf_smd_ep7-8
+    + transf_smd_ep10-8
+    + transf_smd_ep13-10
 
 #20140127
   M lib_w_device

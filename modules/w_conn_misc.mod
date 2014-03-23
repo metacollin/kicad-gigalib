@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  sab 12 ott 2013 21:15:52 CEST
+PCBNEW-LibModule-V1  dom 23 mar 2014 13:41:38 CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -10,6 +10,7 @@ arduino_mega_header
 arduino_nano_header
 arduino_pin_socket_8
 dc_socket
+dc_socket_rh
 microsd_socket
 molex_6p6c
 sd_socket
@@ -1648,6 +1649,153 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE dc_socket
+$MODULE dc_socket_rh
+Po 0 0 0 15 52FF6C8D 00000000 ~~
+Li dc_socket_rh
+Cd Socket, DC power supply, round holes
+Sc 0
+AR 
+Op 0 0 0
+T0 0 8.6995 1.524 1.524 0 0.3048 N V 21 N "dc_socket_rh"
+T1 0 -8.60044 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS -4.50088 2.79908 4.50088 2.79908 0.381 21
+DS -4.5 7.5 4.5 7.5 0.381 21
+DS 4.50088 7.29996 4.50088 -7.29996 0.381 21
+DS 4.50088 -7.29996 -4.50088 -7.29996 0.381 21
+DS -4.50088 -7.29996 -4.50088 7.29996 0.381 21
+$PAD
+Sh "1" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po 5 -4.4
+$EndPAD
+$PAD
+Sh "1" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po 5 -3.65
+$EndPAD
+$PAD
+Sh "1" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po 5 -2.95
+$EndPAD
+$PAD
+Sh "3" O 4.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00A00001
+Ne 0 ""
+Po 0 -6.3
+$EndPAD
+$PAD
+Sh "3" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po 0.35 -6.3
+$EndPAD
+$PAD
+Sh "3" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po -1.1 -6.3
+$EndPAD
+$PAD
+Sh "3" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po 1.1 -6.3
+$EndPAD
+$PAD
+Sh "3" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po -0.35 -6.3
+$EndPAD
+$PAD
+Sh "3" O 4.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00A08000
+Ne 0 ""
+Po 0 -6.3
+$EndPAD
+$PAD
+Sh "1" O 2 4.2 0 0 0
+Dr 0 0 0
+At SMD N 00A08000
+Ne 0 ""
+Po 5 -3.3
+$EndPAD
+$PAD
+Sh "2" O 4.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00A08000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "2" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po -0.35 0
+$EndPAD
+$PAD
+Sh "2" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po 1.1 0
+$EndPAD
+$PAD
+Sh "2" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po -1.1 0
+$EndPAD
+$PAD
+Sh "2" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po 0.35 0
+$EndPAD
+$PAD
+Sh "2" O 4.2 2 0 0 0
+Dr 0 0 0
+At SMD N 00A00001
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "1" O 2 4.2 0 0 0
+Dr 0 0 0
+At SMD N 00A00001
+Ne 0 ""
+Po 5 -3.3
+$EndPAD
+$PAD
+Sh "1" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po 5 -2.2
+$EndPAD
+$SHAPE3D
+Na "walter/conn_misc/dc_socket.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE dc_socket_rh
 $MODULE microsd_socket
 Po 0 0 0 15 515DDC2E 00000000 ~~
 Li microsd_socket

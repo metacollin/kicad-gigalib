@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  dom 12 gen 2014 19:55:33 CET
+PCBNEW-LibModule-V1  dom 23 mar 2014 12:59:38 CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -8,10 +8,14 @@ inductor_smd_0805
 inductor_smd_1008
 inductor_smd_4.8x2.8mm
 inductor_smd_5.8x2.8mm
+inductor_smd_6.5x4.8mm
 inductor_smd_8x5mm
 inductor_smd_do3316p
 inductor_smd_pm2120
 inductor_smd_ser2900
+transf_smd_ep10-8
+transf_smd_ep13-10
+transf_smd_ep7-8
 $EndINDEX
 $MODULE inductor_smd_0402
 Po 0 0 0 15 50CC79BA 00000000 ~~
@@ -238,6 +242,46 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE inductor_smd_5.8x2.8mm
+$MODULE inductor_smd_6.5x4.8mm
+Po 0 0 0 15 5300CA9D 00000000 ~~
+Li inductor_smd_6.5x4.8mm
+Cd Inductor SMD, 6.5mm x h.4.8mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -4.50088 0.99822 0.99822 0 0.19812 N V 21 N "L***"
+T1 0 4.7498 0.99822 0.99822 0 0.19812 N V 21 N "inductor_smd_6.5x4.8mm"
+DC 0 0 2.5 0 0.381 21
+DA 3.1 3.1 3.3 3.1 900 0.381 21
+DA -3.1 3.1 -3.1 3.3 900 0.381 21
+DA -3.1 -3.1 -3.3 -3.1 900 0.381 21
+DA 3.1 -3.1 3.1 -3.3 900 0.381 21
+DS -3.3 3.1 -3.3 -3.1 0.381 21
+DS 3.1 3.3 -3.1 3.3 0.381 21
+DS 3.3 -3.1 3.3 3.1 0.381 21
+DS -3.1 -3.3 3.1 -3.3 0.381 21
+DC 0 -1.74968 0 -1.50076 0.381 21
+$PAD
+Sh "1" R 2.5 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -3
+$EndPAD
+$PAD
+Sh "2" R 2.5 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 3
+$EndPAD
+$SHAPE3D
+Na "walter/smd_inductors/inductor_smd_6.5x4.8mm.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE inductor_smd_6.5x4.8mm
 $MODULE inductor_smd_8x5mm
 Po 0 0 0 15 4FB4C35D 00000000 ~~
 Li inductor_smd_8x5mm
@@ -408,4 +452,246 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE inductor_smd_ser2900
+$MODULE transf_smd_ep10-8
+Po 0 0 0 15 530090A5 00000000 ~~
+Li transf_smd_ep10-8
+Cd Transformer SMD, EP10-8 model
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.1 -9.9 1.524 1.524 0 0.3048 N V 21 N "transf_smd_EP10-8"
+T1 0 9.4 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS -6.6 5.4 6.6 5.4 0.381 21
+DS 6.6 5.4 6.6 -5.4 0.381 21
+DS 6.6 -5.4 -6.6 -5.4 0.381 21
+DS -6.6 -5.4 -6.6 5.4 0.381 21
+$PAD
+Sh "1" R 1.27 2.54 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.75 6.605
+$EndPAD
+$PAD
+Sh "2" R 1.27 2.54 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.25 6.605
+$EndPAD
+$PAD
+Sh "3" R 1.27 2.54 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.25 6.605
+$EndPAD
+$PAD
+Sh "4" R 1.27 2.54 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.75 6.605
+$EndPAD
+$PAD
+Sh "5" R 1.27 2.54 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.75 -6.605
+$EndPAD
+$PAD
+Sh "6" R 1.27 2.54 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.25 -6.605
+$EndPAD
+$PAD
+Sh "7" R 1.27 2.54 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.25 -6.605
+$EndPAD
+$PAD
+Sh "8" R 1.27 2.54 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.75 -6.605
+$EndPAD
+$SHAPE3D
+Na "walter/smd_inductors/transf_smd_ep10-8.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE transf_smd_ep10-8
+$MODULE transf_smd_ep13-10
+Po 0 0 0 15 53009105 00000000 ~~
+Li transf_smd_ep13-10
+Cd Transformer SMD, EP13-10 model
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -10.8 1.524 1.524 0 0.3048 N V 21 N "transf_smd_EP13-10"
+T1 0 10.6 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS -7 7 7 7 0.381 21
+DS 7 7 7 -7 0.381 21
+DS 7 -7 -7 -7 0.381 21
+DS -7 -7 -7 7 0.381 21
+$PAD
+Sh "1" R 1.22 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5 7.88
+$EndPAD
+$PAD
+Sh "2" R 1.22 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.5 7.88
+$EndPAD
+$PAD
+Sh "3" R 1.22 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 7.88
+$EndPAD
+$PAD
+Sh "4" R 1.22 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.5 7.88
+$EndPAD
+$PAD
+Sh "5" R 1.22 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5 7.88
+$EndPAD
+$PAD
+Sh "6" R 1.22 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5 -7.88
+$EndPAD
+$PAD
+Sh "7" R 1.22 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.5 -7.88
+$EndPAD
+$PAD
+Sh "8" R 1.22 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -7.88
+$EndPAD
+$PAD
+Sh "9" R 1.22 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.5 -7.88
+$EndPAD
+$PAD
+Sh "10" R 1.22 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5 -7.88
+$EndPAD
+$SHAPE3D
+Na "walter/smd_inductors/transf_smd_ep13-10.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE transf_smd_ep13-10
+$MODULE transf_smd_ep7-8
+Po 0 0 0 15 5300911E 00000000 ~~
+Li transf_smd_ep7-8
+Cd Transformer SMD, EP7-8 model
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -8.8 1.524 1.524 0 0.3048 N V 21 N "transf_smd_EP7-8"
+T1 0 8.6 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS -5.4 4.4 5.4 4.4 0.381 21
+DS 5.4 4.4 5.4 -4.4 0.381 21
+DS 5.4 -4.4 -5.4 -4.4 0.381 21
+DS -5.4 -4.4 -5.4 4.4 0.381 21
+$PAD
+Sh "1" R 1.27 2.29 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.75 5.715
+$EndPAD
+$PAD
+Sh "2" R 1.27 2.29 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.25 5.715
+$EndPAD
+$PAD
+Sh "3" R 1.27 2.29 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.25 5.715
+$EndPAD
+$PAD
+Sh "4" R 1.27 2.29 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.75 5.715
+$EndPAD
+$PAD
+Sh "5" R 1.27 2.29 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.75 -5.715
+$EndPAD
+$PAD
+Sh "6" R 1.27 2.29 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.25 -5.715
+$EndPAD
+$PAD
+Sh "7" R 1.27 2.29 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.25 -5.715
+$EndPAD
+$PAD
+Sh "8" R 1.27 2.29 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.75 -5.715
+$EndPAD
+$SHAPE3D
+Na "walter/smd_inductors/transf_smd_ep7-8.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE transf_smd_ep7-8
 $EndLIBRARY

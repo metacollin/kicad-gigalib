@@ -19,31 +19,17 @@ D Diode bridge
 K DEV DIODE
 $ENDCMP
 #
-$CMP BUZZER
-D Buzzer
-$ENDCMP
-#
 $CMP C
 D Capacitor non pol
 $ENDCMP
 #
-$CMP CAP_FEEDTHROUGH
-D Capacitor Feedthrough
+$CMP DETAIL
+D Detail placeholder
 $ENDCMP
 #
 $CMP DIODE
 D Diode simple
 K DEV DIODE
-$ENDCMP
-#
-$CMP ENCODER
-D Rotary Encoder
-K Encoder
-$ENDCMP
-#
-$CMP ENCODER_SWITCH
-D Rotary Encoder
-K Encoder
 $ENDCMP
 #
 $CMP FUSE
@@ -118,6 +104,11 @@ D Diode Schottky
 K DEV SCHOTTKY
 $ENDCMP
 #
+$CMP SI3440DV
+D Si3440DV N channel 150V MOSFET
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/MOS/N-channel/VSH_SI3440DV.pdf
+$ENDCMP
+#
 $CMP SW_PUSH
 D Push Button
 K Switch
@@ -133,14 +124,25 @@ D Switch SPDT
 K Switch
 $ENDCMP
 #
-$CMP VARISTOR
-D Varistor
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Varistori/*
+$CMP VBT2045C
+D Dual low-voltage TrenchMOS barrier Schottky rectifier
+K SCHOTTKY VBT2045C
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/diodi/Schottky/VSH_VBT2045C.pdf
 $ENDCMP
 #
 $CMP ZENER
 D Diode zener
 K DIODE ZENER
+$ENDCMP
+#
+$CMP trasf_pa1130nl
+D Pulse PA113xNL HF Transformer
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettromeccanici/Avvolti/PULSE_PA1134NLT.pdf
+$ENDCMP
+#
+$CMP trasf_pa1136nl
+D Pulse PA113xNL HF Transformer
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettromeccanici/Avvolti/PULSE_PA1134NLT.pdf
 $ENDCMP
 #
 #End Doc Library
