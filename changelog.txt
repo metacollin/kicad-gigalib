@@ -3,6 +3,11 @@ Kicad Libraries Changelog
 + = added  - = removed  M = modified  R = moved to another library  A = moved from another library
 Dates are in YYYYMMDD format
 
+#201404
+  M mod_crystal
+    + crystal_xrcgb
+    + resonator_awscr
+
 #20140323
   M lib_w_analog
     + ltc4267-ssop
