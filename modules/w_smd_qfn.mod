@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  gio 17 ott 2013 21:47:29 CEST
+PCBNEW-LibModule-V1  mar 05 ago 2014 17:19:50 CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -7,6 +7,7 @@ dfn-s-8
 dfn10-3x3
 dfn12
 dfn5
+dfn6-3x3
 dfn8
 dfn8-2x3
 hvson8
@@ -15,6 +16,7 @@ lfcsp-uq-10_13x16
 lfcsp-uq-10_20x20
 lfcsp-vq-12_30x30
 lfcsp-wd-10_30x30
+lga-24
 pqfp-10
 pvqfn-n14
 pvqfn-n16
@@ -31,6 +33,8 @@ qfn-44
 qfn-64
 r-px2son-n8
 r-qfn044-d
+sot883-1
+sot996-2
 tdfn8
 wson
 $EndINDEX
@@ -619,6 +623,94 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE dfn5
+$MODULE dfn6-3x3
+Po 0 0 0 15 53653AD3 00000000 ~~
+Li dfn6-3x3
+Cd Plastic DFN, Silicon Labs 6pin 3x3mm
+Sc 0
+AR dfn5
+Op 0 0 0
+.LocalClearance 0.2
+T0 0 -2.5 0.50038 0.50038 0 0.09906 N V 21 N "dfn6-3x3"
+T1 0 2.49936 0.50038 0.50038 0 0.09906 N V 21 N "VAL**"
+DS -1.5 0.6 -0.6 1.5 0.15 21
+DS -0.7 1.5 -1.5 0.7 0.15 21
+DS -1.5 0.8 -0.8 1.5 0.15 21
+DS -1.5 0.9 -0.9 1.5 0.15 21
+DS -1 1.5 -1.5 1 0.15 21
+DS -1.5 1.2 -1.2 1.5 0.15 21
+DS -1.1 1.5 -1.5 1.1 0.15 21
+DS -1.5 1.3 -1.3 1.5 0.15 21
+DC -1.99954 1.30048 -2.2002 1.30048 0.15 21
+DC -2.00208 1.30048 -2.00208 1.39954 0.15 21
+DS -1.5 -1.5 1.5 -1.5 0.15 21
+DS -1.5 1.5 1.5 1.5 0.15 21
+DS 1.5 -1.5 1.5 1.5 0.15 21
+DS -1.5 1.5 -1.5 -1.5 0.15 21
+$PAD
+Sh "1" R 0.45 0.85 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1 1.45
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "2" R 0.45 0.85 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.45
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "3" R 0.45 0.85 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1 1.45
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "4" R 0.45 0.85 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1 -1.45
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "5" R 0.45 0.85 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.45
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "6" R 0.45 0.85 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1 -1.45
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "7" R 2.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+.SolderMask 0.06858
+.SolderPaste -0.09906
+$EndPAD
+$SHAPE3D
+Na "walter/smd_qfn/dfn6-3x3.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE dfn6-3x3
 $MODULE dfn8
 Po 0 0 0 15 513B15C2 00000000 ~~
 Li dfn8
@@ -1843,6 +1935,237 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE lfcsp-wd-10_30x30
+$MODULE lga-24
+Po 0 0 0 15 53E0E920 00000000 ~~
+Li lga-24
+Cd Plastic QFP, ST LGA-24 4x4x1mm
+Sc 0
+AR vfqfpn-28
+Op 0 0 0
+.SolderMask 0.1
+.SolderPasteRatio -0.1
+.LocalClearance 0.1
+T0 0 -2.6 0.39878 0.39878 0 0.07874 N V 21 N "U***"
+T1 0 2.7 0.39878 0.39878 0 0.07874 N V 21 N "LGA-24"
+DS -2.2 1.2 -2.2 2.2 0.15 21
+DS -2.2 2.2 -1.2 2.2 0.15 21
+DS -2.3 1.1 -1.1 2.3 0.15 21
+DS -1.1 2.3 -2.3 2.3 0.15 21
+DS -2.3 2.3 -2.3 1.1 0.15 21
+DS -2.10058 1.30048 -2.10058 2.10058 0.127 21
+DS -2.10058 2.10058 -1.30048 2.10058 0.127 21
+DS -1.99898 1.50114 -1.50114 1.99898 0.127 21
+DS -1.99898 1.6002 -1.6002 1.99898 0.127 21
+DS -1.6002 1.99898 -1.69926 1.99898 0.127 21
+DS -1.69926 1.99898 -1.99898 1.69926 0.127 21
+DS -1.99898 1.69926 -1.99898 1.80086 0.127 21
+DS -1.99898 1.80086 -1.80086 1.99898 0.127 21
+DS -1.99898 1.50114 -1.99898 1.69926 0.127 21
+DS -1.99898 1.39954 -1.99898 1.6002 0.127 21
+DS -1.99898 1.99898 -1.99898 -1.99898 0.127 21
+DS -1.99898 -1.99898 1.99898 -1.99898 0.127 21
+DS 1.99898 -1.99898 1.99898 1.99898 0.127 21
+DS 1.99898 1.99898 -1.99898 1.99898 0.127 21
+DC -1.40208 1.397 -1.20396 1.4986 0.19812 21
+$PAD
+Sh "1" R 0.3 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.25 1.725
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "2" R 0.3 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75 1.725
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "3" R 0.3 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25 1.725
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "4" R 0.3 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25 1.725
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "6" R 0.3 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.25 1.725
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "7" R 0.45 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.725 1.25
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "8" R 0.45 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.725 0.75
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "9" R 0.45 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.725 0.25
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "10" R 0.45 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.725 -0.25
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "11" R 0.45 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.725 -0.75
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "12" R 0.45 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.725 -1.25
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "13" R 0.3 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.25 -1.725
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "14" R 0.3 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75 -1.725
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "15" R 0.3 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25 -1.725
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "16" R 0.3 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25 -1.725
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "17" R 0.3 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75 -1.725
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "18" R 0.3 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.25 -1.725
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "19" R 0.45 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.725 -1.25
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "20" R 0.45 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.725 -0.75
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "5" R 0.3 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75 1.725
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "21" R 0.45 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.725 -0.25
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "22" R 0.45 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.725 0.25
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "23" R 0.45 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.725 0.75
+.SolderMask 0.07112
+$EndPAD
+$PAD
+Sh "24" R 0.45 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.725 1.25
+.SolderMask 0.07112
+$EndPAD
+$SHAPE3D
+Na "walter/smd_qfn/lga-24.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE lga-24
 $MODULE pqfp-10
 Po 0 0 0 15 513B137B 00000000 ~~
 Li pqfp-10
@@ -6630,6 +6953,199 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE r-qfn044-d
+$MODULE sot883-1
+Po 0 0 0 15 536631B8 00000000 ~~
+Li sot883-1
+Cd Plastic DFP, NXP XSON-8 SOT883-1
+Sc 0
+AR dfn5
+Op 0 0 0
+T0 0 -1.2 0.5 0.5 0 0.1 N V 21 N "sot883-1"
+T1 0 1.2 0.5 0.5 0 0.1 N V 21 N "VAL**"
+DS -1.05 0.75 -1.2 0.6 0.15 21
+DS -0.9 0.75 -1.2 0.45 0.15 21
+DS -1.2 0.3 -1.2 0.75 0.15 21
+DS -1.2 0.75 -0.75 0.75 0.15 21
+DS -0.75 0.75 -1.2 0.3 0.15 21
+DC -0.7 0.25 -0.8 0.3 0.127 21
+DS -1 -0.55 1 -0.55 0.127 21
+DS 1 -0.55 1 0.55 0.127 21
+DS 1 0.55 -1 0.55 0.127 21
+DS -1 0.55 -1 -0.55 0.127 21
+$PAD
+Sh "1" R 0.3 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75 0.275
+.SolderMask 0.05
+.SolderPaste -0.0175
+.LocalClearance 0.1
+$EndPAD
+$PAD
+Sh "2" R 0.3 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25 0.3
+.SolderMask 0.05
+.SolderPaste -0.0175
+.LocalClearance 0.1
+$EndPAD
+$PAD
+Sh "3" R 0.3 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25 0.3
+.SolderMask 0.05
+.SolderPaste -0.0175
+.LocalClearance 0.1
+$EndPAD
+$PAD
+Sh "4" R 0.3 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75 0.3
+.SolderMask 0.05
+.SolderPaste -0.0175
+.LocalClearance 0.1
+$EndPAD
+$PAD
+Sh "5" R 0.3 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75 -0.3
+.SolderMask 0.05
+.SolderPaste -0.0175
+.LocalClearance 0.1
+$EndPAD
+$PAD
+Sh "6" R 0.3 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25 -0.3
+.SolderMask 0.05
+.SolderPaste -0.0175
+.LocalClearance 0.1
+$EndPAD
+$PAD
+Sh "7" R 0.3 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25 -0.3
+.SolderMask 0.05
+.SolderPaste -0.0175
+.LocalClearance 0.1
+$EndPAD
+$PAD
+Sh "8" R 0.3 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75 -0.3
+.SolderMask 0.05
+.SolderPaste -0.0175
+.LocalClearance 0.1
+$EndPAD
+$SHAPE3D
+Na "walter/smd_qfn/sot883-1.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE sot883-1
+$MODULE sot996-2
+Po 0 0 0 15 536633CE 00000000 ~~
+Li sot996-2
+Cd Plastic DFP, NXP XSON8 SOT996-2
+Sc 0
+AR dfn5
+Op 0 0 0
+.LocalClearance 0.12
+T0 0 -2.2 0.5 0.5 0 0.1 N V 21 N "sot996-2"
+T1 0 2.2 0.5 0.5 0 0.1 N V 21 N "VAL**"
+DC -1.39954 1.30048 -1.6002 1.30048 0.127 21
+DC -1.40208 1.30048 -1.40208 1.39954 0.127 21
+DS -1.00076 -1.50114 1.00076 -1.50114 0.127 21
+DS -1.00076 1.50114 1.00076 1.50114 0.127 21
+DS 1.00076 -1.50114 1.00076 1.50114 0.127 21
+DS -1.00076 1.50114 -1.00076 -1.50114 0.127 21
+$PAD
+Sh "1" R 0.37 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75 1.025
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "2" R 0.37 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25 1.125
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "3" R 0.37 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25 1.125
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "4" R 0.37 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75 1.125
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "5" R 0.37 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75 -1.125
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "6" R 0.37 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25 -1.125
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "7" R 0.37 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25 -1.125
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "8" R 0.37 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75 -1.125
+.SolderMask 0.06858
+$EndPAD
+$SHAPE3D
+Na "walter/smd_qfn/sot996-2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE sot996-2
 $MODULE tdfn8
 Po 0 0 0 15 51288ED2 00000000 ~~
 Li tdfn8

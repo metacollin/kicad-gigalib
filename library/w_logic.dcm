@@ -179,4 +179,9 @@ D 7-segments, 8 digits LED display driver
 F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/MAX_MAX7219-7221.pdf
 $ENDCMP
 #
+$CMP NTB0102
+D Dual supply translating transceiver, auto direction sensing, 3-state
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/NXP_NTB0102.pdf
+$ENDCMP
+#
 #End Doc Library

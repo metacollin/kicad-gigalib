@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: mar 21 mag 2013 20:44:16 CEST
+EESchema-DOCLIB  Version 2.0
 #
 $CMP 12AX7
 D 12AX7 type Double Triode Vacuum tube
@@ -26,6 +26,10 @@ $ENDCMP
 #
 $CMP 6N6P
 D 6N6P type Double Triode Vacuum tube
+$ENDCMP
+#
+$CMP 6SN7GT
+D 6N7GT type Double Triode Vacuum tube
 $ENDCMP
 #
 $CMP 805

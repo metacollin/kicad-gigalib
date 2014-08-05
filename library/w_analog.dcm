@@ -67,6 +67,11 @@ D Current controller for stepping motor
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ST_L6506.pdf
 $ENDCMP
 #
+$CMP LH0063
+D Ultra Fast Buffer
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/NSC_LH0033-0063.pdf
+$ENDCMP
+#
 $CMP LM1117-SOT
 D 800mA Low Dropout Linear Regulator, SOT packages
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_LM1117.pdf
@@ -120,6 +125,11 @@ D 0.5A Constant Current Buck Regulator for Driving High Power LEDs
 F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/NSC_LM3402.pdf
 $ENDCMP
 #
+$CMP LM3481
+D LM3481High Efficiency Low-side N-Channel controller for Switching Regulators
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/TI_LM3481.pdf
+$ENDCMP
+#
 $CMP LM358
 D Low Power Dual Operational Amplifiers
 F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Opamp/TI_lm2904.pdf
@@ -148,6 +158,11 @@ $ENDCMP
 $CMP LMH6702-SOT
 D 1.7 GHz, Ultra Low Distortion, Wideband Op Amp
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/NSC_LMH6702.pdf
+$ENDCMP
+#
+$CMP LSM9DS0
+D iNEMO intertial module: 3D accelerometer, 3D gyroscope, 3D magnetometer
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/ST_LSM9DS0.pdf
 $ENDCMP
 #
 $CMP LT3652
@@ -289,6 +304,11 @@ K SAM2195
 F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/DREAM_SAM2195.pdf
 $ENDCMP
 #
+$CMP SI7020-A10
+D I2C Humidity and Temperature sensor
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Sensori/Temperatura/SIL_Si7020-A10.pdf
+$ENDCMP
+#
 $CMP TDA2822M
 D Dual low voltage Power Amplifiers
 F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Amplifiers/ST_TDA2822.pdf
@@ -376,15 +396,21 @@ F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/
 $ENDCMP
 #
 $CMP VS1003-B
-D Low power single chip synthesizer with effects
-K SAM2195
-F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/DREAM_SAM2195.pdf
+D MP3/WMA audio codec
+K VS1003
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/VLSI_VS1003.pdf
 $ENDCMP
 #
 $CMP VS1003-L
-D Low power single chip synthesizer with effects
-K SAM2195
-F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/DREAM_SAM2195.pdf
+D MP3/WMA audio codec
+K VS1003
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/VLSI_VS1003.pdf
+$ENDCMP
+#
+$CMP VS1053B
+D OGG/MP3/AAC/WMA/FLAC/MIDI audio codec
+K VS1053
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/VLSI_VS1053.pdf
 $ENDCMP
 #
 #End Doc Library

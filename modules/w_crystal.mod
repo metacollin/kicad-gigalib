@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  dom 14 lug 2013 12:39:13 CEST
+PCBNEW-LibModule-V1  mar 05 ago 2014 17:17:17 CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -15,6 +15,8 @@ crystal_tc-26
 crystal_tc-26_horiz
 crystal_tc-38
 crystal_tc-38_horiz
+crystal_xrcgb
+resonator_awscr
 resonator_sip3
 $EndINDEX
 $MODULE crystal_fa128
@@ -594,6 +596,136 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE crystal_tc-38_horiz
+$MODULE crystal_xrcgb
+Po 0 0 0 15 5341A41D 00000000 ~~
+Li crystal_xrcgb
+Cd Murata XRCGB SMD Crystal unit
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -1.69926 0.49784 0.49784 0 0.09906 N V 21 N "X***"
+T1 0 1.89992 0.49784 0.49784 0 0.09906 N V 21 N "crystal_xrcgb"
+DS -0.7 1.5 -1 1.2 0.15 21
+DS -1.7 0.5 -1.4 0.8 0.15 21
+DS -0.7 1.5 -1.7 1.5 0.15 21
+DS -1.7 1.5 -1.7 0.5 0.15 21
+DS -1.6 0.6 -1.6 1.4 0.15 21
+DS -1.6 1.4 -0.8 1.4 0.15 21
+DS -1.5 1.3 -1.5 0.7 0.15 21
+DS -1.5 1.3 -0.9 1.3 0.15 21
+DA -1 -0.8 -0.8 -0.8 900 0.15 21
+DA -1 0.8 -1 0.6 900 0.15 21
+DA 1 0.8 0.8 0.8 900 0.15 21
+DA 1 -0.8 1 -0.6 900 0.15 21
+DS -1.4 -1.2 1.4 -1.2 0.15 21
+DS 1.4 -1.2 1.4 1.2 0.15 21
+DS 1.4 1.2 -1.4 1.2 0.15 21
+DS -1.4 1.2 -1.4 -1.2 0.15 21
+DS -1 -0.6 -1 0.6 0.15 21
+DS -0.8 0.8 0.8 0.8 0.15 21
+DS 1 0.6 1 -0.6 0.15 21
+DS 0.8 -0.8 -0.8 -0.8 0.15 21
+$PAD
+Sh "1" R 0.75 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.675 0.5
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "3" R 0.75 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.675 -0.5
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "2" R 0.75 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.675 0.5
+$EndPAD
+$PAD
+Sh "2" R 0.75 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.675 -0.5
+$EndPAD
+$SHAPE3D
+Na "walter/crystal/crystal_xrcgb.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE crystal_xrcgb
+$MODULE resonator_awscr
+Po 0 0 0 15 5341A590 00000000 ~~
+Li resonator_awscr
+Cd Abracon AWSCR SMD Resonator unit
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -1.69926 0.49784 0.49784 0 0.09906 N V 21 N "X***"
+T1 0 1.89992 0.49784 0.49784 0 0.09906 N V 21 N "resonator_awscr"
+DS -1.25 -1 -1.25 1 0.15 21
+DS -1.25 1 1.25 1 0.15 21
+DS 1.25 1 1.25 -1 0.15 21
+DS 1.25 -1 -1.25 -1 0.15 21
+$PAD
+Sh "1" R 0.5 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1 0.9
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "3" R 0.5 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1 0.9
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "2" R 0.5 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0.9
+$EndPAD
+$PAD
+Sh "3" R 0.5 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1 -0.9
+$EndPAD
+$PAD
+Sh "2" R 0.5 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -0.9
+$EndPAD
+$PAD
+Sh "1" R 0.5 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1 -0.9
+$EndPAD
+$SHAPE3D
+Na "walter/crystal/resonator_awscr.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE resonator_awscr
 $MODULE resonator_sip3
 Po 0 0 0 15 5156BEB8 00000000 ~~
 Li resonator_sip3

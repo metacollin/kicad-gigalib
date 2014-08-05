@@ -51,6 +51,11 @@ D RGB LED
 K DEV DIODE LED RGB
 $ENDCMP
 #
+$CMP SFH5712
+D High accuracy ambient light sensor with I2C bus interface
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Sensori/Luce/OSRAM_SFH5712.pdf
+$ENDCMP
+#
 $CMP TKS-363H
 D 7segments display, TKS-363H
 $ENDCMP

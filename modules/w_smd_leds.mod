@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  sab 28 set 2013 13:32:05 CEST
+PCBNEW-LibModule-V1  mar 05 ago 2014 17:18:45 CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -42,6 +42,7 @@ Seoul_P4
 Seoul_P5-II
 Seoul_Z7
 osram_oslon
+sfh5712
 sharp_doubledome
 $EndINDEX
 $MODULE Avago_Aveon
@@ -3225,6 +3226,71 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE osram_oslon
+$MODULE sfh5712
+Po 0 0 0 15 5366098F 00000000 ~~
+Li sfh5712
+Cd Osram SFH 5712 2x2mm package
+Sc 0
+AR 
+Op 0 0 0
+.LocalClearance 0.2
+T0 0 -2 0.5 0.5 0 0.1 N V 21 N "sfh5712"
+T1 0 2 0.5 0.5 0 0.1 N V 21 N "VAL**"
+DS -0.5 1.5 -0.1 1.1 0.15 21
+DS -1.5 0.6 -1.1 0.2 0.15 21
+DS -0.5 1.5 -1.5 1.5 0.15 21
+DS -1.5 0.6 -1.5 1.5 0.15 21
+DS -1.4 0.5 -1.4 1.4 0.15 21
+DS -1.4 1.4 -0.4 1.4 0.15 21
+DS -1.3 0.4 -1.3 1.3 0.15 21
+DS -1.3 1.3 -0.3 1.3 0.15 21
+DS -1.2 0.3 -1.2 1.2 0.15 21
+DS -1.2 1.2 -0.2 1.2 0.15 21
+DC -1.89954 0.90048 -2.1002 0.90048 0.15 21
+DC -1.90208 0.90048 -1.90208 0.99954 0.15 21
+DS -1.1 -1.1 1.1 -1.1 0.15 21
+DS -1.1 1.1 1.1 1.1 0.15 21
+DS 1.1 -1.1 1.1 1.1 0.15 21
+DS -1.1 1.1 -1.1 -1.1 0.15 21
+$PAD
+Sh "1" R 0.95 0.85 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.775 0.825
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "2" R 0.95 0.85 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.775 0.825
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "3" R 0.95 0.85 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.775 -0.825
+.SolderMask 0.06858
+$EndPAD
+$PAD
+Sh "4" R 0.95 0.85 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.775 -0.825
+.SolderMask 0.06858
+$EndPAD
+$SHAPE3D
+Na "walter/smd_leds/sfh5712.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE sfh5712
 $MODULE sharp_doubledome
 Po 0 0 0 15 4F5DD0F8 00000000 ~~
 Li sharp_doubledome

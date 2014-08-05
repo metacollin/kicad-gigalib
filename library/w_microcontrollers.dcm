@@ -348,4 +348,16 @@ K STM32F40x
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/ST_STM32F405-407.pdf
 $ENDCMP
 #
+$CMP TCM809
+D 3-pin microcontroller reset monitor
+K TCM809
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/TI_TCM809_TCM810.pdf
+$ENDCMP
+#
+$CMP TCM810
+D 3-pin microcontroller reset monitor
+K TCM810
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/TI_TCM809_TCM810.pdf
+$ENDCMP
+#
 #End Doc Library

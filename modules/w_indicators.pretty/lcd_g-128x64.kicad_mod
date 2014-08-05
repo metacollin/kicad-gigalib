@@ -1,5 +1,5 @@
 (module lcd_g-128x64 (layer F.Cu)
-  (descr "LCD Graphic Module, 128x64")
+  (descr "LCD Graphic Module, 128x64, Microtips MTG-12864A")
   (fp_text reference lcd_g-128x64 (at 0 5.00126) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )

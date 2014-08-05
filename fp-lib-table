@@ -9,6 +9,7 @@
   (lib (name w_conn_jst-ph)(type KiCad)(uri $KISYSMOD/w_conn_jst-ph.pretty)(options "")(descr "JST PH series connectors"))
   (lib (name w_conn_kk100)(type KiCad)(uri $KISYSMOD/w_conn_kk100.pretty)(options "")(descr "Molex KK100 series connectors"))
   (lib (name w_conn_misc)(type KiCad)(uri $KISYSMOD/w_conn_misc.pretty)(options "")(descr "Various connectors"))
+  (lib (name w_conn_mkds)(type KiCad)(uri ${KISYSMOD}/w_conn_mkds.pretty)(options "")(descr "Phoenix Contact mkds series connectors"))
   (lib (name w_conn_modu)(type KiCad)(uri $KISYSMOD/w_conn_modu.pretty)(options "")(descr "AMP MODU series connectors"))
   (lib (name w_conn_mpt)(type KiCad)(uri $KISYSMOD/w_conn_mpt.pretty)(options "")(descr "Phoenix Contact MPT series connectors"))
   (lib (name w_conn_panelmate)(type KiCad)(uri $KISYSMOD/w_conn_panelmate.pretty)(options "")(descr "Molex PanelMate series connectors"))

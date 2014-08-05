@@ -1,7 +1,10 @@
-PCBNEW-LibModule-V1  gio 22 ago 2013 20:13:13 CEST
+PCBNEW-LibModule-V1  mar 05 ago 2014 17:17:54 CEST
 # encoding utf-8
 Units mm
 $INDEX
+3-way_bridge_0603
+4-way_bridge_0603
+6-way_bridge_0603
 fiducial_075_300_round
 fiducial_075_300_square
 fiducial_100_200_round
@@ -42,6 +45,187 @@ testpoint_2mm
 testpoint_2mm5
 vite_2mm5
 $EndINDEX
+$MODULE 3-way_bridge_0603
+Po 0 0 0 15 53D7F424 00000000 ~~
+Li 3-way_bridge_0603
+Cd 3-way solder bridge, 0603
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -0.9 0.20066 0.20066 0 0.04064 N V 21 N "3-way_bridge_0603"
+T1 0 0.9 0.20066 0.20066 0 0.04064 N I 21 N "R***"
+DS -2.1 -0.7 -2.1 0.7 0.127 21
+DS -2.1 -0.7 2.1 -0.7 0.127 21
+DS 2.1 -0.7 2.1 0.7 0.127 21
+DS 2.1 0.7 -2.1 0.7 0.127 21
+$PAD
+Sh "1" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4 0
+$EndPAD
+$PAD
+Sh "2" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "3" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4 0
+$EndPAD
+$SHAPE3D
+Na "walter/smd_resistors/r_0603.wrl"
+Sc 1 1 1
+Of 0.027559 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$SHAPE3D
+Na "walter/smd_resistors/r_0603.wrl"
+Sc 1 1 1
+Of -0.027559 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE 3-way_bridge_0603
+$MODULE 4-way_bridge_0603
+Po 0 0 0 15 53DE4A12 00000000 ~~
+Li 4-way_bridge_0603
+Cd 4-way solder bridge, 0603
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -1.6 0.20066 0.20066 0 0.04064 N V 21 N "4-way_bridge_0603"
+T1 0 1.6 0.20066 0.20066 0 0.04064 N I 21 N "R***"
+DS 1.4 1.4 1.4 -1.4 0.127 21
+DS -1.4 1.4 -1.4 -1.4 0.127 21
+DS 1.4 1.4 -1.4 1.4 0.127 21
+DS -1.4 -1.4 1.4 -1.4 0.127 21
+$PAD
+Sh "4" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7 0.7
+$EndPAD
+$PAD
+Sh "2" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7 0.7
+$EndPAD
+$PAD
+Sh "1" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7 -0.7
+$EndPAD
+$PAD
+Sh "3" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7 -0.7
+$EndPAD
+$SHAPE3D
+Na "walter/smd_resistors/r_0603.wrl"
+Sc 1 1 1
+Of 0 0.027559 0
+Ro 0 0 0
+$EndSHAPE3D
+$SHAPE3D
+Na "walter/smd_resistors/r_0603.wrl"
+Sc 1 1 1
+Of 0 -0.027559 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE 4-way_bridge_0603
+$MODULE 6-way_bridge_0603
+Po 0 0 0 15 53D7F59B 00000000 ~~
+Li 6-way_bridge_0603
+Cd 6-way solder bridge, 0603
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -1.6 0.20066 0.20066 0 0.04064 N V 21 N "6-way_bridge_0603"
+T1 0 1.6 0.20066 0.20066 0 0.04064 N I 21 N "R***"
+DS 2.1 1.4 2.1 -1.4 0.127 21
+DS -2.1 1.4 -2.1 -1.4 0.127 21
+DS 2.1 1.4 -2.1 1.4 0.127 21
+DS -2.1 -1.4 2.1 -1.4 0.127 21
+$PAD
+Sh "6" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4 0.7
+$EndPAD
+$PAD
+Sh "4" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0.7
+$EndPAD
+$PAD
+Sh "2" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4 0.7
+$EndPAD
+$PAD
+Sh "1" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4 -0.7
+$EndPAD
+$PAD
+Sh "3" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -0.7
+$EndPAD
+$PAD
+Sh "5" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4 -0.7
+$EndPAD
+$SHAPE3D
+Na "walter/smd_resistors/r_0603.wrl"
+Sc 1 1 1
+Of 0.027559 0.027559 0
+Ro 0 0 0
+$EndSHAPE3D
+$SHAPE3D
+Na "walter/smd_resistors/r_0603.wrl"
+Sc 1 1 1
+Of -0.027559 -0.027559 0
+Ro 0 0 0
+$EndSHAPE3D
+$SHAPE3D
+Na "walter/smd_resistors/r_0603.wrl"
+Sc 1 1 1
+Of 0.055118 0 0
+Ro 0 0 90
+$EndSHAPE3D
+$SHAPE3D
+Na "walter/smd_resistors/r_0603.wrl"
+Sc 1 1 1
+Of -0.055118 0 0
+Ro 0 0 90
+$EndSHAPE3D
+$EndMODULE 6-way_bridge_0603
 $MODULE fiducial_075_300_round
 Po 0 0 0 15 521653EC 00000000 ~~
 Li fiducial_075_300_round
