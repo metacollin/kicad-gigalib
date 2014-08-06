@@ -273,6 +273,16 @@ D 2.7V to 6.0V Single Supply CMOS Op Amps
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/Rail_to_rail/MCIP_MCP601-602-603-604.pdf
 $ENDCMP
 #
+$CMP MCP73831-DFN
+D Miniature single-cell, fully integrated Li-Ion,Li-Polymer charge management controller
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/MCIP_MCP73831-2.pdf
+$ENDCMP
+#
+$CMP MCP73831-SOT
+D Miniature single-cell, fully integrated Li-Ion,Li-Polymer charge management controller
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/MCIP_MCP73831-2.pdf
+$ENDCMP
+#
 $CMP MPU-9150
 D 9-axis MotionTracking device
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Sensori/MPU-9150.pdf

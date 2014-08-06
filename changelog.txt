@@ -3,6 +3,11 @@ Kicad Libraries Changelog
 + = added  - = removed  M = modified  R = moved to another library  A = moved from another library
 Dates are in YYYYMMDD format
 
+#20140806
+  M lib_w_analog
+    + mcp73831-dfn
+    + mcp73831-sot
+
 #20140805
   M lib_w_analog
     + lh0063
