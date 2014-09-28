@@ -5,12 +5,12 @@ DEF cube6 Transform {
     Shape {
       appearance Appearance {
         material DEF semicond Material {
-          diffuseColor 0.8333333333333334 0.8333333333333334 0.8333333333333334
-          emissiveColor 0.8333333333333334 0.8333333333333334 0.8333333333333334
-          specularColor 0.8333333333333334 0.8333333333333334 0.8333333333333334
-          ambientIntensity 0.8333333333333334
+          diffuseColor 0.4 0.4 0.4
+          emissiveColor 0.4 0.4 0.4
+          specularColor 0.4 0.4 0.4
+          ambientIntensity 0.4000000000000001
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -52,12 +52,12 @@ DEF cube6 Transform {
     Shape {
       appearance Appearance {
         material DEF pins Material {
-          diffuseColor 0.7 0.7 0.7
-          emissiveColor 0.7 0.7 0.7
-          specularColor 0.7 0.7 0.7
-          ambientIntensity 0.6999999999999998
+          diffuseColor 0.6 0.6 0.6
+          emissiveColor 0.6 0.6 0.6
+          specularColor 0.6 0.6 0.6
+          ambientIntensity 0.6
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -535,10 +535,10 @@ DEF cube6 Transform {
     Shape {
       appearance Appearance {
         material DEF body Material {
-          diffuseColor 0.8 0.8 0.8
+          diffuseColor 0.7 0.8 0.8
           emissiveColor 0.7 0.8 0.8
-          specularColor 1.0 1.0 1.0
-          ambientIntensity 0.8000000000000002
+          specularColor 0.7 0.8 0.8
+          ambientIntensity 0.7666666666666666
           transparency 0.6
           shininess 1.0
         }

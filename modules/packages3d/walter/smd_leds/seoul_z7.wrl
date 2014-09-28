@@ -10,7 +10,7 @@ DEF cylinder16 Transform {
           specularColor 1.0 1.0 0.0
           ambientIntensity 0.6666666666666666
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -134,7 +134,7 @@ DEF cube4_copy18 Transform {
           specularColor 0.6 0.6 0.6
           ambientIntensity 0.6
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -163,7 +163,7 @@ DEF cube4_copy18 Transform {
           specularColor 1.0 1.0 0.25
           ambientIntensity 0.75
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -941,7 +941,7 @@ DEF cube3 Transform {
           specularColor 0.8 0.8 0.8
           ambientIntensity 0.8000000000000002
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -987,7 +987,7 @@ DEF sphere1_cut2 Transform {
   children [
     Shape {
       appearance Appearance {
-        material DEF Resin2 Material {
+        material DEF Resin Material {
           diffuseColor 0.9 1.0 0.9
           emissiveColor 0.9 1.0 0.9
           specularColor 0.9 1.0 0.9
@@ -1646,7 +1646,7 @@ DEF sphere1_cut2 Transform {
           -0.16839741372218345 0.0 0.9857191846827775,
           -0.33519480157471604 0.0 0.9421488443963018,
           -0.49780828324129894 1.0492376363536383e-17 0.8672870996021735,
-          -0.6516746598997816 1.050001615364108e-17 0.7584986075428904,
+          -0.6516746598997817 1.0500016153641081e-17 0.7584986075428906,
           -0.7894322311537687 1.4011930257406462e-17 0.6138377248227602,
           -0.90083870211922 1.0517768898329677e-17 0.4341539275005573,
           -0.9742544462858488 7.016289006558406e-18 0.2254512672225515,
@@ -1664,7 +1664,7 @@ DEF sphere1_cut2 Transform {
           -0.33019714865742555 -0.17165775125636742 0.9281721065902125,
           -0.4900531896268865 -0.1754809281651732 0.8538467750052139,
           -0.6409573299089804 -0.1803289319237602 0.746093276706865,
-          -0.7756872012776527 -0.18559150347963266 0.6032123669241306,
+          -0.7756872012776526 -0.18559150347963266 0.6032123669241306,
           -0.8843362850024146 -0.19042250782653533 0.4262494616315441,
           -0.955765638743117 -0.19386237337343332 0.2211999638064639,
           -0.9128771741803168 -0.18160533332542764 -0.365615601100828,

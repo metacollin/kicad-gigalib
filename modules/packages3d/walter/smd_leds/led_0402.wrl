@@ -10,7 +10,7 @@ DEF cube16_sep29 Transform {
           specularColor 0.0 0.0 0.0
           ambientIntensity 0.0
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -129,7 +129,7 @@ DEF cube16_sep29 Transform {
           specularColor 1.0 1.0 0.0
           ambientIntensity 0.6666666666666666
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -200,7 +200,7 @@ DEF cube16_sep29 Transform {
           specularColor 0.8 0.8 0.8
           ambientIntensity 0.8000000000000002
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -243,7 +243,7 @@ DEF cube16_sep29 Transform {
           specularColor 0.6 0.6 0.6
           ambientIntensity 0.6
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -284,7 +284,7 @@ DEF cube16_sep29 Transform {
     },
     Shape {
       appearance Appearance {
-        material DEF Resin2 Material {
+        material DEF Resin Material {
           diffuseColor 0.9 1.0 0.9
           emissiveColor 0.9 1.0 0.9
           specularColor 0.9 1.0 0.9

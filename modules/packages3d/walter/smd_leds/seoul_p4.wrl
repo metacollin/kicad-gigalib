@@ -1,5 +1,5 @@
 #VRML V2.0 utf8
-#Exported from Wings 3D 1.3.0.1
+#Exported from Wings 3D 1.4.1
 DEF cube4_sep10 Transform {
   children [
     Shape {
@@ -10,7 +10,7 @@ DEF cube4_sep10 Transform {
           specularColor 0.0 0.0 0.0
           ambientIntensity 0.0
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -730,12 +730,12 @@ DEF cube4_sep10 Transform {
     Shape {
       appearance Appearance {
         material DEF Pins Material {
-          diffuseColor 0.7 0.7 0.7
-          emissiveColor 0.7 0.7 0.7
-          specularColor 0.7 0.7 0.7
-          ambientIntensity 0.6999999999999998
+          diffuseColor 0.6 0.6 0.6
+          emissiveColor 0.6 0.6 0.6
+          specularColor 0.6 0.6 0.6
+          ambientIntensity 0.6
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -825,7 +825,7 @@ DEF cube4_sep10 Transform {
           specularColor 0.6 0.6 0.6
           ambientIntensity 0.6
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -886,7 +886,7 @@ DEF cube4_sep10 Transform {
           specularColor 1.0 1.0 0.25
           ambientIntensity 0.75
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -1731,7 +1731,7 @@ DEF cube4_copy7 Transform {
   children [
     Shape {
       appearance Appearance {
-        material DEF Resin2 Material {
+        material DEF Resin Material {
           diffuseColor 0.9 1.0 0.9
           emissiveColor 0.9 1.0 0.9
           specularColor 0.9 1.0 0.9

@@ -4,13 +4,13 @@ DEF cylinder4_sep6 Transform {
   children [
     Shape {
       appearance Appearance {
-        material DEF blue2 Material {
+        material DEF blue Material {
           diffuseColor 0.233 0.7 0.7
           emissiveColor 0.233 0.7 0.7
           specularColor 0.233 0.7 0.7
           ambientIntensity 0.5443333333333333
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -283,7 +283,7 @@ DEF cylinder4_sep6 Transform {
           specularColor 0.001 0.001 0.001
           ambientIntensity 0.001
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -426,13 +426,13 @@ DEF cylinder4_sep6 Transform {
     },
     Shape {
       appearance Appearance {
-        material DEF metal2 Material {
-          diffuseColor 0.70696 0.70696 0.70696
-          emissiveColor 0.44056 0.44056 0.44056
-          specularColor 0.7002999999999999 0.7002999999999999 0.7002999999999999
-          ambientIntensity 0.6603399999999999
+        material DEF metal Material {
+          diffuseColor 0.6 0.6 0.6
+          emissiveColor 0.6 0.6 0.6
+          specularColor 0.6 0.6 0.6
+          ambientIntensity 0.6
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {

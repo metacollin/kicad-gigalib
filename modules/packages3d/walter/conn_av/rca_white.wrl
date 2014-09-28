@@ -5,12 +5,12 @@ DEF cube2 Transform {
     Shape {
       appearance Appearance {
         material DEF white Material {
-          diffuseColor 0.95 0.95 0.95
-          emissiveColor 0.95 0.95 0.95
-          specularColor 0.95 0.95 0.95
-          ambientIntensity 0.9499999999999998
+          diffuseColor 0.9 0.9 0.9
+          emissiveColor 0.9 0.9 0.9
+          specularColor 0.9 0.9 0.9
+          ambientIntensity 0.9
           transparency 0.0
-          shininess 0.49333333333333335
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -1674,7 +1674,7 @@ DEF cylinder1 Transform {
           specularColor 1.0 1.0 0.0
           ambientIntensity 0.6666666666666666
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {

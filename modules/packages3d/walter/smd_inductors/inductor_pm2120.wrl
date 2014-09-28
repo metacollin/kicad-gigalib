@@ -10,7 +10,7 @@ DEF cylinder9 Transform {
           specularColor 0.97 0.58 0.31
           ambientIntensity 0.62
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -27192,12 +27192,12 @@ DEF cylinder9 Transform {
     Shape {
       appearance Appearance {
         material DEF pins Material {
-          diffuseColor 0.7 0.7 0.7
-          emissiveColor 0.7 0.7 0.7
-          specularColor 0.7 0.7 0.7
-          ambientIntensity 0.6999999999999998
+          diffuseColor 0.6 0.6 0.6
+          emissiveColor 0.6 0.6 0.6
+          specularColor 0.6 0.6 0.6
+          ambientIntensity 0.6
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -34521,7 +34521,7 @@ DEF cube8 Transform {
           specularColor 0.1 0.1 0.1
           ambientIntensity 0.10000000000000002
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -34713,7 +34713,7 @@ DEF cylinder7 Transform {
           specularColor 0.45 0.75 0.4
           ambientIntensity 0.5333333333333333
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {

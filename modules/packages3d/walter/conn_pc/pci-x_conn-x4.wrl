@@ -5,12 +5,12 @@ DEF cube21_copy195 Transform {
     Shape {
       appearance Appearance {
         material DEF pins Material {
-          diffuseColor 0.7 0.7 0.7
-          emissiveColor 0.7 0.7 0.7
-          specularColor 0.7 0.7 0.7
-          ambientIntensity 0.6999999999999998
+          diffuseColor 0.6 0.6 0.6
+          emissiveColor 0.6 0.6 0.6
+          specularColor 0.6 0.6 0.6
+          ambientIntensity 0.6
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -263,7 +263,7 @@ DEF cube21_copy195 Transform {
           specularColor 1.0 1.0 0.0
           ambientIntensity 0.6666666666666666
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -5148,13 +5148,13 @@ DEF cube11_copy184 Transform {
   children [
     Shape {
       appearance Appearance {
-        material DEF body2 Material {
+        material DEF body Material {
           diffuseColor 0.2 0.2 0.2
           emissiveColor 0.2 0.2 0.2
           specularColor 0.2 0.2 0.2
           ambientIntensity 0.20000000000000004
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -5352,7 +5352,7 @@ DEF cube11_copy183 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -5549,7 +5549,7 @@ DEF cube11_copy182 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -5746,7 +5746,7 @@ DEF cube11_copy181 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -5943,7 +5943,7 @@ DEF cube11_copy180 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -6140,7 +6140,7 @@ DEF cube11_copy179 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -6337,7 +6337,7 @@ DEF cube11_copy178 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -6534,7 +6534,7 @@ DEF cube11_copy177 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -6731,7 +6731,7 @@ DEF cube11_copy176 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -6928,7 +6928,7 @@ DEF cube11_copy175 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -7125,7 +7125,7 @@ DEF cube11_copy174 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -7322,7 +7322,7 @@ DEF cube11_copy173 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -7519,7 +7519,7 @@ DEF cube11_copy172 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -7716,7 +7716,7 @@ DEF cube11_copy171 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -14069,7 +14069,7 @@ DEF cube11_copy156 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -14266,7 +14266,7 @@ DEF cube11_copy155 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -14463,7 +14463,7 @@ DEF cube11_copy154 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -14660,7 +14660,7 @@ DEF cube11_copy153 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -14857,7 +14857,7 @@ DEF cube11_copy152 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -15054,7 +15054,7 @@ DEF cube11_copy151 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -15251,7 +15251,7 @@ DEF cube11_copy150 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -15448,7 +15448,7 @@ DEF cube11_copy149 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -15645,7 +15645,7 @@ DEF cube11_copy148 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -15842,7 +15842,7 @@ DEF cube11_copy147 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -16039,7 +16039,7 @@ DEF cube11_copy146 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -16236,7 +16236,7 @@ DEF cube11_copy145 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -16433,7 +16433,7 @@ DEF cube11_copy144 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -16630,7 +16630,7 @@ DEF cube11_copy143 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -19905,7 +19905,7 @@ DEF cube11_copy135 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -29184,7 +29184,7 @@ DEF cube11_copy107 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -29245,7 +29245,7 @@ DEF cube11_copy106 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -29442,7 +29442,7 @@ DEF cube11_copy105 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -29639,7 +29639,7 @@ DEF cube11_copy104 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -29836,7 +29836,7 @@ DEF cube11_copy103 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -30033,7 +30033,7 @@ DEF cube11_copy102 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -30230,7 +30230,7 @@ DEF cube11_copy101 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -30427,7 +30427,7 @@ DEF cube11_copy100 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -30624,7 +30624,7 @@ DEF cube11_copy99 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -30685,7 +30685,7 @@ DEF cube11_copy98 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -30746,7 +30746,7 @@ DEF cube11_copy97 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -30791,7 +30791,7 @@ DEF cube11_copy96 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -30988,7 +30988,7 @@ DEF cube11_copy95 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -31185,7 +31185,7 @@ DEF cube11_copy94 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -31382,7 +31382,7 @@ DEF cube11_copy93 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -31579,7 +31579,7 @@ DEF cube11_copy92 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -31776,7 +31776,7 @@ DEF cube11_copy91 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -31973,7 +31973,7 @@ DEF cube11_copy90 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -32170,7 +32170,7 @@ DEF cube11_copy89 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -32367,7 +32367,7 @@ DEF cube11_copy88 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -32564,7 +32564,7 @@ DEF cube11_copy87 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -32761,7 +32761,7 @@ DEF cube11_copy86 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -32958,7 +32958,7 @@ DEF cube11_copy85 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -33019,7 +33019,7 @@ DEF cube11_copy84 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -33216,7 +33216,7 @@ DEF cube11_copy83 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -33413,7 +33413,7 @@ DEF cube11_copy82 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -33610,7 +33610,7 @@ DEF cube11_copy81 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -33807,7 +33807,7 @@ DEF cube11_copy80 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -34004,7 +34004,7 @@ DEF cube11_copy79 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -34201,7 +34201,7 @@ DEF cube11_copy78 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -37989,7 +37989,7 @@ DEF cube11_copy70 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -42667,7 +42667,7 @@ DEF cube11_copy59 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -42728,7 +42728,7 @@ DEF cube11_cut58 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -42773,7 +42773,7 @@ DEF cube11_copy53 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -42970,7 +42970,7 @@ DEF cube11_copy51 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -43167,7 +43167,7 @@ DEF cube11_copy50 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -43364,7 +43364,7 @@ DEF cube11_copy49 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -43561,7 +43561,7 @@ DEF cube11_copy48 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -43758,7 +43758,7 @@ DEF cube11_copy47 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -43955,7 +43955,7 @@ DEF cube11_copy46 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -44152,7 +44152,7 @@ DEF cube11_copy45 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -44349,7 +44349,7 @@ DEF cube11_copy44 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -44546,7 +44546,7 @@ DEF cube11_copy43 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -44743,7 +44743,7 @@ DEF cube11_copy41 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -44940,7 +44940,7 @@ DEF cube11_sep39 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -44985,7 +44985,7 @@ DEF cube11_sep38 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -45030,7 +45030,7 @@ DEF cube11_sep37 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -45075,7 +45075,7 @@ DEF cube11_sep36 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -45120,7 +45120,7 @@ DEF cube11_sep35 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -45165,7 +45165,7 @@ DEF cube11_sep34 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -45210,7 +45210,7 @@ DEF cube11_sep33 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -45255,7 +45255,7 @@ DEF cube11_sep32 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -45300,7 +45300,7 @@ DEF cube11_sep31 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -45345,7 +45345,7 @@ DEF cube11_sep30 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -45390,7 +45390,7 @@ DEF cube11_sep29 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -45571,7 +45571,7 @@ DEF cube11_sep28 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -45752,7 +45752,7 @@ DEF cube11_sep27 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -45797,7 +45797,7 @@ DEF cube11_sep26 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -45858,7 +45858,7 @@ DEF cube11_sep25 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -45903,7 +45903,7 @@ DEF cube11_sep24 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -45964,7 +45964,7 @@ DEF cube11_sep23 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE body2
+        material USE body
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE

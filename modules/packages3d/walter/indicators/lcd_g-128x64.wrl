@@ -10,7 +10,7 @@ DEF cube6 Transform {
           specularColor 0.0 0.6 0.0
           ambientIntensity 0.19999999999999998
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -57,7 +57,7 @@ DEF cube6 Transform {
           specularColor 0.5 0.5 0.5
           ambientIntensity 0.5
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -10796,7 +10796,7 @@ DEF cube6 Transform {
           specularColor 1.0 1.0 0.0
           ambientIntensity 0.6666666666666666
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -16370,7 +16370,7 @@ DEF cube6 Transform {
           specularColor 0.1 0.1 0.1
           ambientIntensity 0.10000000000000002
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -17817,7 +17817,7 @@ DEF cube6 Transform {
           specularColor 0.6 0.8 0.5
           ambientIntensity 0.6333333333333333
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {

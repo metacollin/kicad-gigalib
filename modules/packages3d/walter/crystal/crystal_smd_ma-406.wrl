@@ -5,12 +5,12 @@ DEF cube6_copy9 Transform {
     Shape {
       appearance Appearance {
         material DEF pins Material {
-          diffuseColor 0.7 0.7 0.7
-          emissiveColor 0.7 0.7 0.7
-          specularColor 0.7 0.7 0.7
-          ambientIntensity 0.6999999999999998
+          diffuseColor 0.6 0.6 0.6
+          emissiveColor 0.6 0.6 0.6
+          specularColor 0.6 0.6 0.6
+          ambientIntensity 0.6
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -487,7 +487,7 @@ DEF cube5 Transform {
           specularColor 0.3 0.3 0.3
           ambientIntensity 0.3
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {

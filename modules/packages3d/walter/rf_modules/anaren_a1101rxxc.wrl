@@ -10,7 +10,7 @@ DEF cube2_copy76 Transform {
           specularColor 1.0 1.0 0.0
           ambientIntensity 0.6666666666666666
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -1232,7 +1232,7 @@ DEF cube2_sep49 Transform {
           specularColor 0.0 0.4 1.0
           ambientIntensity 0.4666666666666666
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -1278,13 +1278,13 @@ DEF cube60 Transform {
   children [
     Shape {
       appearance Appearance {
-        material DEF metal2 Material {
-          diffuseColor 0.7 0.7 0.7
-          emissiveColor 0.7 0.7 0.7
-          specularColor 0.7 0.7 0.7
-          ambientIntensity 0.6999999999999998
+        material DEF metal Material {
+          diffuseColor 0.6 0.6 0.6
+          emissiveColor 0.6 0.6 0.6
+          specularColor 0.6 0.6 0.6
+          ambientIntensity 0.6
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -1330,7 +1330,7 @@ DEF cylinder1 Transform {
   children [
     Shape {
       appearance Appearance {
-        material USE metal2
+        material USE metal
       }
       geometry IndexedFaceSet {
         normalPerVertex TRUE
@@ -2572,13 +2572,13 @@ DEF cylinder1 Transform {
     },
     Shape {
       appearance Appearance {
-        material DEF body2 Material {
+        material DEF body Material {
           diffuseColor 1.0 1.0 0.8
           emissiveColor 1.0 1.0 0.8
           specularColor 1.0 1.0 0.8
           ambientIntensity 0.9333333333333332
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {

@@ -5,12 +5,12 @@ DEF cylinder7 Transform {
     Shape {
       appearance Appearance {
         material DEF screw Material {
-          diffuseColor 0.8 0.8 0.0
-          emissiveColor 0.8 0.8 0.0
-          specularColor 0.8 0.8 0.0
-          ambientIntensity 0.5333333333333333
+          diffuseColor 1.0 1.0 0.0
+          emissiveColor 1.0 1.0 0.0
+          specularColor 1.0 1.0 0.0
+          ambientIntensity 0.6666666666666666
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -4739,12 +4739,12 @@ DEF cube7 Transform {
     Shape {
       appearance Appearance {
         material DEF pins Material {
-          diffuseColor 0.7 0.7 0.7
-          emissiveColor 0.7 0.7 0.7
-          specularColor 1.0 1.0 1.0
-          ambientIntensity 1.0
+          diffuseColor 0.6 0.6 0.6
+          emissiveColor 0.6 0.6 0.6
+          specularColor 0.6 0.6 0.6
+          ambientIntensity 0.6
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -4956,10 +4956,10 @@ DEF cube7 Transform {
         material DEF black_plastic Material {
           diffuseColor 0.1 0.1 0.1
           emissiveColor 0.1 0.1 0.1
-          specularColor 1.0 1.0 1.0
-          ambientIntensity 1.0
+          specularColor 0.1 0.1 0.1
+          ambientIntensity 0.10000000000000002
           transparency 0.0
-          shininess 0.7
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -5008,10 +5008,10 @@ DEF cube1 Transform {
         material DEF anodized Material {
           diffuseColor 0.2 0.1 0.1
           emissiveColor 0.2 0.1 0.1
-          specularColor 1.0 1.0 1.0
-          ambientIntensity 1.0
+          specularColor 0.2 0.1 0.1
+          ambientIntensity 0.13333333333333333
           transparency 0.0
-          shininess 0.85
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {

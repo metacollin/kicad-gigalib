@@ -10,7 +10,7 @@ DEF cylinder29_copy30 Transform {
           specularColor 1.0 1.0 0.0
           ambientIntensity 0.6666666666666666
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -537,12 +537,12 @@ DEF cylinder29 Transform {
     Shape {
       appearance Appearance {
         material DEF metal Material {
-          diffuseColor 0.7 0.7 0.7
-          emissiveColor 0.7 0.7 0.7
-          specularColor 0.7 0.7 0.7
-          ambientIntensity 0.6999999999999998
+          diffuseColor 0.6 0.6 0.6
+          emissiveColor 0.6 0.6 0.6
+          specularColor 0.6 0.6 0.6
+          ambientIntensity 0.6
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -2123,12 +2123,12 @@ DEF cube1 Transform {
     Shape {
       appearance Appearance {
         material DEF body Material {
-          diffuseColor 1.0 1.0 0.9
-          emissiveColor 1.0 1.0 0.9
-          specularColor 1.0 1.0 0.9
-          ambientIntensity 0.9666666666666667
+          diffuseColor 1.0 1.0 0.7
+          emissiveColor 1.0 1.0 0.7
+          specularColor 1.0 1.0 0.7
+          ambientIntensity 0.9
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {

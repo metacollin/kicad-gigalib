@@ -10,7 +10,7 @@ DEF sphere1_cut2 Transform {
           specularColor 0.6 0.6 0.6
           ambientIntensity 0.6
           transparency 0.0
-          shininess 1.0
+          shininess 0.6
         }
       }
       geometry IndexedFaceSet {
@@ -749,7 +749,7 @@ DEF sphere1_cut2 Transform {
           specularColor 1.0 1.0 0.25
           ambientIntensity 0.75
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -2640,7 +2640,7 @@ DEF sphere1_cut2 Transform {
           specularColor 0.6 0.6 0.0
           ambientIntensity 0.39999999999999997
           transparency 0.0
-          shininess 0.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -2821,7 +2821,7 @@ DEF sphere1_cut2 Transform {
           specularColor 0.8 0.8 0.0
           ambientIntensity 0.5333333333333333
           transparency 0.0
-          shininess 0.8
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -2896,7 +2896,7 @@ DEF sphere1_cut2 Transform {
           specularColor 0.8 0.8 0.8
           ambientIntensity 0.8000000000000002
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -2941,7 +2941,7 @@ DEF sphere1_cut2 Transform {
           specularColor 1.0 1.0 0.0
           ambientIntensity 0.6666666666666666
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -3038,7 +3038,7 @@ DEF sphere1_cut2 Transform {
     },
     Shape {
       appearance Appearance {
-        material DEF Resin2 Material {
+        material DEF Resin Material {
           diffuseColor 0.9 1.0 0.9
           emissiveColor 0.9 1.0 0.9
           specularColor 0.9 1.0 0.9
@@ -3759,7 +3759,7 @@ DEF sphere1_cut2 Transform {
           0.5879105358705914 -0.7071395714104186 0.3928292610764166,
           0.4999768127350951 -0.7071395714104187 0.4999768127350956,
           0.3928292610764166 -0.7071395714104188 0.5879105358705913,
-          0.2705855012157588 -0.707139571410419 0.6532511868166069,
+          0.27058550121575886 -0.707139571410419 0.6532511868166069,
           0.1379432922894766 -0.707139571410419 0.6934877610007467,
           0.0 -0.7071395714104192 0.7070739894420447,
           -0.1379432922894769 -0.707139571410419 0.6934877610007466,
@@ -3775,7 +3775,7 @@ DEF sphere1_cut2 Transform {
           0.513246995542183 -0.8314934573017843 0.21259386640081693,
           0.4619100925841669 -0.8314934573017844 0.3086384565040659,
           0.39282224381030495 -0.8314934573017843 0.39282224381030556,
-          0.3086384565040658 -0.8314934573017841 0.46191009258416715,
+          0.30863845650406585 -0.8314934573017841 0.46191009258416715,
           0.21259386640081565 -0.8314934573017841 0.5132469955421834,
           0.10837941323579585 -0.831493457301784 0.544860104293745,
           -1.0125380346667484e-16 -0.831493457301784 0.5555345447983646,

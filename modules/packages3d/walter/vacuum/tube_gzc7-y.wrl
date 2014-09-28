@@ -5,12 +5,12 @@ DEF cylinder18 Transform {
     Shape {
       appearance Appearance {
         material DEF pins Material {
-          diffuseColor 0.7 0.7 0.7
-          emissiveColor 0.7 0.7 0.7
-          specularColor 0.7 0.7 0.7
-          ambientIntensity 0.6999999999999998
+          diffuseColor 0.6 0.6 0.6
+          emissiveColor 0.6 0.6 0.6
+          specularColor 0.6 0.6 0.6
+          ambientIntensity 0.6
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -1611,11 +1611,11 @@ DEF cylinder18 Transform {
       appearance Appearance {
         material DEF socket Material {
           diffuseColor 0.9 0.9 0.9
-          emissiveColor 0.5 0.5 0.5
-          specularColor 0.5 0.5 0.5
+          emissiveColor 0.9 0.9 0.9
+          specularColor 0.9 0.9 0.9
           ambientIntensity 0.9
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -2276,10 +2276,10 @@ DEF sphere2_sep7 Transform {
         material DEF black Material {
           diffuseColor 0.001 0.001 0.001
           emissiveColor 0.001 0.001 0.001
-          specularColor 1.0 1.0 1.0
+          specularColor 0.0 0.0 0.0
           ambientIntensity 0.001
           transparency 0.0
-          shininess 1.0
+          shininess 0.1
         }
       }
       geometry IndexedFaceSet {
@@ -3001,7 +3001,7 @@ DEF sphere2_sep7 Transform {
           specularColor 1.0 1.0 0.0
           ambientIntensity 0.6666666666666666
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {

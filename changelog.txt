@@ -3,6 +3,33 @@ Kicad Libraries Changelog
 + = added  - = removed  M = modified  R = moved to another library  A = moved from another library
 Dates are in YYYYMMDD format
 
+#20140928
+  (first block of updates to improve 3D appearance with recent nightly builds)
+  M mod_battery_holders
+  M mod_capacitors
+  M mod_conn_9159
+  M mod_conn_av
+  M mod_conn_pc
+  M mod_conn_rf
+  M mod_conn_strip
+  M mod_crystal
+  M mod_details
+  M mod_indicators
+  M mod_pth_circuits
+  M mod_pth_diodes
+  M mod_pth_resistors
+  M mod_relay
+  M mod_rf_modules
+  M mod_smd_bga
+  M mod_smd_cap
+  M mod_smd_inductors
+  M mod_smd_leds
+  M mod_smd_resistors
+  M mod_smd_trans
+  M mod_switch
+  M mod_to
+  M mod_vacuum
+
 #20140806
   M lib_w_analog
     + mcp73831-dfn

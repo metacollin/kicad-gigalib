@@ -5,12 +5,12 @@ DEF cylinder3 Transform {
     Shape {
       appearance Appearance {
         material DEF body Material {
-          diffuseColor 1.0 1.0 0.5
-          emissiveColor 1.0 1.0 0.5
-          specularColor 1.0 1.0 0.5
-          ambientIntensity 0.8333333333333334
+          diffuseColor 0.85 0.85 0.15
+          emissiveColor 0.85 0.85 0.15
+          specularColor 0.85 0.85 0.15
+          ambientIntensity 0.6166666666666666
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
@@ -129,12 +129,12 @@ DEF cylinder2_copy3 Transform {
     Shape {
       appearance Appearance {
         material DEF pins Material {
-          diffuseColor 0.7 0.7 0.7
-          emissiveColor 0.7 0.7 0.7
-          specularColor 1.0 1.0 1.0
-          ambientIntensity 1.0
+          diffuseColor 0.6 0.6 0.6
+          emissiveColor 0.6 0.6 0.6
+          specularColor 0.6 0.6 0.6
+          ambientIntensity 0.6
           transparency 0.0
-          shininess 1.0
+          shininess 0.5
         }
       }
       geometry IndexedFaceSet {
