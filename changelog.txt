@@ -3,6 +3,9 @@ Kicad Libraries Changelog
 + = added  - = removed  M = modified  R = moved to another library  A = moved from another library
 Dates are in YYYYMMDD format
 
+#20141214
+  M mod_conn_df13
+
 #20140928
   (first block of updates to improve 3D appearance with recent nightly builds)
   M mod_battery_holders
