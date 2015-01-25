@@ -1,4 +1,4 @@
-(module rca_black (layer F.Cu)
+(module rca_black (layer F.Cu) (tedit 54B6CDBA)
   (descr "RCA Audio connector, black, Pro Signal p/n PSG01544")
   (tags "rca, audio")
   (fp_text reference rca_black (at 0 15.7988) (layer F.SilkS)
@@ -30,9 +30,9 @@
   (fp_line (start 4.8006 5.00126) (end -4.8006 5.00126) (layer F.SilkS) (width 0.381))
   (fp_line (start -4.8006 4.99872) (end -4.8006 -6.80212) (layer F.SilkS) (width 0.381))
   (fp_line (start 4.8006 -6.79958) (end 4.8006 5.00126) (layer F.SilkS) (width 0.381))
-  (pad 2 thru_hole oval (at 5.0546 -3.99796) (size 1.99898 3.19786) (drill oval 0.99568 2.1971) (layers *.Cu *.Mask F.SilkS))
-  (pad 1 thru_hole oval (at 0 0) (size 3.19786 1.99898) (drill oval 2.1971 0.99568) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole oval (at -5.0546 -3.99796) (size 1.99898 3.19786) (drill oval 0.99568 2.1971) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole oval (at 5.05 -4) (size 2 3.2) (drill oval 1 2.2) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole oval (at 0 0) (size 3.2 2) (drill oval 2.2 1) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole oval (at -5.05 -4) (size 2 3.2) (drill oval 1 2.2) (layers *.Cu *.Mask F.SilkS))
   (model walter/conn_av/rca_black.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
