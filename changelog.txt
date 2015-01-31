@@ -3,6 +3,50 @@ Kicad Libraries Changelog
 + = added  - = removed  M = modified  R = moved to another library  A = moved from another library
 Dates are in YYYYMMDD format
 
+#20150131
+  (second block of updates to fix 3D appearance with recent nightly builds)
+  M mod_pth_circuits
+  M mod_relay
+  M mod_smd_cap
+  M mod_smd_dil
+  M mod_smd_leds
+  M mod_vacuum
+
+#20150125
+  (first block of updates to fix 3D appearance with recent nightly builds)
+  M mod_battery_holders
+  M mod_capacitors
+  M mod_conn_9159
+  M mod_conn_av
+  M mod_conn_d-sub
+  M mod_conn_gmkds
+  M mod_conn_misc
+  M mod_conn_mkds
+  M mod_conn_modu
+  M mod_conn_mpt
+  M mod_conn_panelmate
+  M mod_conn_pc
+  M mod_conn_pt-1,5
+  M mod_conn_rf
+  M mod_conn_screw
+  M mod_conn_strip
+  M mod_crystal
+  M mod_details
+  M mod_indicators
+  M mod_misc_comp
+  M mod_misc_rf
+  M mod_pga
+  M mod_pth_diodes
+  M mod_pth_plcc
+  M mod_rf_modules
+  M mod_smd_diode
+  M mod_smd_inductors
+  M mod_smd_lqfp
+  M mod_smd_plcc
+  M mod_smd_resistors
+  M mod_smd_trans
+  M mod_switch
+
 #20141214
   M mod_conn_df13
 
