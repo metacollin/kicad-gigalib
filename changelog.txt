@@ -3,6 +3,22 @@ Kicad Libraries Changelog
 + = added  - = removed  M = modified  R = moved to another library  A = moved from another library
 Dates are in YYYYMMDD format
 
+#20150214
+  M mod_pth_resistors
+    + trimmer_piher_pt10xv10
+  M mod_smd_dil
+    + tssop-32
+  M mod_to
+    + to92_3_flat
+  (third block of updates to fix 3D appearance with recent nightly builds)
+  M mod_conn_df12
+  M mod_conn_misc
+  M mod_indicators
+  M mod_pth_resistors
+  M mod_smd_bga
+  M mod_smd_qfn
+  M mod_to
+
 #20150131
   (second block of updates to fix 3D appearance with recent nightly builds)
   M mod_pth_circuits
