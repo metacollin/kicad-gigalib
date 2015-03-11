@@ -3,10 +3,10 @@
   (descr "Neosid, Air-Coil, SML, 2turn, HAM0331A,")
   (tags "Neosid, Air-Coil, SML, 3turn, HAM0331A,")
   (attr smd)
-  (fp_text reference Neosid_Air-Coil_SML_3turn_HAM0331A (at -0.20066 -5.34924) (layer F.SilkS)
+  (fp_text reference REF** (at -0.20066 -5.34924) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at -0.35052 5.45084) (layer F.SilkS) hide
+  (fp_text value Neosid_Air-Coil_SML_3turn_HAM0331A (at -0.35052 5.45084) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -0.94996 -0.65024) (end -0.35052 0.70104) (layer F.SilkS) (width 0.15))
