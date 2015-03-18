@@ -3,6 +3,37 @@ Kicad Libraries Changelog
 + = added  - = removed  M = modified  R = moved to another library  A = moved from another library
 Dates are in YYYYMMDD format
 
+#20150318
+  M lib_w_analog
+    + ap7312-dfn
+    + ap7312-sot
+    + lps25h
+  M lib_w_memory
+    + is4xtr16256a
+    + is4xtr85120a
+  M lib_w_rtx
+    + id_id2la
+    + id_id12la
+    + id_id20la
+  M mod_rf_modules
+    + id_id2la
+    + id_id12la
+    + id_id20la
+  M mod_smd_bga
+    + twbga78
+    + twbga96
+    + ubga484-std
+  M mod_smd_leds
+    + osram_duris_p5
+  M mod_smd_qfn
+    + dfn2018-6
+    M dfn5mm
+    + hclga-10l
+  (fourth block of updates to fix 3D appearance with recent nightly builds)
+  M mod_conn_jst-ph
+  M mod_conn_kk100
+  M mod_conn_kk156
+
 #20150214
   M mod_pth_resistors
     + trimmer_piher_pt10xv10

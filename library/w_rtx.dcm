@@ -25,6 +25,21 @@ D USB2 FIFO
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/FTDI_FT245R.pdf
 $ENDCMP
 #
+$CMP ID_ID-12LA
+D ID-Innovation ID-12LA RFID module
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/ID_ID20.pdf
+$ENDCMP
+#
+$CMP ID_ID-20LA
+D ID-Innovation ID-20LA RFID module
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/ID_ID20.pdf
+$ENDCMP
+#
+$CMP ID_ID-2LA
+D ID-Innovation ID-2LA RFID module
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/ID_ID20.pdf
+$ENDCMP
+#
 $CMP ITEAD_HC-05
 D Itead HC-05 serial Bluetooth module
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/ITEAD_HC-05.pdf

@@ -20,6 +20,16 @@ D Half-Bridge Mosfet driver
 F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ON_ADP3110A.pdf
 $ENDCMP
 #
+$CMP AP7312-DFN
+D Dual 150mA low quiescent current fast transient LDO linear regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/DINC_AP7312.pdf
+$ENDCMP
+#
+$CMP AP7312-SOT
+D Dual 150mA low quiescent current fast transient LDO linear regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/DINC_AP7312.pdf
+$ENDCMP
+#
 $CMP CS9236L
 D Single chip Wavetable music synthesizer
 K CS9236
@@ -158,6 +168,12 @@ $ENDCMP
 $CMP LMH6702-SOT
 D 1.7 GHz, Ultra Low Distortion, Wideband Op Amp
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/NSC_LMH6702.pdf
+$ENDCMP
+#
+$CMP LPS25H
+D MEMS pressure sensor
+K LPS25H
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Sensori/ST_LPS25H.pdf
 $ENDCMP
 #
 $CMP LSM9DS0

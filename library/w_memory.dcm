@@ -1,64 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: dom 14 apr 2013 13:30:32 CEST
-#
-$CMP 24XX128-CS
-D 128K I2C CMOS Serial EEPROM, chip scale package
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/24LC128.pdf
-$ENDCMP
-#
-$CMP 24XX128-DIL
-D 128K I2C CMOS Serial EEPROM, dual-inline package
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/24LC128.pdf
-$ENDCMP
-#
-$CMP 24XX128-MSOP
-D 128K I2C CMOS Serial EEPROM, MSOP-8 package
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/24LC128.pdf
-$ENDCMP
-#
-$CMP 24XX16B-CS
-D 16K I2C CMOS Serial EEPROM, chip scale package
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/24LC16B.pdf
-$ENDCMP
-#
-$CMP 24XX16B-DIL
-D 16K I2C CMOS Serial EEPROM, dual-inline package
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/24LC16B.pdf
-$ENDCMP
-#
-$CMP 24XX16B-SOT
-D 16K I2C CMOS Serial EEPROM, SOT23-5 package
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/24LC16B.pdf
-$ENDCMP
-#
-$CMP 24XX256-CS
-D 256K I2C CMOS Serial EEPROM, chip scale package
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/24LC256.pdf
-$ENDCMP
-#
-$CMP 24XX256-DIL
-D 256K I2C CMOS Serial EEPROM, dual-inline package
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/24LC256.pdf
-$ENDCMP
-#
-$CMP 24XX256-MSOP
-D 256K I2C CMOS Serial EEPROM, MSOP-8 package
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/24LC256.pdf
-$ENDCMP
-#
-$CMP 24XX512-CS
-D 512K I2C CMOS Serial EEPROM, chip scale package
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/24LC512.pdf
-$ENDCMP
-#
-$CMP 24XX512-DIL
-D 512K I2C CMOS Serial EEPROM, dual-inline package
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/24LC512.pdf
-$ENDCMP
-#
-$CMP 24XX512-TSSOP14
-D 512K I2C CMOS Serial EEPROM, TSSOP-14 package
-F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/24LC512.pdf
-$ENDCMP
+EESchema-DOCLIB  Version 2.0
 #
 $CMP AS7C38098A-BGA
 D 512K X 16 BIT HIGH SPEED CMOS SRAM
@@ -70,6 +10,18 @@ $CMP AS7C38098A-TSOP
 D 512K X 16 BIT HIGH SPEED CMOS SRAM
 K AS7C38098A
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/AMEM_AS7C38098A.pdf
+$ENDCMP
+#
+$CMP IS4xTR16256A
+D 256M X 16 BIT DDR3 SRAM
+K IS4xTR16256A
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/ISSI_IS4xTR16256A-IS4xTR85120A.pdf
+$ENDCMP
+#
+$CMP IS4xTR85120A
+D 512M X 8 BIT DDR3 SRAM
+K IS4xTR85120A
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/ISSI_IS4xTR16256A-IS4xTR85120A.pdf
 $ENDCMP
 #
 $CMP IS61WV51216-BGA
