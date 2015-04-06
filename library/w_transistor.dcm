@@ -206,6 +206,11 @@ D Si3440DV N channel 150V MOSFET
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/MOS/N-channel/VSH_SI3440DV.pdf
 $ENDCMP
 #
+$CMP SI4401BD
+D Si4401BD P channel 40V MOSFET
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/MOS/P-channel/VSH_SI4401BD.pdf
+$ENDCMP
+#
 $CMP TRIAC_BTA
 D TRIAC, BTA series pinout
 K TRIAC
