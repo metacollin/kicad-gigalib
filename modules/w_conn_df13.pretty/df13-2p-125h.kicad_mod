@@ -1,4 +1,4 @@
-(module df13-2p-125h (layer F.Cu)
+(module df13-2p-125h (layer F.Cu) (tedit 550D6E7C)
   (descr "Hirose DF13 series, DF13-2P-1.25H")
   (fp_text reference df13-2p-125h (at 0 -5.6007) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
@@ -55,9 +55,9 @@
   (pad 2 smd rect (at -0.62484 -3.50012) (size 0.70104 1.80086) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -3.07594 -0.20066) (size 1.6002 2.19964) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 3.07594 -0.20066) (size 1.6002 2.19964) (layers F.Cu F.Paste F.Mask))
-  (pad "" np_thru_hole circle (at 1.67386 -1.69926) (size 0.89916 0.89916) (drill 0.89916) (layers *.Cu *.Mask F.SilkS))
-  (pad "" np_thru_hole circle (at -1.67386 -1.69926) (size 0.89916 0.89916) (drill 0.89916) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_df13/df13a-2p-125h.wrl
+  (pad "" np_thru_hole circle (at 1.67386 -2.10058) (size 0.89916 0.89916) (drill 0.89916) (layers *.Cu *.Mask F.SilkS))
+  (pad "" np_thru_hole circle (at -1.67386 -2.10058) (size 0.89916 0.89916) (drill 0.89916) (layers *.Cu *.Mask F.SilkS))
+  (model walter/conn_df13/df13-2p-125h.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

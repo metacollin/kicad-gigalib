@@ -36,6 +36,10 @@ $CMP DB-9
 K CONN
 $ENDCMP
 #
+$CMP RasPI_IO_Header_B+
+D Raspberry PI B+/2 GPIO header
+$ENDCMP
+#
 $CMP STM32F0_Discovery_Header
 D STM32F0 Discovery Header
 $ENDCMP
