@@ -3,6 +3,15 @@ Kicad Libraries Changelog
 + = added  - = removed  M = modified  R = moved to another library  A = moved from another library
 Dates are in YYYYMMDD format
 
+#20150419
+  M lib_w_analog
+    + max764
+    + tps7a30xx
+    + tps7a49
+  M lib_w_microcontrollers
+    + pic16f1503-dil
+  + mod_conn_ftsh
+
 #20150406
   M lib_w_connectors
     + raspi_io_header_b+

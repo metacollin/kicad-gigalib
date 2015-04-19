@@ -211,6 +211,11 @@ D Low-Noise, 14V Input, 1A, PWM Step-Down Converter
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/MAX_MAX1684-1685.pdf
 $ENDCMP
 #
+$CMP MAX764
+D -5V/-12V/-15V or Adjustable, High-Efficiency, Low IQ DC-DC Inverters
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/MAX_MAX764-766.pdf
+$ENDCMP
+#
 $CMP MBI6651GSD
 D 1A Step Down Converter
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/MBLK_MBI6651.pdf
@@ -393,6 +398,16 @@ $ENDCMP
 $CMP TPS7A16
 D 60-V, 5-μA IQ, 100-mA, Low-Dropout Voltage regulator with Enable and Power-Good
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_TPS7A16.pdf
+$ENDCMP
+#
+$CMP TPS7A30xx
+D –36V, –200mA, Ultra low-Noise, Negative Linear Regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_TPS7A30xx.pdf
+$ENDCMP
+#
+$CMP TPS7A49
+D 36V, 150mA, Ultra low-Noise, Positive Linear Regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_TPS7A49.pdf
 $ENDCMP
 #
 $CMP TS4871

@@ -228,6 +228,12 @@ K 12F683
 F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/microcontrollori/Microchip/MCIP_PIC12F683.pdf
 $ENDCMP
 #
+$CMP PIC16F1503-DIL
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 16F1503
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Microcontrollori/Microchip/MCIP_PIC16F1503.pdf
+$ENDCMP
+#
 $CMP PIC16F628A
 D FLASH-Based 8-Bit CMOS Microcontroller
 K 16F628
