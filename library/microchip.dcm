@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ENC28J60-C/SS
+D ENC28J60 Single Chip Ethernet Interface, SSOP-28
+K ENC Ethernet
+F http://ww1.microchip.com/downloads/en/devicedoc/39662a.pdf
+$ENDCMP
+#
+$CMP ENC28J60-I/ML
+D ENC28J60 Single Chip Ethernet Interface, QFN-28+EP
+K ENC Ethernet
+F http://ww1.microchip.com/downloads/en/devicedoc/39662a.pdf
+$ENDCMP
+#
+$CMP ENC28J60-I/SO
+D ENC28J60 Single Chip Ethernet Interface, SOIC-28
+K ENC Ethernet
+F http://ww1.microchip.com/downloads/en/devicedoc/39662a.pdf
+$ENDCMP
+#
+$CMP ENC28J60-I/SP
+D ENC28J60 Single Chip Ethernet Interface, PDIP-28
+K ENC Ethernet
+F http://ww1.microchip.com/downloads/en/devicedoc/39662a.pdf
+$ENDCMP
+#
+$CMP USB3300
+D Hi-Speed USB Host, Device or OTG PHY with ULPI Interface
+K USB OTG Hi-Speed PHY ULPI Interface
+F http://microchip.com/downloads/en/DeviceDoc/00001783A.pdf
+$ENDCMP
+#
+#End Doc Library

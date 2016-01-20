@@ -1,0 +1,170 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FSDH321
+D 17W SMPS Controller, 100kHz, AC-DC, PDIP-8
+K SMPS Controller with MOSFET 17W AC-DC
+F www.fairchildsemi.com/ds/FS/FSDH321.pdf
+$ENDCMP
+#
+$CMP FSDH321L
+D 17W SMPS Controller, 100kHz, AC-DC, SMD-8
+K SMPS Controller with MOSFET 17W AC-DC
+F www.fairchildsemi.com/ds/FS/FSDH321.pdf
+$ENDCMP
+#
+$CMP FSDL321
+D 17W SMPS Controller, 50kHz, AC-DC, PDIP-8
+K SMPS Controller with MOSFET 17W AC-DC
+F www.fairchildsemi.com/ds/FS/FSDH321.pdf
+$ENDCMP
+#
+$CMP FSDL321L
+D 17W SMPS Controller, 50kHz, AC-DC, SMD-8
+K SMPS Controller with MOSFET 17W AC-DC
+F www.fairchildsemi.com/ds/FS/FSDH321.pdf
+$ENDCMP
+#
+$CMP FSL136MRT
+D 67kHz SMPS Controller w/ Soft Start, max. 50W AC-DC, TO-220F-6L
+K SMPS Controller 50W AC-DC
+F http://www.fairchildsemi.com/ds/FS/FSL136MRT.pdf
+$ENDCMP
+#
+$CMP FSQ0565RQLDTU
+D 67kHz Quasi Resonant SMPS Controller w/ Soft Start, max. 80W AC-DC, TO-220F-6L (Formed)
+K Quasi Resonant SMPS Controller 80W AC-DC
+F www.fairchildsemi.com/ds/FS/FSQ0565RQ.pdf‎
+$ENDCMP
+#
+$CMP FSQ0565RQWDTU
+D 67kHz Quasi Resonant SMPS Controller w/ Soft Start, max. 80W AC-DC, TO-220F-6L
+K Quasi Resonant SMPS Controller 80W AC-DC
+F www.fairchildsemi.com/ds/FS/FSQ0565RQ.pdf‎
+$ENDCMP
+#
+$CMP FSQ0565RSLDTU
+D 67kHz Quasi Resonant SMPS Controller w/ Soft Start, max. 80W AC-DC, TO-220F-6L (Formed)
+K Quasi Resonant SMPS Controller 80W AC-DC
+F www.fairchildsemi.com/ds/FS/FSQ0565RQ.pdf‎
+$ENDCMP
+#
+$CMP FSQ0565RSWDTU
+D 67kHz Quasi Resonant SMPS Controller w/ Soft Start, max. 80W AC-DC, TO-220F-6L
+K Quasi Resonant SMPS Controller 80W AC-DC
+F www.fairchildsemi.com/ds/FS/FSQ0565RQ.pdf‎
+$ENDCMP
+#
+$CMP KA5H02659RN
+D 100kHz SMPS Controller, AC-DC, PDIP-8
+K SMPS Controller AC-DC
+F http://www.fairchildsemi.com/ds/AR/AR3522X.pdf
+$ENDCMP
+#
+$CMP KA5H0265RCTU
+D 100kHz SMPS Controller w/ Soft Start, AC-DC, TO-220F-5L
+K SMPS Controller AC-DC
+F http://www.fairchildsemi.com/ds/AR/AR3522X.pdf
+$ENDCMP
+#
+$CMP KA5H0265RCYDTU
+D KA5H0265RCTU, 100kHz SMPS Controller w/ Soft Start, AC-DC, TO-220F-5L(Forming)
+K SMPS Controller AC-DC
+F http://www.fairchildsemi.com/ds/AR/AR3522X.pdf
+$ENDCMP
+#
+$CMP KA5H0280RTU
+D 100kHz SMPS Controller, AC-DC, TO-220F-4L
+K SMPS Controller AC-DC
+F http://www.fairchildsemi.com/ds/AR/AR3522X.pdf
+$ENDCMP
+#
+$CMP KA5H0280RYDTU
+D 100kHz SMPS Controller, AC-DC, TO-220F-4L(Forming)
+K SMPS Controller AC-DC
+F http://www.fairchildsemi.com/ds/AR/AR3522X.pdf
+$ENDCMP
+#
+$CMP KA5L0265RTU
+D 50kHz SMPS Controller, AC-DC, TO-220F-4L
+K SMPS Controller AC-DC
+F http://www.fairchildsemi.com/ds/AR/AR3522X.pdf
+$ENDCMP
+#
+$CMP KA5L0265RYDTU
+D 50kHz SMPS Controller, AC-DC, TO-220F-4L(Forming)
+K SMPS Controller AC-DC
+F http://www.fairchildsemi.com/ds/AR/AR3522X.pdf
+$ENDCMP
+#
+$CMP KA5M02659RN
+D 67kHz SMPS Controller, AC-DC, PDIP-8
+K SMPS Controller AC-DC
+F http://www.fairchildsemi.com/ds/AR/AR3522X.pdf
+$ENDCMP
+#
+$CMP KA5M0265RTU
+D 67kHz SMPS Controller, AC-DC, TO-220F-4L
+K SMPS Controller AC-DC
+F http://www.fairchildsemi.com/ds/AR/AR3522X.pdf
+$ENDCMP
+#
+$CMP KA5M0265RYDTU
+D 67kHz SMPS Controller, AC-DC, TO-220F-4L(Forming)
+K SMPS Controller AC-DC
+F http://www.fairchildsemi.com/ds/AR/AR3522X.pdf
+$ENDCMP
+#
+$CMP KA5M0280RTU
+D 67kHz SMPS Controller, AC-DC, TO-220F-4L
+K SMPS Controller AC-DC
+F http://www.fairchildsemi.com/ds/AR/AR3522X.pdf
+$ENDCMP
+#
+$CMP KA5M0280RYDTU
+D KA5M0280RTDTU, 67kHz SMPS Controller, AC-DC, TO-220F-4L(Forming)
+K SMPS Controller AC-DC
+F http://www.fairchildsemi.com/ds/AR/AR3522X.pdf
+$ENDCMP
+#
+$CMP NCP1200P
+D SMPS Controller, AC-DC, PDIP-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1200-D.PDF
+$ENDCMP
+#
+$CMP NCP1200S
+D SMPS Controller, AC-DC, SO-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1200-D.PDF
+$ENDCMP
+#
+$CMP UC3846X-D08-T
+D UC3846x-DO8-T, SMPS Flyback PWM Controller, DIP8
+K SMPS PWM Controller
+$ENDCMP
+#
+$CMP VIPER22ADIP-E
+D 12W SMPS Controller, AC-DC, PDIP-8
+K SMPS Controller with MOSFET 12W AC-DC
+F http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00087939.pdf
+$ENDCMP
+#
+$CMP VIPER22AS-E
+D 12W SMPS Controller, AC-DC, SO-8
+K SMPS Controller with MOSFET 12W AC-DC
+F http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00087939.pdf
+$ENDCMP
+#
+$CMP VIPer25HN
+D 12W SMPS Controller, AC-DC, PDIP-7
+K SMPS Controller with MOSFET 12W AC-DC
+F http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00231127.pdf
+$ENDCMP
+#
+$CMP VIPer25LN
+D 12W SMPS Controller, AC-DC, PDIP-7
+K SMPS Controller with MOSFET 12W AC-DC
+F http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00231127.pdf
+$ENDCMP
+#
+#End Doc Library
