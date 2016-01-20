@@ -1,0 +1,7908 @@
+PCBNEW-LibModule-V1  mar 05 ago 2014 17:16:37 CEST
+# encoding utf-8
+Units mm
+$INDEX
+vasch_strip_10x2
+vasch_strip_10x2_90
+vasch_strip_12x2
+vasch_strip_12x2_90
+vasch_strip_13x2
+vasch_strip_13x2_90
+vasch_strip_15x2
+vasch_strip_15x2_90
+vasch_strip_16x2
+vasch_strip_16x2_90
+vasch_strip_17x2
+vasch_strip_17x2_90
+vasch_strip_18x2
+vasch_strip_18x2_90
+vasch_strip_20x2
+vasch_strip_20x2_90
+vasch_strip_25x2
+vasch_strip_25x2_90
+vasch_strip_30x2
+vasch_strip_30x2_90
+vasch_strip_32x2
+vasch_strip_32x2_90
+vasch_strip_3x2
+vasch_strip_3x2_90
+vasch_strip_4x2
+vasch_strip_4x2_90
+vasch_strip_5x2
+vasch_strip_5x2_90
+vasch_strip_6x2
+vasch_strip_6x2_90
+vasch_strip_7x2
+vasch_strip_7x2_90
+vasch_strip_8x2
+vasch_strip_8x2_90
+vasch_strip_9x2
+vasch_strip_9x2_90
+$EndINDEX
+$MODULE vasch_strip_10x2
+Po 0 0 0 15 53DE08D2 00000000 ~~
+Li vasch_strip_10x2
+Cd Box header 10x2pin 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.7 1 1 0 0.2032 N V 21 N "VASCH_STRIP_10x2"
+T1 0 5.7 1 1 0 0.2032 N I 21 N "JP***"
+DS -16.7 4.7 16.7 4.7 0.3048 21
+DS 16.7 -4.7 -16.7 -4.7 0.3048 21
+DS -16.7 -4.7 -16.7 4.7 0.3048 21
+DS 16.7 -4.7 16.7 4.7 0.3048 21
+DS 2.3 4.7 2.3 3.3 0.29972 21
+DS 2.3 3.3 -2.3 3.3 0.29972 21
+DS -2.3 3.3 -2.3 4.7 0.29972 21
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 -1.27
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 1.27
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 1.27
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -1.27
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -1.27
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 1.27
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 1.27
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -1.27
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 -1.27
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 1.27
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 1.27
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 -1.27
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 -1.27
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 1.27
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 1.27
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 -1.27
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 1.27
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 -1.27
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 1.27
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 -1.27
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_10x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_10x2
+$MODULE vasch_strip_10x2_90
+Po 0 0 0 15 53DE4625 00000000 ~~
+Li vasch_strip_10x2_90
+Cd Box header 10x2pin 90° 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -8.5 1 1 0 0.2032 N V 21 N "VASCH_STRIP_10x2_90"
+T1 0 9 1 1 0 0.2032 N I 21 N "JP***"
+DS -16.7 2 16.7 2 0.3048 21
+DS 16.7 -7.4 -16.7 -7.4 0.3048 21
+DS -16.7 -7.4 -16.7 2 0.3048 21
+DS 16.7 -7.4 16.7 2 0.3048 21
+DS 2.3 -7.4 2.3 2 0.29972 21
+DS -2.3 -7.4 -2.3 2 0.29972 21
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 3.81
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 6.35
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 6.35
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 3.81
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 3.81
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 6.35
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 6.35
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 6.35
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 6.35
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 6.35
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 6.35
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 6.35
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 6.35
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 3.81
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_10x2_90.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_10x2_90
+$MODULE vasch_strip_12x2
+Po 0 0 0 15 53DE1A97 00000000 ~~
+Li vasch_strip_12x2
+Cd Box header 12x2pin 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.7 1 1 0 0.2032 N V 21 N "VASCH_STRIP_12x2"
+T1 0 5.7 1 1 0 0.2032 N I 21 N "JP***"
+DS -19.2 4.7 19.2 4.7 0.3048 21
+DS 19.2 -4.7 -19.2 -4.7 0.3048 21
+DS -19.2 -4.7 -19.2 4.7 0.3048 21
+DS 19.2 -4.7 19.2 4.7 0.3048 21
+DS 2.3 4.7 2.3 3.3 0.29972 21
+DS 2.3 3.3 -2.3 3.3 0.29972 21
+DS -2.3 3.3 -2.3 4.7 0.29972 21
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 -1.27
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 1.27
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 1.27
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 -1.27
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -1.27
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 1.27
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 1.27
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -1.27
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -1.27
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 1.27
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 1.27
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 -1.27
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 -1.27
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 1.27
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 1.27
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 -1.27
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 -1.27
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 1.27
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 1.27
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 -1.27
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 1.27
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 -1.27
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 1.27
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 -1.27
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_12x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_12x2
+$MODULE vasch_strip_12x2_90
+Po 0 0 0 15 53DE4625 00000000 ~~
+Li vasch_strip_12x2_90
+Cd Box header 12x2pin 90° 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -8.5 1 1 0 0.2032 N V 21 N "VASCH_STRIP_12x2_90"
+T1 0 9 1 1 0 0.2032 N I 21 N "JP***"
+DS -19.2 2 19.2 2 0.3048 21
+DS 19.2 -7.4 -19.2 -7.4 0.3048 21
+DS -19.2 -7.4 -19.2 2 0.3048 21
+DS 19.2 -7.4 19.2 2 0.3048 21
+DS 2.3 -7.4 2.3 2 0.29972 21
+DS -2.3 -7.4 -2.3 2 0.29972 21
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 3.81
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 6.35
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 6.35
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 3.81
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 3.81
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 6.35
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 6.35
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 3.81
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 6.35
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 6.35
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 6.35
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 6.35
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 6.35
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 6.35
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 6.35
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 6.35
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 3.81
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_12x2_90.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_12x2_90
+$MODULE vasch_strip_13x2
+Po 0 0 0 15 53DE1E2B 00000000 ~~
+Li vasch_strip_13x2
+Cd Box header 13x2pin 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.7 1 1 0 0.2032 N V 21 N "VASCH_STRIP_13x2"
+T1 0 5.7 1 1 0 0.2032 N I 21 N "JP***"
+DS -20.5 4.7 20.5 4.7 0.3048 21
+DS 20.5 -4.7 -20.5 -4.7 0.3048 21
+DS -20.5 -4.7 -20.5 4.7 0.3048 21
+DS 20.5 -4.7 20.5 4.7 0.3048 21
+DS 2.3 4.7 2.3 3.3 0.29972 21
+DS 2.3 3.3 -2.3 3.3 0.29972 21
+DS -2.3 3.3 -2.3 4.7 0.29972 21
+$PAD
+Sh "25" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 1.27
+$EndPAD
+$PAD
+Sh "26" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 -1.27
+$EndPAD
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 -1.27
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 1.27
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 1.27
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 -1.27
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 -1.27
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 1.27
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 1.27
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 -1.27
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 -1.27
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 1.27
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1.27
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1.27
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -1.27
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 1.27
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 1.27
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -1.27
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -1.27
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 1.27
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.24 1.27
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.24 -1.27
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 1.27
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 -1.27
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 1.27
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 -1.27
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_13x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_13x2
+$MODULE vasch_strip_13x2_90
+Po 0 0 0 15 53DE4625 00000000 ~~
+Li vasch_strip_13x2_90
+Cd Box header 13x2pin 90° 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -8.5 1 1 0 0.2032 N V 21 N "VASCH_STRIP_13x2_90"
+T1 0 9 1 1 0 0.2032 N I 21 N "JP***"
+DS -20.5 2 20.5 2 0.3048 21
+DS 20.5 -7.4 -20.5 -7.4 0.3048 21
+DS -20.5 -7.4 -20.5 2 0.3048 21
+DS 20.5 -7.4 20.5 2 0.3048 21
+DS 2.3 -7.4 2.3 2 0.29972 21
+DS -2.3 -7.4 -2.3 2 0.29972 21
+$PAD
+Sh "25" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 6.35
+$EndPAD
+$PAD
+Sh "26" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 3.81
+$EndPAD
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 3.81
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 6.35
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 6.35
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 3.81
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 3.81
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 6.35
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 6.35
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 3.81
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 3.81
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 6.35
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 6.35
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 3.81
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 6.35
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 6.35
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 6.35
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.24 6.35
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.24 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 6.35
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 6.35
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 3.81
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_13x2_90.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_13x2_90
+$MODULE vasch_strip_15x2
+Po 0 0 0 15 53DE1E8A 00000000 ~~
+Li vasch_strip_15x2
+Cd Box header 15x2pin 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.7 1 1 0 0.2032 N V 21 N "VASCH_STRIP_15x2"
+T1 0 5.7 1 1 0 0.2032 N I 21 N "JP***"
+DS -23.1 4.7 23.1 4.7 0.3048 21
+DS 23.1 -4.7 -23.1 -4.7 0.3048 21
+DS -23.1 -4.7 -23.1 4.7 0.3048 21
+DS 23.1 -4.7 23.1 4.7 0.3048 21
+DS 2.3 4.7 2.3 3.3 0.29972 21
+DS 2.3 3.3 -2.3 3.3 0.29972 21
+DS -2.3 3.3 -2.3 4.7 0.29972 21
+$PAD
+Sh "27" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 1.27
+$EndPAD
+$PAD
+Sh "28" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 -1.27
+$EndPAD
+$PAD
+Sh "30" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 -1.27
+$EndPAD
+$PAD
+Sh "29" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 1.27
+$EndPAD
+$PAD
+Sh "25" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 1.27
+$EndPAD
+$PAD
+Sh "26" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 -1.27
+$EndPAD
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 -1.27
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 1.27
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 1.27
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 -1.27
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 -1.27
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 1.27
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 1.27
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 -1.27
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1.27
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1.27
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 1.27
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -1.27
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -1.27
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 1.27
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 1.27
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -1.27
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 -1.27
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 1.27
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17.78 1.27
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17.78 -1.27
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.24 1.27
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.24 -1.27
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 1.27
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 -1.27
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_15x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_15x2
+$MODULE vasch_strip_15x2_90
+Po 0 0 0 15 53DE44D0 00000000 ~~
+Li vasch_strip_15x2_90
+Cd Box header 15x2pin 90° 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -8.5 1 1 0 0.2032 N V 21 N "VASCH_STRIP_15x2_90"
+T1 0 9 1 1 0 0.2032 N I 21 N "JP***"
+DS -23.1 2 23.1 2 0.3048 21
+DS 23.1 -7.4 -23.1 -7.4 0.3048 21
+DS -23.1 -7.4 -23.1 2 0.3048 21
+DS 23.1 -7.4 23.1 2 0.3048 21
+DS 2.3 -7.4 2.3 2 0.29972 21
+DS -2.3 -7.4 -2.3 2 0.29972 21
+$PAD
+Sh "27" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 6.35
+$EndPAD
+$PAD
+Sh "28" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 3.81
+$EndPAD
+$PAD
+Sh "30" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 3.81
+$EndPAD
+$PAD
+Sh "29" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 6.35
+$EndPAD
+$PAD
+Sh "25" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 6.35
+$EndPAD
+$PAD
+Sh "26" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 3.81
+$EndPAD
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 3.81
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 6.35
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 6.35
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 3.81
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 3.81
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 6.35
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 6.35
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 3.81
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 6.35
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 6.35
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 3.81
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 3.81
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 6.35
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 6.35
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 6.35
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17.78 6.35
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17.78 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.24 6.35
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.24 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 6.35
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 3.81
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_15x2_90.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_15x2_90
+$MODULE vasch_strip_16x2
+Po 0 0 0 15 53DE1F0D 00000000 ~~
+Li vasch_strip_16x2
+Cd Box header 16x2pin 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.7 1 1 0 0.2032 N V 21 N "VASCH_STRIP_16x2"
+T1 0 5.7 1 1 0 0.2032 N I 21 N "JP***"
+DS -24.3 4.7 24.3 4.7 0.3048 21
+DS 24.3 -4.7 -24.3 -4.7 0.3048 21
+DS -24.3 -4.7 -24.3 4.7 0.3048 21
+DS 24.3 -4.7 24.3 4.7 0.3048 21
+DS 2.3 4.7 2.3 3.3 0.29972 21
+DS 2.3 3.3 -2.3 3.3 0.29972 21
+DS -2.3 3.3 -2.3 4.7 0.29972 21
+$PAD
+Sh "31" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 1.27
+$EndPAD
+$PAD
+Sh "32" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 -1.27
+$EndPAD
+$PAD
+Sh "27" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 1.27
+$EndPAD
+$PAD
+Sh "28" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 -1.27
+$EndPAD
+$PAD
+Sh "30" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 -1.27
+$EndPAD
+$PAD
+Sh "29" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 1.27
+$EndPAD
+$PAD
+Sh "25" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 1.27
+$EndPAD
+$PAD
+Sh "26" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 -1.27
+$EndPAD
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -1.27
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 1.27
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 1.27
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -1.27
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -1.27
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 1.27
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 1.27
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 -1.27
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 -1.27
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 1.27
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 1.27
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 -1.27
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 -1.27
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 1.27
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 1.27
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 -1.27
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 -1.27
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 1.27
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 1.27
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 -1.27
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 1.27
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 -1.27
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 1.27
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 -1.27
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_16x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_16x2
+$MODULE vasch_strip_16x2_90
+Po 0 0 0 15 53DE44DE 00000000 ~~
+Li vasch_strip_16x2_90
+Cd Box header 16x2pin 90° 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -8.5 1 1 0 0.2032 N V 21 N "VASCH_STRIP_16x2_90"
+T1 0 9 1 1 0 0.2032 N I 21 N "JP***"
+DS -24.3 2 24.3 2 0.3048 21
+DS 24.3 -7.4 -24.3 -7.4 0.3048 21
+DS -24.3 -7.4 -24.3 2 0.3048 21
+DS 24.3 -7.4 24.3 2 0.3048 21
+DS 2.3 -7.4 2.3 2 0.29972 21
+DS -2.3 -7.4 -2.3 2 0.29972 21
+$PAD
+Sh "31" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 6.35
+$EndPAD
+$PAD
+Sh "32" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 3.81
+$EndPAD
+$PAD
+Sh "27" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 6.35
+$EndPAD
+$PAD
+Sh "28" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 3.81
+$EndPAD
+$PAD
+Sh "30" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 3.81
+$EndPAD
+$PAD
+Sh "29" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 6.35
+$EndPAD
+$PAD
+Sh "25" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 6.35
+$EndPAD
+$PAD
+Sh "26" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 3.81
+$EndPAD
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 3.81
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 6.35
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 6.35
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 3.81
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 6.35
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 6.35
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 6.35
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 6.35
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 3.81
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 6.35
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 6.35
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 6.35
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 6.35
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 6.35
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 6.35
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 3.81
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_16x2_90.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_16x2_90
+$MODULE vasch_strip_17x2
+Po 0 0 0 15 53DE1F6C 00000000 ~~
+Li vasch_strip_17x2
+Cd Box header 17x2pin 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.7 1 1 0 0.2032 N V 21 N "VASCH_STRIP_17x2"
+T1 0 5.7 1 1 0 0.2032 N I 21 N "JP***"
+DS -25.6 4.7 25.6 4.7 0.3048 21
+DS 25.6 -4.7 -25.6 -4.7 0.3048 21
+DS -25.6 -4.7 -25.6 4.7 0.3048 21
+DS 25.6 -4.7 25.6 4.7 0.3048 21
+DS 2.3 4.7 2.3 3.3 0.29972 21
+DS 2.3 3.3 -2.3 3.3 0.29972 21
+DS -2.3 3.3 -2.3 4.7 0.29972 21
+$PAD
+Sh "34" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.32 -1.27
+$EndPAD
+$PAD
+Sh "33" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.32 1.27
+$EndPAD
+$PAD
+Sh "31" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 1.27
+$EndPAD
+$PAD
+Sh "32" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 -1.27
+$EndPAD
+$PAD
+Sh "27" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 1.27
+$EndPAD
+$PAD
+Sh "28" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 -1.27
+$EndPAD
+$PAD
+Sh "30" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 -1.27
+$EndPAD
+$PAD
+Sh "29" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 1.27
+$EndPAD
+$PAD
+Sh "25" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 1.27
+$EndPAD
+$PAD
+Sh "26" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 -1.27
+$EndPAD
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 -1.27
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 1.27
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 1.27
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 -1.27
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 -1.27
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 1.27
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1.27
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1.27
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -1.27
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 1.27
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 1.27
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -1.27
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -1.27
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 1.27
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 1.27
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 -1.27
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 -1.27
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 1.27
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -20.32 1.27
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -20.32 -1.27
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17.78 1.27
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17.78 -1.27
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.24 1.27
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.24 -1.27
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_17x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_17x2
+$MODULE vasch_strip_17x2_90
+Po 0 0 0 15 53DE44DE 00000000 ~~
+Li vasch_strip_17x2_90
+Cd Box header 17x2pin 90° 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -8.5 1 1 0 0.2032 N V 21 N "VASCH_STRIP_17x2_90"
+T1 0 9 1 1 0 0.2032 N I 21 N "JP***"
+DS -25.6 2 25.6 2 0.3048 21
+DS 25.6 -7.4 -25.6 -7.4 0.3048 21
+DS -25.6 -7.4 -25.6 2 0.3048 21
+DS 25.6 -7.4 25.6 2 0.3048 21
+DS 2.3 -7.4 2.3 2 0.29972 21
+DS -2.3 -7.4 -2.3 2 0.29972 21
+$PAD
+Sh "34" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.32 3.81
+$EndPAD
+$PAD
+Sh "33" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.32 6.35
+$EndPAD
+$PAD
+Sh "31" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 6.35
+$EndPAD
+$PAD
+Sh "32" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 3.81
+$EndPAD
+$PAD
+Sh "27" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 6.35
+$EndPAD
+$PAD
+Sh "28" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 3.81
+$EndPAD
+$PAD
+Sh "30" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 3.81
+$EndPAD
+$PAD
+Sh "29" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 6.35
+$EndPAD
+$PAD
+Sh "25" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 6.35
+$EndPAD
+$PAD
+Sh "26" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 3.81
+$EndPAD
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 3.81
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 6.35
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 6.35
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 3.81
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 3.81
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 6.35
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 6.35
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 3.81
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 6.35
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 6.35
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 3.81
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 3.81
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 6.35
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 6.35
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 6.35
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -20.32 6.35
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -20.32 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17.78 6.35
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17.78 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.24 6.35
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.24 3.81
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_17x2_90.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_17x2_90
+$MODULE vasch_strip_18x2
+Po 0 0 0 15 53DE1FC7 00000000 ~~
+Li vasch_strip_18x2
+Cd Box header 18x2pin 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.7 1 1 0 0.2032 N V 21 N "VASCH_STRIP_18x2"
+T1 0 5.7 1 1 0 0.2032 N I 21 N "JP***"
+DS -26.9 4.7 26.9 4.7 0.3048 21
+DS 26.9 -4.7 -26.9 -4.7 0.3048 21
+DS -26.9 -4.7 -26.9 4.7 0.3048 21
+DS 26.9 -4.7 26.9 4.7 0.3048 21
+DS 2.3 4.7 2.3 3.3 0.29972 21
+DS 2.3 3.3 -2.3 3.3 0.29972 21
+DS -2.3 3.3 -2.3 4.7 0.29972 21
+$PAD
+Sh "35" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21.59 1.27
+$EndPAD
+$PAD
+Sh "36" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21.59 -1.27
+$EndPAD
+$PAD
+Sh "34" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 -1.27
+$EndPAD
+$PAD
+Sh "33" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 1.27
+$EndPAD
+$PAD
+Sh "31" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 1.27
+$EndPAD
+$PAD
+Sh "32" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 -1.27
+$EndPAD
+$PAD
+Sh "27" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 1.27
+$EndPAD
+$PAD
+Sh "28" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 -1.27
+$EndPAD
+$PAD
+Sh "30" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 -1.27
+$EndPAD
+$PAD
+Sh "29" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 1.27
+$EndPAD
+$PAD
+Sh "25" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 1.27
+$EndPAD
+$PAD
+Sh "26" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -1.27
+$EndPAD
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -1.27
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 1.27
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 1.27
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -1.27
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 -1.27
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 1.27
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 1.27
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 -1.27
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 -1.27
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 1.27
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 1.27
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 -1.27
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 -1.27
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 1.27
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 1.27
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 -1.27
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 -1.27
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 1.27
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21.59 1.27
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21.59 -1.27
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 1.27
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 -1.27
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 1.27
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 -1.27
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_18x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_18x2
+$MODULE vasch_strip_18x2_90
+Po 0 0 0 15 53DE2D3F 00000000 ~~
+Li vasch_strip_18x2_90
+Cd Box header 18x2pin 90° 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -8.5 1 1 0 0.2032 N V 21 N "VASCH_STRIP_18x2_90"
+T1 0 9 1 1 0 0.2032 N I 21 N "JP***"
+DS -26.9 2 26.9 2 0.3048 21
+DS 26.9 -7.4 -26.9 -7.4 0.3048 21
+DS -26.9 -7.4 -26.9 2 0.3048 21
+DS 26.9 -7.4 26.9 2 0.3048 21
+DS 2.3 -7.4 2.3 2 0.29972 21
+DS -2.3 -7.4 -2.3 2 0.29972 21
+$PAD
+Sh "35" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21.59 6.35
+$EndPAD
+$PAD
+Sh "36" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21.59 3.81
+$EndPAD
+$PAD
+Sh "34" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 3.81
+$EndPAD
+$PAD
+Sh "33" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 6.35
+$EndPAD
+$PAD
+Sh "31" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 6.35
+$EndPAD
+$PAD
+Sh "32" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 3.81
+$EndPAD
+$PAD
+Sh "27" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 6.35
+$EndPAD
+$PAD
+Sh "28" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 3.81
+$EndPAD
+$PAD
+Sh "30" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 3.81
+$EndPAD
+$PAD
+Sh "29" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 6.35
+$EndPAD
+$PAD
+Sh "25" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 6.35
+$EndPAD
+$PAD
+Sh "26" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 3.81
+$EndPAD
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 3.81
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 6.35
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 6.35
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 6.35
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 6.35
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 6.35
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 6.35
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 3.81
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 3.81
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 6.35
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 6.35
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 6.35
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21.59 6.35
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21.59 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 6.35
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 6.35
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 3.81
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_18x2_90.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_18x2_90
+$MODULE vasch_strip_20x2
+Po 0 0 0 15 53DE2049 00000000 ~~
+Li vasch_strip_20x2
+Cd Box header 20x2pin 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.7 1 1 0 0.2032 N V 21 N "VASCH_STRIP_20x2"
+T1 0 5.7 1 1 0 0.2032 N I 21 N "JP***"
+DS -29.4 4.7 29.4 4.7 0.3048 21
+DS 29.4 -4.7 -29.4 -4.7 0.3048 21
+DS -29.4 -4.7 -29.4 4.7 0.3048 21
+DS 29.4 -4.7 29.4 4.7 0.3048 21
+DS 2.3 4.7 2.3 3.3 0.29972 21
+DS 2.3 3.3 -2.3 3.3 0.29972 21
+DS -2.3 3.3 -2.3 4.7 0.29972 21
+$PAD
+Sh "37" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21.59 1.27
+$EndPAD
+$PAD
+Sh "38" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21.59 -1.27
+$EndPAD
+$PAD
+Sh "40" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24.13 -1.27
+$EndPAD
+$PAD
+Sh "39" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24.13 1.27
+$EndPAD
+$PAD
+Sh "35" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 1.27
+$EndPAD
+$PAD
+Sh "36" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 -1.27
+$EndPAD
+$PAD
+Sh "34" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 -1.27
+$EndPAD
+$PAD
+Sh "33" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 1.27
+$EndPAD
+$PAD
+Sh "31" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 1.27
+$EndPAD
+$PAD
+Sh "32" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 -1.27
+$EndPAD
+$PAD
+Sh "27" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 1.27
+$EndPAD
+$PAD
+Sh "28" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -1.27
+$EndPAD
+$PAD
+Sh "30" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 -1.27
+$EndPAD
+$PAD
+Sh "29" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 1.27
+$EndPAD
+$PAD
+Sh "25" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 1.27
+$EndPAD
+$PAD
+Sh "26" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -1.27
+$EndPAD
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -1.27
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 1.27
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 1.27
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 -1.27
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 -1.27
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 1.27
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 1.27
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 -1.27
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 -1.27
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 1.27
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 1.27
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 -1.27
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 -1.27
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 1.27
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 1.27
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 -1.27
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 -1.27
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 1.27
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -24.13 1.27
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -24.13 -1.27
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21.59 1.27
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21.59 -1.27
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 1.27
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 -1.27
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_20x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_20x2
+$MODULE vasch_strip_20x2_90
+Po 0 0 0 15 53DE2C95 00000000 ~~
+Li vasch_strip_20x2_90
+Cd Box header 20x2pin 90° 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -8.5 1 1 0 0.2032 N V 21 N "VASCH_STRIP_20x2_90"
+T1 0 9 1 1 0 0.2032 N I 21 N "JP***"
+DS -29.4 2 29.4 2 0.3048 21
+DS 29.4 -7.4 -29.4 -7.4 0.3048 21
+DS -29.4 -7.4 -29.4 2 0.3048 21
+DS 29.4 -7.4 29.4 2 0.3048 21
+DS 2.3 -7.4 2.3 2 0.29972 21
+DS -2.3 -7.4 -2.3 2 0.29972 21
+$PAD
+Sh "37" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21.59 6.35
+$EndPAD
+$PAD
+Sh "38" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21.59 3.81
+$EndPAD
+$PAD
+Sh "40" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24.13 3.81
+$EndPAD
+$PAD
+Sh "39" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24.13 6.35
+$EndPAD
+$PAD
+Sh "35" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 6.35
+$EndPAD
+$PAD
+Sh "36" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 3.81
+$EndPAD
+$PAD
+Sh "34" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 3.81
+$EndPAD
+$PAD
+Sh "33" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 6.35
+$EndPAD
+$PAD
+Sh "31" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 6.35
+$EndPAD
+$PAD
+Sh "32" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 3.81
+$EndPAD
+$PAD
+Sh "27" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 6.35
+$EndPAD
+$PAD
+Sh "28" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 3.81
+$EndPAD
+$PAD
+Sh "30" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 3.81
+$EndPAD
+$PAD
+Sh "29" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 6.35
+$EndPAD
+$PAD
+Sh "25" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 6.35
+$EndPAD
+$PAD
+Sh "26" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 3.81
+$EndPAD
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 6.35
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 6.35
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 6.35
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 6.35
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 3.81
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 6.35
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 6.35
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 3.81
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 3.81
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 6.35
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 6.35
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 6.35
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -24.13 6.35
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -24.13 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21.59 6.35
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21.59 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 6.35
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 3.81
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_20x2_90.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_20x2_90
+$MODULE vasch_strip_25x2
+Po 0 0 0 15 53DE20DE 00000000 ~~
+Li vasch_strip_25x2
+Cd Box header 25x2pin 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.7 1 1 0 0.2032 N V 21 N "VASCH_STRIP_25x2"
+T1 0 5.7 1 1 0 0.2032 N I 21 N "JP***"
+DS -35.8 4.7 35.8 4.7 0.3048 21
+DS 35.8 -4.7 -35.8 -4.7 0.3048 21
+DS -35.8 -4.7 -35.8 4.7 0.3048 21
+DS 35.8 -4.7 35.8 4.7 0.3048 21
+DS 2.3 4.7 2.3 3.3 0.29972 21
+DS 2.3 3.3 -2.3 3.3 0.29972 21
+DS -2.3 3.3 -2.3 4.7 0.29972 21
+$PAD
+Sh "42" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.32 -1.27
+$EndPAD
+$PAD
+Sh "41" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.32 1.27
+$EndPAD
+$PAD
+Sh "43" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22.86 1.27
+$EndPAD
+$PAD
+Sh "44" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22.86 -1.27
+$EndPAD
+$PAD
+Sh "46" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 25.4 -1.27
+$EndPAD
+$PAD
+Sh "45" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 25.4 1.27
+$EndPAD
+$PAD
+Sh "49" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 30.48 1.27
+$EndPAD
+$PAD
+Sh "50" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 30.48 -1.27
+$EndPAD
+$PAD
+Sh "48" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 27.94 -1.27
+$EndPAD
+$PAD
+Sh "47" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 27.94 1.27
+$EndPAD
+$PAD
+Sh "37" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 1.27
+$EndPAD
+$PAD
+Sh "38" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 -1.27
+$EndPAD
+$PAD
+Sh "40" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 -1.27
+$EndPAD
+$PAD
+Sh "39" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 1.27
+$EndPAD
+$PAD
+Sh "35" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 1.27
+$EndPAD
+$PAD
+Sh "36" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 -1.27
+$EndPAD
+$PAD
+Sh "34" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 -1.27
+$EndPAD
+$PAD
+Sh "33" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 1.27
+$EndPAD
+$PAD
+Sh "31" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 1.27
+$EndPAD
+$PAD
+Sh "32" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 -1.27
+$EndPAD
+$PAD
+Sh "27" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 1.27
+$EndPAD
+$PAD
+Sh "28" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 -1.27
+$EndPAD
+$PAD
+Sh "30" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 -1.27
+$EndPAD
+$PAD
+Sh "29" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 1.27
+$EndPAD
+$PAD
+Sh "25" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1.27
+$EndPAD
+$PAD
+Sh "26" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1.27
+$EndPAD
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -1.27
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 1.27
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 1.27
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -1.27
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -1.27
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 1.27
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 1.27
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 -1.27
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 -1.27
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 1.27
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.24 1.27
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.24 -1.27
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17.78 -1.27
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17.78 1.27
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -20.32 1.27
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -20.32 -1.27
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -22.86 -1.27
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -22.86 1.27
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -30.48 1.27
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -30.48 -1.27
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -27.94 1.27
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -27.94 -1.27
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -25.4 1.27
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -25.4 -1.27
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_25x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_25x2
+$MODULE vasch_strip_25x2_90
+Po 0 0 0 15 53DE2C3C 00000000 ~~
+Li vasch_strip_25x2_90
+Cd Box header 25x2pin 90° 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -8.5 1 1 0 0.2032 N V 21 N "VASCH_STRIP_25x2_90"
+T1 0 9 1 1 0 0.2032 N I 21 N "JP***"
+DS -35.8 2 35.8 2 0.3048 21
+DS 35.8 -7.4 -35.8 -7.4 0.3048 21
+DS -35.8 -7.4 -35.8 2 0.3048 21
+DS 35.8 -7.4 35.8 2 0.3048 21
+DS 2.3 -7.4 2.3 2 0.29972 21
+DS -2.3 -7.4 -2.3 2 0.29972 21
+$PAD
+Sh "42" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.32 3.81
+$EndPAD
+$PAD
+Sh "41" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.32 6.35
+$EndPAD
+$PAD
+Sh "43" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22.86 6.35
+$EndPAD
+$PAD
+Sh "44" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22.86 3.81
+$EndPAD
+$PAD
+Sh "46" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 25.4 3.81
+$EndPAD
+$PAD
+Sh "45" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 25.4 6.35
+$EndPAD
+$PAD
+Sh "49" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 30.48 6.35
+$EndPAD
+$PAD
+Sh "50" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 30.48 3.81
+$EndPAD
+$PAD
+Sh "48" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 27.94 3.81
+$EndPAD
+$PAD
+Sh "47" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 27.94 6.35
+$EndPAD
+$PAD
+Sh "37" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 6.35
+$EndPAD
+$PAD
+Sh "38" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 3.81
+$EndPAD
+$PAD
+Sh "40" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 3.81
+$EndPAD
+$PAD
+Sh "39" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 6.35
+$EndPAD
+$PAD
+Sh "35" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 6.35
+$EndPAD
+$PAD
+Sh "36" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 3.81
+$EndPAD
+$PAD
+Sh "34" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 3.81
+$EndPAD
+$PAD
+Sh "33" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 6.35
+$EndPAD
+$PAD
+Sh "31" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 6.35
+$EndPAD
+$PAD
+Sh "32" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 3.81
+$EndPAD
+$PAD
+Sh "27" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 6.35
+$EndPAD
+$PAD
+Sh "28" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 3.81
+$EndPAD
+$PAD
+Sh "30" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 3.81
+$EndPAD
+$PAD
+Sh "29" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 6.35
+$EndPAD
+$PAD
+Sh "25" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 6.35
+$EndPAD
+$PAD
+Sh "26" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 3.81
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 6.35
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 6.35
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 3.81
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 3.81
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 6.35
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 6.35
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 3.81
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 3.81
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 6.35
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.24 6.35
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.24 3.81
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17.78 3.81
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17.78 6.35
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -20.32 6.35
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -20.32 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -22.86 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -22.86 6.35
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -30.48 6.35
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -30.48 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -27.94 6.35
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -27.94 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -25.4 6.35
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -25.4 3.81
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_25x2_90.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_25x2_90
+$MODULE vasch_strip_30x2
+Po 0 0 0 15 53DE21CC 00000000 ~~
+Li vasch_strip_30x2
+Cd Box header 30x2pin 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.7 1 1 0 0.2032 N V 21 N "VASCH_STRIP_30x2"
+T1 0 5.7 1 1 0 0.2032 N I 21 N "JP***"
+DS -9.13 4.7 -9.13 3.3 0.29972 21
+DS -13.73 3.3 -13.73 4.7 0.29972 21
+DS 9.13 3.3 9.13 4.7 0.29972 21
+DS 13.73 4.7 13.73 3.3 0.29972 21
+DS 13.73 3.3 9.13 3.3 0.29972 21
+DS -9.13 3.3 -13.73 3.3 0.29972 21
+DS -42.1 4.7 42.1 4.7 0.3048 21
+DS 42.1 -4.7 -42.1 -4.7 0.3048 21
+DS -42.1 -4.7 -42.1 4.7 0.3048 21
+DS 42.1 -4.7 42.1 4.7 0.3048 21
+DS 2.3 4.7 2.3 3.3 0.29972 21
+DS 2.3 3.3 -2.3 3.3 0.29972 21
+DS -2.3 3.3 -2.3 4.7 0.29972 21
+$PAD
+Sh "57" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 34.29 1.27
+$EndPAD
+$PAD
+Sh "58" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 34.29 -1.27
+$EndPAD
+$PAD
+Sh "60" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 36.83 -1.27
+$EndPAD
+$PAD
+Sh "59" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 36.83 1.27
+$EndPAD
+$PAD
+Sh "55" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 31.75 1.27
+$EndPAD
+$PAD
+Sh "56" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 31.75 -1.27
+$EndPAD
+$PAD
+Sh "54" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 -1.27
+$EndPAD
+$PAD
+Sh "53" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 1.27
+$EndPAD
+$PAD
+Sh "51" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 1.27
+$EndPAD
+$PAD
+Sh "52" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 -1.27
+$EndPAD
+$PAD
+Sh "42" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 -1.27
+$EndPAD
+$PAD
+Sh "41" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 1.27
+$EndPAD
+$PAD
+Sh "43" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 1.27
+$EndPAD
+$PAD
+Sh "44" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 -1.27
+$EndPAD
+$PAD
+Sh "46" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 -1.27
+$EndPAD
+$PAD
+Sh "45" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 1.27
+$EndPAD
+$PAD
+Sh "49" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24.13 1.27
+$EndPAD
+$PAD
+Sh "50" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24.13 -1.27
+$EndPAD
+$PAD
+Sh "48" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21.59 -1.27
+$EndPAD
+$PAD
+Sh "47" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21.59 1.27
+$EndPAD
+$PAD
+Sh "37" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 1.27
+$EndPAD
+$PAD
+Sh "38" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -1.27
+$EndPAD
+$PAD
+Sh "40" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 -1.27
+$EndPAD
+$PAD
+Sh "39" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 1.27
+$EndPAD
+$PAD
+Sh "35" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 1.27
+$EndPAD
+$PAD
+Sh "36" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -1.27
+$EndPAD
+$PAD
+Sh "34" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -1.27
+$EndPAD
+$PAD
+Sh "33" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 1.27
+$EndPAD
+$PAD
+Sh "31" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 1.27
+$EndPAD
+$PAD
+Sh "32" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 -1.27
+$EndPAD
+$PAD
+Sh "27" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 1.27
+$EndPAD
+$PAD
+Sh "28" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 -1.27
+$EndPAD
+$PAD
+Sh "30" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 -1.27
+$EndPAD
+$PAD
+Sh "29" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 1.27
+$EndPAD
+$PAD
+Sh "25" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 1.27
+$EndPAD
+$PAD
+Sh "26" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 -1.27
+$EndPAD
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 -1.27
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 1.27
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 1.27
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 -1.27
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 -1.27
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 1.27
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 1.27
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 -1.27
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 -1.27
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 1.27
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21.59 1.27
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21.59 -1.27
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -24.13 -1.27
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -24.13 1.27
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -26.67 1.27
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -26.67 -1.27
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -29.21 -1.27
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -29.21 1.27
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -36.83 1.27
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -36.83 -1.27
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -34.29 1.27
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -34.29 -1.27
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -31.75 1.27
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -31.75 -1.27
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_30x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_30x2
+$MODULE vasch_strip_30x2_90
+Po 0 0 0 15 53DE27FF 00000000 ~~
+Li vasch_strip_30x2_90
+Cd Box header 30x2pin 90° 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -8.5 1 1 0 0.2032 N V 21 N "VASCH_STRIP_30x2_90"
+T1 0 9 1 1 0 0.2032 N I 21 N "JP***"
+DS -9.13 -7.4 -9.13 2 0.29972 21
+DS -13.73 -7.4 -13.73 2 0.29972 21
+DS 9.13 -7.4 9.13 2 0.29972 21
+DS 13.73 -7.4 13.73 2 0.29972 21
+DS -42.1 2 42.1 2 0.3048 21
+DS 42.1 -7.4 -42.1 -7.4 0.3048 21
+DS -42.1 -7.4 -42.1 2 0.3048 21
+DS 42.1 -7.4 42.1 2 0.3048 21
+DS 2.3 -7.4 2.3 2 0.29972 21
+DS -2.3 -7.4 -2.3 2 0.29972 21
+$PAD
+Sh "57" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 34.29 6.35
+$EndPAD
+$PAD
+Sh "58" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 34.29 3.81
+$EndPAD
+$PAD
+Sh "60" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 36.83 3.81
+$EndPAD
+$PAD
+Sh "59" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 36.83 6.35
+$EndPAD
+$PAD
+Sh "55" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 31.75 6.35
+$EndPAD
+$PAD
+Sh "56" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 31.75 3.81
+$EndPAD
+$PAD
+Sh "54" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 3.81
+$EndPAD
+$PAD
+Sh "53" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 6.35
+$EndPAD
+$PAD
+Sh "51" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 6.35
+$EndPAD
+$PAD
+Sh "52" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 3.81
+$EndPAD
+$PAD
+Sh "42" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 3.81
+$EndPAD
+$PAD
+Sh "41" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 6.35
+$EndPAD
+$PAD
+Sh "43" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 6.35
+$EndPAD
+$PAD
+Sh "44" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 3.81
+$EndPAD
+$PAD
+Sh "46" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 3.81
+$EndPAD
+$PAD
+Sh "45" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 6.35
+$EndPAD
+$PAD
+Sh "49" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24.13 6.35
+$EndPAD
+$PAD
+Sh "50" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24.13 3.81
+$EndPAD
+$PAD
+Sh "48" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21.59 3.81
+$EndPAD
+$PAD
+Sh "47" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21.59 6.35
+$EndPAD
+$PAD
+Sh "37" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 6.35
+$EndPAD
+$PAD
+Sh "38" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 3.81
+$EndPAD
+$PAD
+Sh "40" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 3.81
+$EndPAD
+$PAD
+Sh "39" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 6.35
+$EndPAD
+$PAD
+Sh "35" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 6.35
+$EndPAD
+$PAD
+Sh "36" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 3.81
+$EndPAD
+$PAD
+Sh "34" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "33" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 6.35
+$EndPAD
+$PAD
+Sh "31" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 6.35
+$EndPAD
+$PAD
+Sh "32" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$PAD
+Sh "27" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 6.35
+$EndPAD
+$PAD
+Sh "28" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "30" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$PAD
+Sh "29" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 6.35
+$EndPAD
+$PAD
+Sh "25" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 6.35
+$EndPAD
+$PAD
+Sh "26" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 3.81
+$EndPAD
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 3.81
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 6.35
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 6.35
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 3.81
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 3.81
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 6.35
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 6.35
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 3.81
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 3.81
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 6.35
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21.59 6.35
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21.59 3.81
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -24.13 3.81
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -24.13 6.35
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -26.67 6.35
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -26.67 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -29.21 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -29.21 6.35
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -36.83 6.35
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -36.83 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -34.29 6.35
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -34.29 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -31.75 6.35
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -31.75 3.81
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_30x2_90.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_30x2_90
+$MODULE vasch_strip_32x2
+Po 0 0 0 15 53DE225E 00000000 ~~
+Li vasch_strip_32x2
+Cd Box header 32x2pin 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.7 1 1 0 0.2032 N V 21 N "VASCH_STRIP_32x2"
+T1 0 5.7 1 1 0 0.2032 N I 21 N "JP***"
+DS -9.13 4.7 -9.13 3.3 0.29972 21
+DS -13.73 3.3 -13.73 4.7 0.29972 21
+DS 9.13 3.3 9.13 4.7 0.29972 21
+DS 13.73 4.7 13.73 3.3 0.29972 21
+DS 13.73 3.3 9.13 3.3 0.29972 21
+DS -9.13 3.3 -13.73 3.3 0.29972 21
+DS -44.6 4.7 44.6 4.7 0.3048 21
+DS 44.6 -4.7 -44.6 -4.7 0.3048 21
+DS -44.6 -4.7 -44.6 4.7 0.3048 21
+DS 44.6 -4.7 44.6 4.7 0.3048 21
+DS 2.3 4.7 2.3 3.3 0.29972 21
+DS 2.3 3.3 -2.3 3.3 0.29972 21
+DS -2.3 3.3 -2.3 4.7 0.29972 21
+$PAD
+Sh "63" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 39.37 1.27
+$EndPAD
+$PAD
+Sh "64" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 39.37 -1.27
+$EndPAD
+$PAD
+Sh "62" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 36.83 -1.27
+$EndPAD
+$PAD
+Sh "61" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 36.83 1.27
+$EndPAD
+$PAD
+Sh "57" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 31.75 1.27
+$EndPAD
+$PAD
+Sh "58" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 31.75 -1.27
+$EndPAD
+$PAD
+Sh "60" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 34.29 -1.27
+$EndPAD
+$PAD
+Sh "59" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 34.29 1.27
+$EndPAD
+$PAD
+Sh "55" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 1.27
+$EndPAD
+$PAD
+Sh "56" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 -1.27
+$EndPAD
+$PAD
+Sh "54" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 -1.27
+$EndPAD
+$PAD
+Sh "53" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 1.27
+$EndPAD
+$PAD
+Sh "51" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24.13 1.27
+$EndPAD
+$PAD
+Sh "52" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24.13 -1.27
+$EndPAD
+$PAD
+Sh "42" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 -1.27
+$EndPAD
+$PAD
+Sh "41" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 1.27
+$EndPAD
+$PAD
+Sh "43" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 1.27
+$EndPAD
+$PAD
+Sh "44" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 -1.27
+$EndPAD
+$PAD
+Sh "46" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 -1.27
+$EndPAD
+$PAD
+Sh "45" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 1.27
+$EndPAD
+$PAD
+Sh "49" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21.59 1.27
+$EndPAD
+$PAD
+Sh "50" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21.59 -1.27
+$EndPAD
+$PAD
+Sh "48" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 -1.27
+$EndPAD
+$PAD
+Sh "47" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 1.27
+$EndPAD
+$PAD
+Sh "37" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 1.27
+$EndPAD
+$PAD
+Sh "38" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -1.27
+$EndPAD
+$PAD
+Sh "40" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -1.27
+$EndPAD
+$PAD
+Sh "39" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 1.27
+$EndPAD
+$PAD
+Sh "35" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 1.27
+$EndPAD
+$PAD
+Sh "36" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -1.27
+$EndPAD
+$PAD
+Sh "34" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 -1.27
+$EndPAD
+$PAD
+Sh "33" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 1.27
+$EndPAD
+$PAD
+Sh "31" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 1.27
+$EndPAD
+$PAD
+Sh "32" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 -1.27
+$EndPAD
+$PAD
+Sh "27" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 1.27
+$EndPAD
+$PAD
+Sh "28" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 -1.27
+$EndPAD
+$PAD
+Sh "30" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 -1.27
+$EndPAD
+$PAD
+Sh "29" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 1.27
+$EndPAD
+$PAD
+Sh "25" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 1.27
+$EndPAD
+$PAD
+Sh "26" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 -1.27
+$EndPAD
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 -1.27
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 1.27
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 1.27
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 -1.27
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 -1.27
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 1.27
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 1.27
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 -1.27
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21.59 -1.27
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21.59 1.27
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -24.13 1.27
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -24.13 -1.27
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -26.67 -1.27
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -26.67 1.27
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -29.21 1.27
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -29.21 -1.27
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -31.75 -1.27
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -31.75 1.27
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -39.37 1.27
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -39.37 -1.27
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -36.83 1.27
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -36.83 -1.27
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -34.29 1.27
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -34.29 -1.27
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_32x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_32x2
+$MODULE vasch_strip_32x2_90
+Po 0 0 0 15 53DE2758 00000000 ~~
+Li vasch_strip_32x2_90
+Cd Box header 32x2pin 90° 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -8.5 1 1 0 0.2032 N V 21 N "VASCH_STRIP_32x2_90"
+T1 0 9 1 1 0 0.2032 N I 21 N "JP***"
+DS -9.13 -7.4 -9.13 2 0.29972 21
+DS -13.73 -7.4 -13.73 2 0.29972 21
+DS 9.13 -7.4 9.13 2 0.29972 21
+DS 13.73 -7.4 13.73 2 0.29972 21
+DS -44.6 2 44.6 2 0.3048 21
+DS 44.6 -7.4 -44.6 -7.4 0.3048 21
+DS -44.6 -7.4 -44.6 2 0.3048 21
+DS 44.6 -7.4 44.6 2 0.3048 21
+DS 2.3 -7.4 2.3 2 0.29972 21
+DS -2.3 -7.4 -2.3 2 0.29972 21
+$PAD
+Sh "63" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 39.37 6.35
+$EndPAD
+$PAD
+Sh "64" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 39.37 3.81
+$EndPAD
+$PAD
+Sh "62" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 36.83 3.81
+$EndPAD
+$PAD
+Sh "61" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 36.83 6.35
+$EndPAD
+$PAD
+Sh "57" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 31.75 6.35
+$EndPAD
+$PAD
+Sh "58" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 31.75 3.81
+$EndPAD
+$PAD
+Sh "60" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 34.29 3.81
+$EndPAD
+$PAD
+Sh "59" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 34.29 6.35
+$EndPAD
+$PAD
+Sh "55" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 6.35
+$EndPAD
+$PAD
+Sh "56" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 3.81
+$EndPAD
+$PAD
+Sh "54" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 3.81
+$EndPAD
+$PAD
+Sh "53" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 6.35
+$EndPAD
+$PAD
+Sh "51" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24.13 6.35
+$EndPAD
+$PAD
+Sh "52" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24.13 3.81
+$EndPAD
+$PAD
+Sh "42" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 3.81
+$EndPAD
+$PAD
+Sh "41" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 6.35
+$EndPAD
+$PAD
+Sh "43" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 6.35
+$EndPAD
+$PAD
+Sh "44" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 3.81
+$EndPAD
+$PAD
+Sh "46" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 3.81
+$EndPAD
+$PAD
+Sh "45" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 6.35
+$EndPAD
+$PAD
+Sh "49" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21.59 6.35
+$EndPAD
+$PAD
+Sh "50" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21.59 3.81
+$EndPAD
+$PAD
+Sh "48" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 3.81
+$EndPAD
+$PAD
+Sh "47" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 6.35
+$EndPAD
+$PAD
+Sh "37" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 6.35
+$EndPAD
+$PAD
+Sh "38" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 3.81
+$EndPAD
+$PAD
+Sh "40" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 3.81
+$EndPAD
+$PAD
+Sh "39" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 6.35
+$EndPAD
+$PAD
+Sh "35" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 6.35
+$EndPAD
+$PAD
+Sh "36" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "34" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$PAD
+Sh "33" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 6.35
+$EndPAD
+$PAD
+Sh "31" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 6.35
+$EndPAD
+$PAD
+Sh "32" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$PAD
+Sh "27" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 6.35
+$EndPAD
+$PAD
+Sh "28" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 3.81
+$EndPAD
+$PAD
+Sh "30" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "29" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 6.35
+$EndPAD
+$PAD
+Sh "25" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 6.35
+$EndPAD
+$PAD
+Sh "26" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 3.81
+$EndPAD
+$PAD
+Sh "24" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 3.81
+$EndPAD
+$PAD
+Sh "23" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 6.35
+$EndPAD
+$PAD
+Sh "21" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 6.35
+$EndPAD
+$PAD
+Sh "22" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 3.81
+$EndPAD
+$PAD
+Sh "20" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 3.81
+$EndPAD
+$PAD
+Sh "19" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 6.35
+$EndPAD
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 6.35
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 3.81
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21.59 3.81
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21.59 6.35
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -24.13 6.35
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -24.13 3.81
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -26.67 3.81
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -26.67 6.35
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -29.21 6.35
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -29.21 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -31.75 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -31.75 6.35
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -39.37 6.35
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -39.37 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -36.83 6.35
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -36.83 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -34.29 6.35
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -34.29 3.81
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_32x2_90.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_32x2_90
+$MODULE vasch_strip_3x2
+Po 0 0 0 15 53DE03A4 00000000 ~~
+Li vasch_strip_3x2
+Cd Box header 3x2pin 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.7 1 1 0 0.2032 N V 21 N "VASCH_STRIP_3x2"
+T1 0 5.7 1 1 0 0.2032 N I 21 N "JP***"
+DS -8 4.7 8 4.7 0.3048 21
+DS 8 -4.7 -8 -4.7 0.3048 21
+DS -8 -4.7 -8 4.7 0.3048 21
+DS 8 -4.7 8 4.7 0.3048 21
+DS 2.3 4.7 2.3 3.3 0.29972 21
+DS 2.3 3.3 -2.3 3.3 0.29972 21
+DS -2.3 3.3 -2.3 4.7 0.29972 21
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 1.27
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -1.27
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1.27
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1.27
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 1.27
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 -1.27
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_3x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_3x2
+$MODULE vasch_strip_3x2_90
+Po 0 0 0 15 53DE4789 00000000 ~~
+Li vasch_strip_3x2_90
+Cd Box header 3x2pin 90° 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -8.5 1 1 0 0.2032 N V 21 N "VASCH_STRIP_3x2_90"
+T1 0 9 1 1 0 0.2032 N I 21 N "JP***"
+DS -7.8 2 7.8 2 0.3048 21
+DS 7.8 -7.4 -7.8 -7.4 0.3048 21
+DS -7.8 -7.4 -7.8 2 0.3048 21
+DS 7.8 -7.4 7.8 2 0.3048 21
+DS 2.3 -7.4 2.3 2 0.29972 21
+DS -2.3 -7.4 -2.3 2 0.29972 21
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 6.35
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 6.35
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 6.35
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 3.81
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_3x2_90.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_3x2_90
+$MODULE vasch_strip_4x2
+Po 0 0 0 15 53DE0450 00000000 ~~
+Li vasch_strip_4x2
+Cd Box header 4x2pin 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.7 1 1 0 0.2032 N V 21 N "VASCH_STRIP_4x2"
+T1 0 5.7 1 1 0 0.2032 N I 21 N "JP***"
+DS -9.1 4.7 9.1 4.7 0.3048 21
+DS 9.1 -4.7 -9.1 -4.7 0.3048 21
+DS -9.1 -4.7 -9.1 4.7 0.3048 21
+DS 9.1 -4.7 9.1 4.7 0.3048 21
+DS 2.3 4.7 2.3 3.3 0.29972 21
+DS 2.3 3.3 -2.3 3.3 0.29972 21
+DS -2.3 3.3 -2.3 4.7 0.29972 21
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -1.27
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 1.27
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 1.27
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 -1.27
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 1.27
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 -1.27
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 1.27
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 -1.27
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_4x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_4x2
+$MODULE vasch_strip_4x2_90
+Po 0 0 0 15 53DE479D 00000000 ~~
+Li vasch_strip_4x2_90
+Cd Box header 4x2pin 90° 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -8.5 1 1 0 0.2032 N V 21 N "VASCH_STRIP_4x2_90"
+T1 0 9 1 1 0 0.2032 N I 21 N "JP***"
+DS -9.1 2 9.1 2 0.3048 21
+DS 9.1 -7.4 -9.1 -7.4 0.3048 21
+DS -9.1 -7.4 -9.1 2 0.3048 21
+DS 9.1 -7.4 9.1 2 0.3048 21
+DS 2.3 -7.4 2.3 2 0.29972 21
+DS -2.3 -7.4 -2.3 2 0.29972 21
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 6.35
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 6.35
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 6.35
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 6.35
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_4x2_90.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_4x2_90
+$MODULE vasch_strip_5x2
+Po 0 0 0 15 53DE0503 00000000 ~~
+Li vasch_strip_5x2
+Cd Box header 5x2pin 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.7 1 1 0 0.2032 N V 21 N "VASCH_STRIP_5x2"
+T1 0 5.7 1 1 0 0.2032 N I 21 N "JP***"
+DS -10.4 4.7 10.4 4.7 0.3048 21
+DS 10.4 -4.7 -10.4 -4.7 0.3048 21
+DS -10.4 -4.7 -10.4 4.7 0.3048 21
+DS 10.4 -4.7 10.4 4.7 0.3048 21
+DS 2.3 4.7 2.3 3.3 0.29972 21
+DS 2.3 3.3 -2.3 3.3 0.29972 21
+DS -2.3 3.3 -2.3 4.7 0.29972 21
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 1.27
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 -1.27
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 -1.27
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 1.27
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 1.27
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -1.27
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 1.27
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -1.27
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1.27
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1.27
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_5x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_5x2
+$MODULE vasch_strip_5x2_90
+Po 0 0 0 15 53DE479D 00000000 ~~
+Li vasch_strip_5x2_90
+Cd Box header 5x2pin 90° 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -8.5 1 1 0 0.2032 N V 21 N "VASCH_STRIP_5x2_90"
+T1 0 9 1 1 0 0.2032 N I 21 N "JP***"
+DS -10.4 2 10.4 2 0.3048 21
+DS 10.4 -7.4 -10.4 -7.4 0.3048 21
+DS -10.4 -7.4 -10.4 2 0.3048 21
+DS 10.4 -7.4 10.4 2 0.3048 21
+DS 2.3 -7.4 2.3 2 0.29972 21
+DS -2.3 -7.4 -2.3 2 0.29972 21
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 6.35
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 6.35
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 6.35
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 6.35
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 6.35
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_5x2_90.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_5x2_90
+$MODULE vasch_strip_6x2
+Po 0 0 0 15 53DE05C0 00000000 ~~
+Li vasch_strip_6x2
+Cd Box header 6x2pin 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.7 1 1 0 0.2032 N V 21 N "VASCH_STRIP_6x2"
+T1 0 5.7 1 1 0 0.2032 N I 21 N "JP***"
+DS -11.6 4.7 11.6 4.7 0.3048 21
+DS 11.6 -4.7 -11.6 -4.7 0.3048 21
+DS -11.6 -4.7 -11.6 4.7 0.3048 21
+DS 11.6 -4.7 11.6 4.7 0.3048 21
+DS 2.3 4.7 2.3 3.3 0.29972 21
+DS 2.3 3.3 -2.3 3.3 0.29972 21
+DS -2.3 3.3 -2.3 4.7 0.29972 21
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -1.27
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 1.27
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 1.27
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -1.27
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 -1.27
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 1.27
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 1.27
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 -1.27
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 1.27
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 -1.27
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 1.27
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 -1.27
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_6x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_6x2
+$MODULE vasch_strip_6x2_90
+Po 0 0 0 15 53DE479D 00000000 ~~
+Li vasch_strip_6x2_90
+Cd Box header 6x2pin 90° 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -8.5 1 1 0 0.2032 N V 21 N "VASCH_STRIP_6x2_90"
+T1 0 9 1 1 0 0.2032 N I 21 N "JP***"
+DS -11.6 2 11.6 2 0.3048 21
+DS 11.6 -7.4 -11.6 -7.4 0.3048 21
+DS -11.6 -7.4 -11.6 2 0.3048 21
+DS 11.6 -7.4 11.6 2 0.3048 21
+DS 2.3 -7.4 2.3 2 0.29972 21
+DS -2.3 -7.4 -2.3 2 0.29972 21
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 3.81
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 6.35
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 6.35
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 6.35
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 6.35
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 6.35
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 6.35
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_6x2_90.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_6x2_90
+$MODULE vasch_strip_7x2
+Po 0 0 0 15 53DE0625 00000000 ~~
+Li vasch_strip_7x2
+Cd Box header 7x2pin 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.7 1 1 0 0.2032 N V 21 N "VASCH_STRIP_7x2"
+T1 0 5.7 1 1 0 0.2032 N I 21 N "JP***"
+DS -12.9 4.7 12.9 4.7 0.3048 21
+DS 12.9 -4.7 -12.9 -4.7 0.3048 21
+DS -12.9 -4.7 -12.9 4.7 0.3048 21
+DS 12.9 -4.7 12.9 4.7 0.3048 21
+DS 2.3 4.7 2.3 3.3 0.29972 21
+DS 2.3 3.3 -2.3 3.3 0.29972 21
+DS -2.3 3.3 -2.3 4.7 0.29972 21
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 1.27
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 -1.27
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 -1.27
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 1.27
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 1.27
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 -1.27
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1.27
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1.27
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 1.27
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -1.27
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 1.27
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -1.27
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 1.27
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -1.27
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_7x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_7x2
+$MODULE vasch_strip_7x2_90
+Po 0 0 0 15 53DE479D 00000000 ~~
+Li vasch_strip_7x2_90
+Cd Box header 7x2pin 90° 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -8.5 1 1 0 0.2032 N V 21 N "VASCH_STRIP_7x2_90"
+T1 0 9 1 1 0 0.2032 N I 21 N "JP***"
+DS -12.9 2 12.9 2 0.3048 21
+DS 12.9 -7.4 -12.9 -7.4 0.3048 21
+DS -12.9 -7.4 -12.9 2 0.3048 21
+DS 12.9 -7.4 12.9 2 0.3048 21
+DS 2.3 -7.4 2.3 2 0.29972 21
+DS -2.3 -7.4 -2.3 2 0.29972 21
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 6.35
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 3.81
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 3.81
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 6.35
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 6.35
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 6.35
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 6.35
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 6.35
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 6.35
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 3.81
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_7x2_90.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_7x2_90
+$MODULE vasch_strip_8x2
+Po 0 0 0 15 53DE069A 00000000 ~~
+Li vasch_strip_8x2
+Cd Box header 8x2pin 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.7 1 1 0 0.2032 N V 21 N "VASCH_STRIP_8x2"
+T1 0 5.7 1 1 0 0.2032 N I 21 N "JP***"
+DS -14.2 4.7 14.2 4.7 0.3048 21
+DS 14.2 -4.7 -14.2 -4.7 0.3048 21
+DS -14.2 -4.7 -14.2 4.7 0.3048 21
+DS 14.2 -4.7 14.2 4.7 0.3048 21
+DS 2.3 4.7 2.3 3.3 0.29972 21
+DS 2.3 3.3 -2.3 3.3 0.29972 21
+DS -2.3 3.3 -2.3 4.7 0.29972 21
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -1.27
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 1.27
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 1.27
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -1.27
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -1.27
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 1.27
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 1.27
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 -1.27
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 -1.27
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 1.27
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 1.27
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 -1.27
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 1.27
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 -1.27
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 1.27
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 -1.27
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_8x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_8x2
+$MODULE vasch_strip_8x2_90
+Po 0 0 0 15 53DE479D 00000000 ~~
+Li vasch_strip_8x2_90
+Cd Box header 8x2pin 90° 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -8.5 1 1 0 0.2032 N V 21 N "VASCH_STRIP_8x2_90"
+T1 0 9 1 1 0 0.2032 N I 21 N "JP***"
+DS -14.2 2 14.2 2 0.3048 21
+DS 14.2 -7.4 -14.2 -7.4 0.3048 21
+DS -14.2 -7.4 -14.2 2 0.3048 21
+DS 14.2 -7.4 14.2 2 0.3048 21
+DS 2.3 -7.4 2.3 2 0.29972 21
+DS -2.3 -7.4 -2.3 2 0.29972 21
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 3.81
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 6.35
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 6.35
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 3.81
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 6.35
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 6.35
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 6.35
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 6.35
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 6.35
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 6.35
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_8x2_90.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_8x2_90
+$MODULE vasch_strip_9x2
+Po 0 0 0 15 53DE0858 00000000 ~~
+Li vasch_strip_9x2
+Cd Box header 9x2pin 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.7 1 1 0 0.2032 N V 21 N "VASCH_STRIP_9x2"
+T1 0 5.7 1 1 0 0.2032 N I 21 N "JP***"
+DS -15.4 4.7 15.4 4.7 0.3048 21
+DS 15.4 -4.7 -15.4 -4.7 0.3048 21
+DS -15.4 -4.7 -15.4 4.7 0.3048 21
+DS 15.4 -4.7 15.4 4.7 0.3048 21
+DS 2.3 4.7 2.3 3.3 0.29972 21
+DS 2.3 3.3 -2.3 3.3 0.29972 21
+DS -2.3 3.3 -2.3 4.7 0.29972 21
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 1.27
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 -1.27
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 -1.27
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 1.27
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 1.27
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 -1.27
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 -1.27
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 1.27
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1.27
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1.27
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -1.27
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 1.27
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 1.27
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 -1.27
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 1.27
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -1.27
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 1.27
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -1.27
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_9x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_9x2
+$MODULE vasch_strip_9x2_90
+Po 0 0 0 15 53DE4616 00000000 ~~
+Li vasch_strip_9x2_90
+Cd Box header 9x2pin 90° 2.54mm
+Kw CONN DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -8.5 1 1 0 0.2032 N V 21 N "VASCH_STRIP_9x2_90"
+T1 0 9 1 1 0 0.2032 N I 21 N "JP***"
+DS -15.4 2 15.4 2 0.3048 21
+DS 15.4 -7.4 -15.4 -7.4 0.3048 21
+DS -15.4 -7.4 -15.4 2 0.3048 21
+DS 15.4 -7.4 15.4 2 0.3048 21
+DS 2.3 -7.4 2.3 2 0.29972 21
+DS -2.3 -7.4 -2.3 2 0.29972 21
+$PAD
+Sh "17" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 6.35
+$EndPAD
+$PAD
+Sh "18" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 3.81
+$EndPAD
+$PAD
+Sh "16" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 3.81
+$EndPAD
+$PAD
+Sh "15" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 6.35
+$EndPAD
+$PAD
+Sh "13" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 6.35
+$EndPAD
+$PAD
+Sh "14" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 3.81
+$EndPAD
+$PAD
+Sh "12" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 3.81
+$EndPAD
+$PAD
+Sh "11" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 6.35
+$EndPAD
+$PAD
+Sh "9" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 6.35
+$EndPAD
+$PAD
+Sh "10" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 6.35
+$EndPAD
+$PAD
+Sh "1" R 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 6.35
+$EndPAD
+$PAD
+Sh "2" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 6.35
+$EndPAD
+$PAD
+Sh "4" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.5 2 0 0 0
+Dr 1 0 0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 6.35
+$EndPAD
+$PAD
+Sh "6" O 1.5 2 0 0 0
+Dr 1 0 -0.25
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 3.81
+$EndPAD
+$SHAPE3D
+Na "walter/conn_strip/vasch_strip_9x2_90.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vasch_strip_9x2_90
+$EndLIBRARY

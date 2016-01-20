@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AS7C38098A-BGA
+D 512K X 16 BIT HIGH SPEED CMOS SRAM
+K AS7C38098A
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/AMEM_AS7C38098A.pdf
+$ENDCMP
+#
+$CMP AS7C38098A-TSOP
+D 512K X 16 BIT HIGH SPEED CMOS SRAM
+K AS7C38098A
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/AMEM_AS7C38098A.pdf
+$ENDCMP
+#
+$CMP IS4xTR16256A
+D 256M X 16 BIT DDR3 SRAM
+K IS4xTR16256A
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/ISSI_IS4xTR16256A-IS4xTR85120A.pdf
+$ENDCMP
+#
+$CMP IS4xTR85120A
+D 512M X 8 BIT DDR3 SRAM
+K IS4xTR85120A
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/ISSI_IS4xTR16256A-IS4xTR85120A.pdf
+$ENDCMP
+#
+$CMP IS61WV51216-BGA
+D 512K X 16 bit high speed asynchronous CMOS static RAM with 3.3V supply
+K IS61WV51216
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/ISSI_IS61WV51216BLL-10TLI.pdf
+$ENDCMP
+#
+$CMP IS61WV51216-TSOP
+D 512K X 16 bit high speed asynchronous CMOS static RAM with 3.3V supply
+K IS61WV51216
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Memorie/ISSI_IS61WV51216BLL-10TLI.pdf
+$ENDCMP
+#
+#End Doc Library

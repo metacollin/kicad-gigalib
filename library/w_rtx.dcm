@@ -1,0 +1,260 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 8Devices_Carambola2
+D 8Devices Carambola 2 802.11 b/g/n Wireless Network module
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/8DEV_CARAMBOLA2.pdf
+$ENDCMP
+#
+$CMP ANAREN_A8520E24A91
+D Anaren A8520E24A91 PurePath Wireless module
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/Anaren/A8520E24A91_Users_Manual.pdf
+$ENDCMP
+#
+$CMP FT232BL
+D USB UART
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/FTDI_FT232BL.pdf
+$ENDCMP
+#
+$CMP FT232RL
+D USB2 UART
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/FTDI_FT232R.pdf
+$ENDCMP
+#
+$CMP FT245RL
+D USB2 FIFO
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/FTDI_FT245R.pdf
+$ENDCMP
+#
+$CMP ID_ID-12LA
+D ID-Innovation ID-12LA RFID module
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/ID_ID20.pdf
+$ENDCMP
+#
+$CMP ID_ID-20LA
+D ID-Innovation ID-20LA RFID module
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/ID_ID20.pdf
+$ENDCMP
+#
+$CMP ID_ID-2LA
+D ID-Innovation ID-2LA RFID module
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/ID_ID20.pdf
+$ENDCMP
+#
+$CMP ITEAD_HC-05
+D Itead HC-05 serial Bluetooth module
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/ITEAD_HC-05.pdf
+$ENDCMP
+#
+$CMP KSZ8081RN
+D 10Base-T/100Base-TX PHY with RMII support
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MREL_KSZ8081RN.pdf
+$ENDCMP
+#
+$CMP M145026
+D Remote control encoder
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/ST_M145026-27-28.pdf
+$ENDCMP
+#
+$CMP M145027
+D Remote control encoder
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/ST_M145026-27-28.pdf
+$ENDCMP
+#
+$CMP MAX232
+D RS232 driver-receiver
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MAX_MAX220-MAX249.pdf
+$ENDCMP
+#
+$CMP MAX3030E
+D 15KV ESD-protected, 3.3V quad RS-422 transmitters
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MAX_MAX3030E-MAX3033E.pdf
+$ENDCMP
+#
+$CMP MAX3032E
+D 15KV ESD-protected, 3.3V quad RS-422 transmitters
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MAX_MAX3030E-MAX3033E.pdf
+$ENDCMP
+#
+$CMP MAX3093E
+D 15KV ESD-protected, 10Mbps, 3V/5V Low power quad RS-422/RS-485 receivers
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MAX_MAX3093E-MAX3094E.pdf
+$ENDCMP
+#
+$CMP MAX3316-SSOP
+D 2.5V, 1μA, 460kbps, RS-232-Compatible Transceivers
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MAX_MAX3316-MAX3319.pdf
+$ENDCMP
+#
+$CMP MAX3316-TSSOP
+D 2.5V, 1μA, 460kbps, RS-232-Compatible Transceivers
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MAX_MAX3316-MAX3319.pdf
+$ENDCMP
+#
+$CMP MAX3317
+D 2.5V, 1μA, 460kbps, RS-232-Compatible Transceivers
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MAX_MAX3316-MAX3319.pdf
+$ENDCMP
+#
+$CMP MAX3318
+D 2.5V, 1μA, 460kbps, RS-232-Compatible Transceivers
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MAX_MAX3316-MAX3319.pdf
+$ENDCMP
+#
+$CMP MAX3319
+D 2.5V, 1μA, 460kbps, RS-232-Compatible Transceivers
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MAX_MAX3316-MAX3319.pdf
+$ENDCMP
+#
+$CMP MAX485
+D RS422/RS485 Transceiver
+$ENDCMP
+#
+$CMP MCP2120
+D IrDA Encoder/Decoder
+$ENDCMP
+#
+$CMP MCP23017-DIL
+D 16bit I/O expander with I2C interface
+K MCP23017
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MCIP_MCP23S17.pdf
+$ENDCMP
+#
+$CMP MCP23017-QFN
+D 16bit I/O expander with I2C interface
+K MCP23017
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MCIP_MCP23S17.pdf
+$ENDCMP
+#
+$CMP MCP23S17-DIL
+D 16bit I/O expander with SPI interface
+K MCP23S17
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MCIP_MCP23S17.pdf
+$ENDCMP
+#
+$CMP MCP23S17-QFN
+D 16bit I/O expander with SPI interface
+K MCP23S17
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MCIP_MCP23S17.pdf
+$ENDCMP
+#
+$CMP MCP2551
+D CAN BUS Transceiver
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/MCIP_MCP2551.pdf
+$ENDCMP
+#
+$CMP PCA9306-BGA
+D Dual bidirectional I2C bus and SMBus Voltage-Level translator
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/TI_PCA9306.pdf
+$ENDCMP
+#
+$CMP PCA9306-DIL
+D Dual bidirectional I2C bus and SMBus Voltage-Level translator
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/TI_PCA9306.pdf
+$ENDCMP
+#
+$CMP PCF8574
+D Remote 8-bit I/O expander for I2C-bus
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/NXP_PCF8574.pdf
+$ENDCMP
+#
+$CMP Panasonic_PAN131x
+D Panasonic PAN131x Bluetooth module
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/PSNC_PAN13xx.pdf
+$ENDCMP
+#
+$CMP Panasonic_PAN132x
+D Panasonic PAN131x Bluetooth module
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/PSNC_PAN13xx.pdf
+$ENDCMP
+#
+$CMP QM-5767-F00
+D QM-5767-F00 FM digital tuner
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/XXX_QM-5767-F00.pdf
+$ENDCMP
+#
+$CMP RFM12B
+D RFM12B Universal ISM band FSK transceiver
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/HOPE_RFM12B.pdf
+$ENDCMP
+#
+$CMP RFM22B
+D RFM22B Universal ISM band FSK transceiver
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/HOPE_RFM22B.pdf
+$ENDCMP
+#
+$CMP Roving_RN-42
+D Roving Bluetooth module
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/ROVING_RN-42.pdf
+$ENDCMP
+#
+$CMP Roving_RN-42-N
+D Roving Bluetooth module
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/ROVING_RN-42.pdf
+$ENDCMP
+#
+$CMP SC16IS740
+D Single UART with I2C-bus/SPI interface, 64-byte FIFOs, IrDA SIR
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/NXP_SC16IS7x0.pdf
+$ENDCMP
+#
+$CMP SC16IS750
+D Single UART with I2C-bus/SPI interface, 64-byte FIFOs, IrDA SIR
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/NXP_SC16IS7x0.pdf
+$ENDCMP
+#
+$CMP SKY12347
+D DC-3.0 GHz Six-Bit Digital Attenuator with Serial or Parallel Driver (0.5 dB LSB)
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/SKY_SKY12347.pdf
+$ENDCMP
+#
+$CMP SP3224E
+D 3.0V to 5.5V RS-232 Transceivers with Auto On-Line Plus
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/EXAR_SP322xE.pdf
+$ENDCMP
+#
+$CMP SP3226E
+D 3.0V to 5.5V RS-232 Transceivers with Auto On-Line Plus
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/EXAR_SP322xE.pdf
+$ENDCMP
+#
+$CMP TXS0102-BGA
+D 2-bit bidirectional Voltage-Level translator for Open-Drain and Push-Pull applications
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/TI_TXS0102.pdf
+$ENDCMP
+#
+$CMP TXS0102-DIL
+D 2-bit bidirectional Voltage-Level translator for Open-Drain and Push-Pull applications
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/TI_TXS0102.pdf
+$ENDCMP
+#
+$CMP TXS0102-QFN
+D 2-bit bidirectional Voltage-Level translator for Open-Drain and Push-Pull applications
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/Drivers/TI_TXS0102.pdf
+$ENDCMP
+#
+$CMP W5500
+D Hardwired TCP/IP embedded ethernet controller
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/WIZ_W5500.pdf
+$ENDCMP
+#
+$CMP XR20M1170-16QFN
+D I2C/SPI UART WITH 64-BYTE FIFO
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/EXAR_XR20M1170.pdf
+$ENDCMP
+#
+$CMP XR20M1170-16TSSOP
+D I2C/SPI UART WITH 64-BYTE FIFO
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/EXAR_XR20M1170.pdf
+$ENDCMP
+#
+$CMP XR20M1170-24QFN
+D I2C/SPI UART WITH 64-byte FIFO
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/EXAR_XR20M1170.pdf
+$ENDCMP
+#
+$CMP XR20M1170-24TSSOP
+D I2C/SPI UART WITH 64-byte FIFO
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Digitali/RTX/EXAR_XR20M1170.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,71 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 12AX7
+D 12AX7 type Double Triode Vacuum tube
+$ENDCMP
+#
+$CMP 211
+D 211 type Triode Vacuum tube
+$ENDCMP
+#
+$CMP 2A3
+D 2A3 type Triode Vacuum tube
+$ENDCMP
+#
+$CMP 572B
+D 572B type Emitter Vacuum tube
+$ENDCMP
+#
+$CMP 6AU6
+D 6AU6 type Pentode Vacuum tube
+$ENDCMP
+#
+$CMP 6BQ5
+D 6BQ5 type Pentode Vacuum tube
+$ENDCMP
+#
+$CMP 6N6P
+D 6N6P type Double Triode Vacuum tube
+$ENDCMP
+#
+$CMP 6SN7GT
+D 6N7GT type Double Triode Vacuum tube
+$ENDCMP
+#
+$CMP 805
+D 805 type Emitter Vacuum tube
+$ENDCMP
+#
+$CMP ECC88
+D ECC88 type Double Triode Vacuum tube
+$ENDCMP
+#
+$CMP EF85
+D EF85 type Pentode Vacuum tube
+$ENDCMP
+#
+$CMP EF86
+D EF86 type Pentode Vacuum tube
+$ENDCMP
+#
+$CMP EL34
+D EL34 type Pentode Vacuum tube
+$ENDCMP
+#
+$CMP KT66
+D KT66 type Beam Tetrode Vacuum tube
+$ENDCMP
+#
+$CMP PCF802
+D PCF802 type Triode-Pentode Vacuum tube
+$ENDCMP
+#
+$CMP PCL82
+D PCL82 type Triode-Output Pentode Vacuum tube
+$ENDCMP
+#
+$CMP PCL86
+D PCL86 type Triode-Pentode Vacuum tube
+$ENDCMP
+#
+#End Doc Library

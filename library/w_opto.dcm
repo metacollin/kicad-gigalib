@@ -1,0 +1,83 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 6N138
+D Single channel, High Speed Optocouplers
+$ENDCMP
+#
+$CMP 7SEGMENTS
+D 7segments display, common anode
+$ENDCMP
+#
+$CMP AC_OPTO
+D AC Input Optocoupler
+$ENDCMP
+#
+$CMP CMD-5571x00
+D Dot matrix display, common cathode, US Electronics CMD-5571x00
+$ENDCMP
+#
+$CMP CMD-5572x00
+D Dot matrix display, common anode, US Electronics CMD-5572x00
+$ENDCMP
+#
+$CMP CPC1117N
+D Normally closed Solid State Relay
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Fotoisolatori/AC/CLA_CPC1117N.pdf
+$ENDCMP
+#
+$CMP KB814
+D AC Optocoupler
+$ENDCMP
+#
+$CMP KB824
+D AC Optocoupler
+$ENDCMP
+#
+$CMP KB834
+D AC Optocoupler
+$ENDCMP
+#
+$CMP KB844
+D AC Optocoupler
+$ENDCMP
+#
+$CMP PLCC6_LED
+D PLCC6 LED
+K DEV DIODE LED PLCC6
+$ENDCMP
+#
+$CMP RGB_LED
+D RGB LED
+K DEV DIODE LED RGB
+$ENDCMP
+#
+$CMP SFH5712
+D High accuracy ambient light sensor with I2C bus interface
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Sensori/Luce/OSRAM_SFH5712.pdf
+$ENDCMP
+#
+$CMP TKS-363H
+D 7segments display, TKS-363H
+$ENDCMP
+#
+$CMP TLP523
+D DC Optocoupler
+$ENDCMP
+#
+$CMP TLP523-2
+D DC Optocoupler
+$ENDCMP
+#
+$CMP TLP523-4
+D DC Optocoupler
+$ENDCMP
+#
+$CMP TLP624
+D DC Optocoupler
+$ENDCMP
+#
+$CMP TLP624-2
+D DC Optocoupler
+$ENDCMP
+#
+#End Doc Library

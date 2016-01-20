@@ -1,0 +1,457 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD5320-MSOP
+D 12 bit RRO DAC, MSOP-8
+K DAC AD5320
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/adc-dac/TI_AD5320.pdf
+$ENDCMP
+#
+$CMP AD734
+D 4-Quadrant Multiplier/Divider
+$ENDCMP
+#
+$CMP ADG719-EP
+D CMOS 1.8 V to 5.5 V, 2.5ohm 2:1 Mux/SPDT Switch in SOT-23
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Analog_switch/AD_ADG719EP.pdf
+$ENDCMP
+#
+$CMP ADP3110A
+D Half-Bridge Mosfet driver
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ON_ADP3110A.pdf
+$ENDCMP
+#
+$CMP AP7312-DFN
+D Dual 150mA low quiescent current fast transient LDO linear regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/DINC_AP7312.pdf
+$ENDCMP
+#
+$CMP AP7312-SOT
+D Dual 150mA low quiescent current fast transient LDO linear regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/DINC_AP7312.pdf
+$ENDCMP
+#
+$CMP CS9236L
+D Single chip Wavetable music synthesizer
+K CS9236
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/CRY_CS9236.pdf
+$ENDCMP
+#
+$CMP CS9236Q
+D Single chip Wavetable music synthesizer
+K CS9236
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/CRY_CS9236.pdf
+$ENDCMP
+#
+$CMP FAN7382
+D Half-Bridge Mosfet driver, HI-side and LO-side
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/FCD_FAN7382.pdf
+$ENDCMP
+#
+$CMP IR2183
+D Half-Bridge Mosfet driver, HI-side and LO-side
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/IR_IR2183.pdf
+$ENDCMP
+#
+$CMP L298N
+D Dual full bridge Driver
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ST_L298.pdf
+$ENDCMP
+#
+$CMP L298P
+D Dual full bridge Driver
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ST_L298.pdf
+$ENDCMP
+#
+$CMP L6203
+D DMOS full bridge Driver
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ST_L620x.pdf
+$ENDCMP
+#
+$CMP L6506
+D Current controller for stepping motor
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ST_L6506.pdf
+$ENDCMP
+#
+$CMP L6506D
+D Current controller for stepping motor
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ST_L6506.pdf
+$ENDCMP
+#
+$CMP LH0063
+D Ultra Fast Buffer
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/NSC_LH0033-0063.pdf
+$ENDCMP
+#
+$CMP LM1117-SOT
+D 800mA Low Dropout Linear Regulator, SOT packages
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_LM1117.pdf
+$ENDCMP
+#
+$CMP LM1117-TO
+D 800mA Low Dropout Linear Regulator, TO220 package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_LM1117.pdf
+$ENDCMP
+#
+$CMP LM1117-WSON
+D 800mA Low Dropout Linear Regulator, WSON package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_LM1117.pdf
+$ENDCMP
+#
+$CMP LM1578A
+D LM1578A/LM2578A/LM3578A Switching Regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/NSC_LM1578-3578.pdf
+$ENDCMP
+#
+$CMP LM2731
+D 0.6/1.6 MHz Boost Converters With 22V Internal FET Switch in SOT-23
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/NSC_LM2731.pdf
+$ENDCMP
+#
+$CMP LM2734
+D Thin SOT 1A Load Step-Down DC-DC Regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/TI_LM2734.pdf
+$ENDCMP
+#
+$CMP LM311
+D Voltage comparator
+F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Opamp/NSC_LM111-211-311.pdf
+$ENDCMP
+#
+$CMP LM317-PTH
+D LM317 series 1A Adjustable linear regulator, PTH version
+$ENDCMP
+#
+$CMP LM317-SMD
+D LM317 series 1A Adjustable linear regulator, SMD version
+$ENDCMP
+#
+$CMP LM324
+D Low Power Quad Operational Amplifiers
+F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Opamp/NSC_LM124-224-324-2902.pdf
+$ENDCMP
+#
+$CMP LM3402
+D 0.5A Constant Current Buck Regulator for Driving High Power LEDs
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/NSC_LM3402.pdf
+$ENDCMP
+#
+$CMP LM3481
+D LM3481High Efficiency Low-side N-Channel controller for Switching Regulators
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/TI_LM3481.pdf
+$ENDCMP
+#
+$CMP LM358
+D Low Power Dual Operational Amplifiers
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Opamp/TI_lm2904.pdf
+$ENDCMP
+#
+$CMP LM4752
+D Stereo 11W Audio power amplifier
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Amplifiers/TI_LM4752.pdf
+$ENDCMP
+#
+$CMP LM50
+D SOT-23 Single-Supply Centigrade Temperature Sensor
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Sensori/Temperatura/NSC_LM50.pdf
+$ENDCMP
+#
+$CMP LM6171
+D High Speed Low Power Low Distortion Voltage Feedback Amplifier
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/NSC_LM6171.pdf
+$ENDCMP
+#
+$CMP LMH6702-SO8
+D 1.7 GHz, Ultra Low Distortion, Wideband Op Amp
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/NSC_LMH6702.pdf
+$ENDCMP
+#
+$CMP LMH6702-SOT
+D 1.7 GHz, Ultra Low Distortion, Wideband Op Amp
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/NSC_LMH6702.pdf
+$ENDCMP
+#
+$CMP LPS25H
+D MEMS pressure sensor
+K LPS25H
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Sensori/ST_LPS25H.pdf
+$ENDCMP
+#
+$CMP LSM9DS0
+D iNEMO intertial module: 3D accelerometer, 3D gyroscope, 3D magnetometer
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/ST_LSM9DS0.pdf
+$ENDCMP
+#
+$CMP LT3652
+D Power tracking 2A battery charger for Solar Power
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/LT_LT3652.pdf
+$ENDCMP
+#
+$CMP LT8610
+D 42V, 2.5A Synchronous Step-Down Regulator with 2.5μA Quiescent Current
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/LT_LT8610.pdf
+$ENDCMP
+#
+$CMP LTC3127-DD
+D 1A Buck-Boost DC/DC converter with programmable input current limit
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/LT_LTC3127.pdf
+$ENDCMP
+#
+$CMP LTC3127-MSE
+D 1A Buck-Boost DC/DC converter with programmable input current limit
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/LT_LTC3127.pdf
+$ENDCMP
+#
+$CMP LTC4267-SSOP
+D Power over Ethernet IEEE 802.3af PD interface with integrated switching regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/LTC_LTC4267.pdf
+$ENDCMP
+#
+$CMP MAX1684
+D Low-Noise, 14V Input, 1A, PWM Step-Down Converter
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/MAX_MAX1684-1685.pdf
+$ENDCMP
+#
+$CMP MAX764
+D -5V/-12V/-15V or Adjustable, High-Efficiency, Low IQ DC-DC Inverters
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/MAX_MAX764-766.pdf
+$ENDCMP
+#
+$CMP MBI6651GSD
+D 1A Step Down Converter
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/MBLK_MBI6651.pdf
+$ENDCMP
+#
+$CMP MC34063
+D 1.5A step up/down/inverting switching regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/ON_MC34063.pdf
+$ENDCMP
+#
+$CMP MC34167
+D 5A step up/down/inverting switching regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/ON_MC34167.pdf
+$ENDCMP
+#
+$CMP MCP1702_SOT
+D MCP1702 250mA Low Dropout Linear Regulator, SOT package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/MCIP_MCP1702.pdf
+$ENDCMP
+#
+$CMP MCP1702_TO
+D MCP1702 250mA Low Dropout Linear Regulator, TO package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/MCIP_MCP1702.pdf
+$ENDCMP
+#
+$CMP MCP3002
+D 2.7V Dual Channel 10-Bit A/D Converter with SPI Serial Interface
+K ADC MCP3002
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/AD-DA/MCIP_MCP3002.pdf
+$ENDCMP
+#
+$CMP MCP3004
+D 2.7V 4 Channel 10-Bit A/D Converter with SPI Serial Interface
+K ADC MCP3004
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/AD-DA/MCIP_MCP3004-3008.pdf
+$ENDCMP
+#
+$CMP MCP3008
+D 2.7V 8 Channel 10-Bit A/D Converter with SPI Serial Interface
+K ADC MCP3008
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/AD-DA/MCIP_MCP3004-3008.pdf
+$ENDCMP
+#
+$CMP MCP601-DIL
+D 2.7V to 6.0V Single Supply CMOS Op Amps
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/Rail_to_rail/MCIP_MCP601-602-603-604.pdf
+$ENDCMP
+#
+$CMP MCP601-SOT
+D 2.7V to 6.0V Single Supply CMOS Op Amps
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/Rail_to_rail/MCIP_MCP601-602-603-604.pdf
+$ENDCMP
+#
+$CMP MCP601R-SOT
+D 2.7V to 6.0V Single Supply CMOS Op Amps
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/Rail_to_rail/MCIP_MCP601-602-603-604.pdf
+$ENDCMP
+#
+$CMP MCP602
+D 2.7V to 6.0V Single Supply CMOS Op Amps
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/Rail_to_rail/MCIP_MCP601-602-603-604.pdf
+$ENDCMP
+#
+$CMP MCP603-DIL
+D 2.7V to 6.0V Single Supply CMOS Op Amps
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/Rail_to_rail/MCIP_MCP601-602-603-604.pdf
+$ENDCMP
+#
+$CMP MCP603-SOT
+D 2.7V to 6.0V Single Supply CMOS Op Amps
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/Rail_to_rail/MCIP_MCP601-602-603-604.pdf
+$ENDCMP
+#
+$CMP MCP604
+D 2.7V to 6.0V Single Supply CMOS Op Amps
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/Rail_to_rail/MCIP_MCP601-602-603-604.pdf
+$ENDCMP
+#
+$CMP MCP73831-DFN
+D Miniature single-cell, fully integrated Li-Ion,Li-Polymer charge management controller
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/MCIP_MCP73831-2.pdf
+$ENDCMP
+#
+$CMP MCP73831-SOT
+D Miniature single-cell, fully integrated Li-Ion,Li-Polymer charge management controller
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/MCIP_MCP73831-2.pdf
+$ENDCMP
+#
+$CMP MPU-9150
+D 9-axis MotionTracking device
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Sensori/MPU-9150.pdf
+$ENDCMP
+#
+$CMP NE555
+D NE555 timer
+F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Clock/ST_NE555.pdf
+$ENDCMP
+#
+$CMP NJU7771F
+D Low Dropout linear regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/NJR_NJU777x.pdf
+$ENDCMP
+#
+$CMP NJU7772F
+D Low Dropout linear regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/NJR_NJU777x.pdf
+$ENDCMP
+#
+$CMP NJU7773F
+D Low Dropout linear regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/NJR_NJU777x.pdf
+$ENDCMP
+#
+$CMP SAM2195
+D Low power single chip synthesizer with effects
+K SAM2195
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/DREAM_SAM2195.pdf
+$ENDCMP
+#
+$CMP SI7020-A10
+D I2C Humidity and Temperature sensor
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Sensori/Temperatura/SIL_Si7020-A10.pdf
+$ENDCMP
+#
+$CMP TDA2822M
+D Dual low voltage Power Amplifiers
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Amplifiers/ST_TDA2822.pdf
+$ENDCMP
+#
+$CMP TL2575
+D 1-A Simple Step-Down switching voltage regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Switcher/TI_TL2575.pdf
+$ENDCMP
+#
+$CMP TL431
+D Programmable shunt regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/FCD_TL431.pdf
+$ENDCMP
+#
+$CMP TLV431-D
+D Low-Voltage adjustable precision shunt regulator, SOIC-8 package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_TLV431.pdf
+$ENDCMP
+#
+$CMP TLV431-DBV
+D Low-Voltage adjustable precision shunt regulator, SOT23-5 package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_TLV431.pdf
+$ENDCMP
+#
+$CMP TLV431-DBZ
+D Low-Voltage adjustable precision shunt regulator, SOT23 package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_TLV431.pdf
+$ENDCMP
+#
+$CMP TLV431-DCK
+D Low-Voltage adjustable precision shunt regulator, SC70-6 package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_TLV431.pdf
+$ENDCMP
+#
+$CMP TLV431-LP
+D Low-Voltage adjustable precision shunt regulator, TO92 package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_TLV431.pdf
+$ENDCMP
+#
+$CMP TLV431-PK
+D Low-Voltage adjustable precision shunt regulator, SOT89 package
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_TLV431.pdf
+$ENDCMP
+#
+$CMP TMP3x
+D Low voltage Temperature Sensor
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Sensori/Temperatura/AD_TMP35-36-37.pdf
+$ENDCMP
+#
+$CMP TPA3123D2
+D 25-W STEREO CLASS-D AUDIO POWER AMPLIFIER
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Amplifiers/TI_TPA3123D2.pdf
+$ENDCMP
+#
+$CMP TPS7A16
+D 60-V, 5-μA IQ, 100-mA, Low-Dropout Voltage regulator with Enable and Power-Good
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_TPS7A16.pdf
+$ENDCMP
+#
+$CMP TPS7A30xx
+D –36V, –200mA, Ultra low-Noise, Negative Linear Regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_TPS7A30xx.pdf
+$ENDCMP
+#
+$CMP TPS7A49
+D 36V, 150mA, Ultra low-Noise, Positive Linear Regulator
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Regolatori/TI_TPS7A49.pdf
+$ENDCMP
+#
+$CMP TS4871
+D Output Rail-to-Rail 1W audio power amplifier with standby mode
+K TS4871
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/OpAmp/Rail_to_rail/ST_TS4871.pdf
+$ENDCMP
+#
+$CMP TS925I
+D RR High Out Current OpAmp
+F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Opamp/ST_TS925.pdf
+$ENDCMP
+#
+$CMP UA741
+D General purpose single Operational Amplifier
+F /mnt/dati/documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Opamp/ST_UA741.pdf
+$ENDCMP
+#
+$CMP ULN2803
+D Darlington Transistor array
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/TI_ULN2803A.pdf
+$ENDCMP
+#
+$CMP VNH5019A-E
+D Automotive fully integrated H-bridge motor driver
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Analogici/Drivers/ST_VNH5019A-E.pdf
+$ENDCMP
+#
+$CMP VS1003-B
+D MP3/WMA audio codec
+K VS1003
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/VLSI_VS1003.pdf
+$ENDCMP
+#
+$CMP VS1003-L
+D MP3/WMA audio codec
+K VS1003
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/VLSI_VS1003.pdf
+$ENDCMP
+#
+$CMP VS1053B
+D OGG/MP3/AAC/WMA/FLAC/MIDI audio codec
+K VS1053
+F /dati/Documenti/Elettronica/DATA_SHEET/Elettronici/Integrati/Conversione/VLSI_VS1053.pdf
+$ENDCMP
+#
+#End Doc Library

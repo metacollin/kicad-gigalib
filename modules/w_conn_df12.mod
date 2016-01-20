@@ -1,0 +1,34014 @@
+PCBNEW-LibModule-V1  mer 11 feb 2015 00:13:26 CET
+# encoding utf-8
+Units mm
+$INDEX
+df12(3.0)-10dp-0.5v
+df12(3.0)-10ds-0.5v
+df12(3.0)-14dp-0.5v
+df12(3.0)-14ds-0.5v
+df12(3.0)-20dp-0.5v
+df12(3.0)-20ds-0.5v
+df12(3.0)-30dp-0.5v
+df12(3.0)-30ds-0.5v
+df12(3.0)-32dp-0.5v
+df12(3.0)-32ds-0.5v
+df12(3.0)-36dp-0.5v
+df12(3.0)-36ds-0.5v
+df12(3.0)-40dp-0.5v
+df12(3.0)-40ds-0.5v
+df12(3.0)-50dp-0.5v
+df12(3.0)-50ds-0.5v
+df12(3.0)-60dp-0.5v
+df12(3.0)-60ds-0.5v
+df12(3.0)-80dp-0.5v
+df12(3.0)-80ds-0.5v
+df12a(3.0)-10ds-0.5v
+df12a(3.0)-14ds-0.5v
+df12a(3.0)-20ds-0.5v
+df12a(3.0)-30ds-0.5v
+df12a(3.0)-32ds-0.5v
+df12a(3.0)-36ds-0.5v
+df12a(3.0)-40ds-0.5v
+df12a(3.0)-50ds-0.5v
+df12a(3.0)-60ds-0.5v
+df12a(3.0)-80ds-0.5v
+df12b(3.0)-10dp-0.5v
+df12b(3.0)-10ds-0.5v
+df12b(3.0)-14dp-0.5v
+df12b(3.0)-14ds-0.5v
+df12b(3.0)-20dp-0.5v
+df12b(3.0)-20ds-0.5v
+df12b(3.0)-30dp-0.5v
+df12b(3.0)-30ds-0.5v
+df12b(3.0)-32dp-0.5v
+df12b(3.0)-32ds-0.5v
+df12b(3.0)-36dp-0.5v
+df12b(3.0)-36ds-0.5v
+df12b(3.0)-40dp-0.5v
+df12b(3.0)-40ds-0.5v
+df12b(3.0)-50dp-0.5v
+df12b(3.0)-50ds-0.5v
+df12b(3.0)-60dp-0.5v
+df12b(3.0)-60ds-0.5v
+df12b(3.0)-80dp-0.5v
+df12b(3.0)-80ds-0.5v
+df12c(3.0)-10ds-0.5v
+df12c(3.0)-14ds-0.5v
+df12c(3.0)-20ds-0.5v
+df12c(3.0)-30ds-0.5v
+df12c(3.0)-32ds-0.5v
+df12c(3.0)-36ds-0.5v
+df12c(3.0)-40ds-0.5v
+df12c(3.0)-50ds-0.5v
+df12c(3.0)-60ds-0.5v
+df12c(3.0)-80ds-0.5v
+df12d(3.0)-10dp-0.5v
+df12d(3.0)-14dp-0.5v
+df12d(3.0)-20dp-0.5v
+df12d(3.0)-30dp-0.5v
+df12d(3.0)-32dp-0.5v
+df12d(3.0)-36dp-0.5v
+df12d(3.0)-40dp-0.5v
+df12d(3.0)-50dp-0.5v
+df12d(3.0)-60dp-0.5v
+df12d(3.0)-80dp-0.5v
+df12e(3.0)-10dp-0.5v
+df12e(3.0)-14dp-0.5v
+df12e(3.0)-20dp-0.5v
+df12e(3.0)-30dp-0.5v
+df12e(3.0)-32dp-0.5v
+df12e(3.0)-36dp-0.5v
+df12e(3.0)-40dp-0.5v
+df12e(3.0)-50dp-0.5v
+df12e(3.0)-60dp-0.5v
+df12e(3.0)-80dp-0.5v
+$EndINDEX
+$MODULE df12(3.0)-10dp-0.5v
+Po 0 0 0 15 54DA908C 00000000 ~~
+Li df12(3.0)-10dp-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-10DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-10dp-0.5v"
+DS 2.4003 1.89992 -2.4003 1.89992 0.19812 21
+DS -1.6002 1.19888 1.6002 1.19888 0.19812 21
+DS 1.6002 -1.19888 -1.6002 -1.19888 0.19812 21
+DS -2.4003 -1.89992 2.4003 -1.89992 0.19812 21
+DS 2.4003 1.89992 2.4003 -1.89992 0.19812 21
+DS -2.4003 -1.89992 -2.4003 1.89992 0.19812 21
+DS 2.40284 0.39878 1.60274 0.39878 0.19812 21
+DS 1.60274 -0.39878 2.40284 -0.39878 0.19812 21
+DS -1.6002 -0.39878 -2.4003 -0.39878 0.19812 21
+DS -1.6002 0.39878 -2.4003 0.39878 0.19812 21
+DS 1.60274 -1.19888 1.60274 1.19888 0.19812 21
+DS -1.6002 1.19888 -1.6002 -1.19888 0.19812 21
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 2.04978 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -2.04978 -1.4986
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 4.699 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-10dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-10dp-0.5v
+$MODULE df12(3.0)-10ds-0.5v
+Po 0 0 0 15 50F19AB4 00000000 ~~
+Li df12(3.0)-10ds-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-10DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-10ds-0.5v"
+DS 2.30124 0.39878 1.50114 0.39878 0.19812 21
+DS 1.50114 -0.39878 2.30124 -0.39878 0.19812 21
+DS -1.50114 -0.39878 -2.30124 -0.39878 0.19812 21
+DS -1.50114 0.39878 -2.30124 0.39878 0.19812 21
+DS 1.50114 0.70104 -1.50114 0.70104 0.19812 21
+DS -1.50114 -0.70104 1.50114 -0.70104 0.19812 21
+DS -1.50114 -1.19888 1.50114 -1.19888 0.19812 21
+DS 1.50114 -1.19888 1.50114 1.19888 0.19812 21
+DS 1.50114 1.19888 -1.50114 1.19888 0.19812 21
+DS -1.50114 1.19888 -1.50114 -1.19888 0.19812 21
+DS -2.30124 -1.80086 2.30124 -1.80086 0.19812 21
+DS 2.2987 -1.80086 2.2987 1.80086 0.19812 21
+DS 2.30124 1.80086 -2.30124 1.80086 0.19812 21
+DS -2.30124 1.80086 -2.30124 -1.80086 0.19812 21
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99568 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99568 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99568 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4953 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99568 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 2.04978 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -2.04978 -1.4986
+$EndPAD
+$PAD
+Sh "" R 4.5974 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.69748 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.69748 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-10ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-10ds-0.5v
+$MODULE df12(3.0)-14dp-0.5v
+Po 0 0 0 15 50F2ADA1 00000000 ~~
+Li df12(3.0)-14dp-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-14DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-14dp-0.5v"
+DS 2.90068 1.89992 -2.90068 1.89992 0.19812 21
+DS -2.10058 1.19888 2.10058 1.19888 0.19812 21
+DS 2.10058 -1.19888 -2.10058 -1.19888 0.19812 21
+DS -2.90068 -1.89992 2.90068 -1.89992 0.19812 21
+DS 2.90068 1.89992 2.90068 -1.89992 0.19812 21
+DS -2.90068 -1.89992 -2.90068 1.89992 0.19812 21
+DS 2.90322 0.39878 2.10312 0.39878 0.19812 21
+DS 2.10312 -0.39878 2.90322 -0.39878 0.19812 21
+DS -2.10058 -0.39878 -2.90068 -0.39878 0.19812 21
+DS -2.10058 0.39878 -2.90068 0.39878 0.19812 21
+DS 2.10312 -1.19888 2.10312 1.19888 0.19812 21
+DS -2.10058 1.19888 -2.10058 -1.19888 0.19812 21
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 2.54762 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -2.54762 -1.4986
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 5.69976 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-14dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-14dp-0.5v
+$MODULE df12(3.0)-14ds-0.5v
+Po 0 0 0 15 50F2863F 00000000 ~~
+Li df12(3.0)-14ds-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-14DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-14ds-0.5v"
+DS 1.99898 0.70104 -1.99898 0.70104 0.19812 21
+DS -1.99898 -0.70104 1.99898 -0.70104 0.19812 21
+DS 2.79908 1.80086 -2.79908 1.80086 0.19812 21
+DS -1.99898 1.19888 1.99898 1.19888 0.19812 21
+DS 1.99898 -1.19888 -1.99898 -1.19888 0.19812 21
+DS -2.79908 -1.80086 2.79908 -1.80086 0.19812 21
+DS 2.80162 0.39878 2.00152 0.39878 0.19812 21
+DS 2.00152 -0.39878 2.80162 -0.39878 0.19812 21
+DS -1.99898 -0.39878 -2.79908 -0.39878 0.19812 21
+DS -1.99898 0.39878 -2.79908 0.39878 0.19812 21
+DS 1.99898 -1.19888 1.99898 1.19888 0.19812 21
+DS -1.99898 1.19888 -1.99898 -1.19888 0.19812 21
+DS 2.79908 -1.80086 2.79908 1.80086 0.19812 21
+DS -2.79908 1.80086 -2.79908 -1.80086 0.19812 21
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.00076 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.50038 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 2.54762 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -2.54762 -1.4986
+$EndPAD
+$PAD
+Sh "" R 5.59816 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.19786 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.19786 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-14ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-14ds-0.5v
+$MODULE df12(3.0)-20dp-0.5v
+Po 0 0 0 15 50F2AC39 00000000 ~~
+Li df12(3.0)-20dp-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-20DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-20dp-0.5v"
+DS 3.59918 1.89992 -3.59918 1.89992 0.19812 21
+DS -2.79908 1.19888 2.79908 1.19888 0.19812 21
+DS 2.79908 -1.19888 -2.79908 -1.19888 0.19812 21
+DS -3.59918 -1.89992 3.59918 -1.89992 0.19812 21
+DS 3.59918 1.89992 3.59918 -1.89992 0.19812 21
+DS -3.59918 -1.89992 -3.59918 1.89992 0.19812 21
+DS 3.60172 0.39878 2.80162 0.39878 0.19812 21
+DS 2.80162 -0.39878 3.60172 -0.39878 0.19812 21
+DS -2.79908 -0.39878 -3.59918 -0.39878 0.19812 21
+DS -2.79908 0.39878 -3.59918 0.39878 0.19812 21
+DS 2.80162 -1.19888 2.80162 1.19888 0.19812 21
+DS -2.79908 1.19888 -2.79908 -1.19888 0.19812 21
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 3.29946 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -3.29946 -1.4986
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 7.19836 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.99796 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.99796 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-20dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-20dp-0.5v
+$MODULE df12(3.0)-20ds-0.5v
+Po 0 0 0 15 50F28695 00000000 ~~
+Li df12(3.0)-20ds-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-20DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-20ds-0.5v"
+DS -3.59918 1.80086 3.59918 1.80086 0.19812 21
+DS 2.79908 1.19888 -2.79908 1.19888 0.19812 21
+DS -2.79908 -1.19888 2.79908 -1.19888 0.19812 21
+DS 3.59918 -1.80086 -3.59918 -1.80086 0.19812 21
+DS 2.79908 -0.70104 -2.79908 -0.70104 0.19812 21
+DS -2.79908 0.70104 2.79908 0.70104 0.19812 21
+DS 3.60172 0.39878 2.80162 0.39878 0.19812 21
+DS 2.80162 -0.39878 3.60172 -0.39878 0.19812 21
+DS -2.79908 -0.39878 -3.59918 -0.39878 0.19812 21
+DS -2.79908 0.39878 -3.59918 0.39878 0.19812 21
+DS 2.80162 -1.19888 2.80162 1.19888 0.19812 21
+DS -2.79908 1.19888 -2.79908 -1.19888 0.19812 21
+DS 3.59918 -1.80086 3.59918 1.80086 0.19812 21
+DS -3.59918 1.80086 -3.59918 -1.80086 0.19812 21
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 7.0993 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -3.29946 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 3.29946 -1.4986
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.9497 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.9497 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-20ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-20ds-0.5v
+$MODULE df12(3.0)-30dp-0.5v
+Po 0 0 0 15 50F2AA9B 00000000 ~~
+Li df12(3.0)-30dp-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-30DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-30dp-0.5v"
+DS 4.89966 1.89992 -4.89966 1.89992 0.19812 21
+DS -4.09956 1.19888 4.09956 1.19888 0.19812 21
+DS 4.09956 -1.19888 -4.09956 -1.19888 0.19812 21
+DS -4.89966 -1.89992 4.89966 -1.89992 0.19812 21
+DS 4.89966 1.89992 4.89966 -1.89992 0.19812 21
+DS -4.89966 -1.89992 -4.89966 1.89992 0.19812 21
+DS 4.9022 0.39878 4.1021 0.39878 0.19812 21
+DS 4.1021 -0.39878 4.9022 -0.39878 0.19812 21
+DS -4.09956 -0.39878 -4.89966 -0.39878 0.19812 21
+DS -4.09956 0.39878 -4.89966 0.39878 0.19812 21
+DS 4.1021 -1.19888 4.1021 1.19888 0.19812 21
+DS -4.09956 1.19888 -4.09956 -1.19888 0.19812 21
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 4.54914 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -4.54914 -1.4986
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 9.69772 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.24764 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.24764 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-30dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-30dp-0.5v
+$MODULE df12(3.0)-30ds-0.5v
+Po 0 0 0 15 50F28743 00000000 ~~
+Li df12(3.0)-30ds-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-30DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-30ds-0.5v"
+DS 4.8006 -1.80086 -4.8006 -1.80086 0.19812 21
+DS -4.8006 1.80086 4.8006 1.80086 0.19812 21
+DS 4.0005 1.19888 -4.0005 1.19888 0.19812 21
+DS 4.0005 -1.19888 -4.0005 -1.19888 0.19812 21
+DS 4.0005 0.70104 -4.0005 0.70104 0.19812 21
+DS -4.0005 -0.70104 4.0005 -0.70104 0.19812 21
+DS 4.8006 0.39878 4.0005 0.39878 0.19812 21
+DS 4.0005 -0.39878 4.8006 -0.39878 0.19812 21
+DS -4.0005 -0.39878 -4.8006 -0.39878 0.19812 21
+DS -4.0005 0.39878 -4.8006 0.39878 0.19812 21
+DS 3.99796 -1.19888 3.99796 1.19888 0.19812 21
+DS -4.0005 1.19888 -4.0005 -1.19888 0.19812 21
+DS 4.79552 -1.80086 4.79552 1.80086 0.19812 21
+DS -4.8006 1.80086 -4.8006 -1.80086 0.19812 21
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 9.59866 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -4.54914 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 4.54914 -1.4986
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.19938 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.19938 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-30ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-30ds-0.5v
+$MODULE df12(3.0)-32dp-0.5v
+Po 0 0 0 15 50F2A71B 00000000 ~~
+Li df12(3.0)-32dp-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-32DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-32dp-0.5v"
+DS 5.10032 1.89992 -5.10032 1.89992 0.19812 21
+DS -4.30022 1.19888 4.30022 1.19888 0.19812 21
+DS 4.30022 -1.19888 -4.30022 -1.19888 0.19812 21
+DS -5.10032 -1.89992 5.10032 -1.89992 0.19812 21
+DS 5.10032 1.89992 5.10032 -1.89992 0.19812 21
+DS -5.10032 -1.89992 -5.10032 1.89992 0.19812 21
+DS 5.10286 0.39878 4.30276 0.39878 0.19812 21
+DS 4.30276 -0.39878 5.10286 -0.39878 0.19812 21
+DS -4.30022 -0.39878 -5.10032 -0.39878 0.19812 21
+DS -4.30022 0.39878 -5.10032 0.39878 0.19812 21
+DS 4.30276 -1.19888 4.30276 1.19888 0.19812 21
+DS -4.30022 1.19888 -4.30022 -1.19888 0.19812 21
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 4.79806 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -4.79806 -1.4986
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 10.1981 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4991 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.4991 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-32dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-32dp-0.5v
+$MODULE df12(3.0)-32ds-0.5v
+Po 0 0 0 15 50F28781 00000000 ~~
+Li df12(3.0)-32ds-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-32DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-32ds-0.5v"
+DS -5.10032 -1.80086 5.10032 -1.80086 0.19812 21
+DS 5.10032 1.80086 -5.10032 1.80086 0.19812 21
+DS 4.30022 1.19888 -4.30022 1.19888 0.19812 21
+DS -4.30022 -1.19888 4.30022 -1.19888 0.19812 21
+DS 4.30022 -0.70104 -4.30022 -0.70104 0.19812 21
+DS -4.30022 0.70104 4.30022 0.70104 0.19812 21
+DS 5.10286 0.39878 4.30276 0.39878 0.19812 21
+DS 4.30276 -0.39878 5.10286 -0.39878 0.19812 21
+DS -4.30022 -0.39878 -5.10032 -0.39878 0.19812 21
+DS -4.30022 0.39878 -5.10032 0.39878 0.19812 21
+DS 4.30276 -1.19888 4.30276 1.19888 0.19812 21
+DS -4.30022 1.19888 -4.30022 -1.19888 0.19812 21
+DS 5.10032 -1.80086 5.10032 1.80086 0.19812 21
+DS -5.10032 1.80086 -5.10032 -1.80086 0.19812 21
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.254 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.74676 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.75006 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.24536 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24612 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.2446 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74574 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.24536 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24714 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.74676 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24384 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25146 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75184 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.25476 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.25044 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.75082 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24612 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 10.09904 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -4.79806 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 4.79806 -1.4986
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4483 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.4483 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-32ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-32ds-0.5v
+$MODULE df12(3.0)-36dp-0.5v
+Po 0 0 0 15 50F29FDC 00000000 ~~
+Li df12(3.0)-36dp-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-36DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-36dp-0.5v"
+DS 5.6007 1.89992 -5.6007 1.89992 0.19812 21
+DS -4.8006 1.19888 4.8006 1.19888 0.19812 21
+DS 4.8006 -1.19888 -4.8006 -1.19888 0.19812 21
+DS -5.6007 -1.89992 5.6007 -1.89992 0.19812 21
+DS 5.6007 1.89992 5.6007 -1.89992 0.19812 21
+DS -5.6007 -1.89992 -5.6007 1.89992 0.19812 21
+DS 5.60324 0.39878 4.80314 0.39878 0.19812 21
+DS 4.80314 -0.39878 5.60324 -0.39878 0.19812 21
+DS -4.8006 -0.39878 -5.6007 -0.39878 0.19812 21
+DS -4.8006 0.39878 -5.6007 0.39878 0.19812 21
+DS 4.80314 -1.19888 4.80314 1.19888 0.19812 21
+DS -4.8006 1.19888 -4.8006 -1.19888 0.19812 21
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 5.29844 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -5.29844 -1.4986
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 11.19886 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.99948 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.99948 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-36dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-36dp-0.5v
+$MODULE df12(3.0)-36ds-0.5v
+Po 0 0 0 15 50F287BC 00000000 ~~
+Li df12(3.0)-36ds-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-36DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-36ds-0.5v"
+DS -4.8006 0.70104 4.8006 0.70104 0.19812 21
+DS -4.8006 -0.70104 4.8006 -0.70104 0.19812 21
+DS -4.8006 -1.19888 4.8006 -1.19888 0.19812 21
+DS -4.8006 1.19888 4.8006 1.19888 0.19812 21
+DS -5.6007 1.80086 5.6007 1.80086 0.19812 21
+DS -5.6007 -1.80086 5.6007 -1.80086 0.19812 21
+DS 5.6007 0.39878 4.8006 0.39878 0.19812 21
+DS 4.8006 -0.39878 5.6007 -0.39878 0.19812 21
+DS -4.8006 -0.39878 -5.6007 -0.39878 0.19812 21
+DS -4.8006 0.39878 -5.6007 0.39878 0.19812 21
+DS 4.8006 -1.19888 4.8006 1.19888 0.19812 21
+DS -4.8006 1.19888 -4.8006 -1.19888 0.19812 21
+DS 5.59816 -1.80086 5.59816 1.80086 0.19812 21
+DS -5.6007 1.80086 -5.6007 -1.80086 0.19812 21
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 11.0998 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -5.29844 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 5.29844 -1.4986
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.94868 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.94868 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-36ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-36ds-0.5v
+$MODULE df12(3.0)-40dp-0.5v
+Po 0 0 0 15 50F29DF3 00000000 ~~
+Li df12(3.0)-40dp-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-40DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-40dp-0.5v"
+DS -6.10108 1.89992 6.10108 1.89992 0.19812 21
+DS 5.30098 1.19888 -5.30098 1.19888 0.19812 21
+DS -5.30098 -1.19888 5.30098 -1.19888 0.19812 21
+DS 6.10108 -1.89992 -6.10108 -1.89992 0.19812 21
+DS 6.10108 1.89992 6.10108 -1.89992 0.19812 21
+DS -6.10108 -1.89992 -6.10108 1.89992 0.19812 21
+DS 6.10362 0.39878 5.30352 0.39878 0.19812 21
+DS 5.30352 -0.39878 6.10362 -0.39878 0.19812 21
+DS -5.30098 -0.39878 -6.10108 -0.39878 0.19812 21
+DS -5.30098 0.39878 -6.10108 0.39878 0.19812 21
+DS 5.30352 -1.19888 5.30352 1.19888 0.19812 21
+DS -5.30098 1.19888 -5.30098 -1.19888 0.19812 21
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 5.79882 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -5.79882 -1.4986
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 12.19962 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.49986 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.49986 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-40dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-40dp-0.5v
+$MODULE df12(3.0)-40ds-0.5v
+Po 0 0 0 15 50F287E8 00000000 ~~
+Li df12(3.0)-40ds-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-40DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-40ds-0.5v"
+DS -6.10108 -1.80086 6.10108 -1.80086 0.19812 21
+DS 5.30098 -1.19888 -5.30098 -1.19888 0.19812 21
+DS -5.30098 -0.70104 5.30098 -0.70104 0.19812 21
+DS 5.30098 0.70104 -5.30098 0.70104 0.19812 21
+DS -5.30098 1.19888 5.30098 1.19888 0.19812 21
+DS 6.10108 1.80086 -6.10108 1.80086 0.19812 21
+DS 6.10108 0.39878 5.30098 0.39878 0.19812 21
+DS 5.30098 -0.39878 6.10108 -0.39878 0.19812 21
+DS -5.30098 -0.39878 -6.10108 -0.39878 0.19812 21
+DS -5.30098 0.39878 -6.10108 0.39878 0.19812 21
+DS 5.30098 -1.19888 5.30098 1.19888 0.19812 21
+DS -5.30098 1.19888 -5.30098 -1.19888 0.19812 21
+DS 6.09854 -1.80086 6.09854 1.80086 0.19812 21
+DS -6.10108 1.80086 -6.10108 -1.80086 0.19812 21
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 12.09802 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -5.79882 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 5.79882 -1.4986
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.44906 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.44906 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-40ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-40ds-0.5v
+$MODULE df12(3.0)-50dp-0.5v
+Po 0 0 0 15 50F29BC2 00000000 ~~
+Li df12(3.0)-50dp-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-50DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-50dp-0.5v"
+DS -7.39902 1.89992 7.39902 1.89992 0.19812 21
+DS 6.59892 1.19888 -6.59892 1.19888 0.19812 21
+DS -6.59892 -1.19888 6.59892 -1.19888 0.19812 21
+DS 7.39902 -1.89992 -7.39902 -1.89992 0.19812 21
+DS 7.39902 1.89992 7.39902 -1.89992 0.19812 21
+DS -7.39902 -1.89992 -7.39902 1.89992 0.19812 21
+DS 7.4041 0.39878 6.604 0.39878 0.19812 21
+DS 6.60146 -0.39878 7.40156 -0.39878 0.19812 21
+DS -6.60146 -0.39878 -7.40156 -0.39878 0.19812 21
+DS -6.60146 0.39878 -7.40156 0.39878 0.19812 21
+DS 6.60146 -1.19888 6.60146 1.19888 0.19812 21
+DS -6.59892 1.19888 -6.59892 -1.19888 0.19812 21
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 7.0485 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -7.0485 -1.4986
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.99796 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.99796 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.49834 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.99872 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.4991 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.99948 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.99796 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.49834 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.99872 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4991 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.99948 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.99948 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4991 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.99872 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.49834 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.99948 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.4991 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.99872 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.49834 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.99796 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 14.69898 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.74954 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.74954 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-50dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-50dp-0.5v
+$MODULE df12(3.0)-50ds-0.5v
+Po 0 0 0 15 50F28827 00000000 ~~
+Li df12(3.0)-50ds-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-50DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-50ds-0.5v"
+DS 7.29996 -1.80086 -7.29996 -1.80086 0.19812 21
+DS -7.29996 1.80086 7.29996 1.80086 0.19812 21
+DS 6.49986 1.19888 -6.49986 1.19888 0.19812 21
+DS -6.49986 -1.19888 6.49986 -1.19888 0.19812 21
+DS -6.49986 0.70104 6.49986 0.70104 0.19812 21
+DS -6.49986 -0.70104 6.49986 -0.70104 0.19812 21
+DS 7.3025 0.39878 6.5024 0.39878 0.19812 21
+DS 6.5024 -0.39878 7.3025 -0.39878 0.19812 21
+DS -6.49986 -0.39878 -7.29996 -0.39878 0.19812 21
+DS -6.49986 0.39878 -7.29996 0.39878 0.19812 21
+DS 6.49986 -1.19888 6.49986 1.19888 0.19812 21
+DS -6.49986 1.19888 -6.49986 -1.19888 0.19812 21
+DS 7.29742 -1.80086 7.29742 1.80086 0.19812 21
+DS -7.29996 1.80086 -7.29996 -1.80086 0.19812 21
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.99948 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4991 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.9911 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.49148 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.9944 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4991 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.99948 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.9944 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.49148 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.9911 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99568 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.49098 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9939 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49428 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.9972 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.4925 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.99288 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.4958 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.99618 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.4958 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.99796 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.9972 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9939 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.00076 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.4958 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.99288 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.4925 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.9972 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49428 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9939 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.49098 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99568 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4953 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.00076 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9939 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.9972 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.99796 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.4958 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.00126 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 14.59992 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -7.0485 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 7.0485 -1.4986
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.6962 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.6962 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-50ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-50ds-0.5v
+$MODULE df12(3.0)-60dp-0.5v
+Po 0 0 0 15 50F298E1 00000000 ~~
+Li df12(3.0)-60dp-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-60DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-60dp-0.5v"
+DS -8.60044 1.89992 8.60044 1.89992 0.19812 21
+DS 7.80034 1.19888 -7.80034 1.19888 0.19812 21
+DS -7.80034 -1.19888 7.80034 -1.19888 0.19812 21
+DS 8.60044 -1.89992 -8.60044 -1.89992 0.19812 21
+DS 8.60044 1.89992 8.60044 -1.89992 0.19812 21
+DS -8.60044 -1.89992 -8.60044 1.89992 0.19812 21
+DS 8.60298 0.39878 7.80288 0.39878 0.19812 21
+DS 7.80288 -0.39878 8.60298 -0.39878 0.19812 21
+DS -7.80034 -0.39878 -8.60044 -0.39878 0.19812 21
+DS -7.80034 0.39878 -8.60044 0.39878 0.19812 21
+DS 7.80288 -1.19888 7.80288 1.19888 0.19812 21
+DS -7.80034 1.19888 -7.80034 -1.19888 0.19812 21
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 8.29818 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -8.29818 -1.4986
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74574 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.25298 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.75006 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75438 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25146 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24714 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.25044 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74574 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24612 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.24764 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74802 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74624 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24662 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.24764 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74802 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74624 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.24586 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74802 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.24764 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.74726 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24434 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "60" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "59" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "58" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.25094 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "57" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.75564 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "56" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.25272 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "55" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.75234 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "54" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.25196 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "53" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.75412 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "52" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.25374 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "51" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.75082 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.25552 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.75514 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.25222 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75184 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25146 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.74676 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24714 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.24536 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 17.19834 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.99922 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.99922 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-60dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-60dp-0.5v
+$MODULE df12(3.0)-60ds-0.5v
+Po 0 0 0 15 50F2883D 00000000 ~~
+Li df12(3.0)-60ds-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-60DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-60ds-0.5v"
+DS -8.60044 1.80086 8.60044 1.80086 0.19812 21
+DS 7.80034 1.19888 -7.80034 1.19888 0.19812 21
+DS -8.60044 -1.80086 8.60044 -1.80086 0.19812 21
+DS 7.80034 -1.19888 -7.80034 -1.19888 0.19812 21
+DS -7.80034 -0.70104 7.80034 -0.70104 0.19812 21
+DS -7.80034 0.70104 7.80034 0.70104 0.19812 21
+DS 8.60044 0.39878 7.80034 0.39878 0.19812 21
+DS 7.80034 -0.39878 8.60044 -0.39878 0.19812 21
+DS -7.80034 -0.39878 -8.60044 -0.39878 0.19812 21
+DS -7.80034 0.39878 -8.60044 0.39878 0.19812 21
+DS 7.80034 -1.19888 7.80034 1.19888 0.19812 21
+DS -7.80034 1.19888 -7.80034 -1.19888 0.19812 21
+DS -2.30124 -1.80086 2.30124 -1.80086 0.19812 21
+DS 8.5979 -1.80086 8.5979 1.80086 0.19812 21
+DS -8.60044 1.80086 -8.60044 -1.80086 0.19812 21
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2451 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74548 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74548 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2451 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74548 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2451 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "51" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "52" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "53" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "54" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "55" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "56" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2451 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "57" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74548 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "58" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "59" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "60" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 17.09928 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -8.29818 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 8.29818 -1.4986
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.94588 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.94588 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-60ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-60ds-0.5v
+$MODULE df12(3.0)-80dp-0.5v
+Po 0 0 0 15 50F29686 00000000 ~~
+Li df12(3.0)-80dp-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-80DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-80dp-0.5v"
+DS 11.0998 1.89992 11.0998 -1.89992 0.19812 21
+DS -11.0998 -1.89992 -11.0998 1.89992 0.19812 21
+DS -11.0998 -1.89992 11.0998 -1.89992 0.19812 21
+DS 11.0998 1.89992 -11.0998 1.89992 0.19812 21
+DS -10.2997 1.19888 10.2997 1.19888 0.19812 21
+DS 10.2997 -1.19888 -10.2997 -1.19888 0.19812 21
+DS 11.10234 0.39878 10.30224 0.39878 0.19812 21
+DS 10.30224 -0.39878 11.10234 -0.39878 0.19812 21
+DS -10.2997 -0.39878 -11.0998 -0.39878 0.19812 21
+DS -10.2997 0.39878 -11.0998 0.39878 0.19812 21
+DS 10.30224 -1.19888 10.30224 1.19888 0.19812 21
+DS -10.2997 1.19888 -10.2997 -1.19888 0.19812 21
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.74598 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.2456 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.74776 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.24738 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.747 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 10.79754 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -10.79754 -1.4986
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2451 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74548 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.747 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.24738 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.74776 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.2456 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.74598 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74548 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2451 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "80" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.74598 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "79" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.2456 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "78" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.74776 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "77" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.24738 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "76" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.747 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "75" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "74" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "73" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "72" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74548 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "71" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2451 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "70" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "69" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "68" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "67" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "66" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "65" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "64" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "63" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "62" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "61" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "60" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "59" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "58" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "57" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "56" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "55" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "54" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "53" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "52" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "51" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2451 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74548 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.747 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.24738 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.74776 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.2456 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.74598 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 22.1996 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -11.49858 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11.49858 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-80dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-80dp-0.5v
+$MODULE df12(3.0)-80ds-0.5v
+Po 0 0 0 15 50F28872 00000000 ~~
+Li df12(3.0)-80ds-0.5v
+Cd Hirose DF12 series connector, DF12(3.0)-80DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12(3.0)-80ds-0.5v"
+DS -11.00074 -1.80086 11.00074 -1.80086 0.19812 21
+DS 11.00074 1.80086 -11.00074 1.80086 0.19812 21
+DS -10.20064 1.19888 10.20064 1.19888 0.19812 21
+DS 10.20064 -1.19888 -10.20064 -1.19888 0.19812 21
+DS 10.20064 -0.70104 -10.20064 -0.70104 0.19812 21
+DS -10.20064 0.70104 10.20064 0.70104 0.19812 21
+DS 11.00074 0.39878 10.20064 0.39878 0.19812 21
+DS 10.20064 -0.39878 11.00074 -0.39878 0.19812 21
+DS -10.20064 -0.39878 -11.00074 -0.39878 0.19812 21
+DS -10.20064 0.39878 -11.00074 0.39878 0.19812 21
+DS 10.20064 -1.19888 10.20064 1.19888 0.19812 21
+DS -10.20064 1.19888 -10.20064 -1.19888 0.19812 21
+DS -2.30124 -1.80086 2.30124 -1.80086 0.19812 21
+DS 10.9982 -1.80086 10.9982 1.80086 0.19812 21
+DS 2.30124 1.80086 -2.30124 1.80086 0.19812 21
+DS -11.00074 1.80086 -11.00074 -1.80086 0.19812 21
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.74598 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.24814 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.74776 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.24992 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.747 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 10.79754 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -10.79754 -1.4986
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.24764 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74802 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.74954 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.24992 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.74776 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.24814 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.74598 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74802 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.24764 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.74852 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.24814 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.74776 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.24992 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.74954 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74802 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.24764 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "51" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "52" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "53" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "54" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "55" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "56" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "57" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "58" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "59" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "60" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "61" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "62" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "63" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "64" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "65" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "66" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "67" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "68" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "69" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "70" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "71" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.24764 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "72" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74802 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "73" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "74" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "75" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "76" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.74954 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "77" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.24992 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "78" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.74776 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "79" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.24814 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "80" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.74598 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "" R 22.098 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -11.44778 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11.44778 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12(3.0)-80ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12(3.0)-80ds-0.5v
+$MODULE df12a(3.0)-10ds-0.5v
+Po 0 0 0 15 50F19AC3 00000000 ~~
+Li df12a(3.0)-10ds-0.5v
+Cd Hirose DF12 series connector, DF12A(3.0)-10DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.50012 0.49784 0.49784 0 0.09906 N V 21 N "df12a(3.0)-10ds-0.5v"
+DS 2.30124 0.39878 1.50114 0.39878 0.19812 21
+DS 1.50114 -0.39878 2.30124 -0.39878 0.19812 21
+DS -1.50114 -0.39878 -2.30124 -0.39878 0.19812 21
+DS -1.50114 0.39878 -2.30124 0.39878 0.19812 21
+DS 1.50114 0.70104 -1.50114 0.70104 0.19812 21
+DS -1.50114 -0.70104 1.50114 -0.70104 0.19812 21
+DS -1.50114 -1.19888 1.50114 -1.19888 0.19812 21
+DS 1.50114 -1.19888 1.50114 1.19888 0.19812 21
+DS 1.50114 1.19888 -1.50114 1.19888 0.19812 21
+DS -1.50114 1.19888 -1.50114 -1.19888 0.19812 21
+DS -2.30124 -1.80086 2.30124 -1.80086 0.19812 21
+DS 2.2987 -1.80086 2.2987 1.80086 0.19812 21
+DS 2.30124 1.80086 -2.30124 1.80086 0.19812 21
+DS -2.30124 1.80086 -2.30124 -1.80086 0.19812 21
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99568 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99568 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99568 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4953 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99568 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 2.04978 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -2.04978 -1.4986
+$EndPAD
+$PAD
+Sh "" R 2.2987 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12a(3.0)-10ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12a(3.0)-10ds-0.5v
+$MODULE df12a(3.0)-14ds-0.5v
+Po 0 0 0 15 50F19AFC 00000000 ~~
+Li df12a(3.0)-14ds-0.5v
+Cd Hirose DF12 series connector, DF12A(3.0)-14DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12a(3.0)-14ds-0.5v"
+DS 1.99898 0.70104 -1.99898 0.70104 0.19812 21
+DS -1.99898 -0.70104 1.99898 -0.70104 0.19812 21
+DS 2.79908 1.80086 -2.79908 1.80086 0.19812 21
+DS -1.99898 1.19888 1.99898 1.19888 0.19812 21
+DS 1.99898 -1.19888 -1.99898 -1.19888 0.19812 21
+DS -2.79908 -1.80086 2.79908 -1.80086 0.19812 21
+DS 2.80162 0.39878 2.00152 0.39878 0.19812 21
+DS 2.00152 -0.39878 2.80162 -0.39878 0.19812 21
+DS -1.99898 -0.39878 -2.79908 -0.39878 0.19812 21
+DS -1.99898 0.39878 -2.79908 0.39878 0.19812 21
+DS 1.99898 -1.19888 1.99898 1.19888 0.19812 21
+DS -1.99898 1.19888 -1.99898 -1.19888 0.19812 21
+DS 2.79908 -1.80086 2.79908 1.80086 0.19812 21
+DS -2.79908 1.80086 -2.79908 -1.80086 0.19812 21
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.00076 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.50038 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 2.54762 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -2.54762 -1.4986
+$EndPAD
+$PAD
+Sh "" R 3.29946 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12a(3.0)-14ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12a(3.0)-14ds-0.5v
+$MODULE df12a(3.0)-20ds-0.5v
+Po 0 0 0 15 50F149D6 00000000 ~~
+Li df12a(3.0)-20ds-0.5v
+Cd Hirose DF12 series connector, DF12A(3.0)-20DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12a(3.0)-20ds-0.5v"
+DS -3.59918 1.80086 3.59918 1.80086 0.19812 21
+DS 2.79908 1.19888 -2.79908 1.19888 0.19812 21
+DS -2.79908 -1.19888 2.79908 -1.19888 0.19812 21
+DS 3.59918 -1.80086 -3.59918 -1.80086 0.19812 21
+DS 2.79908 -0.70104 -2.79908 -0.70104 0.19812 21
+DS -2.79908 0.70104 2.79908 0.70104 0.19812 21
+DS 3.60172 0.39878 2.80162 0.39878 0.19812 21
+DS 2.80162 -0.39878 3.60172 -0.39878 0.19812 21
+DS -2.79908 -0.39878 -3.59918 -0.39878 0.19812 21
+DS -2.79908 0.39878 -3.59918 0.39878 0.19812 21
+DS 2.80162 -1.19888 2.80162 1.19888 0.19812 21
+DS -2.79908 1.19888 -2.79908 -1.19888 0.19812 21
+DS 3.59918 -1.80086 3.59918 1.80086 0.19812 21
+DS -3.59918 1.80086 -3.59918 -1.80086 0.19812 21
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 4.79806 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -3.29946 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 3.29946 -1.4986
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12a(3.0)-20ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12a(3.0)-20ds-0.5v
+$MODULE df12a(3.0)-30ds-0.5v
+Po 0 0 0 15 50F146EE 00000000 ~~
+Li df12a(3.0)-30ds-0.5v
+Cd Hirose DF12 series connector, DF12A(3.0)-30DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12a(3.0)-30ds-0.5v"
+DS 4.8006 -1.80086 -4.8006 -1.80086 0.19812 21
+DS -4.8006 1.80086 4.8006 1.80086 0.19812 21
+DS 4.0005 1.19888 -4.0005 1.19888 0.19812 21
+DS 4.0005 -1.19888 -4.0005 -1.19888 0.19812 21
+DS 4.0005 0.70104 -4.0005 0.70104 0.19812 21
+DS -4.0005 -0.70104 4.0005 -0.70104 0.19812 21
+DS 4.8006 0.39878 4.0005 0.39878 0.19812 21
+DS 4.0005 -0.39878 4.8006 -0.39878 0.19812 21
+DS -4.0005 -0.39878 -4.8006 -0.39878 0.19812 21
+DS -4.0005 0.39878 -4.8006 0.39878 0.19812 21
+DS 3.99796 -1.19888 3.99796 1.19888 0.19812 21
+DS -4.0005 1.19888 -4.0005 -1.19888 0.19812 21
+DS 4.79552 -1.80086 4.79552 1.80086 0.19812 21
+DS -4.8006 1.80086 -4.8006 -1.80086 0.19812 21
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 7.29996 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -4.54914 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 4.54914 -1.4986
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12a(3.0)-30ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12a(3.0)-30ds-0.5v
+$MODULE df12a(3.0)-32ds-0.5v
+Po 0 0 0 15 50F1443E 00000000 ~~
+Li df12a(3.0)-32ds-0.5v
+Cd Hirose DF12 series connector, DF12A(3.0)-32DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12a(3.0)-32ds-0.5v"
+DS -5.10032 -1.80086 5.10032 -1.80086 0.19812 21
+DS 5.10032 1.80086 -5.10032 1.80086 0.19812 21
+DS 4.30022 1.19888 -4.30022 1.19888 0.19812 21
+DS -4.30022 -1.19888 4.30022 -1.19888 0.19812 21
+DS 4.30022 -0.70104 -4.30022 -0.70104 0.19812 21
+DS -4.30022 0.70104 4.30022 0.70104 0.19812 21
+DS 5.10286 0.39878 4.30276 0.39878 0.19812 21
+DS 4.30276 -0.39878 5.10286 -0.39878 0.19812 21
+DS -4.30022 -0.39878 -5.10032 -0.39878 0.19812 21
+DS -4.30022 0.39878 -5.10032 0.39878 0.19812 21
+DS 4.30276 -1.19888 4.30276 1.19888 0.19812 21
+DS -4.30022 1.19888 -4.30022 -1.19888 0.19812 21
+DS 5.10032 -1.80086 5.10032 1.80086 0.19812 21
+DS -5.10032 1.80086 -5.10032 -1.80086 0.19812 21
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.254 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.74676 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.75006 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.24536 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24612 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.2446 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74574 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.24536 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24714 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.74676 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24384 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25146 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75184 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.25476 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.25044 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.75082 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24612 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 7.8994 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -4.79806 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 4.79806 -1.4986
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12a(3.0)-32ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12a(3.0)-32ds-0.5v
+$MODULE df12a(3.0)-36ds-0.5v
+Po 0 0 0 15 50F14206 00000000 ~~
+Li df12a(3.0)-36ds-0.5v
+Cd Hirose DF12 series connector, DF12A(3.0)-36DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12a(3.0)-36ds-0.5v"
+DS -4.8006 0.70104 4.8006 0.70104 0.19812 21
+DS -4.8006 -0.70104 4.8006 -0.70104 0.19812 21
+DS -4.8006 -1.19888 4.8006 -1.19888 0.19812 21
+DS -4.8006 1.19888 4.8006 1.19888 0.19812 21
+DS -5.6007 1.80086 5.6007 1.80086 0.19812 21
+DS -5.6007 -1.80086 5.6007 -1.80086 0.19812 21
+DS 5.6007 0.39878 4.8006 0.39878 0.19812 21
+DS 4.8006 -0.39878 5.6007 -0.39878 0.19812 21
+DS -4.8006 -0.39878 -5.6007 -0.39878 0.19812 21
+DS -4.8006 0.39878 -5.6007 0.39878 0.19812 21
+DS 4.8006 -1.19888 4.8006 1.19888 0.19812 21
+DS -4.8006 1.19888 -4.8006 -1.19888 0.19812 21
+DS 5.59816 -1.80086 5.59816 1.80086 0.19812 21
+DS -5.6007 1.80086 -5.6007 -1.80086 0.19812 21
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 9.89838 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -5.29844 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 5.29844 -1.4986
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12a(3.0)-36ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12a(3.0)-36ds-0.5v
+$MODULE df12a(3.0)-40ds-0.5v
+Po 0 0 0 15 50F13D0C 00000000 ~~
+Li df12a(3.0)-40ds-0.5v
+Cd Hirose DF12 series connector, DF12A(3.0)-40DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12a(3.0)-40ds-0.5v"
+DS -6.10108 -1.80086 6.10108 -1.80086 0.19812 21
+DS 5.30098 -1.19888 -5.30098 -1.19888 0.19812 21
+DS -5.30098 -0.70104 5.30098 -0.70104 0.19812 21
+DS 5.30098 0.70104 -5.30098 0.70104 0.19812 21
+DS -5.30098 1.19888 5.30098 1.19888 0.19812 21
+DS 6.10108 1.80086 -6.10108 1.80086 0.19812 21
+DS 6.10108 0.39878 5.30098 0.39878 0.19812 21
+DS 5.30098 -0.39878 6.10108 -0.39878 0.19812 21
+DS -5.30098 -0.39878 -6.10108 -0.39878 0.19812 21
+DS -5.30098 0.39878 -6.10108 0.39878 0.19812 21
+DS 5.30098 -1.19888 5.30098 1.19888 0.19812 21
+DS -5.30098 1.19888 -5.30098 -1.19888 0.19812 21
+DS 6.09854 -1.80086 6.09854 1.80086 0.19812 21
+DS -6.10108 1.80086 -6.10108 -1.80086 0.19812 21
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 9.89838 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -5.79882 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 5.79882 -1.4986
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12a(3.0)-40ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12a(3.0)-40ds-0.5v
+$MODULE df12a(3.0)-50ds-0.5v
+Po 0 0 0 15 50F1407A 00000000 ~~
+Li df12a(3.0)-50ds-0.5v
+Cd Hirose DF12 series connector, DF12A(3.0)-50DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12a(3.0)-50ds-0.5v"
+DS 7.29996 -1.80086 -7.29996 -1.80086 0.19812 21
+DS -7.29996 1.80086 7.29996 1.80086 0.19812 21
+DS 6.49986 1.19888 -6.49986 1.19888 0.19812 21
+DS -6.49986 -1.19888 6.49986 -1.19888 0.19812 21
+DS -6.49986 0.70104 6.49986 0.70104 0.19812 21
+DS -6.49986 -0.70104 6.49986 -0.70104 0.19812 21
+DS 7.3025 0.39878 6.5024 0.39878 0.19812 21
+DS 6.5024 -0.39878 7.3025 -0.39878 0.19812 21
+DS -6.49986 -0.39878 -7.29996 -0.39878 0.19812 21
+DS -6.49986 0.39878 -7.29996 0.39878 0.19812 21
+DS 6.49986 -1.19888 6.49986 1.19888 0.19812 21
+DS -6.49986 1.19888 -6.49986 -1.19888 0.19812 21
+DS 7.29742 -1.80086 7.29742 1.80086 0.19812 21
+DS -7.29996 1.80086 -7.29996 -1.80086 0.19812 21
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.99948 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4991 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.9911 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.49148 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.9944 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4991 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.99948 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.9944 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.49148 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.9911 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99568 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.49098 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9939 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49428 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.9972 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.4925 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.99288 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.4958 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.99618 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.4958 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.99796 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.9972 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9939 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.00076 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.4958 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.99288 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.4925 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.9972 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49428 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9939 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.49098 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99568 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4953 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.00076 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9939 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.9972 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.99796 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.4958 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.00126 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 12.29868 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -7.0485 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 7.0485 -1.4986
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12a(3.0)-50ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12a(3.0)-50ds-0.5v
+$MODULE df12a(3.0)-60ds-0.5v
+Po 0 0 0 15 50F13BA3 00000000 ~~
+Li df12a(3.0)-60ds-0.5v
+Cd Hirose DF12 series connector, DF12A(3.0)-60DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12a(3.0)-60ds-0.5v"
+DS -8.60044 1.80086 8.60044 1.80086 0.19812 21
+DS 7.80034 1.19888 -7.80034 1.19888 0.19812 21
+DS -8.60044 -1.80086 8.60044 -1.80086 0.19812 21
+DS 7.80034 -1.19888 -7.80034 -1.19888 0.19812 21
+DS -7.80034 -0.70104 7.80034 -0.70104 0.19812 21
+DS -7.80034 0.70104 7.80034 0.70104 0.19812 21
+DS 8.60044 0.39878 7.80034 0.39878 0.19812 21
+DS 7.80034 -0.39878 8.60044 -0.39878 0.19812 21
+DS -7.80034 -0.39878 -8.60044 -0.39878 0.19812 21
+DS -7.80034 0.39878 -8.60044 0.39878 0.19812 21
+DS 7.80034 -1.19888 7.80034 1.19888 0.19812 21
+DS -7.80034 1.19888 -7.80034 -1.19888 0.19812 21
+DS -2.30124 -1.80086 2.30124 -1.80086 0.19812 21
+DS 8.5979 -1.80086 8.5979 1.80086 0.19812 21
+DS -8.60044 1.80086 -8.60044 -1.80086 0.19812 21
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2451 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74548 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74548 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2451 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74548 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2451 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "51" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "52" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "53" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "54" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "55" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "56" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2451 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "57" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74548 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "58" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "59" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "60" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 14.79804 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -8.29818 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 8.29818 -1.4986
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12a(3.0)-60ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12a(3.0)-60ds-0.5v
+$MODULE df12a(3.0)-80ds-0.5v
+Po 0 0 0 15 50F09A98 00000000 ~~
+Li df12a(3.0)-80ds-0.5v
+Cd Hirose DF12 series connector, DF12A(3.0)-80DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12a(3.0)-80ds-0.5v"
+DS -11.00074 -1.80086 11.00074 -1.80086 0.19812 21
+DS 11.00074 1.80086 -11.00074 1.80086 0.19812 21
+DS -10.20064 1.19888 10.20064 1.19888 0.19812 21
+DS 10.20064 -1.19888 -10.20064 -1.19888 0.19812 21
+DS 10.20064 -0.70104 -10.20064 -0.70104 0.19812 21
+DS -10.20064 0.70104 10.20064 0.70104 0.19812 21
+DS 11.00074 0.39878 10.20064 0.39878 0.19812 21
+DS 10.20064 -0.39878 11.00074 -0.39878 0.19812 21
+DS -10.20064 -0.39878 -11.00074 -0.39878 0.19812 21
+DS -10.20064 0.39878 -11.00074 0.39878 0.19812 21
+DS 10.20064 -1.19888 10.20064 1.19888 0.19812 21
+DS -10.20064 1.19888 -10.20064 -1.19888 0.19812 21
+DS -2.30124 -1.80086 2.30124 -1.80086 0.19812 21
+DS 10.9982 -1.80086 10.9982 1.80086 0.19812 21
+DS 2.30124 1.80086 -2.30124 1.80086 0.19812 21
+DS -11.00074 1.80086 -11.00074 -1.80086 0.19812 21
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.74598 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.24814 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.74776 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.24992 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.747 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 10.79754 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -10.79754 -1.4986
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.24764 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74802 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.74954 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.24992 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.74776 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.24814 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.74598 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74802 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.24764 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.74852 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.24814 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.74776 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.24992 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.74954 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74802 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.24764 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "51" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "52" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "53" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "54" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "55" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "56" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "57" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "58" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "59" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "60" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "61" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "62" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "63" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "64" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "65" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "66" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "67" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "68" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "69" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "70" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "71" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.24764 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "72" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74802 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "73" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "74" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "75" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "76" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.74954 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "77" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.24992 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "78" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.74776 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "79" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.24814 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "80" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.74598 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "" R 19.7993 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12a(3.0)-80ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12a(3.0)-80ds-0.5v
+$MODULE df12b(3.0)-10dp-0.5v
+Po 0 0 0 15 50F2AF3A 00000000 ~~
+Li df12b(3.0)-10dp-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-10DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-10dp-0.5v"
+DS 2.4003 1.89992 -2.4003 1.89992 0.19812 21
+DS -1.6002 1.19888 1.6002 1.19888 0.19812 21
+DS 1.6002 -1.19888 -1.6002 -1.19888 0.19812 21
+DS -2.4003 -1.89992 2.4003 -1.89992 0.19812 21
+DS 2.4003 1.89992 2.4003 -1.89992 0.19812 21
+DS -2.4003 -1.89992 -2.4003 1.89992 0.19812 21
+DS 2.40284 0.39878 1.60274 0.39878 0.19812 21
+DS 1.60274 -0.39878 2.40284 -0.39878 0.19812 21
+DS -1.6002 -0.39878 -2.4003 -0.39878 0.19812 21
+DS -1.6002 0.39878 -2.4003 0.39878 0.19812 21
+DS 1.60274 -1.19888 1.60274 1.19888 0.19812 21
+DS -1.6002 1.19888 -1.6002 -1.19888 0.19812 21
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 4.699 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-10dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-10dp-0.5v
+$MODULE df12b(3.0)-10ds-0.5v
+Po 0 0 0 15 50F19AD0 00000000 ~~
+Li df12b(3.0)-10ds-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-10DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-10ds-0.5v"
+DS 2.30124 0.39878 1.50114 0.39878 0.19812 21
+DS 1.50114 -0.39878 2.30124 -0.39878 0.19812 21
+DS -1.50114 -0.39878 -2.30124 -0.39878 0.19812 21
+DS -1.50114 0.39878 -2.30124 0.39878 0.19812 21
+DS 1.50114 0.70104 -1.50114 0.70104 0.19812 21
+DS -1.50114 -0.70104 1.50114 -0.70104 0.19812 21
+DS -1.50114 -1.19888 1.50114 -1.19888 0.19812 21
+DS 1.50114 -1.19888 1.50114 1.19888 0.19812 21
+DS 1.50114 1.19888 -1.50114 1.19888 0.19812 21
+DS -1.50114 1.19888 -1.50114 -1.19888 0.19812 21
+DS -2.30124 -1.80086 2.30124 -1.80086 0.19812 21
+DS 2.2987 -1.80086 2.2987 1.80086 0.19812 21
+DS 2.30124 1.80086 -2.30124 1.80086 0.19812 21
+DS -2.30124 1.80086 -2.30124 -1.80086 0.19812 21
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99568 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99568 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99568 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4953 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99568 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 4.5974 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.69748 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.69748 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-10ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-10ds-0.5v
+$MODULE df12b(3.0)-14dp-0.5v
+Po 0 0 0 15 50F2ADD6 00000000 ~~
+Li df12b(3.0)-14dp-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-14DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-14dp-0.5v"
+DS 2.90068 1.89992 -2.90068 1.89992 0.19812 21
+DS -2.10058 1.19888 2.10058 1.19888 0.19812 21
+DS 2.10058 -1.19888 -2.10058 -1.19888 0.19812 21
+DS -2.90068 -1.89992 2.90068 -1.89992 0.19812 21
+DS 2.90068 1.89992 2.90068 -1.89992 0.19812 21
+DS -2.90068 -1.89992 -2.90068 1.89992 0.19812 21
+DS 2.90322 0.39878 2.10312 0.39878 0.19812 21
+DS 2.10312 -0.39878 2.90322 -0.39878 0.19812 21
+DS -2.10058 -0.39878 -2.90068 -0.39878 0.19812 21
+DS -2.10058 0.39878 -2.90068 0.39878 0.19812 21
+DS 2.10312 -1.19888 2.10312 1.19888 0.19812 21
+DS -2.10058 1.19888 -2.10058 -1.19888 0.19812 21
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 5.69976 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-14dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-14dp-0.5v
+$MODULE df12b(3.0)-14ds-0.5v
+Po 0 0 0 15 50F28656 00000000 ~~
+Li df12b(3.0)-14ds-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-14DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-14ds-0.5v"
+DS 1.99898 0.70104 -1.99898 0.70104 0.19812 21
+DS -1.99898 -0.70104 1.99898 -0.70104 0.19812 21
+DS 2.79908 1.80086 -2.79908 1.80086 0.19812 21
+DS -1.99898 1.19888 1.99898 1.19888 0.19812 21
+DS 1.99898 -1.19888 -1.99898 -1.19888 0.19812 21
+DS -2.79908 -1.80086 2.79908 -1.80086 0.19812 21
+DS 2.80162 0.39878 2.00152 0.39878 0.19812 21
+DS 2.00152 -0.39878 2.80162 -0.39878 0.19812 21
+DS -1.99898 -0.39878 -2.79908 -0.39878 0.19812 21
+DS -1.99898 0.39878 -2.79908 0.39878 0.19812 21
+DS 1.99898 -1.19888 1.99898 1.19888 0.19812 21
+DS -1.99898 1.19888 -1.99898 -1.19888 0.19812 21
+DS 2.79908 -1.80086 2.79908 1.80086 0.19812 21
+DS -2.79908 1.80086 -2.79908 -1.80086 0.19812 21
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.00076 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.50038 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 5.59816 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.19786 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.19786 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-14ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-14ds-0.5v
+$MODULE df12b(3.0)-20dp-0.5v
+Po 0 0 0 15 50F2AC67 00000000 ~~
+Li df12b(3.0)-20dp-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-20DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-20dp-0.5v"
+DS 3.59918 1.89992 -3.59918 1.89992 0.19812 21
+DS -2.79908 1.19888 2.79908 1.19888 0.19812 21
+DS 2.79908 -1.19888 -2.79908 -1.19888 0.19812 21
+DS -3.59918 -1.89992 3.59918 -1.89992 0.19812 21
+DS 3.59918 1.89992 3.59918 -1.89992 0.19812 21
+DS -3.59918 -1.89992 -3.59918 1.89992 0.19812 21
+DS 3.60172 0.39878 2.80162 0.39878 0.19812 21
+DS 2.80162 -0.39878 3.60172 -0.39878 0.19812 21
+DS -2.79908 -0.39878 -3.59918 -0.39878 0.19812 21
+DS -2.79908 0.39878 -3.59918 0.39878 0.19812 21
+DS 2.80162 -1.19888 2.80162 1.19888 0.19812 21
+DS -2.79908 1.19888 -2.79908 -1.19888 0.19812 21
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 7.19836 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.99796 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.99796 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-20dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-20dp-0.5v
+$MODULE df12b(3.0)-20ds-0.5v
+Po 0 0 0 15 50F2867C 00000000 ~~
+Li df12b(3.0)-20ds-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-20DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-20ds-0.5v"
+DS -3.59918 1.80086 3.59918 1.80086 0.19812 21
+DS 2.79908 1.19888 -2.79908 1.19888 0.19812 21
+DS -2.79908 -1.19888 2.79908 -1.19888 0.19812 21
+DS 3.59918 -1.80086 -3.59918 -1.80086 0.19812 21
+DS 2.79908 -0.70104 -2.79908 -0.70104 0.19812 21
+DS -2.79908 0.70104 2.79908 0.70104 0.19812 21
+DS 3.60172 0.39878 2.80162 0.39878 0.19812 21
+DS 2.80162 -0.39878 3.60172 -0.39878 0.19812 21
+DS -2.79908 -0.39878 -3.59918 -0.39878 0.19812 21
+DS -2.79908 0.39878 -3.59918 0.39878 0.19812 21
+DS 2.80162 -1.19888 2.80162 1.19888 0.19812 21
+DS -2.79908 1.19888 -2.79908 -1.19888 0.19812 21
+DS 3.59918 -1.80086 3.59918 1.80086 0.19812 21
+DS -3.59918 1.80086 -3.59918 -1.80086 0.19812 21
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 7.0993 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.9497 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.9497 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-20ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-20ds-0.5v
+$MODULE df12b(3.0)-30dp-0.5v
+Po 0 0 0 15 50F2AAD6 00000000 ~~
+Li df12b(3.0)-30dp-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-30DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-30dp-0.5v"
+DS 4.89966 1.89992 -4.89966 1.89992 0.19812 21
+DS -4.09956 1.19888 4.09956 1.19888 0.19812 21
+DS 4.09956 -1.19888 -4.09956 -1.19888 0.19812 21
+DS -4.89966 -1.89992 4.89966 -1.89992 0.19812 21
+DS 4.89966 1.89992 4.89966 -1.89992 0.19812 21
+DS -4.89966 -1.89992 -4.89966 1.89992 0.19812 21
+DS 4.9022 0.39878 4.1021 0.39878 0.19812 21
+DS 4.1021 -0.39878 4.9022 -0.39878 0.19812 21
+DS -4.09956 -0.39878 -4.89966 -0.39878 0.19812 21
+DS -4.09956 0.39878 -4.89966 0.39878 0.19812 21
+DS 4.1021 -1.19888 4.1021 1.19888 0.19812 21
+DS -4.09956 1.19888 -4.09956 -1.19888 0.19812 21
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 9.69772 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.24764 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.24764 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-30dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-30dp-0.5v
+$MODULE df12b(3.0)-30ds-0.5v
+Po 0 0 0 15 50F28759 00000000 ~~
+Li df12b(3.0)-30ds-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-30DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-30ds-0.5v"
+DS 4.8006 -1.80086 -4.8006 -1.80086 0.19812 21
+DS -4.8006 1.80086 4.8006 1.80086 0.19812 21
+DS 4.0005 1.19888 -4.0005 1.19888 0.19812 21
+DS 4.0005 -1.19888 -4.0005 -1.19888 0.19812 21
+DS 4.0005 0.70104 -4.0005 0.70104 0.19812 21
+DS -4.0005 -0.70104 4.0005 -0.70104 0.19812 21
+DS 4.8006 0.39878 4.0005 0.39878 0.19812 21
+DS 4.0005 -0.39878 4.8006 -0.39878 0.19812 21
+DS -4.0005 -0.39878 -4.8006 -0.39878 0.19812 21
+DS -4.0005 0.39878 -4.8006 0.39878 0.19812 21
+DS 3.99796 -1.19888 3.99796 1.19888 0.19812 21
+DS -4.0005 1.19888 -4.0005 -1.19888 0.19812 21
+DS 4.79552 -1.80086 4.79552 1.80086 0.19812 21
+DS -4.8006 1.80086 -4.8006 -1.80086 0.19812 21
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 9.59866 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.19938 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.19938 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-30ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-30ds-0.5v
+$MODULE df12b(3.0)-32dp-0.5v
+Po 0 0 0 15 50F2A771 00000000 ~~
+Li df12b(3.0)-32dp-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-32DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-32dp-0.5v"
+DS 5.10032 1.89992 -5.10032 1.89992 0.19812 21
+DS -4.30022 1.19888 4.30022 1.19888 0.19812 21
+DS 4.30022 -1.19888 -4.30022 -1.19888 0.19812 21
+DS -5.10032 -1.89992 5.10032 -1.89992 0.19812 21
+DS 5.10032 1.89992 5.10032 -1.89992 0.19812 21
+DS -5.10032 -1.89992 -5.10032 1.89992 0.19812 21
+DS 5.10286 0.39878 4.30276 0.39878 0.19812 21
+DS 4.30276 -0.39878 5.10286 -0.39878 0.19812 21
+DS -4.30022 -0.39878 -5.10032 -0.39878 0.19812 21
+DS -4.30022 0.39878 -5.10032 0.39878 0.19812 21
+DS 4.30276 -1.19888 4.30276 1.19888 0.19812 21
+DS -4.30022 1.19888 -4.30022 -1.19888 0.19812 21
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 10.1981 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4991 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.4991 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-32dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-32dp-0.5v
+$MODULE df12b(3.0)-32ds-0.5v
+Po 0 0 0 15 50F28795 00000000 ~~
+Li df12b(3.0)-32ds-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-32DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-32ds-0.5v"
+DS -5.10032 -1.80086 5.10032 -1.80086 0.19812 21
+DS 5.10032 1.80086 -5.10032 1.80086 0.19812 21
+DS 4.30022 1.19888 -4.30022 1.19888 0.19812 21
+DS -4.30022 -1.19888 4.30022 -1.19888 0.19812 21
+DS 4.30022 -0.70104 -4.30022 -0.70104 0.19812 21
+DS -4.30022 0.70104 4.30022 0.70104 0.19812 21
+DS 5.10286 0.39878 4.30276 0.39878 0.19812 21
+DS 4.30276 -0.39878 5.10286 -0.39878 0.19812 21
+DS -4.30022 -0.39878 -5.10032 -0.39878 0.19812 21
+DS -4.30022 0.39878 -5.10032 0.39878 0.19812 21
+DS 4.30276 -1.19888 4.30276 1.19888 0.19812 21
+DS -4.30022 1.19888 -4.30022 -1.19888 0.19812 21
+DS 5.10032 -1.80086 5.10032 1.80086 0.19812 21
+DS -5.10032 1.80086 -5.10032 -1.80086 0.19812 21
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.254 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.74676 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.75006 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.24536 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24612 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.2446 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74574 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.24536 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24714 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.74676 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24384 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25146 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75184 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.25476 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.25044 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.75082 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24612 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 10.09904 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4483 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.4483 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-32ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-32ds-0.5v
+$MODULE df12b(3.0)-36dp-0.5v
+Po 0 0 0 15 50F2A009 00000000 ~~
+Li df12b(3.0)-36dp-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-36DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-36dp-0.5v"
+DS 5.6007 1.89992 -5.6007 1.89992 0.19812 21
+DS -4.8006 1.19888 4.8006 1.19888 0.19812 21
+DS 4.8006 -1.19888 -4.8006 -1.19888 0.19812 21
+DS -5.6007 -1.89992 5.6007 -1.89992 0.19812 21
+DS 5.6007 1.89992 5.6007 -1.89992 0.19812 21
+DS -5.6007 -1.89992 -5.6007 1.89992 0.19812 21
+DS 5.60324 0.39878 4.80314 0.39878 0.19812 21
+DS 4.80314 -0.39878 5.60324 -0.39878 0.19812 21
+DS -4.8006 -0.39878 -5.6007 -0.39878 0.19812 21
+DS -4.8006 0.39878 -5.6007 0.39878 0.19812 21
+DS 4.80314 -1.19888 4.80314 1.19888 0.19812 21
+DS -4.8006 1.19888 -4.8006 -1.19888 0.19812 21
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 11.19886 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.99948 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.99948 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-36dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-36dp-0.5v
+$MODULE df12b(3.0)-36ds-0.5v
+Po 0 0 0 15 50F287A9 00000000 ~~
+Li df12b(3.0)-36ds-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-36DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-36ds-0.5v"
+DS -4.8006 0.70104 4.8006 0.70104 0.19812 21
+DS -4.8006 -0.70104 4.8006 -0.70104 0.19812 21
+DS -4.8006 -1.19888 4.8006 -1.19888 0.19812 21
+DS -4.8006 1.19888 4.8006 1.19888 0.19812 21
+DS -5.6007 1.80086 5.6007 1.80086 0.19812 21
+DS -5.6007 -1.80086 5.6007 -1.80086 0.19812 21
+DS 5.6007 0.39878 4.8006 0.39878 0.19812 21
+DS 4.8006 -0.39878 5.6007 -0.39878 0.19812 21
+DS -4.8006 -0.39878 -5.6007 -0.39878 0.19812 21
+DS -4.8006 0.39878 -5.6007 0.39878 0.19812 21
+DS 4.8006 -1.19888 4.8006 1.19888 0.19812 21
+DS -4.8006 1.19888 -4.8006 -1.19888 0.19812 21
+DS 5.59816 -1.80086 5.59816 1.80086 0.19812 21
+DS -5.6007 1.80086 -5.6007 -1.80086 0.19812 21
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 11.0998 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.94868 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.94868 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-36ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-36ds-0.5v
+$MODULE df12b(3.0)-40dp-0.5v
+Po 0 0 0 15 50F29E19 00000000 ~~
+Li df12b(3.0)-40dp-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-40DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-40dp-0.5v"
+DS -6.10108 1.89992 6.10108 1.89992 0.19812 21
+DS 5.30098 1.19888 -5.30098 1.19888 0.19812 21
+DS -5.30098 -1.19888 5.30098 -1.19888 0.19812 21
+DS 6.10108 -1.89992 -6.10108 -1.89992 0.19812 21
+DS 6.10108 1.89992 6.10108 -1.89992 0.19812 21
+DS -6.10108 -1.89992 -6.10108 1.89992 0.19812 21
+DS 6.10362 0.39878 5.30352 0.39878 0.19812 21
+DS 5.30352 -0.39878 6.10362 -0.39878 0.19812 21
+DS -5.30098 -0.39878 -6.10108 -0.39878 0.19812 21
+DS -5.30098 0.39878 -6.10108 0.39878 0.19812 21
+DS 5.30352 -1.19888 5.30352 1.19888 0.19812 21
+DS -5.30098 1.19888 -5.30098 -1.19888 0.19812 21
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 12.19962 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.49986 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.49986 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-40dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-40dp-0.5v
+$MODULE df12b(3.0)-40ds-0.5v
+Po 0 0 0 15 50F287FC 00000000 ~~
+Li df12b(3.0)-40ds-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-40DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-40ds-0.5v"
+DS -6.10108 -1.80086 6.10108 -1.80086 0.19812 21
+DS 5.30098 -1.19888 -5.30098 -1.19888 0.19812 21
+DS -5.30098 -0.70104 5.30098 -0.70104 0.19812 21
+DS 5.30098 0.70104 -5.30098 0.70104 0.19812 21
+DS -5.30098 1.19888 5.30098 1.19888 0.19812 21
+DS 6.10108 1.80086 -6.10108 1.80086 0.19812 21
+DS 6.10108 0.39878 5.30098 0.39878 0.19812 21
+DS 5.30098 -0.39878 6.10108 -0.39878 0.19812 21
+DS -5.30098 -0.39878 -6.10108 -0.39878 0.19812 21
+DS -5.30098 0.39878 -6.10108 0.39878 0.19812 21
+DS 5.30098 -1.19888 5.30098 1.19888 0.19812 21
+DS -5.30098 1.19888 -5.30098 -1.19888 0.19812 21
+DS 6.09854 -1.80086 6.09854 1.80086 0.19812 21
+DS -6.10108 1.80086 -6.10108 -1.80086 0.19812 21
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 12.09802 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.44906 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.44906 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-40ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-40ds-0.5v
+$MODULE df12b(3.0)-50dp-0.5v
+Po 0 0 0 15 50F29BF6 00000000 ~~
+Li df12b(3.0)-50dp-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-50DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-50dp-0.5v"
+DS -7.39902 1.89992 7.39902 1.89992 0.19812 21
+DS 6.59892 1.19888 -6.59892 1.19888 0.19812 21
+DS -6.59892 -1.19888 6.59892 -1.19888 0.19812 21
+DS 7.39902 -1.89992 -7.39902 -1.89992 0.19812 21
+DS 7.39902 1.89992 7.39902 -1.89992 0.19812 21
+DS -7.39902 -1.89992 -7.39902 1.89992 0.19812 21
+DS 7.4041 0.39878 6.604 0.39878 0.19812 21
+DS 6.60146 -0.39878 7.40156 -0.39878 0.19812 21
+DS -6.60146 -0.39878 -7.40156 -0.39878 0.19812 21
+DS -6.60146 0.39878 -7.40156 0.39878 0.19812 21
+DS 6.60146 -1.19888 6.60146 1.19888 0.19812 21
+DS -6.59892 1.19888 -6.59892 -1.19888 0.19812 21
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.99796 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.99796 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.49834 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.99872 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.4991 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.99948 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.99796 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.49834 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.99872 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4991 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.99948 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.99948 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4991 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.99872 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.49834 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.99948 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.4991 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.99872 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.49834 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.99796 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 14.69898 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.74954 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.74954 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-50dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-50dp-0.5v
+$MODULE df12b(3.0)-50ds-0.5v
+Po 0 0 0 15 50F28815 00000000 ~~
+Li df12b(3.0)-50ds-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-50DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-50ds-0.5v"
+DS 7.29996 -1.80086 -7.29996 -1.80086 0.19812 21
+DS -7.29996 1.80086 7.29996 1.80086 0.19812 21
+DS 6.49986 1.19888 -6.49986 1.19888 0.19812 21
+DS -6.49986 -1.19888 6.49986 -1.19888 0.19812 21
+DS -6.49986 0.70104 6.49986 0.70104 0.19812 21
+DS -6.49986 -0.70104 6.49986 -0.70104 0.19812 21
+DS 7.3025 0.39878 6.5024 0.39878 0.19812 21
+DS 6.5024 -0.39878 7.3025 -0.39878 0.19812 21
+DS -6.49986 -0.39878 -7.29996 -0.39878 0.19812 21
+DS -6.49986 0.39878 -7.29996 0.39878 0.19812 21
+DS 6.49986 -1.19888 6.49986 1.19888 0.19812 21
+DS -6.49986 1.19888 -6.49986 -1.19888 0.19812 21
+DS 7.29742 -1.80086 7.29742 1.80086 0.19812 21
+DS -7.29996 1.80086 -7.29996 -1.80086 0.19812 21
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.99948 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4991 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.9911 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.49148 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.9944 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4991 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.99948 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.9944 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.49148 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.9911 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99568 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.49098 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9939 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49428 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.9972 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.4925 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.99288 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.4958 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.99618 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.4958 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.99796 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.9972 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9939 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.00076 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.4958 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.99288 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.4925 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.9972 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49428 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9939 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.49098 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99568 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4953 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.00076 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9939 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.9972 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.99796 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.4958 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.00126 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 14.59992 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.6962 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.6962 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-50ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-50ds-0.5v
+$MODULE df12b(3.0)-60dp-0.5v
+Po 0 0 0 15 50F29926 00000000 ~~
+Li df12b(3.0)-60dp-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-60DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-60dp-0.5v"
+DS -8.60044 1.89992 8.60044 1.89992 0.19812 21
+DS 7.80034 1.19888 -7.80034 1.19888 0.19812 21
+DS -7.80034 -1.19888 7.80034 -1.19888 0.19812 21
+DS 8.60044 -1.89992 -8.60044 -1.89992 0.19812 21
+DS 8.60044 1.89992 8.60044 -1.89992 0.19812 21
+DS -8.60044 -1.89992 -8.60044 1.89992 0.19812 21
+DS 8.60298 0.39878 7.80288 0.39878 0.19812 21
+DS 7.80288 -0.39878 8.60298 -0.39878 0.19812 21
+DS -7.80034 -0.39878 -8.60044 -0.39878 0.19812 21
+DS -7.80034 0.39878 -8.60044 0.39878 0.19812 21
+DS 7.80288 -1.19888 7.80288 1.19888 0.19812 21
+DS -7.80034 1.19888 -7.80034 -1.19888 0.19812 21
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74574 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.25298 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.75006 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75438 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25146 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24714 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.25044 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74574 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24612 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.24764 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74802 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74624 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24662 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.24764 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74802 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74624 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.24586 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74802 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.24764 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.74726 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24434 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "60" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "59" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "58" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.25094 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "57" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.75564 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "56" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.25272 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "55" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.75234 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "54" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.25196 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "53" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.75412 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "52" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.25374 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "51" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.75082 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.25552 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.75514 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.25222 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75184 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25146 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.74676 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24714 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.24536 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 17.19834 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.99922 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.99922 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-60dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-60dp-0.5v
+$MODULE df12b(3.0)-60ds-0.5v
+Po 0 0 0 15 50F28850 00000000 ~~
+Li df12b(3.0)-60ds-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-60DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-60ds-0.5v"
+DS -8.60044 1.80086 8.60044 1.80086 0.19812 21
+DS 7.80034 1.19888 -7.80034 1.19888 0.19812 21
+DS -8.60044 -1.80086 8.60044 -1.80086 0.19812 21
+DS 7.80034 -1.19888 -7.80034 -1.19888 0.19812 21
+DS -7.80034 -0.70104 7.80034 -0.70104 0.19812 21
+DS -7.80034 0.70104 7.80034 0.70104 0.19812 21
+DS 8.60044 0.39878 7.80034 0.39878 0.19812 21
+DS 7.80034 -0.39878 8.60044 -0.39878 0.19812 21
+DS -7.80034 -0.39878 -8.60044 -0.39878 0.19812 21
+DS -7.80034 0.39878 -8.60044 0.39878 0.19812 21
+DS 7.80034 -1.19888 7.80034 1.19888 0.19812 21
+DS -7.80034 1.19888 -7.80034 -1.19888 0.19812 21
+DS -2.30124 -1.80086 2.30124 -1.80086 0.19812 21
+DS 8.5979 -1.80086 8.5979 1.80086 0.19812 21
+DS -8.60044 1.80086 -8.60044 -1.80086 0.19812 21
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2451 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74548 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74548 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2451 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74548 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2451 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "51" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "52" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "53" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "54" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "55" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "56" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2451 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "57" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74548 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "58" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "59" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "60" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 17.09928 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.94588 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.94588 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-60ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-60ds-0.5v
+$MODULE df12b(3.0)-80dp-0.5v
+Po 0 0 0 15 50F296BE 00000000 ~~
+Li df12b(3.0)-80dp-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-80DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-80dp-0.5v"
+DS 11.0998 1.89992 11.0998 -1.89992 0.19812 21
+DS -11.0998 -1.89992 -11.0998 1.89992 0.19812 21
+DS -11.0998 -1.89992 11.0998 -1.89992 0.19812 21
+DS 11.0998 1.89992 -11.0998 1.89992 0.19812 21
+DS -10.2997 1.19888 10.2997 1.19888 0.19812 21
+DS 10.2997 -1.19888 -10.2997 -1.19888 0.19812 21
+DS 11.10234 0.39878 10.30224 0.39878 0.19812 21
+DS 10.30224 -0.39878 11.10234 -0.39878 0.19812 21
+DS -10.2997 -0.39878 -11.0998 -0.39878 0.19812 21
+DS -10.2997 0.39878 -11.0998 0.39878 0.19812 21
+DS 10.30224 -1.19888 10.30224 1.19888 0.19812 21
+DS -10.2997 1.19888 -10.2997 -1.19888 0.19812 21
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.74598 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.2456 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.74776 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.24738 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.747 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2451 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74548 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.747 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.24738 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.74776 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.2456 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.74598 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74548 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2451 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "80" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.74598 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "79" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.2456 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "78" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.74776 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "77" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.24738 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "76" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.747 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "75" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "74" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "73" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "72" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74548 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "71" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2451 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "70" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "69" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "68" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "67" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "66" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "65" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "64" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "63" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "62" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "61" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "60" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "59" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "58" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "57" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "56" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "55" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "54" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "53" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "52" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "51" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2451 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74548 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.747 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.24738 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.74776 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.2456 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.74598 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 22.1996 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -11.49858 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11.49858 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-80dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-80dp-0.5v
+$MODULE df12b(3.0)-80ds-0.5v
+Po 0 0 0 15 50F2888C 00000000 ~~
+Li df12b(3.0)-80ds-0.5v
+Cd Hirose DF12 series connector, DF12B(3.0)-80DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12b(3.0)-80ds-0.5v"
+DS -11.00074 -1.80086 11.00074 -1.80086 0.19812 21
+DS 11.00074 1.80086 -11.00074 1.80086 0.19812 21
+DS -10.20064 1.19888 10.20064 1.19888 0.19812 21
+DS 10.20064 -1.19888 -10.20064 -1.19888 0.19812 21
+DS 10.20064 -0.70104 -10.20064 -0.70104 0.19812 21
+DS -10.20064 0.70104 10.20064 0.70104 0.19812 21
+DS 11.00074 0.39878 10.20064 0.39878 0.19812 21
+DS 10.20064 -0.39878 11.00074 -0.39878 0.19812 21
+DS -10.20064 -0.39878 -11.00074 -0.39878 0.19812 21
+DS -10.20064 0.39878 -11.00074 0.39878 0.19812 21
+DS 10.20064 -1.19888 10.20064 1.19888 0.19812 21
+DS -10.20064 1.19888 -10.20064 -1.19888 0.19812 21
+DS -2.30124 -1.80086 2.30124 -1.80086 0.19812 21
+DS 10.9982 -1.80086 10.9982 1.80086 0.19812 21
+DS 2.30124 1.80086 -2.30124 1.80086 0.19812 21
+DS -11.00074 1.80086 -11.00074 -1.80086 0.19812 21
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.74598 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.24814 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.74776 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.24992 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.747 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.24764 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74802 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.74954 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.24992 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.74776 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.24814 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.74598 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74802 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.24764 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.74852 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.24814 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.74776 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.24992 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.74954 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74802 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.24764 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "51" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "52" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "53" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "54" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "55" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "56" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "57" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "58" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "59" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "60" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "61" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "62" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "63" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "64" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "65" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "66" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "67" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "68" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "69" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "70" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "71" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.24764 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "72" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74802 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "73" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "74" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "75" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "76" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.74954 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "77" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.24992 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "78" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.74776 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "79" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.24814 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "80" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.74598 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "" R 22.098 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -11.44778 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$PAD
+Sh "" R 0.79756 1.79578 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11.44778 0
+.SolderMask 0.06858
+.SolderPaste -0.04826
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12b(3.0)-80ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12b(3.0)-80ds-0.5v
+$MODULE df12c(3.0)-10ds-0.5v
+Po 0 0 0 15 50F19AE0 00000000 ~~
+Li df12c(3.0)-10ds-0.5v
+Cd Hirose DF12 series connector, DF12C(3.0)-10DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12c(3.0)-10ds-0.5v"
+DS 2.30124 0.39878 1.50114 0.39878 0.19812 21
+DS 1.50114 -0.39878 2.30124 -0.39878 0.19812 21
+DS -1.50114 -0.39878 -2.30124 -0.39878 0.19812 21
+DS -1.50114 0.39878 -2.30124 0.39878 0.19812 21
+DS 1.50114 0.70104 -1.50114 0.70104 0.19812 21
+DS -1.50114 -0.70104 1.50114 -0.70104 0.19812 21
+DS -1.50114 -1.19888 1.50114 -1.19888 0.19812 21
+DS 1.50114 -1.19888 1.50114 1.19888 0.19812 21
+DS 1.50114 1.19888 -1.50114 1.19888 0.19812 21
+DS -1.50114 1.19888 -1.50114 -1.19888 0.19812 21
+DS -2.30124 -1.80086 2.30124 -1.80086 0.19812 21
+DS 2.2987 -1.80086 2.2987 1.80086 0.19812 21
+DS 2.30124 1.80086 -2.30124 1.80086 0.19812 21
+DS -2.30124 1.80086 -2.30124 -1.80086 0.19812 21
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99568 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99568 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99568 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4953 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99568 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 2.2987 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12c(3.0)-10ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12c(3.0)-10ds-0.5v
+$MODULE df12c(3.0)-14ds-0.5v
+Po 0 0 0 15 50F19AEE 00000000 ~~
+Li df12c(3.0)-14ds-0.5v
+Cd Hirose DF12 series connector, DF12C(3.0)-14DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12c(3.0)-14ds-0.5v"
+DS 1.99898 0.70104 -1.99898 0.70104 0.19812 21
+DS -1.99898 -0.70104 1.99898 -0.70104 0.19812 21
+DS 2.79908 1.80086 -2.79908 1.80086 0.19812 21
+DS -1.99898 1.19888 1.99898 1.19888 0.19812 21
+DS 1.99898 -1.19888 -1.99898 -1.19888 0.19812 21
+DS -2.79908 -1.80086 2.79908 -1.80086 0.19812 21
+DS 2.80162 0.39878 2.00152 0.39878 0.19812 21
+DS 2.00152 -0.39878 2.80162 -0.39878 0.19812 21
+DS -1.99898 -0.39878 -2.79908 -0.39878 0.19812 21
+DS -1.99898 0.39878 -2.79908 0.39878 0.19812 21
+DS 1.99898 -1.19888 1.99898 1.19888 0.19812 21
+DS -1.99898 1.19888 -1.99898 -1.19888 0.19812 21
+DS 2.79908 -1.80086 2.79908 1.80086 0.19812 21
+DS -2.79908 1.80086 -2.79908 -1.80086 0.19812 21
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.00076 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.50038 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 3.29946 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12c(3.0)-14ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12c(3.0)-14ds-0.5v
+$MODULE df12c(3.0)-20ds-0.5v
+Po 0 0 0 15 50F14A17 00000000 ~~
+Li df12c(3.0)-20ds-0.5v
+Cd Hirose DF12 series connector, DF12C(3.0)-20DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12c(3.0)-20ds-0.5v"
+DS -3.59918 1.80086 3.59918 1.80086 0.19812 21
+DS 2.79908 1.19888 -2.79908 1.19888 0.19812 21
+DS -2.79908 -1.19888 2.79908 -1.19888 0.19812 21
+DS 3.59918 -1.80086 -3.59918 -1.80086 0.19812 21
+DS 2.79908 -0.70104 -2.79908 -0.70104 0.19812 21
+DS -2.79908 0.70104 2.79908 0.70104 0.19812 21
+DS 3.60172 0.39878 2.80162 0.39878 0.19812 21
+DS 2.80162 -0.39878 3.60172 -0.39878 0.19812 21
+DS -2.79908 -0.39878 -3.59918 -0.39878 0.19812 21
+DS -2.79908 0.39878 -3.59918 0.39878 0.19812 21
+DS 2.80162 -1.19888 2.80162 1.19888 0.19812 21
+DS -2.79908 1.19888 -2.79908 -1.19888 0.19812 21
+DS 3.59918 -1.80086 3.59918 1.80086 0.19812 21
+DS -3.59918 1.80086 -3.59918 -1.80086 0.19812 21
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 4.79806 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12c(3.0)-20ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12c(3.0)-20ds-0.5v
+$MODULE df12c(3.0)-30ds-0.5v
+Po 0 0 0 15 50F147A8 00000000 ~~
+Li df12c(3.0)-30ds-0.5v
+Cd Hirose DF12 series connector, DF12C(3.0)-30DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12c(3.0)-30ds-0.5v"
+DS 4.8006 -1.80086 -4.8006 -1.80086 0.19812 21
+DS -4.8006 1.80086 4.8006 1.80086 0.19812 21
+DS 4.0005 1.19888 -4.0005 1.19888 0.19812 21
+DS 4.0005 -1.19888 -4.0005 -1.19888 0.19812 21
+DS 4.0005 0.70104 -4.0005 0.70104 0.19812 21
+DS -4.0005 -0.70104 4.0005 -0.70104 0.19812 21
+DS 4.8006 0.39878 4.0005 0.39878 0.19812 21
+DS 4.0005 -0.39878 4.8006 -0.39878 0.19812 21
+DS -4.0005 -0.39878 -4.8006 -0.39878 0.19812 21
+DS -4.0005 0.39878 -4.8006 0.39878 0.19812 21
+DS 3.99796 -1.19888 3.99796 1.19888 0.19812 21
+DS -4.0005 1.19888 -4.0005 -1.19888 0.19812 21
+DS 4.79552 -1.80086 4.79552 1.80086 0.19812 21
+DS -4.8006 1.80086 -4.8006 -1.80086 0.19812 21
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 7.29996 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12c(3.0)-30ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12c(3.0)-30ds-0.5v
+$MODULE df12c(3.0)-32ds-0.5v
+Po 0 0 0 15 50F144D2 00000000 ~~
+Li df12c(3.0)-32ds-0.5v
+Cd Hirose DF12 series connector, DF12C(3.0)-32DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12c(3.0)-32ds-0.5v"
+DS -5.10032 -1.80086 5.10032 -1.80086 0.19812 21
+DS 5.10032 1.80086 -5.10032 1.80086 0.19812 21
+DS 4.30022 1.19888 -4.30022 1.19888 0.19812 21
+DS -4.30022 -1.19888 4.30022 -1.19888 0.19812 21
+DS 4.30022 -0.70104 -4.30022 -0.70104 0.19812 21
+DS -4.30022 0.70104 4.30022 0.70104 0.19812 21
+DS 5.10286 0.39878 4.30276 0.39878 0.19812 21
+DS 4.30276 -0.39878 5.10286 -0.39878 0.19812 21
+DS -4.30022 -0.39878 -5.10032 -0.39878 0.19812 21
+DS -4.30022 0.39878 -5.10032 0.39878 0.19812 21
+DS 4.30276 -1.19888 4.30276 1.19888 0.19812 21
+DS -4.30022 1.19888 -4.30022 -1.19888 0.19812 21
+DS 5.10032 -1.80086 5.10032 1.80086 0.19812 21
+DS -5.10032 1.80086 -5.10032 -1.80086 0.19812 21
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.254 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.74676 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.75006 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.24536 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24612 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.2446 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74574 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.24536 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24714 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.74676 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24384 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25146 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75184 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.25476 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.25044 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.75082 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24612 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 7.8994 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12c(3.0)-32ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12c(3.0)-32ds-0.5v
+$MODULE df12c(3.0)-36ds-0.5v
+Po 0 0 0 15 50F14226 00000000 ~~
+Li df12c(3.0)-36ds-0.5v
+Cd Hirose DF12 series connector, DF12C(3.0)-36DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12c(3.0)-36ds-0.5v"
+DS -4.8006 0.70104 4.8006 0.70104 0.19812 21
+DS -4.8006 -0.70104 4.8006 -0.70104 0.19812 21
+DS -4.8006 -1.19888 4.8006 -1.19888 0.19812 21
+DS -4.8006 1.19888 4.8006 1.19888 0.19812 21
+DS -5.6007 1.80086 5.6007 1.80086 0.19812 21
+DS -5.6007 -1.80086 5.6007 -1.80086 0.19812 21
+DS 5.6007 0.39878 4.8006 0.39878 0.19812 21
+DS 4.8006 -0.39878 5.6007 -0.39878 0.19812 21
+DS -4.8006 -0.39878 -5.6007 -0.39878 0.19812 21
+DS -4.8006 0.39878 -5.6007 0.39878 0.19812 21
+DS 4.8006 -1.19888 4.8006 1.19888 0.19812 21
+DS -4.8006 1.19888 -4.8006 -1.19888 0.19812 21
+DS 5.59816 -1.80086 5.59816 1.80086 0.19812 21
+DS -5.6007 1.80086 -5.6007 -1.80086 0.19812 21
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 9.89838 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12c(3.0)-36ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12c(3.0)-36ds-0.5v
+$MODULE df12c(3.0)-40ds-0.5v
+Po 0 0 0 15 50F13D24 00000000 ~~
+Li df12c(3.0)-40ds-0.5v
+Cd Hirose DF12 series connector, DF12C(3.0)-40DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12c(3.0)-40ds-0.5v"
+DS -6.10108 -1.80086 6.10108 -1.80086 0.19812 21
+DS 5.30098 -1.19888 -5.30098 -1.19888 0.19812 21
+DS -5.30098 -0.70104 5.30098 -0.70104 0.19812 21
+DS 5.30098 0.70104 -5.30098 0.70104 0.19812 21
+DS -5.30098 1.19888 5.30098 1.19888 0.19812 21
+DS 6.10108 1.80086 -6.10108 1.80086 0.19812 21
+DS 6.10108 0.39878 5.30098 0.39878 0.19812 21
+DS 5.30098 -0.39878 6.10108 -0.39878 0.19812 21
+DS -5.30098 -0.39878 -6.10108 -0.39878 0.19812 21
+DS -5.30098 0.39878 -6.10108 0.39878 0.19812 21
+DS 5.30098 -1.19888 5.30098 1.19888 0.19812 21
+DS -5.30098 1.19888 -5.30098 -1.19888 0.19812 21
+DS 6.09854 -1.80086 6.09854 1.80086 0.19812 21
+DS -6.10108 1.80086 -6.10108 -1.80086 0.19812 21
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 9.89838 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12c(3.0)-40ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12c(3.0)-40ds-0.5v
+$MODULE df12c(3.0)-50ds-0.5v
+Po 0 0 0 15 50F14095 00000000 ~~
+Li df12c(3.0)-50ds-0.5v
+Cd Hirose DF12 series connector, DF12C(3.0)-50DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12c(3.0)-50ds-0.5v"
+DS 7.29996 -1.80086 -7.29996 -1.80086 0.19812 21
+DS -7.29996 1.80086 7.29996 1.80086 0.19812 21
+DS 6.49986 1.19888 -6.49986 1.19888 0.19812 21
+DS -6.49986 -1.19888 6.49986 -1.19888 0.19812 21
+DS -6.49986 0.70104 6.49986 0.70104 0.19812 21
+DS -6.49986 -0.70104 6.49986 -0.70104 0.19812 21
+DS 7.3025 0.39878 6.5024 0.39878 0.19812 21
+DS 6.5024 -0.39878 7.3025 -0.39878 0.19812 21
+DS -6.49986 -0.39878 -7.29996 -0.39878 0.19812 21
+DS -6.49986 0.39878 -7.29996 0.39878 0.19812 21
+DS 6.49986 -1.19888 6.49986 1.19888 0.19812 21
+DS -6.49986 1.19888 -6.49986 -1.19888 0.19812 21
+DS 7.29742 -1.80086 7.29742 1.80086 0.19812 21
+DS -7.29996 1.80086 -7.29996 -1.80086 0.19812 21
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.99948 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4991 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.9911 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.49148 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.9944 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4991 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.99948 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.9944 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.49148 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.9911 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99568 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.49098 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9939 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49428 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.9972 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.4925 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.99288 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.4958 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.99618 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.4958 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.99796 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.9972 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9939 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.00076 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.4958 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.99288 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.4925 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.9972 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49428 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9939 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.49098 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99568 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4953 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4953 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.00076 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9939 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.9972 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.99796 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.4958 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.00126 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 12.29868 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12c(3.0)-50ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12c(3.0)-50ds-0.5v
+$MODULE df12c(3.0)-60ds-0.5v
+Po 0 0 0 15 50F13B0C 00000000 ~~
+Li df12c(3.0)-60ds-0.5v
+Cd Hirose DF12 series connector, DF12C(3.0)-60DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12c(3.0)-60ds-0.5v"
+DS -8.60044 1.80086 8.60044 1.80086 0.19812 21
+DS 7.80034 1.19888 -7.80034 1.19888 0.19812 21
+DS -8.60044 -1.80086 8.60044 -1.80086 0.19812 21
+DS 7.80034 -1.19888 -7.80034 -1.19888 0.19812 21
+DS -7.80034 -0.70104 7.80034 -0.70104 0.19812 21
+DS -7.80034 0.70104 7.80034 0.70104 0.19812 21
+DS 8.60044 0.39878 7.80034 0.39878 0.19812 21
+DS 7.80034 -0.39878 8.60044 -0.39878 0.19812 21
+DS -7.80034 -0.39878 -8.60044 -0.39878 0.19812 21
+DS -7.80034 0.39878 -8.60044 0.39878 0.19812 21
+DS 7.80034 -1.19888 7.80034 1.19888 0.19812 21
+DS -7.80034 1.19888 -7.80034 -1.19888 0.19812 21
+DS -2.30124 -1.80086 2.30124 -1.80086 0.19812 21
+DS 8.5979 -1.80086 8.5979 1.80086 0.19812 21
+DS -8.60044 1.80086 -8.60044 -1.80086 0.19812 21
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2451 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74548 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74548 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2451 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74548 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2451 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "51" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "52" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "53" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "54" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "55" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "56" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2451 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "57" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74548 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "58" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "59" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "60" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 14.79804 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12c(3.0)-60ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12c(3.0)-60ds-0.5v
+$MODULE df12c(3.0)-80ds-0.5v
+Po 0 0 0 15 50F09AB6 00000000 ~~
+Li df12c(3.0)-80ds-0.5v
+Cd Hirose DF12 series connector, DF12C(3.0)-80DS-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12c(3.0)-80ds-0.5v"
+DS -11.00074 -1.80086 11.00074 -1.80086 0.19812 21
+DS 11.00074 1.80086 -11.00074 1.80086 0.19812 21
+DS -10.20064 1.19888 10.20064 1.19888 0.19812 21
+DS 10.20064 -1.19888 -10.20064 -1.19888 0.19812 21
+DS 10.20064 -0.70104 -10.20064 -0.70104 0.19812 21
+DS -10.20064 0.70104 10.20064 0.70104 0.19812 21
+DS 11.00074 0.39878 10.20064 0.39878 0.19812 21
+DS 10.20064 -0.39878 11.00074 -0.39878 0.19812 21
+DS -10.20064 -0.39878 -11.00074 -0.39878 0.19812 21
+DS -10.20064 0.39878 -11.00074 0.39878 0.19812 21
+DS 10.20064 -1.19888 10.20064 1.19888 0.19812 21
+DS -10.20064 1.19888 -10.20064 -1.19888 0.19812 21
+DS -2.30124 -1.80086 2.30124 -1.80086 0.19812 21
+DS 10.9982 -1.80086 10.9982 1.80086 0.19812 21
+DS 2.30124 1.80086 -2.30124 1.80086 0.19812 21
+DS -11.00074 1.80086 -11.00074 -1.80086 0.19812 21
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.74598 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.24814 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.74776 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.24992 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.747 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.24764 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74802 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.74954 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.24992 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.74776 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.24814 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.74598 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74802 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.24764 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79832
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.74852 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.24814 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.74776 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.24992 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.74954 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74802 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.24764 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "51" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "52" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "53" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "54" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "55" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "56" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "57" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "58" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "59" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "60" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "61" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "62" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "63" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "64" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "65" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "66" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "67" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "68" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "69" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "70" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "71" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.24764 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "72" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74802 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "73" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "74" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "75" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "76" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.74954 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "77" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.24992 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "78" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.74776 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "79" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.24814 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "80" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.74598 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19812
+$EndPAD
+$PAD
+Sh "" R 19.7993 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12c(3.0)-80ds-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12c(3.0)-80ds-0.5v
+$MODULE df12d(3.0)-10dp-0.5v
+Po 0 0 0 15 50F2AF5C 00000000 ~~
+Li df12d(3.0)-10dp-0.5v
+Cd Hirose DF12 series connector, DF12D(3.0)-10DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12d(3.0)-10dp-0.5v"
+DS 2.4003 1.89992 -2.4003 1.89992 0.19812 21
+DS -1.6002 1.19888 1.6002 1.19888 0.19812 21
+DS 1.6002 -1.19888 -1.6002 -1.19888 0.19812 21
+DS -2.4003 -1.89992 2.4003 -1.89992 0.19812 21
+DS 2.4003 1.89992 2.4003 -1.89992 0.19812 21
+DS -2.4003 -1.89992 -2.4003 1.89992 0.19812 21
+DS 2.40284 0.39878 1.60274 0.39878 0.19812 21
+DS 1.60274 -0.39878 2.40284 -0.39878 0.19812 21
+DS -1.6002 -0.39878 -2.4003 -0.39878 0.19812 21
+DS -1.6002 0.39878 -2.4003 0.39878 0.19812 21
+DS 1.60274 -1.19888 1.60274 1.19888 0.19812 21
+DS -1.6002 1.19888 -1.6002 -1.19888 0.19812 21
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 2.04978 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -2.04978 -1.4986
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 2.2987 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12d(3.0)-10dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12d(3.0)-10dp-0.5v
+$MODULE df12d(3.0)-14dp-0.5v
+Po 0 0 0 15 50F2ADFF 00000000 ~~
+Li df12d(3.0)-14dp-0.5v
+Cd Hirose DF12 series connector, DF12D(3.0)-14DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12d(3.0)-14dp-0.5v"
+DS 2.90068 1.89992 -2.90068 1.89992 0.19812 21
+DS -2.10058 1.19888 2.10058 1.19888 0.19812 21
+DS 2.10058 -1.19888 -2.10058 -1.19888 0.19812 21
+DS -2.90068 -1.89992 2.90068 -1.89992 0.19812 21
+DS 2.90068 1.89992 2.90068 -1.89992 0.19812 21
+DS -2.90068 -1.89992 -2.90068 1.89992 0.19812 21
+DS 2.90322 0.39878 2.10312 0.39878 0.19812 21
+DS 2.10312 -0.39878 2.90322 -0.39878 0.19812 21
+DS -2.10058 -0.39878 -2.90068 -0.39878 0.19812 21
+DS -2.10058 0.39878 -2.90068 0.39878 0.19812 21
+DS 2.10312 -1.19888 2.10312 1.19888 0.19812 21
+DS -2.10058 1.19888 -2.10058 -1.19888 0.19812 21
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 2.54762 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -2.54762 -1.4986
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 3.29946 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12d(3.0)-14dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12d(3.0)-14dp-0.5v
+$MODULE df12d(3.0)-20dp-0.5v
+Po 0 0 0 15 50F2AC8E 00000000 ~~
+Li df12d(3.0)-20dp-0.5v
+Cd Hirose DF12 series connector, DF12D(3.0)-20DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12d(3.0)-20dp-0.5v"
+DS 3.59918 1.89992 -3.59918 1.89992 0.19812 21
+DS -2.79908 1.19888 2.79908 1.19888 0.19812 21
+DS 2.79908 -1.19888 -2.79908 -1.19888 0.19812 21
+DS -3.59918 -1.89992 3.59918 -1.89992 0.19812 21
+DS 3.59918 1.89992 3.59918 -1.89992 0.19812 21
+DS -3.59918 -1.89992 -3.59918 1.89992 0.19812 21
+DS 3.60172 0.39878 2.80162 0.39878 0.19812 21
+DS 2.80162 -0.39878 3.60172 -0.39878 0.19812 21
+DS -2.79908 -0.39878 -3.59918 -0.39878 0.19812 21
+DS -2.79908 0.39878 -3.59918 0.39878 0.19812 21
+DS 2.80162 -1.19888 2.80162 1.19888 0.19812 21
+DS -2.79908 1.19888 -2.79908 -1.19888 0.19812 21
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 3.29946 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -3.29946 -1.4986
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 4.79806 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12d(3.0)-20dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12d(3.0)-20dp-0.5v
+$MODULE df12d(3.0)-30dp-0.5v
+Po 0 0 0 15 50F2AB00 00000000 ~~
+Li df12d(3.0)-30dp-0.5v
+Cd Hirose DF12 series connector, DF12D(3.0)-30DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12d(3.0)-30dp-0.5v"
+DS 4.89966 1.89992 -4.89966 1.89992 0.19812 21
+DS -4.09956 1.19888 4.09956 1.19888 0.19812 21
+DS 4.09956 -1.19888 -4.09956 -1.19888 0.19812 21
+DS -4.89966 -1.89992 4.89966 -1.89992 0.19812 21
+DS 4.89966 1.89992 4.89966 -1.89992 0.19812 21
+DS -4.89966 -1.89992 -4.89966 1.89992 0.19812 21
+DS 4.9022 0.39878 4.1021 0.39878 0.19812 21
+DS 4.1021 -0.39878 4.9022 -0.39878 0.19812 21
+DS -4.09956 -0.39878 -4.89966 -0.39878 0.19812 21
+DS -4.09956 0.39878 -4.89966 0.39878 0.19812 21
+DS 4.1021 -1.19888 4.1021 1.19888 0.19812 21
+DS -4.09956 1.19888 -4.09956 -1.19888 0.19812 21
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 4.54914 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -4.54914 -1.4986
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 7.29996 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12d(3.0)-30dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12d(3.0)-30dp-0.5v
+$MODULE df12d(3.0)-32dp-0.5v
+Po 0 0 0 15 50F2A793 00000000 ~~
+Li df12d(3.0)-32dp-0.5v
+Cd Hirose DF12 series connector, DF12D(3.0)-32DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12d(3.0)-32dp-0.5v"
+DS 5.10032 1.89992 -5.10032 1.89992 0.19812 21
+DS -4.30022 1.19888 4.30022 1.19888 0.19812 21
+DS 4.30022 -1.19888 -4.30022 -1.19888 0.19812 21
+DS -5.10032 -1.89992 5.10032 -1.89992 0.19812 21
+DS 5.10032 1.89992 5.10032 -1.89992 0.19812 21
+DS -5.10032 -1.89992 -5.10032 1.89992 0.19812 21
+DS 5.10286 0.39878 4.30276 0.39878 0.19812 21
+DS 4.30276 -0.39878 5.10286 -0.39878 0.19812 21
+DS -4.30022 -0.39878 -5.10032 -0.39878 0.19812 21
+DS -4.30022 0.39878 -5.10032 0.39878 0.19812 21
+DS 4.30276 -1.19888 4.30276 1.19888 0.19812 21
+DS -4.30022 1.19888 -4.30022 -1.19888 0.19812 21
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 4.79806 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -4.79806 -1.4986
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 7.7978 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12d(3.0)-32dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12d(3.0)-32dp-0.5v
+$MODULE df12d(3.0)-36dp-0.5v
+Po 0 0 0 15 50F2A030 00000000 ~~
+Li df12d(3.0)-36dp-0.5v
+Cd Hirose DF12 series connector, DF12D(3.0)-36DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12d(3.0)-36dp-0.5v"
+DS 5.6007 1.89992 -5.6007 1.89992 0.19812 21
+DS -4.8006 1.19888 4.8006 1.19888 0.19812 21
+DS 4.8006 -1.19888 -4.8006 -1.19888 0.19812 21
+DS -5.6007 -1.89992 5.6007 -1.89992 0.19812 21
+DS 5.6007 1.89992 5.6007 -1.89992 0.19812 21
+DS -5.6007 -1.89992 -5.6007 1.89992 0.19812 21
+DS 5.60324 0.39878 4.80314 0.39878 0.19812 21
+DS 4.80314 -0.39878 5.60324 -0.39878 0.19812 21
+DS -4.8006 -0.39878 -5.6007 -0.39878 0.19812 21
+DS -4.8006 0.39878 -5.6007 0.39878 0.19812 21
+DS 4.80314 -1.19888 4.80314 1.19888 0.19812 21
+DS -4.8006 1.19888 -4.8006 -1.19888 0.19812 21
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 5.29844 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -5.29844 -1.4986
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 8.79856 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12d(3.0)-36dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12d(3.0)-36dp-0.5v
+$MODULE df12d(3.0)-40dp-0.5v
+Po 0 0 0 15 50F29E55 00000000 ~~
+Li df12d(3.0)-40dp-0.5v
+Cd Hirose DF12 series connector, DF12D(3.0)-40DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12d(3.0)-40dp-0.5v"
+DS -6.10108 1.89992 6.10108 1.89992 0.19812 21
+DS 5.30098 1.19888 -5.30098 1.19888 0.19812 21
+DS -5.30098 -1.19888 5.30098 -1.19888 0.19812 21
+DS 6.10108 -1.89992 -6.10108 -1.89992 0.19812 21
+DS 6.10108 1.89992 6.10108 -1.89992 0.19812 21
+DS -6.10108 -1.89992 -6.10108 1.89992 0.19812 21
+DS 6.10362 0.39878 5.30352 0.39878 0.19812 21
+DS 5.30352 -0.39878 6.10362 -0.39878 0.19812 21
+DS -5.30098 -0.39878 -6.10108 -0.39878 0.19812 21
+DS -5.30098 0.39878 -6.10108 0.39878 0.19812 21
+DS 5.30352 -1.19888 5.30352 1.19888 0.19812 21
+DS -5.30098 1.19888 -5.30098 -1.19888 0.19812 21
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 5.79882 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -5.79882 -1.4986
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 9.79932 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12d(3.0)-40dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12d(3.0)-40dp-0.5v
+$MODULE df12d(3.0)-50dp-0.5v
+Po 0 0 0 15 50F29C2C 00000000 ~~
+Li df12d(3.0)-50dp-0.5v
+Cd Hirose DF12 series connector, DF12D(3.0)-50DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12d(3.0)-50dp-0.5v"
+DS -7.39902 1.89992 7.39902 1.89992 0.19812 21
+DS 6.59892 1.19888 -6.59892 1.19888 0.19812 21
+DS -6.59892 -1.19888 6.59892 -1.19888 0.19812 21
+DS 7.39902 -1.89992 -7.39902 -1.89992 0.19812 21
+DS 7.39902 1.89992 7.39902 -1.89992 0.19812 21
+DS -7.39902 -1.89992 -7.39902 1.89992 0.19812 21
+DS 7.4041 0.39878 6.604 0.39878 0.19812 21
+DS 6.60146 -0.39878 7.40156 -0.39878 0.19812 21
+DS -6.60146 -0.39878 -7.40156 -0.39878 0.19812 21
+DS -6.60146 0.39878 -7.40156 0.39878 0.19812 21
+DS 6.60146 -1.19888 6.60146 1.19888 0.19812 21
+DS -6.59892 1.19888 -6.59892 -1.19888 0.19812 21
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 7.0485 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -7.0485 -1.4986
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.99796 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.99796 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.49834 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.99872 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.4991 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.99948 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.99796 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.49834 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.99872 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4991 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.99948 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.99948 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4991 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.99872 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.49834 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.99948 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.4991 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.99872 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.49834 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.99796 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 12.29868 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12d(3.0)-50dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12d(3.0)-50dp-0.5v
+$MODULE df12d(3.0)-60dp-0.5v
+Po 0 0 0 15 50F2995D 00000000 ~~
+Li df12d(3.0)-60dp-0.5v
+Cd Hirose DF12 series connector, DF12D(3.0)-60DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12d(3.0)-60dp-0.5v"
+DS -8.60044 1.89992 8.60044 1.89992 0.19812 21
+DS 7.80034 1.19888 -7.80034 1.19888 0.19812 21
+DS -7.80034 -1.19888 7.80034 -1.19888 0.19812 21
+DS 8.60044 -1.89992 -8.60044 -1.89992 0.19812 21
+DS 8.60044 1.89992 8.60044 -1.89992 0.19812 21
+DS -8.60044 -1.89992 -8.60044 1.89992 0.19812 21
+DS 8.60298 0.39878 7.80288 0.39878 0.19812 21
+DS 7.80288 -0.39878 8.60298 -0.39878 0.19812 21
+DS -7.80034 -0.39878 -8.60044 -0.39878 0.19812 21
+DS -7.80034 0.39878 -8.60044 0.39878 0.19812 21
+DS 7.80288 -1.19888 7.80288 1.19888 0.19812 21
+DS -7.80034 1.19888 -7.80034 -1.19888 0.19812 21
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 8.29818 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -8.29818 -1.4986
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74574 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.25298 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.75006 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75438 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25146 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24714 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.25044 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74574 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24612 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.24764 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74802 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74624 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24662 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.24764 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74802 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74624 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.24586 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74802 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.24764 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.74726 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24434 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "60" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "59" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "58" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.25094 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "57" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.75564 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "56" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.25272 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "55" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.75234 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "54" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.25196 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "53" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.75412 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "52" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.25374 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "51" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.75082 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.25552 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.75514 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.25222 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75184 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25146 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.74676 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24714 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.24536 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 14.79804 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12d(3.0)-60dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12d(3.0)-60dp-0.5v
+$MODULE df12d(3.0)-80dp-0.5v
+Po 0 0 0 15 50F296DE 00000000 ~~
+Li df12d(3.0)-80dp-0.5v
+Cd Hirose DF12 series connector, DF12D(3.0)-80DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12d(3.0)-80dp-0.5v"
+DS 11.0998 1.89992 11.0998 -1.89992 0.19812 21
+DS -11.0998 -1.89992 -11.0998 1.89992 0.19812 21
+DS -11.0998 -1.89992 11.0998 -1.89992 0.19812 21
+DS 11.0998 1.89992 -11.0998 1.89992 0.19812 21
+DS -10.2997 1.19888 10.2997 1.19888 0.19812 21
+DS 10.2997 -1.19888 -10.2997 -1.19888 0.19812 21
+DS 11.10234 0.39878 10.30224 0.39878 0.19812 21
+DS 10.30224 -0.39878 11.10234 -0.39878 0.19812 21
+DS -10.2997 -0.39878 -11.0998 -0.39878 0.19812 21
+DS -10.2997 0.39878 -11.0998 0.39878 0.19812 21
+DS 10.30224 -1.19888 10.30224 1.19888 0.19812 21
+DS -10.2997 1.19888 -10.2997 -1.19888 0.19812 21
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.74598 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.2456 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.74776 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.24738 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.747 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 10.79754 -1.4986
+$EndPAD
+$PAD
+Sh "" C 0.5969 0.5969 0 0 0
+Dr 0.5969 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -10.79754 -1.4986
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2451 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74548 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.747 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.24738 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.74776 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.2456 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.74598 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74548 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2451 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "80" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.74598 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "79" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.2456 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "78" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.74776 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "77" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.24738 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "76" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.747 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "75" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "74" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "73" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "72" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74548 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "71" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2451 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "70" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "69" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "68" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "67" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "66" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "65" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "64" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "63" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "62" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "61" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "60" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "59" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "58" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "57" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "56" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "55" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "54" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "53" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "52" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "51" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2451 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74548 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.747 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.24738 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.74776 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.2456 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.74598 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 19.7993 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12d(3.0)-80dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12d(3.0)-80dp-0.5v
+$MODULE df12e(3.0)-10dp-0.5v
+Po 0 0 0 15 50F2AF6D 00000000 ~~
+Li df12e(3.0)-10dp-0.5v
+Cd Hirose DF12 series connector, DF12E(3.0)-10DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12e(3.0)-10dp-0.5v"
+DS 2.4003 1.89992 -2.4003 1.89992 0.19812 21
+DS -1.6002 1.19888 1.6002 1.19888 0.19812 21
+DS 1.6002 -1.19888 -1.6002 -1.19888 0.19812 21
+DS -2.4003 -1.89992 2.4003 -1.89992 0.19812 21
+DS 2.4003 1.89992 2.4003 -1.89992 0.19812 21
+DS -2.4003 -1.89992 -2.4003 1.89992 0.19812 21
+DS 2.40284 0.39878 1.60274 0.39878 0.19812 21
+DS 1.60274 -0.39878 2.40284 -0.39878 0.19812 21
+DS -1.6002 -0.39878 -2.4003 -0.39878 0.19812 21
+DS -1.6002 0.39878 -2.4003 0.39878 0.19812 21
+DS 1.60274 -1.19888 1.60274 1.19888 0.19812 21
+DS -1.6002 1.19888 -1.6002 -1.19888 0.19812 21
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 2.2987 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12e(3.0)-10dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12e(3.0)-10dp-0.5v
+$MODULE df12e(3.0)-14dp-0.5v
+Po 0 0 0 15 50F2AE13 00000000 ~~
+Li df12e(3.0)-14dp-0.5v
+Cd Hirose DF12 series connector, DF12E(3.0)-14DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12e(3.0)-14dp-0.5v"
+DS 2.90068 1.89992 -2.90068 1.89992 0.19812 21
+DS -2.10058 1.19888 2.10058 1.19888 0.19812 21
+DS 2.10058 -1.19888 -2.10058 -1.19888 0.19812 21
+DS -2.90068 -1.89992 2.90068 -1.89992 0.19812 21
+DS 2.90068 1.89992 2.90068 -1.89992 0.19812 21
+DS -2.90068 -1.89992 -2.90068 1.89992 0.19812 21
+DS 2.90322 0.39878 2.10312 0.39878 0.19812 21
+DS 2.10312 -0.39878 2.90322 -0.39878 0.19812 21
+DS -2.10058 -0.39878 -2.90068 -0.39878 0.19812 21
+DS -2.10058 0.39878 -2.90068 0.39878 0.19812 21
+DS 2.10312 -1.19888 2.10312 1.19888 0.19812 21
+DS -2.10058 1.19888 -2.10058 -1.19888 0.19812 21
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 3.29946 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12e(3.0)-14dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12e(3.0)-14dp-0.5v
+$MODULE df12e(3.0)-20dp-0.5v
+Po 0 0 0 15 50F2AC99 00000000 ~~
+Li df12e(3.0)-20dp-0.5v
+Cd Hirose DF12 series connector, DF12E(3.0)-20DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12e(3.0)-20dp-0.5v"
+DS 3.59918 1.89992 -3.59918 1.89992 0.19812 21
+DS -2.79908 1.19888 2.79908 1.19888 0.19812 21
+DS 2.79908 -1.19888 -2.79908 -1.19888 0.19812 21
+DS -3.59918 -1.89992 3.59918 -1.89992 0.19812 21
+DS 3.59918 1.89992 3.59918 -1.89992 0.19812 21
+DS -3.59918 -1.89992 -3.59918 1.89992 0.19812 21
+DS 3.60172 0.39878 2.80162 0.39878 0.19812 21
+DS 2.80162 -0.39878 3.60172 -0.39878 0.19812 21
+DS -2.79908 -0.39878 -3.59918 -0.39878 0.19812 21
+DS -2.79908 0.39878 -3.59918 0.39878 0.19812 21
+DS 2.80162 -1.19888 2.80162 1.19888 0.19812 21
+DS -2.79908 1.19888 -2.79908 -1.19888 0.19812 21
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 4.79806 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12e(3.0)-20dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12e(3.0)-20dp-0.5v
+$MODULE df12e(3.0)-30dp-0.5v
+Po 0 0 0 15 50F2AB0E 00000000 ~~
+Li df12e(3.0)-30dp-0.5v
+Cd Hirose DF12 series connector, DF12E(3.0)-30DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12e(3.0)-30dp-0.5v"
+DS 4.89966 1.89992 -4.89966 1.89992 0.19812 21
+DS -4.09956 1.19888 4.09956 1.19888 0.19812 21
+DS 4.09956 -1.19888 -4.09956 -1.19888 0.19812 21
+DS -4.89966 -1.89992 4.89966 -1.89992 0.19812 21
+DS 4.89966 1.89992 4.89966 -1.89992 0.19812 21
+DS -4.89966 -1.89992 -4.89966 1.89992 0.19812 21
+DS 4.9022 0.39878 4.1021 0.39878 0.19812 21
+DS 4.1021 -0.39878 4.9022 -0.39878 0.19812 21
+DS -4.09956 -0.39878 -4.89966 -0.39878 0.19812 21
+DS -4.09956 0.39878 -4.89966 0.39878 0.19812 21
+DS 4.1021 -1.19888 4.1021 1.19888 0.19812 21
+DS -4.09956 1.19888 -4.09956 -1.19888 0.19812 21
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 7.29996 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12e(3.0)-30dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12e(3.0)-30dp-0.5v
+$MODULE df12e(3.0)-32dp-0.5v
+Po 0 0 0 15 50F2A7B9 00000000 ~~
+Li df12e(3.0)-32dp-0.5v
+Cd Hirose DF12 series connector, DF12E(3.0)-32DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12e(3.0)-32dp-0.5v"
+DS 5.10032 1.89992 -5.10032 1.89992 0.19812 21
+DS -4.30022 1.19888 4.30022 1.19888 0.19812 21
+DS 4.30022 -1.19888 -4.30022 -1.19888 0.19812 21
+DS -5.10032 -1.89992 5.10032 -1.89992 0.19812 21
+DS 5.10032 1.89992 5.10032 -1.89992 0.19812 21
+DS -5.10032 -1.89992 -5.10032 1.89992 0.19812 21
+DS 5.10286 0.39878 4.30276 0.39878 0.19812 21
+DS 4.30276 -0.39878 5.10286 -0.39878 0.19812 21
+DS -4.30022 -0.39878 -5.10032 -0.39878 0.19812 21
+DS -4.30022 0.39878 -5.10032 0.39878 0.19812 21
+DS 4.30276 -1.19888 4.30276 1.19888 0.19812 21
+DS -4.30022 1.19888 -4.30022 -1.19888 0.19812 21
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 7.7978 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12e(3.0)-32dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12e(3.0)-32dp-0.5v
+$MODULE df12e(3.0)-36dp-0.5v
+Po 0 0 0 15 50F2A041 00000000 ~~
+Li df12e(3.0)-36dp-0.5v
+Cd Hirose DF12 series connector, DF12E(3.0)-36DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12e(3.0)-36dp-0.5v"
+DS 5.6007 1.89992 -5.6007 1.89992 0.19812 21
+DS -4.8006 1.19888 4.8006 1.19888 0.19812 21
+DS 4.8006 -1.19888 -4.8006 -1.19888 0.19812 21
+DS -5.6007 -1.89992 5.6007 -1.89992 0.19812 21
+DS 5.6007 1.89992 5.6007 -1.89992 0.19812 21
+DS -5.6007 -1.89992 -5.6007 1.89992 0.19812 21
+DS 5.60324 0.39878 4.80314 0.39878 0.19812 21
+DS 4.80314 -0.39878 5.60324 -0.39878 0.19812 21
+DS -4.8006 -0.39878 -5.6007 -0.39878 0.19812 21
+DS -4.8006 0.39878 -5.6007 0.39878 0.19812 21
+DS 4.80314 -1.19888 4.80314 1.19888 0.19812 21
+DS -4.8006 1.19888 -4.8006 -1.19888 0.19812 21
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 8.79856 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12e(3.0)-36dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12e(3.0)-36dp-0.5v
+$MODULE df12e(3.0)-40dp-0.5v
+Po 0 0 0 15 50F29E69 00000000 ~~
+Li df12e(3.0)-40dp-0.5v
+Cd Hirose DF12 series connector, DF12E(3.0)-40DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12e(3.0)-40dp-0.5v"
+DS -6.10108 1.89992 6.10108 1.89992 0.19812 21
+DS 5.30098 1.19888 -5.30098 1.19888 0.19812 21
+DS -5.30098 -1.19888 5.30098 -1.19888 0.19812 21
+DS 6.10108 -1.89992 -6.10108 -1.89992 0.19812 21
+DS 6.10108 1.89992 6.10108 -1.89992 0.19812 21
+DS -6.10108 -1.89992 -6.10108 1.89992 0.19812 21
+DS 6.10362 0.39878 5.30352 0.39878 0.19812 21
+DS 5.30352 -0.39878 6.10362 -0.39878 0.19812 21
+DS -5.30098 -0.39878 -6.10108 -0.39878 0.19812 21
+DS -5.30098 0.39878 -6.10108 0.39878 0.19812 21
+DS 5.30352 -1.19888 5.30352 1.19888 0.19812 21
+DS -5.30098 1.19888 -5.30098 -1.19888 0.19812 21
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24892 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74752 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 9.79932 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12e(3.0)-40dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12e(3.0)-40dp-0.5v
+$MODULE df12e(3.0)-50dp-0.5v
+Po 0 0 0 15 50F29C47 00000000 ~~
+Li df12e(3.0)-50dp-0.5v
+Cd Hirose DF12 series connector, DF12E(3.0)-50DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12e(3.0)-50dp-0.5v"
+DS -7.39902 1.89992 7.39902 1.89992 0.19812 21
+DS 6.59892 1.19888 -6.59892 1.19888 0.19812 21
+DS -6.59892 -1.19888 6.59892 -1.19888 0.19812 21
+DS 7.39902 -1.89992 -7.39902 -1.89992 0.19812 21
+DS 7.39902 1.89992 7.39902 -1.89992 0.19812 21
+DS -7.39902 -1.89992 -7.39902 1.89992 0.19812 21
+DS 7.4041 0.39878 6.604 0.39878 0.19812 21
+DS 6.60146 -0.39878 7.40156 -0.39878 0.19812 21
+DS -6.60146 -0.39878 -7.40156 -0.39878 0.19812 21
+DS -6.60146 0.39878 -7.40156 0.39878 0.19812 21
+DS 6.60146 -1.19888 6.60146 1.19888 0.19812 21
+DS -6.59892 1.19888 -6.59892 -1.19888 0.19812 21
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.99796 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.49784 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.99822 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.99796 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.49834 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.99872 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.4991 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.99948 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.99796 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.49834 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.99872 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4991 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.99948 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.99948 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4991 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.99872 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.49834 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.99948 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.4991 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.99872 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.49834 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.99796 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.49758 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.99974 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.49936 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.99898 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4986 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 12.29868 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12e(3.0)-50dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12e(3.0)-50dp-0.5v
+$MODULE df12e(3.0)-60dp-0.5v
+Po 0 0 0 15 50F2996B 00000000 ~~
+Li df12e(3.0)-60dp-0.5v
+Cd Hirose DF12 series connector, DF12E(3.0)-60DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12e(3.0)-60dp-0.5v"
+DS -8.60044 1.89992 8.60044 1.89992 0.19812 21
+DS 7.80034 1.19888 -7.80034 1.19888 0.19812 21
+DS -7.80034 -1.19888 7.80034 -1.19888 0.19812 21
+DS 8.60044 -1.89992 -8.60044 -1.89992 0.19812 21
+DS 8.60044 1.89992 8.60044 -1.89992 0.19812 21
+DS -8.60044 -1.89992 -8.60044 1.89992 0.19812 21
+DS 8.60298 0.39878 7.80288 0.39878 0.19812 21
+DS 7.80288 -0.39878 8.60298 -0.39878 0.19812 21
+DS -7.80034 -0.39878 -8.60044 -0.39878 0.19812 21
+DS -7.80034 0.39878 -8.60044 0.39878 0.19812 21
+DS 7.80288 -1.19888 7.80288 1.19888 0.19812 21
+DS -7.80034 1.19888 -7.80034 -1.19888 0.19812 21
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24942 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74574 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.25298 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.75006 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75438 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25146 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24892 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24714 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74752 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.25044 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74574 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24612 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24942 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.24764 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74802 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74624 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24662 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.24764 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74802 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74624 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.24586 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74802 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.24764 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.74726 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24434 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.74904 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "60" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "59" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "58" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.25094 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "57" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.75564 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "56" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.25272 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "55" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.75234 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "54" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.25196 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "53" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.75412 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "52" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.25374 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "51" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.75082 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.25552 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.75514 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.25222 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75184 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25146 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.74676 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24714 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.24536 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 14.79804 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12e(3.0)-60dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12e(3.0)-60dp-0.5v
+$MODULE df12e(3.0)-80dp-0.5v
+Po 0 0 0 15 50F2970A 00000000 ~~
+Li df12e(3.0)-80dp-0.5v
+Cd Hirose DF12 series connector, DF12E(3.0)-80DP-0.5V
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.50012 0.49784 0.49784 0 0.09906 N V 21 N "JP***"
+T1 0 3.49758 0.4953 0.4953 0 0.09906 N V 21 N "df12e(3.0)-80dp-0.5v"
+DS 11.0998 1.89992 11.0998 -1.89992 0.19812 21
+DS -11.0998 -1.89992 -11.0998 1.89992 0.19812 21
+DS -11.0998 -1.89992 11.0998 -1.89992 0.19812 21
+DS 11.0998 1.89992 -11.0998 1.89992 0.19812 21
+DS -10.2997 1.19888 10.2997 1.19888 0.19812 21
+DS 10.2997 -1.19888 -10.2997 -1.19888 0.19812 21
+DS 11.10234 0.39878 10.30224 0.39878 0.19812 21
+DS 10.30224 -0.39878 11.10234 -0.39878 0.19812 21
+DS -10.2997 -0.39878 -11.0998 -0.39878 0.19812 21
+DS -10.2997 0.39878 -11.0998 0.39878 0.19812 21
+DS 10.30224 -1.19888 10.30224 1.19888 0.19812 21
+DS -10.2997 1.19888 -10.2997 -1.19888 0.19812 21
+$PAD
+Sh "40" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.74598 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "39" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.2456 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "38" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.74776 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "37" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.24738 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "36" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.747 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "21" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "20" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "19" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "18" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "17" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "16" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "15" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "14" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "13" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "12" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "11" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "10" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2451 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "9" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74548 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "8" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "7" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "6" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "5" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.747 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "4" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.24738 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "3" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.74776 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "2" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.2456 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "1" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.74598 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "35" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "34" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "33" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "32" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74548 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "31" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2451 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "30" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "29" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "28" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "27" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "26" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "25" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "24" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "23" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "22" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 1.79578
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "80" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.74598 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "79" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.2456 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "78" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.74776 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "77" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.24738 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "76" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.747 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "75" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "74" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "73" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "72" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.74548 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "71" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2451 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "70" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "69" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "68" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "67" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "66" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "65" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "64" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "63" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "62" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "61" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "60" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.24638 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "59" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7493 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "58" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.24968 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "57" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.74498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "56" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2479 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "55" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.74828 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "54" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.24866 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "53" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7465 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "52" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.24688 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "51" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.7498 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "50" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2451 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "49" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.74548 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "48" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.2484 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "47" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.74878 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "46" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.24916 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "45" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.747 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "44" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.24738 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "43" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.74776 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "42" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.2456 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "41" R 0.29718 1.59766 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.74598 -1.80086
+.SolderMask 0.06858
+.SolderPaste -0.04826
+.LocalClearance 0.19558
+$EndPAD
+$PAD
+Sh "" R 19.7993 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 01000000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/conn_df12/df12e(3.0)-80dp-0.5v.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE df12e(3.0)-80dp-0.5v
+$EndLIBRARY

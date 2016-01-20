@@ -1,0 +1,1385 @@
+PCBNEW-LibModule-V1  mar 05 ago 2014 17:17:54 CEST
+# encoding utf-8
+Units mm
+$INDEX
+3-way_bridge_0603
+4-way_bridge_0603
+6-way_bridge_0603
+fiducial_075_300_round
+fiducial_075_300_square
+fiducial_100_200_round
+fiducial_100_200_square
+fiducial_100_300_round
+fiducial_100_300_square
+hole_10mm
+hole_1mm
+hole_1mm5
+hole_2mm
+hole_2mm5
+hole_3mm
+hole_3mm5
+hole_4mm
+hole_4mm5
+hole_5mm
+hole_5mm5
+hole_6mm
+hole_6mm5
+hole_7mm
+hole_7mm5
+hole_8mm
+hole_8mm5
+hole_9mm
+hole_9mm5
+hs_11cw_to220
+hs_14cw_to220
+hs_5770
+hs_5771
+hs_5772
+hs_5901
+hs_5903
+pad_2mm
+pad_3mm
+testpoint_1mm
+testpoint_1mm5
+testpoint_2mm
+testpoint_2mm5
+vite_2mm5
+$EndINDEX
+$MODULE 3-way_bridge_0603
+Po 0 0 0 15 53D7F424 00000000 ~~
+Li 3-way_bridge_0603
+Cd 3-way solder bridge, 0603
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -0.9 0.20066 0.20066 0 0.04064 N V 21 N "3-way_bridge_0603"
+T1 0 0.9 0.20066 0.20066 0 0.04064 N I 21 N "R***"
+DS -2.1 -0.7 -2.1 0.7 0.127 21
+DS -2.1 -0.7 2.1 -0.7 0.127 21
+DS 2.1 -0.7 2.1 0.7 0.127 21
+DS 2.1 0.7 -2.1 0.7 0.127 21
+$PAD
+Sh "1" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4 0
+$EndPAD
+$PAD
+Sh "2" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "3" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4 0
+$EndPAD
+$SHAPE3D
+Na "walter/smd_resistors/r_0603.wrl"
+Sc 1 1 1
+Of 0.027559 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$SHAPE3D
+Na "walter/smd_resistors/r_0603.wrl"
+Sc 1 1 1
+Of -0.027559 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE 3-way_bridge_0603
+$MODULE 4-way_bridge_0603
+Po 0 0 0 15 53DE4A12 00000000 ~~
+Li 4-way_bridge_0603
+Cd 4-way solder bridge, 0603
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -1.6 0.20066 0.20066 0 0.04064 N V 21 N "4-way_bridge_0603"
+T1 0 1.6 0.20066 0.20066 0 0.04064 N I 21 N "R***"
+DS 1.4 1.4 1.4 -1.4 0.127 21
+DS -1.4 1.4 -1.4 -1.4 0.127 21
+DS 1.4 1.4 -1.4 1.4 0.127 21
+DS -1.4 -1.4 1.4 -1.4 0.127 21
+$PAD
+Sh "4" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7 0.7
+$EndPAD
+$PAD
+Sh "2" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7 0.7
+$EndPAD
+$PAD
+Sh "1" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7 -0.7
+$EndPAD
+$PAD
+Sh "3" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7 -0.7
+$EndPAD
+$SHAPE3D
+Na "walter/smd_resistors/r_0603.wrl"
+Sc 1 1 1
+Of 0 0.027559 0
+Ro 0 0 0
+$EndSHAPE3D
+$SHAPE3D
+Na "walter/smd_resistors/r_0603.wrl"
+Sc 1 1 1
+Of 0 -0.027559 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE 4-way_bridge_0603
+$MODULE 6-way_bridge_0603
+Po 0 0 0 15 53D7F59B 00000000 ~~
+Li 6-way_bridge_0603
+Cd 6-way solder bridge, 0603
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -1.6 0.20066 0.20066 0 0.04064 N V 21 N "6-way_bridge_0603"
+T1 0 1.6 0.20066 0.20066 0 0.04064 N I 21 N "R***"
+DS 2.1 1.4 2.1 -1.4 0.127 21
+DS -2.1 1.4 -2.1 -1.4 0.127 21
+DS 2.1 1.4 -2.1 1.4 0.127 21
+DS -2.1 -1.4 2.1 -1.4 0.127 21
+$PAD
+Sh "6" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4 0.7
+$EndPAD
+$PAD
+Sh "4" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0.7
+$EndPAD
+$PAD
+Sh "2" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4 0.7
+$EndPAD
+$PAD
+Sh "1" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4 -0.7
+$EndPAD
+$PAD
+Sh "3" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -0.7
+$EndPAD
+$PAD
+Sh "5" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4 -0.7
+$EndPAD
+$SHAPE3D
+Na "walter/smd_resistors/r_0603.wrl"
+Sc 1 1 1
+Of 0.027559 0.027559 0
+Ro 0 0 0
+$EndSHAPE3D
+$SHAPE3D
+Na "walter/smd_resistors/r_0603.wrl"
+Sc 1 1 1
+Of -0.027559 -0.027559 0
+Ro 0 0 0
+$EndSHAPE3D
+$SHAPE3D
+Na "walter/smd_resistors/r_0603.wrl"
+Sc 1 1 1
+Of 0.055118 0 0
+Ro 0 0 90
+$EndSHAPE3D
+$SHAPE3D
+Na "walter/smd_resistors/r_0603.wrl"
+Sc 1 1 1
+Of -0.055118 0 0
+Ro 0 0 90
+$EndSHAPE3D
+$EndMODULE 6-way_bridge_0603
+$MODULE fiducial_075_300_round
+Po 0 0 0 15 521653EC 00000000 ~~
+Li fiducial_075_300_round
+Cd fiducial mark, 0.75mm + 3mm round
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 0.127 0.127 0 0.00254 N I 21 N "fiducial_075_300_round"
+T1 0 0 0.127 0.127 0 0.00254 N I 21 N "VAL**"
+$PAD
+Sh "1" C 0.7493 0.7493 0 0 0
+Dr 0 0 0
+At SMD N 00808000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "1" C 2.99974 2.99974 0 0 0
+Dr 0 0 0
+At SMD N 00800000
+Ne 0 ""
+Po 0 0
+.SolderPaste 0.4953
+.LocalClearance 0.4953
+.ZoneConnection 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/fiducial_3mm_round.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE fiducial_075_300_round
+$MODULE fiducial_075_300_square
+Po 0 0 0 15 521653DE 00000000 ~~
+Li fiducial_075_300_square
+Cd fiducial mark, 0.75mm + 3mm square
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 0.127 0.127 0 0.00254 N I 21 N "fiducial_075_300_square"
+T1 0 0 0.127 0.127 0 0.00254 N I 21 N "VAL**"
+$PAD
+Sh "1" C 0.7493 0.7493 0 0 0
+Dr 0 0 0
+At SMD N 00808000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "1" R 2.9972 2.9972 0 0 0
+Dr 0 0 0
+At SMD N 00800000
+Ne 0 ""
+Po 0 0
+.SolderPaste 0.4953
+.LocalClearance 0.4953
+.ZoneConnection 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/fiducial_3mm_square.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE fiducial_075_300_square
+$MODULE fiducial_100_200_round
+Po 0 0 0 15 52165423 00000000 ~~
+Li fiducial_100_200_round
+Cd fiducial mark, 1mm + 2mm round
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 0.127 0.127 0 0.00254 N I 21 N "fiducial_100_200_round"
+T1 0 0 0.127 0.127 0 0.00254 N I 21 N "VAL**"
+$PAD
+Sh "1" C 0.99568 0.99568 0 0 0
+Dr 0 0 0
+At SMD N 00808000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "1" C 1.99898 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 00800000
+Ne 0 ""
+Po 0 0
+.SolderPaste 0.4953
+.LocalClearance 0.4953
+.ZoneConnection 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/fiducial_2mm_round.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE fiducial_100_200_round
+$MODULE fiducial_100_200_square
+Po 0 0 0 15 52165408 00000000 ~~
+Li fiducial_100_200_square
+Cd fiducial mark, 1mm + 2mm square
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 0.127 0.127 0 0.00254 N I 21 N "fiducial_100_200_square"
+T1 0 0 0.127 0.127 0 0.00254 N I 21 N "VAL**"
+$PAD
+Sh "1" C 0.99568 0.99568 0 0 0
+Dr 0 0 0
+At SMD N 00808000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "1" R 1.99898 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 00800000
+Ne 0 ""
+Po 0 0
+.SolderPaste 0.4953
+.LocalClearance 0.4953
+.ZoneConnection 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/fiducial_2mm_square.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE fiducial_100_200_square
+$MODULE fiducial_100_300_round
+Po 0 0 0 15 521653AD 00000000 ~~
+Li fiducial_100_300_round
+Cd fiducial mark, 1mm + 3mm round
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 0.127 0.127 0 0.00254 N I 21 N "fiducial_100_300_round"
+T1 0 0 0.127 0.127 0 0.00254 N I 21 N "VAL**"
+$PAD
+Sh "1" C 0.99568 0.99568 0 0 0
+Dr 0 0 0
+At SMD N 00808000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "1" C 2.99974 2.99974 0 0 0
+Dr 0 0 0
+At SMD N 00800000
+Ne 0 ""
+Po 0 0
+.SolderPaste 0.4953
+.LocalClearance 0.4953
+.ZoneConnection 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/fiducial_3mm_round.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE fiducial_100_300_round
+$MODULE fiducial_100_300_square
+Po 0 0 0 15 521653CA 00000000 ~~
+Li fiducial_100_300_square
+Cd fiducial mark, 1mm + 3mm square
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 0.127 0.127 0 0.00254 N I 21 N "fiducial_100_300_square"
+T1 0 0 0.127 0.127 0 0.00254 N I 21 N "VAL**"
+$PAD
+Sh "1" C 0.99822 0.99822 0 0 0
+Dr 0 0 0
+At SMD N 00808000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "1" R 2.9972 2.9972 0 0 0
+Dr 0 0 0
+At SMD N 00800000
+Ne 0 ""
+Po 0 0
+.SolderPaste 0.4953
+.LocalClearance 0.4953
+.ZoneConnection 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/fiducial_3mm_square.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE fiducial_100_300_square
+$MODULE hole_10mm
+Po 0 0 0 15 4A83D477 00000000 ~~
+Li hole_10mm
+Cd Hole 10mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -6.858 1.524 1.524 0 0.3048 N V 21 N "hole_10mm"
+T1 0 6.604 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 0 -6.096 0 6.096 0.254 21
+DS -6.096 0 6.096 0 0.254 21
+DC 0 0 5.334 0 0.254 21
+$PAD
+Sh "1" C 9.99998 9.99998 0 0 0
+Dr 9.99998 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hole.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole_10mm
+$MODULE hole_1mm
+Po 0 0 0 15 4A83D402 00000000 ~~
+Li hole_1mm
+Cd Hole 1mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.286 1.524 1.524 0 0.3048 N V 21 N "hole_1mm"
+T1 0 2.032 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 0 -1.016 0 1.016 0.254 21
+DS -1.016 0 1.016 0 0.254 21
+DC 0 0 0.762 0 0.254 21
+$PAD
+Sh "1" C 1.00076 1.00076 0 0 0
+Dr 1.00076 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hole.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole_1mm
+$MODULE hole_1mm5
+Po 0 0 0 15 4A83D426 00000000 ~~
+Li hole_1mm5
+Cd Hole 1.5mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.54 1.524 1.524 0 0.3048 N V 21 N "hole_1mm5"
+T1 0 2.286 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 0 -1.27 0 1.27 0.254 21
+DS -1.27 0 1.27 0 0.254 21
+DC 0 0 1.016 -0.127 0.254 21
+$PAD
+Sh "1" C 1.50114 1.50114 0 0 0
+Dr 1.50114 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hole.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole_1mm5
+$MODULE hole_2mm
+Po 0 0 0 15 4A83D440 00000000 ~~
+Li hole_2mm
+Cd Hole 2mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.794 1.524 1.524 0 0.3048 N V 21 N "hole_2mm"
+T1 0 2.54 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 0 -1.651 0 1.651 0.254 21
+DS -1.651 0 1.651 0 0.254 21
+DC 0 0 1.27 -0.127 0.254 21
+$PAD
+Sh "1" C 1.99898 1.99898 0 0 0
+Dr 1.99898 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hole.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole_2mm
+$MODULE hole_2mm5
+Po 0 0 0 15 4A83D453 00000000 ~~
+Li hole_2mm5
+Cd Hole 2.5mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.048 1.524 1.524 0 0.3048 N V 21 N "hole_2mm5"
+T1 0 2.794 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 0 -1.905 0 1.905 0.254 21
+DS -1.905 0 1.905 0 0.254 21
+DC 0 0 1.524 0 0.254 21
+$PAD
+Sh "1" C 2.5019 2.5019 0 0 0
+Dr 2.5019 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hole.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole_2mm5
+$MODULE hole_3mm
+Po 0 0 0 15 4A83D5D5 00000000 ~~
+Li hole_3mm
+Cd Hole 3mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.302 1.524 1.524 0 0.3048 N V 21 N "hole_3mm"
+T1 0 3.048 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 0 -2.159 0 2.159 0.254 21
+DS -2.159 0 2.159 0 0.254 21
+DC 0 0 1.778 0 0.254 21
+$PAD
+Sh "1" C 2.99974 2.99974 0 0 0
+Dr 2.99974 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hole.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole_3mm
+$MODULE hole_3mm5
+Po 0 0 0 15 4A83D5C4 00000000 ~~
+Li hole_3mm5
+Cd Hole 3.5mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.556 1.524 1.524 0 0.3048 N V 21 N "hole_3mm5"
+T1 0 3.302 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 0 -2.413 0 2.413 0.254 21
+DS -2.413 0 2.413 0 0.254 21
+DC 0 0 2.032 0 0.254 21
+$PAD
+Sh "1" C 3.50012 3.50012 0 0 0
+Dr 3.50012 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hole.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole_3mm5
+$MODULE hole_4mm
+Po 0 0 0 15 4A83D5B4 00000000 ~~
+Li hole_4mm
+Cd Hole 4mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.81 1.524 1.524 0 0.3048 N V 21 N "hole_4mm"
+T1 0 3.556 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 0 -2.667 0 2.667 0.254 21
+DS -2.667 0 2.667 0 0.254 21
+DC 0 0 2.286 0 0.254 21
+$PAD
+Sh "1" C 4.0005 4.0005 0 0 0
+Dr 4.0005 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hole.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole_4mm
+$MODULE hole_4mm5
+Po 0 0 0 15 4A83D5A0 00000000 ~~
+Li hole_4mm5
+Cd Hole 4.5mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -4.064 1.524 1.524 0 0.3048 N V 21 N "hole_4mm5"
+T1 0 3.81 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 0 -2.921 0 2.921 0.254 21
+DS -2.921 0 2.921 0 0.254 21
+DC 0 0 2.54 0 0.254 21
+$PAD
+Sh "1" C 4.50088 4.50088 0 0 0
+Dr 4.50088 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hole.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole_4mm5
+$MODULE hole_5mm
+Po 0 0 0 15 4A83D58B 00000000 ~~
+Li hole_5mm
+Cd Hole 5mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -4.318 1.524 1.524 0 0.3048 N V 21 N "hole_5mm"
+T1 0 4.064 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 0 -3.175 0 3.175 0.254 21
+DS -3.175 0 3.175 0 0.254 21
+DC 0 0 2.794 -0.254 0.254 21
+$PAD
+Sh "1" C 5.00126 5.00126 0 0 0
+Dr 5.00126 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hole.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole_5mm
+$MODULE hole_5mm5
+Po 0 0 0 15 4A83D576 00000000 ~~
+Li hole_5mm5
+Cd Hole 5.5mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -4.572 1.524 1.524 0 0.3048 N V 21 N "hole_5mm5"
+T1 0 4.318 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 0 -3.556 0 3.556 0.254 21
+DS -3.556 0 3.556 0 0.254 21
+DC 0 0 3.048 0 0.254 21
+$PAD
+Sh "1" C 5.4991 5.4991 0 0 0
+Dr 5.4991 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hole.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole_5mm5
+$MODULE hole_6mm
+Po 0 0 0 15 4A83D562 00000000 ~~
+Li hole_6mm
+Cd Hole 6mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -4.826 1.524 1.524 0 0.3048 N V 21 N "hole_6mm"
+T1 0 4.572 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 0 -3.81 0 3.81 0.254 21
+DS -3.81 0 3.81 0 0.254 21
+DC 0 0 3.302 0 0.254 21
+$PAD
+Sh "1" C 5.99948 5.99948 0 0 0
+Dr 5.99948 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hole.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole_6mm
+$MODULE hole_6mm5
+Po 0 0 0 15 4A83D54A 00000000 ~~
+Li hole_6mm5
+Cd Hole 6.5mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.08 1.524 1.524 0 0.3048 N V 21 N "hole_6mm5"
+T1 0 4.826 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 0 -4.064 0 4.064 0.254 21
+DS -4.064 0 4.064 0 0.254 21
+DC 0 0 3.556 0 0.254 21
+$PAD
+Sh "1" C 6.49986 6.49986 0 0 0
+Dr 6.49986 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hole.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole_6mm5
+$MODULE hole_7mm
+Po 0 0 0 15 4A83D532 00000000 ~~
+Li hole_7mm
+Cd Hole 7mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.334 1.524 1.524 0 0.3048 N V 21 N "hole_7mm"
+T1 0 5.08 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 0 -4.318 0 4.318 0.254 21
+DS -4.191 0 4.318 0 0.254 21
+DC 0 0 3.81 0 0.254 21
+$PAD
+Sh "1" C 7.00024 7.00024 0 0 0
+Dr 7.00024 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hole.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole_7mm
+$MODULE hole_7mm5
+Po 0 0 0 15 4A83D51E 00000000 ~~
+Li hole_7mm5
+Cd Hole 7.5mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.588 1.524 1.524 0 0.3048 N V 21 N "hole_7mm5"
+T1 0 5.334 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 0 -4.572 0 4.572 0.254 21
+DS -4.572 0 4.572 0 0.254 21
+DC 0 0 4.064 0 0.254 21
+$PAD
+Sh "1" C 7.50062 7.50062 0 0 0
+Dr 7.50062 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hole.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole_7mm5
+$MODULE hole_8mm
+Po 0 0 0 15 4A83D506 00000000 ~~
+Li hole_8mm
+Cd Hole 8mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.842 1.524 1.524 0 0.3048 N V 21 N "hole_8mm"
+T1 0 5.588 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS -4.826 0 4.826 0 0.254 21
+DS 0 -4.826 0 4.826 0.254 21
+DC 0 0 -4.318 0 0.254 21
+$PAD
+Sh "1" C 8.001 8.001 0 0 0
+Dr 8.001 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hole.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole_8mm
+$MODULE hole_8mm5
+Po 0 0 0 15 4A83D4D2 00000000 ~~
+Li hole_8mm5
+Cd Hole 8.5mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -6.096 1.524 1.524 0 0.3048 N V 21 N "hole_8mm5"
+T1 0 5.842 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS -5.207 0 5.207 0 0.254 21
+DS 0 5.207 0 -5.207 0.254 21
+DC 0 0 4.572 0 0.254 21
+$PAD
+Sh "1" C 8.49884 8.49884 0 0 0
+Dr 8.49884 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hole.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole_8mm5
+$MODULE hole_9mm
+Po 0 0 0 15 4A83D4B6 00000000 ~~
+Li hole_9mm
+Cd Hole 9mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -6.35 1.524 1.524 0 0.3048 N V 21 N "hole_9mm"
+T1 0 6.096 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS -5.461 0 5.461 0 0.254 21
+DS 0 -5.461 0 5.461 0.254 21
+DC 0 0 4.826 0 0.254 21
+$PAD
+Sh "1" C 8.99922 8.99922 0 0 0
+Dr 8.99922 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hole.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole_9mm
+$MODULE hole_9mm5
+Po 0 0 0 15 4A83D497 00000000 ~~
+Li hole_9mm5
+Cd Hole 9.5mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -6.604 1.524 1.524 0 0.3048 N V 21 N "hole_9mm5"
+T1 0 6.35 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 0 -5.715 0 5.715 0.254 21
+DS -5.715 0 5.715 0 0.254 21
+DC 0 0 5.08 0 0.254 21
+$PAD
+Sh "1" C 9.4996 9.4996 0 0 0
+Dr 9.4996 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hole.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole_9mm5
+$MODULE hs_11cw_to220
+Po 0 0 0 15 521654A5 00000000 ~~
+Li hs_11cw_to220
+Cd 11°C/W heat sink for TO220
+Sc 0
+AR hs_11cw_to220
+Op 0 0 0
+T0 0 2.286 1.524 1.524 0 0.3048 N V 21 N "hs_11cw_to220"
+T1 0 -1.778 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 17.5133 -6.4262 7.8613 -6.4262 0.3048 21
+DS -7.8867 -6.4262 -17.5387 -6.4262 0.3048 21
+DS 7.8613 -0.5842 -7.8867 -0.5842 0.3048 21
+DS -7.8867 -6.4262 -7.8867 -0.5842 0.3048 21
+DS 7.8613 -6.4389 7.8613 -0.5969 0.3048 21
+DS -7.8867 0.6858 -7.8867 6.5278 0.3048 21
+DS 7.8613 6.5278 7.8613 0.6858 0.3048 21
+DS -7.8867 0.6858 7.8613 0.6858 0.3048 21
+DS 7.8613 6.5278 17.5133 6.5278 0.3048 21
+DS -17.5387 6.5278 -7.8867 6.5278 0.3048 21
+DS 17.5133 -6.4262 17.5133 6.5278 0.3048 21
+DS -17.5387 -6.4262 -17.5387 6.5278 0.3048 21
+$PAD
+Sh "" C 4.0005 4.0005 0 0 0
+Dr 2.74828 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 0
+$EndPAD
+$PAD
+Sh "" C 4.0005 4.0005 0 0 0
+Dr 2.74828 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hs_11cw_to220.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hs_11cw_to220
+$MODULE hs_14cw_to220
+Po 0 0 0 15 521654B6 00000000 ~~
+Li hs_14cw_to220
+Cd 14°C/W heat sink for TO220
+Sc 0
+AR hs_14cw_to220
+Op 0 0 0
+T0 0 2.286 1.524 1.524 0 0.3048 N V 21 N "hs_14cw_to220"
+T1 0 -1.778 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 17.5133 -6.4262 7.8613 -6.4262 0.3048 21
+DS -7.8867 -6.4262 -17.5387 -6.4262 0.3048 21
+DS 7.8613 -0.5842 -7.8867 -0.5842 0.3048 21
+DS -7.8867 -6.4262 -7.8867 -0.5842 0.3048 21
+DS 7.8613 -6.4389 7.8613 -0.5969 0.3048 21
+DS -7.8867 0.6858 -7.8867 6.5278 0.3048 21
+DS 7.8613 6.5278 7.8613 0.6858 0.3048 21
+DS -7.8867 0.6858 7.8613 0.6858 0.3048 21
+DS 7.8613 6.5278 17.5133 6.5278 0.3048 21
+DS -17.5387 6.5278 -7.8867 6.5278 0.3048 21
+DS 17.5133 -6.4262 17.5133 6.5278 0.3048 21
+DS -17.5387 -6.4262 -17.5387 6.5278 0.3048 21
+$PAD
+Sh "" C 4.0005 4.0005 0 0 0
+Dr 2.74828 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 0
+$EndPAD
+$PAD
+Sh "" C 4.0005 4.0005 0 0 0
+Dr 2.74828 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/hs_14cw_to220.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hs_14cw_to220
+$MODULE hs_5770
+Po 0 0 0 15 52165470 00000000 ~~
+Li hs_5770
+Cd Aavid 5770 type heatsink
+Sc 0
+AR to220
+Op 0 0 0
+T0 0 6.74878 1.524 1.524 0 0.3048 N V 21 N "hs_5770"
+T1 0 -2.99974 1.524 1.524 0 0.3048 N V 21 N "VAL***"
+DS -6.74878 5.25018 -6.74878 -0.24892 0.3048 21
+DS -5.4991 0.25146 -5.4991 5.25018 0.3048 21
+DS 5.4991 5.25018 5.4991 0.25146 0.3048 21
+DS 6.74878 -0.24892 6.74878 5.25018 0.3048 21
+DS -3.2512 -1.24968 -3.2512 -1.75006 0.3048 21
+DS -3.2512 -1.75006 3.2512 -1.75006 0.3048 21
+DS 3.2512 -1.75006 3.2512 -1.24968 0.3048 21
+DS -5.4991 0.25146 -5.25018 0 0.3048 21
+DS -5.25018 0 5.25018 0 0.3048 21
+DS 5.25018 0 5.4991 0.25146 0.3048 21
+DS 5.75056 -1.24968 -5.75056 -1.24968 0.3048 21
+DS 5.75056 -1.24968 6.25094 -0.99822 0.3048 21
+DS 6.25094 -0.99822 6.49986 -0.7493 0.3048 21
+DS 6.49986 -0.7493 6.74878 -0.24892 0.3048 21
+DS -6.74878 -0.24892 -6.49986 -0.7493 0.3048 21
+DS -6.49986 -0.7493 -6.25094 -0.99822 0.3048 21
+DS -6.25094 -0.99822 -5.75056 -1.24968 0.3048 21
+DS 6.74878 5.25018 5.4991 5.25018 0.3048 21
+DS -5.4991 5.25018 -6.74878 5.25018 0.3048 21
+$PAD
+Sh "" C 2.74828 2.74828 0 0 0
+Dr 1.59766 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -0.84836
+$EndPAD
+$SHAPE3D
+Na "walter/details/hs_5770.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hs_5770
+$MODULE hs_5771
+Po 0 0 0 15 5216547E 00000000 ~~
+Li hs_5771
+Cd Aavid 5771 type heatsink
+Sc 0
+AR to220
+Op 0 0 0
+T0 0 9.75106 1.524 1.524 0 0.3048 N V 21 N "hs_5771"
+T1 0 -2.99974 1.524 1.524 0 0.3048 N V 21 N "VAL***"
+DS -5.4991 8.24738 -5.4991 0.24892 0.3048 21
+DS -6.74878 -0.25146 -6.74878 8.24738 0.3048 21
+DS 5.4991 8.24738 5.4991 0.24892 0.3048 21
+DS 6.74878 -0.25146 6.74878 8.24738 0.3048 21
+DS -3.2512 -1.25222 -3.2512 -1.7526 0.3048 21
+DS -3.2512 -1.7526 3.2512 -1.7526 0.3048 21
+DS 3.2512 -1.7526 3.2512 -1.25222 0.3048 21
+DS -5.4991 0.24892 -5.25018 -0.00254 0.3048 21
+DS -5.25018 -0.00254 5.25018 -0.00254 0.3048 21
+DS 5.25018 -0.00254 5.4991 0.24892 0.3048 21
+DS 5.75056 -1.25222 -5.75056 -1.25222 0.3048 21
+DS 5.75056 -1.25222 6.25094 -1.00076 0.3048 21
+DS 6.25094 -1.00076 6.49986 -0.75184 0.3048 21
+DS 6.49986 -0.75184 6.74878 -0.25146 0.3048 21
+DS -6.74878 -0.25146 -6.49986 -0.75184 0.3048 21
+DS -6.49986 -0.75184 -6.25094 -1.00076 0.3048 21
+DS -6.25094 -1.00076 -5.75056 -1.25222 0.3048 21
+DS 6.74878 8.24738 5.4991 8.24738 0.3048 21
+DS -5.4991 8.24738 -6.74878 8.24738 0.3048 21
+$PAD
+Sh "" C 2.74828 2.74828 0 0 0
+Dr 1.59766 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -0.84836
+$EndPAD
+$SHAPE3D
+Na "walter/details/hs_5771.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hs_5771
+$MODULE hs_5772
+Po 0 0 0 15 52165490 00000000 ~~
+Li hs_5772
+Cd Aavid 5772 type heatsink
+Sc 0
+AR to220
+Op 0 0 0
+T0 0 12.99972 1.524 1.524 0 0.3048 N V 21 N "hs_5772"
+T1 0 -2.99974 1.524 1.524 0 0.3048 N V 21 N "VAL***"
+DS -3.2512 -1.25222 -3.2512 -1.7526 0.3048 21
+DS -3.2512 -1.7526 3.2512 -1.7526 0.3048 21
+DS 3.2512 -1.7526 3.2512 -1.25222 0.3048 21
+DS -5.4991 11.49858 -5.4991 0.24892 0.3048 21
+DS -5.4991 0.24892 -5.25018 -0.00254 0.3048 21
+DS -5.25018 -0.00254 5.25018 -0.00254 0.3048 21
+DS 5.25018 -0.00254 5.4991 0.24892 0.3048 21
+DS 5.4991 0.24892 5.4991 11.49858 0.3048 21
+DS -6.74878 -0.25146 -6.74878 11.49858 0.3048 21
+DS 5.75056 -1.25222 -5.75056 -1.25222 0.3048 21
+DS 5.75056 -1.25222 6.25094 -1.00076 0.3048 21
+DS 6.25094 -1.00076 6.49986 -0.75184 0.3048 21
+DS 6.49986 -0.75184 6.74878 -0.25146 0.3048 21
+DS 6.74878 -0.25146 6.74878 11.49858 0.3048 21
+DS -6.74878 -0.25146 -6.49986 -0.75184 0.3048 21
+DS -6.49986 -0.75184 -6.25094 -1.00076 0.3048 21
+DS -6.25094 -1.00076 -5.75056 -1.25222 0.3048 21
+DS 6.74878 11.49858 5.4991 11.49858 0.3048 21
+DS -5.4991 11.49858 -6.74878 11.49858 0.3048 21
+$PAD
+Sh "" C 2.74828 2.74828 0 0 0
+Dr 1.59766 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -0.84836
+$EndPAD
+$SHAPE3D
+Na "walter/details/hs_5772.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hs_5772
+$MODULE hs_5901
+Po 0 0 0 15 52165449 00000000 ~~
+Li hs_5901
+Cd Aavid 5901 type Heatsink
+Sc 0
+AR hs_14cw_to220
+Op 0 0 0
+T0 0 -2.75082 1.524 1.524 0 0.3048 N V 21 N "hs_5901"
+T1 0 -5.00126 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 1.99898 -1.50114 1.99898 0 0.381 21
+DS -1.99898 0 -1.99898 -1.50114 0.381 21
+DS 11.24966 11.50112 10.50036 11.50112 0.381 21
+DS 10.50036 11.50112 10.50036 6.25094 0.381 21
+DS 10.50036 6.25094 11.24966 6.25094 0.381 21
+DS -11.24966 6.25094 -10.50036 6.25094 0.381 21
+DS -10.50036 6.25094 -10.50036 11.50112 0.381 21
+DS -10.50036 11.50112 -11.24966 11.50112 0.381 21
+DS 11.24966 11.99896 12.7508 11.99896 0.381 21
+DS -12.7508 11.99896 -11.24966 11.99896 0.381 21
+DS -11.24966 24.50084 -12.7508 24.50084 0.381 21
+DS 11.24966 0 -11.24966 0 0.381 21
+DS 12.7508 24.50084 12.7508 -1.50114 0.381 21
+DS 12.7508 -1.50114 -12.7508 -1.50114 0.381 21
+DS 12.7508 24.50084 11.24966 24.50084 0.381 21
+DS -12.7508 -1.50114 -12.7508 24.50084 0.381 21
+DS -11.24966 24.50084 -11.24966 0 0.381 21
+DS 11.24966 0 11.24966 24.50084 0.381 21
+$PAD
+Sh "" C 4.99618 4.99618 0 0 0
+Dr 2.9972 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.5824 8.89
+$EndPAD
+$PAD
+Sh "" C 4.99872 4.99872 0 0 0
+Dr 2.99974 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.5824 8.89
+$EndPAD
+$SHAPE3D
+Na "walter/details/hs_5901.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hs_5901
+$MODULE hs_5903
+Po 0 0 0 15 5216545F 00000000 ~~
+Li hs_5903
+Cd Aavid 5903 type Heatsink
+Sc 0
+AR hs_14cw_to220
+Op 0 0 0
+T0 0 -2.74828 1.524 1.524 0 0.3048 N V 21 N "hs_5903"
+T1 0 -5.00126 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 1.99898 -1.50114 1.99898 0 0.381 21
+DS -1.99898 0 -1.99898 -1.50114 0.381 21
+DS 11.24966 11.50112 10.50036 11.50112 0.381 21
+DS 10.50036 11.50112 10.50036 6.25094 0.381 21
+DS 10.50036 6.25094 11.24966 6.25094 0.381 21
+DS -11.24966 6.25094 -10.50036 6.25094 0.381 21
+DS -10.50036 6.25094 -10.50036 11.50112 0.381 21
+DS -10.50036 11.50112 -11.24966 11.50112 0.381 21
+DS -11.24966 24.50084 -12.7508 24.50084 0.381 21
+DS 11.24966 0 -11.24966 0 0.381 21
+DS 12.7508 24.50084 12.7508 -1.50114 0.381 21
+DS 12.7508 -1.50114 -12.7508 -1.50114 0.381 21
+DS 12.7508 24.50084 11.24966 24.50084 0.381 21
+DS -12.7508 -1.50114 -12.7508 24.50084 0.381 21
+DS -11.24966 24.50084 -11.24966 0 0.381 21
+DS 11.24966 0 11.24966 24.50084 0.381 21
+$PAD
+Sh "" C 4.99618 4.99618 0 0 0
+Dr 2.9972 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.0396 8.89
+$EndPAD
+$PAD
+Sh "" C 4.99618 4.99618 0 0 0
+Dr 2.9972 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.0396 8.89
+$EndPAD
+$SHAPE3D
+Na "walter/details/hs_5903.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hs_5903
+$MODULE pad_2mm
+Po 0 0 0 15 4AF2D3E0 00000000 ~~
+Li pad_2mm
+Cd Pad 2mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 0.127 0.127 0 0.00254 N I 21 N "pad_2mm"
+T1 0 0 0.127 0.127 0 0.00254 N I 21 N "VAL**"
+DC 0 0 1.27 -0.127 0.254 21
+$PAD
+Sh "1" C 1.99898 1.99898 0 0 0
+Dr 0.50038 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE pad_2mm
+$MODULE pad_3mm
+Po 0 0 0 15 4AF2D3CC 00000000 ~~
+Li pad_3mm
+Cd Pad 3mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 0.127 0.127 0 0.00254 N I 21 N "pad_3mm"
+T1 0 0 0.127 0.127 0 0.00254 N I 21 N "VAL**"
+DC 0 0 1.778 0 0.254 21
+$PAD
+Sh "1" C 2.99974 2.99974 0 0 0
+Dr 0.50038 0 0
+At STD N 0020FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE pad_3mm
+$MODULE testpoint_1mm
+Po 0 0 0 15 4A83D3A5 00000000 ~~
+Li testpoint_1mm
+Cd TestPoint 1mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.286 1.524 1.524 0 0.3048 N V 21 N "testpoint_1mm"
+T1 0 2.032 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DC 0 0 0.127 0 0.254 21
+DC 0 0 0.762 0 0.254 21
+$PAD
+Sh "1" C 1.00076 1.00076 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/testpoint.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE testpoint_1mm
+$MODULE testpoint_1mm5
+Po 0 0 0 15 4A83D3B7 00000000 ~~
+Li testpoint_1mm5
+Cd TestPoint 1.5mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.54 1.524 1.524 0 0.3048 N V 21 N "testpoint_1mm5"
+T1 0 2.286 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DC 0 0 0.127 0 0.254 21
+DC 0 0 0.889 0.508 0.254 21
+$PAD
+Sh "1" C 1.50114 1.50114 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/testpoint.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE testpoint_1mm5
+$MODULE testpoint_2mm
+Po 0 0 0 15 4A83D3C2 00000000 ~~
+Li testpoint_2mm
+Cd TestPoint 2mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.794 1.524 1.524 0 0.3048 N V 21 N "testpoint_2mm"
+T1 0 2.54 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DC 0 0 0.127 0 0.254 21
+DC 0 0 1.27 0.127 0.254 21
+$PAD
+Sh "1" C 1.99898 1.99898 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/testpoint.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE testpoint_2mm
+$MODULE testpoint_2mm5
+Po 0 0 0 15 4A83D3CE 00000000 ~~
+Li testpoint_2mm5
+Cd TestPoint 2.5mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.048 1.524 1.524 0 0.3048 N V 21 N "testpoint_2mm5"
+T1 0 2.794 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DC 0 0 0.127 0 0.254 21
+DC 0 0 1.524 0 0.254 21
+$PAD
+Sh "1" C 2.5019 2.5019 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/testpoint.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE testpoint_2mm5
+$MODULE vite_2mm5
+Po 0 0 0 15 50140F8B 00000000 ~~
+Li vite_2mm5
+Cd vite 2,5mm
+Sc 0
+AR vite_2mm5
+Op 0 0 0
+T0 0 3.81 1.524 1.524 0 0.3048 N I 21 N "vite_2mm5"
+T1 0 -3.81 1.524 1.524 0 0.3048 N I 21 N "VAL**"
+DC 0 0 -3.50012 0 0.254 21
+$PAD
+Sh "1" C 5.08 5.08 0 0 0
+Dr 2.99974 0 0
+At STD N 00F0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "walter/details/vite_2mm5.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE vite_2mm5
+$EndLIBRARY

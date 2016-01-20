@@ -1,0 +1,220 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC807DS
+D BC807DS
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/BJT/PNP/NXP_BC807DS.pdf
+$ENDCMP
+#
+$CMP FDC6305N
+D FDC6305N
+$ENDCMP
+#
+$CMP FET_N
+D N channel JFET, generic footprint
+$ENDCMP
+#
+$CMP FET_N_DGS
+D N channel JFET, DGS footprint
+$ENDCMP
+#
+$CMP FET_N_DSG
+D N channel JFET, DSG footprint
+$ENDCMP
+#
+$CMP FET_N_GDS
+D N channel JFET, GSD footprint
+$ENDCMP
+#
+$CMP FET_N_GSD
+D N channel JFET, GSD footprint
+$ENDCMP
+#
+$CMP FET_N_SDG
+D N channel JFET, SDG footprint
+$ENDCMP
+#
+$CMP FET_N_SGD
+D N channel JFET, SGD footprint
+$ENDCMP
+#
+$CMP FET_P
+D P channel JFET, generic footprint
+$ENDCMP
+#
+$CMP FET_P_DGS
+D P channel JFET, DGS footprint
+$ENDCMP
+#
+$CMP FET_P_DSG
+D P channel JFET, DSG footprint
+$ENDCMP
+#
+$CMP FET_P_GDS
+D P channel JFET, GDS footprint
+$ENDCMP
+#
+$CMP FET_P_GSD
+D P channel JFET, GSD footprint
+$ENDCMP
+#
+$CMP FET_P_SDG
+D P channel JFET, SDG footprint
+$ENDCMP
+#
+$CMP FET_P_SGD
+D P channel JFET, SGD footprint
+$ENDCMP
+#
+$CMP MOS_N
+D N channel MOSFET, generic footprint
+$ENDCMP
+#
+$CMP MOS_N_DGS
+D N channel MOSFET, DGS footprint
+$ENDCMP
+#
+$CMP MOS_N_DSG
+D N channel MOSFET, DSG footprint
+$ENDCMP
+#
+$CMP MOS_N_GDS
+D N channel MOSFET, GDS footprint
+$ENDCMP
+#
+$CMP MOS_N_GSD
+D N channel MOSFET, GSD footprint
+$ENDCMP
+#
+$CMP MOS_N_SDG
+D N channel MOSFET, SDG footprint
+$ENDCMP
+#
+$CMP MOS_N_SGD
+D N channel MOSFET, SGD footprint
+$ENDCMP
+#
+$CMP MOS_P
+D P channel MOSFET, generic footprint
+$ENDCMP
+#
+$CMP MOS_P_DGS
+D P channel MOSFET, DGS footprint
+$ENDCMP
+#
+$CMP MOS_P_DSG
+D P channel MOSFET, DSG footprint
+$ENDCMP
+#
+$CMP MOS_P_GDS
+D P channel MOSFET, GDS footprint
+$ENDCMP
+#
+$CMP MOS_P_GSD
+D P channel MOSFET, GSD footprint
+$ENDCMP
+#
+$CMP MOS_P_SDG
+D P channel MOSFET, SDG footprint
+$ENDCMP
+#
+$CMP MOS_P_SGD
+D P channel MOSFET, SGD footprint
+$ENDCMP
+#
+$CMP NPN
+D BJT NPN, generic footprint
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/BJT/NPN/*.*
+$ENDCMP
+#
+$CMP NPN_BCE
+D BJT NPN, BCE footprint
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/BJT/NPN/*.*
+$ENDCMP
+#
+$CMP NPN_BEC
+D BJT NPN, BEC footprint
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/BJT/NPN/*.*
+$ENDCMP
+#
+$CMP NPN_CBE
+D BJT NPN, CBE footprint
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/BJT/NPN/*.*
+$ENDCMP
+#
+$CMP NPN_CEB
+D BJT NPN, CEB footprint
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/BJT/NPN/*.*
+$ENDCMP
+#
+$CMP NPN_EBC
+D BJT NPN, EBC footprint
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/BJT/NPN/*.*
+$ENDCMP
+#
+$CMP NPN_ECB
+D BJT NPN, ECB footprint
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/BJT/NPN/*.*
+$ENDCMP
+#
+$CMP NTMFS5832NL
+D Power MOSFET, 40V 111A, DFN5
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/MOS/N-channel/ON_NTMFS5832NL.pdf
+$ENDCMP
+#
+$CMP PNP
+D BJT PNP, generic footprint
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/BJT/PNP/*.*
+$ENDCMP
+#
+$CMP PNP_BCE
+D BJT PNP, BCE footprint
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/BJT/PNP/*.*
+$ENDCMP
+#
+$CMP PNP_BEC
+D BJT PNP, BEC footprint
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/BJT/PNP/*.*
+$ENDCMP
+#
+$CMP PNP_CBE
+D BJT PNP, CBE footprint
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/BJT/PNP/*.*
+$ENDCMP
+#
+$CMP PNP_CEB
+D BJT PNP, CEB footprint
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/BJT/PNP/*.*
+$ENDCMP
+#
+$CMP PNP_EBC
+D BJT PNP, EBC footprint
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/BJT/PNP/*.*
+$ENDCMP
+#
+$CMP PNP_ECB
+D BJT PNP, ECB footprint
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/BJT/PNP/*.*
+$ENDCMP
+#
+$CMP SCR
+D SCR
+K SCR
+$ENDCMP
+#
+$CMP SI3440DV
+D Si3440DV N channel 150V MOSFET
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/MOS/N-channel/VSH_SI3440DV.pdf
+$ENDCMP
+#
+$CMP SI4401BD
+D Si4401BD P channel 40V MOSFET
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Discreti/Transistor/MOS/P-channel/VSH_SI4401BD.pdf
+$ENDCMP
+#
+$CMP TRIAC_BTA
+D TRIAC, BTA series pinout
+K TRIAC
+F /home/walter/Documents/Elettronica/DATA_SHEET/Elettronici/Discreti/Triac/ST_BTA24.pdf
+$ENDCMP
+#
+#End Doc Library

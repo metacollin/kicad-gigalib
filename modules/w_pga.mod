@@ -1,0 +1,978 @@
+PCBNEW-LibModule-V1  dom 27 ott 2013 15:26:55 CET
+# encoding utf-8
+Units mm
+$INDEX
+cpga-132
+$EndINDEX
+$MODULE cpga-132
+Po 0 0 0 15 526D22AB 00000000 ~~
+Li cpga-132
+Cd Ceramic PGA, 132 pins
+Sc 0
+AR 
+Op 0 0 0
+.LocalClearance 0.2
+T0 0 -2.54 1 1 0 0.15 N V 21 N "CPGA-132"
+T1 0 2.54 1 1 0 0.15 N V 21 N "VAL**"
+DS -15.2 18.8 -14.4 18 0.3 21
+DS -18.8 15.2 -18 14.4 0.3 21
+DS -15.2 18.8 -18.8 18.8 0.3 21
+DS -18.8 18.8 -18.8 15.2 0.3 21
+DS -15 18.6 -18.6 18.6 0.3 21
+DS -18.6 18.6 -18.6 15 0.3 21
+DS -18.4 14.8 -18.4 18.4 0.3 21
+DS -18.4 18.4 -14.8 18.4 0.3 21
+DS -18.2 18.2 -18.2 14.6 0.3 21
+DS -18.2 18.2 -14.6 18.2 0.3 21
+DC -16.5 16.5 -17.4 16.9 0.3 21
+DA 9 9 10 9 900 0.3 21
+DA -9 9 -9 10 900 0.3 21
+DA 9 -9 9 -10 900 0.3 21
+DA -9 -9 -10 -9 900 0.3 21
+DS -10 -9 -10 9 0.3 21
+DS -9 10 9 10 0.3 21
+DS 10 -9 10 9 0.3 21
+DS -9 -10 9 -10 0.3 21
+DS -18 -18 18 -18 0.3 21
+DS 18 -18 18 18 0.3 21
+DS 18 18 -18 18 0.3 21
+DS -18 18 -18 -18 0.3 21
+$PAD
+Sh "A1" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 16.51
+$EndPAD
+$PAD
+Sh "A2" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 16.51
+$EndPAD
+$PAD
+Sh "A3" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 16.51
+$EndPAD
+$PAD
+Sh "A4" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 16.51
+$EndPAD
+$PAD
+Sh "A5" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 16.51
+$EndPAD
+$PAD
+Sh "A6" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 16.51
+$EndPAD
+$PAD
+Sh "A7" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 16.51
+$EndPAD
+$PAD
+Sh "A8" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 16.51
+$EndPAD
+$PAD
+Sh "A9" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 16.51
+$EndPAD
+$PAD
+Sh "A10" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 16.51
+$EndPAD
+$PAD
+Sh "A11" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 16.51
+$EndPAD
+$PAD
+Sh "A12" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 16.51
+$EndPAD
+$PAD
+Sh "A13" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 16.51
+$EndPAD
+$PAD
+Sh "A14" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 16.51
+$EndPAD
+$PAD
+Sh "B1" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 13.97
+$EndPAD
+$PAD
+Sh "B2" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 13.97
+$EndPAD
+$PAD
+Sh "B3" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 13.97
+$EndPAD
+$PAD
+Sh "B4" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 13.97
+$EndPAD
+$PAD
+Sh "B5" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 13.97
+$EndPAD
+$PAD
+Sh "B6" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 13.97
+$EndPAD
+$PAD
+Sh "B7" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 13.97
+$EndPAD
+$PAD
+Sh "B8" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 13.97
+$EndPAD
+$PAD
+Sh "B9" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 13.97
+$EndPAD
+$PAD
+Sh "B10" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 13.97
+$EndPAD
+$PAD
+Sh "B11" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 13.97
+$EndPAD
+$PAD
+Sh "B12" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 13.97
+$EndPAD
+$PAD
+Sh "B13" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 13.97
+$EndPAD
+$PAD
+Sh "B14" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 13.97
+$EndPAD
+$PAD
+Sh "C1" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 11.43
+$EndPAD
+$PAD
+Sh "C2" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 11.43
+$EndPAD
+$PAD
+Sh "C3" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 11.43
+$EndPAD
+$PAD
+Sh "C4" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 11.43
+$EndPAD
+$PAD
+Sh "C5" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 11.43
+$EndPAD
+$PAD
+Sh "C6" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 11.43
+$EndPAD
+$PAD
+Sh "C7" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 11.43
+$EndPAD
+$PAD
+Sh "C8" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 11.43
+$EndPAD
+$PAD
+Sh "C9" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 11.43
+$EndPAD
+$PAD
+Sh "C10" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 11.43
+$EndPAD
+$PAD
+Sh "C11" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 11.43
+$EndPAD
+$PAD
+Sh "C12" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 11.43
+$EndPAD
+$PAD
+Sh "C13" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 11.43
+$EndPAD
+$PAD
+Sh "C14" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 11.43
+$EndPAD
+$PAD
+Sh "D1" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 8.89
+$EndPAD
+$PAD
+Sh "D2" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 8.89
+$EndPAD
+$PAD
+Sh "D3" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 8.89
+$EndPAD
+$PAD
+Sh "D4" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 8.89
+$EndPAD
+$PAD
+Sh "D12" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 8.89
+$EndPAD
+$PAD
+Sh "D13" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 8.89
+$EndPAD
+$PAD
+Sh "D14" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 8.89
+$EndPAD
+$PAD
+Sh "E1" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 6.35
+$EndPAD
+$PAD
+Sh "E2" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 6.35
+$EndPAD
+$PAD
+Sh "E3" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 6.35
+$EndPAD
+$PAD
+Sh "E12" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 6.35
+$EndPAD
+$PAD
+Sh "E13" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 6.35
+$EndPAD
+$PAD
+Sh "E14" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 6.35
+$EndPAD
+$PAD
+Sh "F1" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 3.81
+$EndPAD
+$PAD
+Sh "F2" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 3.81
+$EndPAD
+$PAD
+Sh "F3" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 3.81
+$EndPAD
+$PAD
+Sh "F12" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 3.81
+$EndPAD
+$PAD
+Sh "F13" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 3.81
+$EndPAD
+$PAD
+Sh "F14" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 3.81
+$EndPAD
+$PAD
+Sh "G1" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 1.27
+$EndPAD
+$PAD
+Sh "G2" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 1.27
+$EndPAD
+$PAD
+Sh "G3" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 1.27
+$EndPAD
+$PAD
+Sh "G12" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 1.27
+$EndPAD
+$PAD
+Sh "G13" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 1.27
+$EndPAD
+$PAD
+Sh "G14" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 1.27
+$EndPAD
+$PAD
+Sh "H1" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 -1.27
+$EndPAD
+$PAD
+Sh "H2" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 -1.27
+$EndPAD
+$PAD
+Sh "H3" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 -1.27
+$EndPAD
+$PAD
+Sh "H12" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 -1.27
+$EndPAD
+$PAD
+Sh "H13" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 -1.27
+$EndPAD
+$PAD
+Sh "H14" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 -1.27
+$EndPAD
+$PAD
+Sh "J1" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 -3.81
+$EndPAD
+$PAD
+Sh "J2" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 -3.81
+$EndPAD
+$PAD
+Sh "J3" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 -3.81
+$EndPAD
+$PAD
+Sh "J12" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 -3.81
+$EndPAD
+$PAD
+Sh "J13" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 -3.81
+$EndPAD
+$PAD
+Sh "J14" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 -3.81
+$EndPAD
+$PAD
+Sh "K1" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 -6.35
+$EndPAD
+$PAD
+Sh "K2" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 -6.35
+$EndPAD
+$PAD
+Sh "K3" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 -6.35
+$EndPAD
+$PAD
+Sh "K12" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 -6.35
+$EndPAD
+$PAD
+Sh "K13" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 -6.35
+$EndPAD
+$PAD
+Sh "K14" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 -6.35
+$EndPAD
+$PAD
+Sh "L1" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 -8.89
+$EndPAD
+$PAD
+Sh "M1" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 -11.43
+$EndPAD
+$PAD
+Sh "N1" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 -13.97
+$EndPAD
+$PAD
+Sh "P1" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 -16.51
+$EndPAD
+$PAD
+Sh "M2" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 -11.43
+$EndPAD
+$PAD
+Sh "M3" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 -11.43
+$EndPAD
+$PAD
+Sh "M4" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 -11.43
+$EndPAD
+$PAD
+Sh "M5" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 -11.43
+$EndPAD
+$PAD
+Sh "M6" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 -11.43
+$EndPAD
+$PAD
+Sh "M7" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 -11.43
+$EndPAD
+$PAD
+Sh "M8" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 -11.43
+$EndPAD
+$PAD
+Sh "M9" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -11.43
+$EndPAD
+$PAD
+Sh "M10" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -11.43
+$EndPAD
+$PAD
+Sh "M11" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -11.43
+$EndPAD
+$PAD
+Sh "M12" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 -11.43
+$EndPAD
+$PAD
+Sh "M13" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 -11.43
+$EndPAD
+$PAD
+Sh "M14" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 -11.43
+$EndPAD
+$PAD
+Sh "N2" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 -13.97
+$EndPAD
+$PAD
+Sh "N3" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 -13.97
+$EndPAD
+$PAD
+Sh "N4" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 -13.97
+$EndPAD
+$PAD
+Sh "N5" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 -13.97
+$EndPAD
+$PAD
+Sh "N6" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 -13.97
+$EndPAD
+$PAD
+Sh "N7" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 -13.97
+$EndPAD
+$PAD
+Sh "N8" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 -13.97
+$EndPAD
+$PAD
+Sh "N9" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -13.97
+$EndPAD
+$PAD
+Sh "N10" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -13.97
+$EndPAD
+$PAD
+Sh "N11" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -13.97
+$EndPAD
+$PAD
+Sh "N12" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 -13.97
+$EndPAD
+$PAD
+Sh "N13" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 -13.97
+$EndPAD
+$PAD
+Sh "N14" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 -13.97
+$EndPAD
+$PAD
+Sh "P2" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 -16.51
+$EndPAD
+$PAD
+Sh "P3" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 -16.51
+$EndPAD
+$PAD
+Sh "P4" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 -16.51
+$EndPAD
+$PAD
+Sh "P5" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 -16.51
+$EndPAD
+$PAD
+Sh "P6" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 -16.51
+$EndPAD
+$PAD
+Sh "P7" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 -16.51
+$EndPAD
+$PAD
+Sh "P8" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 -16.51
+$EndPAD
+$PAD
+Sh "P9" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -16.51
+$EndPAD
+$PAD
+Sh "P10" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -16.51
+$EndPAD
+$PAD
+Sh "P11" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -16.51
+$EndPAD
+$PAD
+Sh "P12" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 -16.51
+$EndPAD
+$PAD
+Sh "P13" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 -16.51
+$EndPAD
+$PAD
+Sh "P14" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 -16.51
+$EndPAD
+$PAD
+Sh "L2" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 -8.89
+$EndPAD
+$PAD
+Sh "L3" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 -8.89
+$EndPAD
+$PAD
+Sh "L12" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 -8.89
+$EndPAD
+$PAD
+Sh "L13" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 -8.89
+$EndPAD
+$PAD
+Sh "L14" C 1.5 1.5 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 -8.89
+$EndPAD
+$SHAPE3D
+Na "walter/pga/cpga132.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE cpga-132
+$EndLIBRARY
