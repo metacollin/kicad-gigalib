@@ -15,3 +15,5 @@ git remote add walter git://smisioto.eu/kicad_libs.git
 git remote remove kicad-lib
 echo Added: kicad-lib
 git remote add kicad-lib https://github.com/KiCad/kicad-library.git  
+
+git merge walter/master --message "Merging Walter"
