@@ -1,0 +1,1 @@
+# Connectors_TE-Connectivity.pretty
